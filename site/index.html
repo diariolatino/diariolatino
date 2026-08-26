@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Diário Latino</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,900;1,600&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="topbar">
+  <div class="wrap">
+    <span class="edicao">Rio de Janeiro · Quarta-feira, 26 de agosto de 2026 · Ano I — Nº 001</span>
+  </div>
+</div>
+
+<header class="masthead">
+  <div class="kicker">América Latina · Brics · Sul Global</div>
+  <h1>Diário Latino</h1>
+  <div class="tagline">Notícias e geopolítica sob a perspectiva do Sul</div>
+</header>
+
+<nav class="categorias">
+  <ul>
+    <li><a href="#">América do Sul</a></li>
+    <li><a href="#">Brics</a></li>
+    <li><a href="#">Mercosul &amp; UE</a></li>
+    <li><a href="#">CPLP</a></li>
+    <li><a href="#">G20 &amp; IBAS</a></li>
+    <li><a href="#">Economia Global</a></li>
+    <li><a href="#">Ciência &amp; Ambiente</a></li>
+  </ul>
+</nav>
+
+<main class="wrap">
+
+<main class="wrap" id="conteudo-principal">
+  <p id="estado-vazio" style="display:none; padding:40px 0; text-align:center; color:#6f6f66; font-style:italic;">
+    Ainda não há notícias publicadas. O pipeline roda a cada hora — volte em breve.
+  </p>
+
+  <section class="destaque" id="secao-destaque" style="display:none;">
+    <div>
+      <span class="selo" id="destaque-categoria"></span>
+      <figure id="destaque-figura"></figure>
+      <h2 id="destaque-titulo"></h2>
+      <p class="lead" id="destaque-lead"></p>
+      <div class="meta">
+        <span>Redação Diário Latino</span>
+        <span id="destaque-data"></span>
+        <span class="selo-ia-inline" id="destaque-fontes"></span>
+      </div>
+    </div>
+    <aside class="lateral-ultimas">
+      <h3>Últimas</h3>
+      <div id="lista-ultimas"></div>
+    </aside>
+  </section>
+
+  <section class="grade" id="secao-grade"></section>
+
+  <section class="radar" id="secao-radar" style="display:none;">
+    <h3>Mais notícias</h3>
+    <div class="radar-lista" id="radar-lista"></div>
+  </section>
+
+</main>
+
+<script>
+const SELO_IA_TEXTO = "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas";
+
+function formatarData(iso) {
+  if (!iso) return "";
+  const diff = (Date.now() - new Date(iso).getTime()) / 60000; // minutos
+  if (diff < 60) return `há ${Math.max(1, Math.round(diff))} min`;
+  if (diff < 1440) return `há ${Math.round(diff / 60)}h`;
+  return new Date(iso).toLocaleDateString('pt-BR');
+}
+
+function figuraImagem(imagem) {
+  if (!imagem) return "";
+  return `<img src="${imagem.url}" alt="">
+    <figcaption class="credito-foto">Foto: <a href="${imagem.photographer_url}" target="_blank" rel="noopener">${imagem.photographer}</a> / <a href="${imagem.pexels_url}" target="_blank" rel="noopener">Pexels</a></figcaption>`;
+}
+
+function linkMateria(artigo) {
+  return `artigo.html?id=${encodeURIComponent(artigo.id)}`;
+}
+
+async function renderizarHome() {
+  let artigos = [];
+  try {
+    const resp = await fetch('data/articles.json', { cache: 'no-store' });
+    if (resp.ok) artigos = await resp.json();
+  } catch (e) {
+    console.error('Falha ao carregar articles.json', e);
+  }
+
+  if (!artigos.length) {
+    document.getElementById('estado-vazio').style.display = 'block';
+    return;
+  }
+
+  const [principal, ...resto] = artigos;
+
+  document.getElementById('secao-destaque').style.display = 'grid';
+  document.getElementById('destaque-categoria').textContent = principal.categoria;
+  document.getElementById('destaque-figura').innerHTML = figuraImagem(principal.imagem);
+  document.getElementById('destaque-titulo').innerHTML = `<a href="${linkMateria(principal)}">${principal.titulo}</a>`;
+  document.getElementById('destaque-lead').textContent = principal.lead;
+  document.getElementById('destaque-data').textContent = formatarData(principal.publicado_em);
+  document.getElementById('destaque-fontes').textContent = `Fontes: ${principal.fontes.join(' · ')}`;
+
+  const ultimas = resto.slice(0, 4);
+  document.getElementById('lista-ultimas').innerHTML = ultimas.map(a => `
+    <div class="item-ultima">
+      <span class="selo">${a.categoria}</span>
+      <h4><a href="${linkMateria(a)}">${a.titulo}</a></h4>
+      <div class="hora">${formatarData(a.publicado_em)}</div>
+    </div>`).join('');
+
+  const grade = resto.slice(4, 7);
+  document.getElementById('secao-grade').innerHTML = grade.map(a => `
+    <article class="coluna">
+      <span class="selo">${a.categoria}</span>
+      ${a.imagem ? `<img src="${a.imagem.url}" alt="">` : ''}
+      <h3><a href="${linkMateria(a)}">${a.titulo}</a></h3>
+      <p class="dek">${a.lead}</p>
+      <div class="meta"><span>${formatarData(a.publicado_em)}</span></div>
+    </article>`).join('');
+
+  const maisNoticias = resto.slice(7);
+  if (maisNoticias.length) {
+    document.getElementById('secao-radar').style.display = 'block';
+    document.getElementById('radar-lista').innerHTML = maisNoticias.map(a => `
+      <div class="radar-item"><span class="pais">${a.categoria}</span><a href="${linkMateria(a)}">${a.titulo}</a></div>`).join('');
+  }
+}
+
+renderizarHome();
+</script>
+
+<footer>
+  <div class="wrap">
+    <div class="grid-footer">
+      <div>
+        <h5>Diário Latino</h5>
+        <p>Portal de notícias independente com curadoria geopolítica sob a perspectiva brasileira — América Latina, Sul Global, Brics e relações internacionais.</p>
+      </div>
+      <div>
+        <ul>
+          <h6>Seções</h6>
+          <li>América do Sul</li>
+          <li>Brics</li>
+          <li>Mercosul &amp; UE</li>
+          <li>CPLP</li>
+          <li>G20 &amp; Ibas</li>
+        </ul>
+      </div>
+      <div>
+        <ul>
+          <h6>Transparência</h6>
+          <li>Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas</li>
+          <li>Fontes: Agência Brasil, GDELT, comunicados oficiais de governos da América Latina</li>
+          <li>Referência linguística: ASALE (Associação de Academias da Língua Espanhola)</li>
+          <li>Imagens: Pexels, com crédito ao fotógrafo em cada matéria</li>
+        </ul>
+      </div>
+    </div>
+    <div class="baixo">
+      <span>© 2026 Diário Latino</span>
+      <span>diariolatino.com.br</span>
+      <span>Desenvolvido por <a href="https://hefezzia.com.br" style="border-bottom:1px dotted rgba(244,243,239,0.6);">Hefezzia</a></span>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
