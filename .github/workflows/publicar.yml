@@ -1,0 +1,39 @@
+name: Publicar notícias Diário Latino
+
+on:
+  workflow_dispatch: {}        # permite rodar manualmente pelo botão "Run workflow"
+  schedule:
+    - cron: "0 * * * *"        # roda automaticamente a cada hora cheia (UTC)
+
+permissions:
+  contents: write              # necessário pra o job poder commitar o articles.json de volta
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Rodar pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          USAR_EMBEDDING_CHECK: "false"
+        run: python -m pipeline.main
+
+      - name: Commitar novas notícias no repositório
+        run: |
+          git config user.name "diariolatino-bot"
+          git config user.email "bot@diariolatino.local"
+          git add site/data/*.json
+          git diff --cached --quiet || git commit -m "Atualiza notícias [automático]"
+          git push
