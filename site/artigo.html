@@ -4,6 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title id="titulo-aba">Diário Latino</title>
+<link rel="icon" type="image/x-icon" href="diariolatino-logo-redondo.ico">
+<link rel="apple-touch-icon" href="diariolatino-logo.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,900;1,600&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
@@ -44,7 +46,12 @@
 
 <header class="masthead">
   <div class="kicker">América Latina · Brics · Sul Global</div>
-  <h1 style="font-size:38px;"><a href="index.html" style="color:inherit;">Diário Latino</a></h1>
+  <h1 style="font-size:38px;">
+    <a href="index.html" style="color:inherit; display:inline-flex; align-items:center; gap:12px; justify-content:center;">
+      <img src="diariolatino-logo.png" alt="" style="height:44px; width:auto;">
+      Diário Latino
+    </a>
+  </h1>
 </header>
 
 <main class="wrap materia" id="materia">
@@ -54,7 +61,7 @@
 <footer>
   <div class="wrap">
     <div class="baixo">
-      <span>© 2026 Diário Latino</span>
+      <span>© <span id="ano-copyright">2026</span> Diário Latino</span>
       <span>diariolatino.com.br</span>
       <span>Desenvolvido por <a href="https://hefezzia.com.br" style="border-bottom:1px dotted rgba(244,243,239,0.6);">Hefezzia</a></span>
     </div>
@@ -103,6 +110,7 @@ async function renderizarMateria() {
 }
 
 renderizarMateria();
+document.getElementById('ano-copyright').textContent = new Date().getFullYear();
 </script>
 
 </body>
