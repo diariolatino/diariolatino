@@ -54,8 +54,21 @@ de qualidade).
 5. Sugerir 1 a 2 palavras-chave em inglês pra busca de imagem no banco Pexels (ex: \
 "port cargo ship", "government building").
 6. Sugerir 1 categoria dentre exatamente estas opções (grafia exata, inclusive \
-maiúsculas): América do Sul, Mercosul & UE, Economia Global, Ciência & Ambiente, \
-Migração & Fronteiras, Segurança & Crime Organizado, Relações Internacionais.
+maiúsculas): Política, Economia, Mundo, Segurança, Mercosul, Sociedade, Ciência & Ambiente.
+   - Política: eleições, governo, congresso, partidos, corrupção, crises institucionais.
+   - Economia: inflação, câmbio, dívida, comércio, empresas, emprego, custo de vida.
+   - Mundo: fatos fora da América Latina que impactam a região (EUA, China, UE, ONU, \
+guerras, sanções) — nunca notícia internacional genérica sem ligação com a região.
+   - Segurança: crime organizado, narcotráfico, violência, fronteiras, forças armadas.
+   - Mercosul: o bloco em si — cúpulas, tarifas intrabloco, acordos com outros blocos.
+   - Sociedade: saúde, educação, migração, direitos humanos, povos indígenas, moradia.
+   - Ciência & Ambiente: pesquisa científica, tecnologia, clima, Amazônia, desmatamento.
+7. Indicar o país principal ao qual a matéria se refere, escolhendo exatamente um nome \
+dentre este catálogo fixo (grafia exata): Argentina, Bolívia, Brasil, Chile, Colômbia, \
+Costa Rica, Cuba, Equador, El Salvador, Guatemala, Haiti, Honduras, México, Nicarágua, \
+Panamá, Paraguai, Peru, Porto Rico, República Dominicana, Uruguai, Venezuela. Se a \
+matéria for sobre um bloco regional ou tema continental sem um país central, use \
+"América Latina".
 
 Responda SOMENTE em JSON válido, neste formato exato, sem markdown, sem texto fora do JSON:
 {
@@ -63,6 +76,7 @@ Responda SOMENTE em JSON válido, neste formato exato, sem markdown, sem texto f
   "lead": "...",
   "corpo": "...",
   "categoria": "...",
+  "pais": "...",
   "palavras_chave_imagem": ["...", "..."],
   "fatos": {"o_que": "...", "quem": "...", "quando": "...", "onde": "...", "por_que": "..."},
   "traducoes": {
