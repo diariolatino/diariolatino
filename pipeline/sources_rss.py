@@ -13,6 +13,11 @@ from datetime import datetime, timezone
 from . import config
 
 
+def item_permite_reproducao(entrada):
+    creditos = (entrada.get("dc_creator") or entrada.get("author") or "").lower()
+    return not any(bloqueado in creditos for bloqueado in config.CREDITOS_BLOQUEADOS)
+
+
 def coletar_agencia_brasil():
     candidatos = []
     for feed_url in config.AGENCIA_BRASIL_FEEDS:
@@ -23,6 +28,9 @@ def coletar_agencia_brasil():
             continue
 
         for entrada in feed.entries:
+            if not item_permite_reproducao(entrada):
+                continue  # ex: crédito Reuters — "proibida a reprodução"
+
             candidatos.append({
                 "id": f"agenciabrasil::{entrada.get('link')}",
                 "fonte": "Agência Brasil",
@@ -32,7 +40,7 @@ def coletar_agencia_brasil():
                 "url_original": entrada.get("link"),
                 "data": entrada.get("published", ""),
                 "coletado_em": datetime.now(timezone.utc).isoformat(),
-                "tipo": "conteudo",  # pode virar insumo real, com crédito
+                "tipo": "conteudo",
             })
     return candidatos
 
