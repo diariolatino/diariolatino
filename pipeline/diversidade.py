@@ -34,7 +34,7 @@ CATEGORIAS_PALAVRAS_CHAVE = {
         "crime organizado", "crimen organizado", "narcotráfico", "narcotrafico",
         "facção", "violência", "homicídio", "segurança pública", "tráfico de armas",
     ],
-    "Diplomacia & Relações Internacionais": [
+    "Relações Internacionais": [
         "itamaraty", "embaixador", "embajador", "relações bilaterais",
         "relaciones bilaterales", "relações internacionais", "relaciones internacionales",
         "cúpula", "cumbre", "sanções", "sanciones", "onu", "casa branca", "chanceler", "canciller",
