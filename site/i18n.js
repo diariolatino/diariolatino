@@ -37,6 +37,7 @@ const I18N = {
     footerReferencia: "Referência linguística: ASALE (Associação de Academias da Língua Espanhola)",
     footerImagens: "Imagens: Pexels, com crédito ao fotógrafo em cada matéria",
     footerDev: "Desenvolvido por",
+    notaIlustrativa: "Imagem meramente ilustrativa.",
     categorias: {
       "América do Sul": "América do Sul",
       "Brics": "Brics",
@@ -77,6 +78,7 @@ const I18N = {
     footerReferencia: "Referencia lingüística: ASALE (Asociación de Academias de la Lengua Española)",
     footerImagens: "Imágenes: Pexels, con crédito al fotógrafo en cada noticia",
     footerDev: "Desarrollado por",
+    notaIlustrativa: "Imagen meramente ilustrativa.",
     categorias: {
       "América do Sul": "América del Sur",
       "Brics": "Brics",
@@ -117,6 +119,7 @@ const I18N = {
     footerReferencia: "Language reference: ASALE (Association of Academies of the Spanish Language)",
     footerImagens: "Images: Pexels, with photographer credit on every story",
     footerDev: "Built by",
+    notaIlustrativa: "Image for illustrative purposes only.",
     categorias: {
       "América do Sul": "South America",
       "Brics": "Brics",
