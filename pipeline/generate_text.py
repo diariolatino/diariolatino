@@ -28,14 +28,11 @@ from . import config
 LIST_MODELS_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models"
 GENERATE_ENDPOINT_TEMPLATE = "https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
 
-# depois de descoberto, reaproveita o modelo por até este tempo antes de
-# considerar redescobrir do zero — evita gastar chamadas à API só pra
-# confirmar algo que provavelmente ainda está de pé.
 CACHE_VALIDADE_SEGUNDOS = 24 * 60 * 60  # 1 dia
 
 PROMPT_SISTEMA = """Você é o redator do Diário Latino, portal de notícias que cobre \
 toda a América Latina, com curadoria geopolítica focada em América Latina, Brics, \
-Mercosul, CPLP, G20 e Sul Global.
+Mercosul, G20 e Sul Global.
 
 Você recebe apenas um TÍTULO e, quando disponível, um RESUMO curto vindos de uma fonte \
 de metadados. Você NUNCA recebe o texto integral de terceiros.
@@ -57,8 +54,8 @@ de qualidade).
 5. Sugerir 1 a 2 palavras-chave em inglês pra busca de imagem no banco Pexels (ex: \
 "port cargo ship", "government building").
 6. Sugerir 1 categoria dentre exatamente estas opções (grafia exata, inclusive \
-maiúsculas): América do Sul, Brics, Mercosul & UE, CPLP, G20 & IBAS, \
-Economia Global, Ciência & Ambiente.
+maiúsculas): América do Sul, Mercosul & UE, Economia Global, Ciência & Ambiente, \
+Migração & Fronteiras, Segurança & Crime Organizado, Diplomacia & Relações Internacionais.
 
 Responda SOMENTE em JSON válido, neste formato exato, sem markdown, sem texto fora do JSON:
 {
@@ -93,11 +90,6 @@ def _salvar_cache(nome_modelo: str):
 
 
 def _pontuar_modelo(nome_completo: str) -> int:
-    """Pontua um modelo pra escolher o melhor disponível sem precisar saber
-    o nome de antemão. Descarta o que claramente não serve pra gerar texto
-    (embedding, imagem, áudio etc), prioriza modelos 'flash' (tendem a ter
-    cota gratuita mais generosa) e, entre os elegíveis, prefere a geração
-    numérica mais recente."""
     nome = nome_completo.lower()
 
     bloqueado = [
@@ -113,12 +105,12 @@ def _pontuar_modelo(nome_completo: str) -> int:
     elif "pro" in nome:
         pontos += 30
     else:
-        pontos += 10  # ainda tenta, só fica atrás de flash/pro
+        pontos += 10
 
     if "lite" in nome:
         pontos -= 5
     if "exp" in nome or "preview" in nome or "thinking" in nome:
-        pontos -= 10  # prefere estável; ainda serve como opção de reserva
+        pontos -= 10
 
     numeros = re.findall(r"(\d+)(?:\.(\d+))?", nome)
     if numeros:
@@ -167,10 +159,6 @@ def _chamar_generate_content(nome_modelo: str, corpo_requisicao: dict) -> dict:
 
 
 def _obter_resposta_gemini(corpo_requisicao: dict) -> dict:
-    """Tenta o modelo salvo em cache primeiro; se ele falhar (aposentado,
-    renomeado, indisponível) ou o cache estiver velho, redescobre a lista
-    de modelos válidos hoje e vai tentando cada um, do melhor pro pior,
-    até um funcionar — e atualiza o cache com o vencedor."""
     cache = _carregar_cache()
     if cache and (time.time() - cache.get("descoberto_em", 0)) < CACHE_VALIDADE_SEGUNDOS:
         try:
