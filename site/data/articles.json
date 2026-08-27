@@ -1,5 +1,98 @@
 [
   {
+    "id": "7fe7ea23-3523-409c-9a59-b85905d0bce4",
+    "titulo": "Brasil e Estados Unidos retomam negociações comerciais após diálogo entre Lula e Trump",
+    "lead": "Representantes dos governos brasileiro e norte-americano se reunirão na próxima semana para reabrir tratativas comerciais, após conversa telefônica entre os presidentes Luiz Inácio Lula da Silva e Donald Trump.",
+    "corpo": "O Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic) e o Ministério das Relações Exteriores (MRE) confirmaram que o secretário-executivo Márcio Elias Rosa e diplomatas brasileiros deverão se reunir nos próximos dias com o Escritório do Representante Comercial dos Estados Unidos (USTR). A iniciativa ocorre na sequência de um telefonema de pouco mais de uma hora realizado entre o presidente Luiz Inácio Lula da Silva e o presidente dos Estados Unidos, Donald Trump. Durante a ligação, Lula qualificou como infundadas as alegações norte-americanas que fundamentaram a imposição de tarifas sobre produtos brasileiros e argumentou que as medidas prejudicam as economias de ambos os países. A conversa também abrangeu temas de segurança regional, cooperação no combate ao crime organizado e conflitos internacionais, como as guerras na Ucrânia e no Oriente Médio. Segundo o governo brasileiro, a receptividade mútua de manter os vínculos comerciais abriu um canal diplomático para buscar uma solução negociada para o atual impasse tarifário.",
+    "categoria": "Economia Global",
+    "publicado_em": "2026-08-27T02:55:39.309746+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/ministros-do-brasil-e-eua-vao-retomar-negociacao-comercial",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/8939052/pexels-photo-8939052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Mikhail Nilov",
+      "photographer_url": "https://www.pexels.com/@mikhail-nilov",
+      "pexels_url": "https://www.pexels.com/photo/businesspeople-in-a-handshake-8939052/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasil y Estados Unidos retoman negociaciones comerciales tras diálogo entre Lula y Trump",
+        "lead": "Representantes de los gobiernos de Brasil y Estados Unidos se reunirán la próxima semana para reabrir conversaciones comerciales, tras una llamada telefónica entre los presidentes Luiz Inácio Lula da Silva y Donald Trump.",
+        "corpo": "El Ministerio de Desarrollo, Industria, Comercio y Servicios (Mdic) y el Ministerio de Relaciones Exteriores (MRE) confirmaron que el secretario ejecutivo Márcio Elias Rosa y diplomáticos brasileños se reunirán próximamente con la Oficina del Representante Comercial de Estados Unidos (USTR). La iniciativa surge tras una conversación telefónica de poco más de una hora entre el presidente Luiz Inácio Lula da Silva y el mandatario estadounidense, Donald Trump. Durante el diálogo, Lula calificó de infundadas las alegaciones norteamericanas que motivaron la imposición de aranceles a productos brasileños y argumentó que tales medidas perjudican a ambas economías. La conversación también abarcó temas de seguridad regional, cooperación contra el crimen organizado y conflictos internacionales como los de Ucrania y Medio Oriente. De acuerdo con el gobierno brasileño, la disposición mutua de mantener los vínculos comerciales abrió un canal diplomático para buscar una solución negociada al actual diferendo arancelario."
+      },
+      "en": {
+        "titulo": "Brazil and United States to resume trade negotiations following talk between Lula and Trump",
+        "lead": "Representatives from the Brazilian and US governments will meet next week to reopen trade talks following a telephone conversation between Presidents Luiz Inácio Lula da Silva and Donald Trump.",
+        "corpo": "Brazil's Ministry of Development, Industry, Commerce and Services (Mdic) and the Ministry of Foreign Affairs (MRE) confirmed that executive secretary Márcio Elias Rosa and Brazilian diplomats are scheduled to meet in the coming days with the Office of the United States Trade Representative (USTR). The initiative follows a phone call lasting just over an hour between Brazilian President Luiz Inácio Lula da Silva and US President Donald Trump. During the conversation, Lula argued that the US justifications for imposing tariffs on Brazilian goods are unfounded and stated that the measures harm the economies of both nations. The discussion also addressed regional security, cooperation in combating organized crime, and international conflicts such as those in Ukraine and the Middle East. According to the Brazilian government, the mutual willingness to maintain commercial ties has established a diplomatic channel to seek a negotiated solution to the ongoing tariff dispute."
+      }
+    }
+  },
+  {
+    "id": "fdaf941e-2122-401c-8d08-cfbeb4345ab0",
+    "titulo": "Forte terremoto no Japão deixa ao menos dez feridos e causa abalos na região de Tóquio",
+    "lead": "Um tremor de magnitude 5,9 atingiu o Japão na madrugada de domingo (23), com epicentro ao norte de Tóquio, resultando em pelo menos dez feridos, conforme informações da imprensa pública local.",
+    "corpo": "Um sismo de magnitude 5,9 atingiu o Japão na madrugada de domingo (23), deixando ao menos dez pessoas feridas, segundo dados divulgados pela emissora pública NHK e pela Agência de Meteorologia do Japão (JMA). O epicentro do abalo foi localizado na região sul da província de Ibaraki, ao norte da capital japonesa, a uma profundidade estimada de 68 quilômetros.\n\nApesar da intensidade sentida, a Agência de Meteorologia do Japão descartou qualquer risco de tsunami decorrente do tremor. A intensidade do abalo foi classificada como 5 fraco na escala japonesa de 0 a 7 nas províncias de Ibaraki, Saitama, Chiba e na própria capital, Tóquio, onde as ondas sísmicas provocaram oscilações em edifícios de grande altura.\n\nOperadores das usinas nucleares da região, incluindo a usina Tokai No.2, situada em Ibaraki, e a central de Fukushima 1, informaram que não foram constatadas anomalias em suas estruturas após o evento. Os monitoramentos locais indicam que os índices de radiação ao redor das instalações permanecem estáveis e dentro da normalidade.",
+    "categoria": "Ciência & Ambiente",
+    "publicado_em": "2026-08-27T02:55:35.487869+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/japao-e-atingido-por-terremoto-que-deixa-ao-menos-dez-pessoas-feridas",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/30670627/pexels-photo-30670627.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Sheldon Li",
+      "photographer_url": "https://www.pexels.com/@sheldon-li-316473606",
+      "pexels_url": "https://www.pexels.com/photo/tokyo-city-skyline-with-modern-architecture-30670627/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Fuerte terremoto en Japón deja al menos diez heridos y causa sacudidas en la región de Tokio",
+        "lead": "Un sismo de magnitud 5,9 sacudió Japón en la madrugada del domingo (23) con epicentro al norte de Tokio, dejando al menos diez personas heridas, según informó la emisora pública NHK.",
+        "corpo": "Un movimiento telúrico de magnitud 5,9 sacudió Japón durante la madrugada del domingo (23) y dejó al menos diez personas heridas, de acuerdo con los reportes de la organización de medios públicos NHK y la Agencia Meteorológica de Japón (JMA). El epicentro del temblor se situó en el sur de la prefectura de Ibaraki, al norte de la capital japonesa, con una profundidad estimada de 68 kilómetros.\n\nA pesar de la fuerza del fenómeno, la JMA descartó cualquier riesgo de tsunami. La intensidad del sismo alcanzó el nivel 5 débil en la escala japonesa de 0 a 7 en las prefecturas de Ibaraki, Saitama, Chiba y en la capital, Tokio, donde las ondas sísmicas generaron oscilaciones en edificios altos.\n\nPor su parte, los operadores de la central nuclear Tokai No.2, en Ibaraki, y de la planta nuclear Fukushima 1 comunicaron que no se registraron anomalías en sus instalaciones y que los niveles de radiación circundantes se mantuvieron sin alteraciones."
+      },
+      "en": {
+        "titulo": "Strong earthquake in Japan leaves at least ten injured and shakes Tokyo region",
+        "lead": "A magnitude 5.9 earthquake struck Japan early Sunday (23) with its epicenter north of Tokyo, leaving at least ten people injured, according to public broadcaster NHK.",
+        "corpo": "A strong earthquake of magnitude 5.9 hit Japan early Sunday (23), injuring at least ten people, according to data from public media organization NHK and the Japan Meteorological Agency (JMA). The epicenter of the tremor was located in the southern part of Ibaraki prefecture, north of Tokyo, at an estimated depth of 68 kilometers.\n\nDespite the force of the tremor, the JMA confirmed there is no tsunami threat. The shaking reached a lower 5 on the Japanese seismic intensity scale of 0 to 7 in Ibaraki, Saitama, Chiba prefectures, and the capital Tokyo, where the seismic waves caused tall buildings to sway.\n\nOperators of the Tokai No.2 nuclear power plant in Ibaraki prefecture and the Fukushima 1 nuclear plant reported no anomalies at their facilities following the event. Authorities confirmed that radiation levels around the plants remain unchanged and normal."
+      }
+    }
+  },
+  {
+    "id": "c4a3e12f-fb44-40a8-99ef-6728c59b3285",
+    "titulo": "Balanço de terremoto na Indonésia atinge 100 mortos no décimo dia de buscas",
+    "lead": "As equipes de resgate na Indonésia continuam os trabalhos de socorro enquanto o balanço oficial de vítimas fatais do terremoto de magnitude 7,7 alcança 100 nesta segunda-feira (24).",
+    "corpo": "O forte tremor que atingiu a província de Nusa Tenggara Oriental no dia 15 deste mês deixou um total de 100 mortos, após alguns feridos sob cuidados médicos não resistirem aos ferimentos. De acordo com informações divulgadas pelo chefe da Agência de Gestão de Desastres, Suharyanto, em entrevista coletiva, o desastre também resultou em mais de 1.600 feridos.\n\nO sismo provocou danos severos na região, destruindo ou danificando mais de 73 mil moradias e obrigando aproximadamente 180 mil pessoas a deixarem suas residências. O evento sísmico foi acompanhado por milhares de réplicas, complicando o cenário de emergência. As autoridades locais intensificaram a resposta humanitária, utilizando helicópteros, caminhões e motocicletas para entregar suprimentos essenciais às populações afetadas em áreas de difícil acesso.\n\nEste evento marca o sismo mais letal registrado na Indonésia desde 2022, quando um terremoto de magnitude 5,6 atingiu a província de Java Ocidental e causou a morte de centenas de pessoas. Localizada sobre o \"Anel de Fogo do Pacífico\", a Indonésia possui uma população de cerca de 290 milhões de habitantes e está situada em uma zona de intensa atividade sísmica e vulcânica, onde o encontro de placas tectônicas torna frequentes os tremores de terra.",
+    "categoria": "Ciência & Ambiente",
+    "publicado_em": "2026-08-27T02:55:30.672396+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/indonesia-numero-de-mortos-no-terremoto-de-agosto-chega-100",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/15861615/pexels-photo-15861615.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Doruk Aksel Anıl",
+      "photographer_url": "https://www.pexels.com/@doruk-aksel-anil-477355556",
+      "pexels_url": "https://www.pexels.com/photo/destroyed-buildings-after-earthquake-15861615/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Balanza de terremoto en Indonesia llega a 100 muertos en su décimo día de búsqueda",
+        "lead": "Los equipos de rescate en Indonesia continúan las labores de auxilio mientras el balance oficial de víctimas mortales del terremoto de magnitud 7,7 alcanza los 100 este lunes (24).",
+        "corpo": "El fuerte sismo que azotó la provincia de Nusa Tenggara Oriental el pasado día 15 dejó un total de 100 fallecidos, después de que varios heridos bajo atención médica no resistieran sus lesiones. De acuerdo con información divulgada por el jefe de la Agencia de Gestión de Desastres, Suharyanto, en una conferencia de prensa, el desastre también dejó más de 1.600 heridos.\n\nEl temblor provocó daños severos en la región, destruyendo o dañando más de 73 mil viviendas y obligando a aproximadamente 180 mil personas a abandonar sus hogares. El evento sísmico estuvo acompañado por miles de réplicas, lo que complica el escenario de emergencia. Las autoridades locales intensificaron la respuesta humanitaria utilizando helicópteros, camiones y motocicletas para entregar suministros esenciales a las poblaciones afectadas en áreas de difícil acceso.\n\nEste evento marca el sismo más mortífero registrado en Indonesia desde 2022, cuando un terremoto de magnitud 5,6 sacudió la provincia de Java Occidental y causó la muerte de cientos de personas. Situada sobre el \"Anillo de Fuego del Pacífico\", Indonesia cuenta con una población de unos 290 millones de habitantes y se encuentra en una zona de intensa actividad sísmica y volcánica, donde el encuentro de placas tectónicas hace frecuentes los temblores de tierra."
+      },
+      "en": {
+        "titulo": "Death toll from Indonesia earthquake reaches 100 on tenth day of searches",
+        "lead": "Rescue teams in Indonesia continue relief efforts as the official death toll from the 7.7-magnitude earthquake reaches 100 on Monday (24).",
+        "corpo": "The strong tremor that struck the province of East Nusa Tenggara on the 15th of this month has resulted in a total of 100 deaths, after several injured individuals under medical care succumbed to their injuries. According to information released by Disaster Management Agency chief Suharyanto during a press conference, the disaster also left more than 1,600 people injured.\n\nThe seismic event caused severe damage to the region, destroying or damaging over 73,000 homes and forcing approximately 180,000 people to evacuate their residences. The earthquake was followed by thousands of aftershocks, complicating the emergency response. Local authorities have intensified humanitarian efforts, deploying helicopters, trucks, and motorcycles to deliver essential supplies to affected populations in hard-to-reach areas.\n\nThis event marks Indonesia's deadliest earthquake since 2022, when a 5.6-magnitude tremor struck West Java and killed hundreds of people. Located along the \"Pacific Ring of Fire,\" Indonesia has a population of approximately 290 million and sits in a highly active seismic and volcanic zone where tectonic plates meet, making earthquakes and volcanic eruptions frequent."
+      }
+    }
+  },
+  {
     "id": "86c10faa-00d9-4e05-8add-dcd8f6245de1",
     "titulo": "Irã anuncia nova descoberta de mais de 212 bilhões de metros cúbicos de gás natural",
     "lead": "O governo iraniano revelou a localização de mais de 212 bilhões de metros cúbicos de gás natural em um campo na província de Fars, em meio aos esforços do país para recuperar sua infraestrutura energética.",
