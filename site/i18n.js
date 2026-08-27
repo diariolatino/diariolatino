@@ -14,6 +14,7 @@ const I18N = {
     edicaoLocal: "Rio de Janeiro",
     todas: "Todas",
     buscarPlaceholder: "Buscar matérias…",
+    filtroPaisTodos: "Todos os países",
     ultimas: "Últimas",
     maisNoticias: "Mais notícias",
     leiaTambem: "Continue lendo",
@@ -39,13 +40,12 @@ const I18N = {
     footerDev: "Desenvolvido por",
     notaIlustrativa: "Imagem meramente ilustrativa.",
     categorias: {
-      "América do Sul": "América do Sul",
-      "Brics": "Brics",
-      "Mercosul & UE": "Mercosul & UE",
-      "CPLP": "CPLP",
-      "G20 & IBAS": "G20 & IBAS",
-      "G20 & Ibas": "G20 & Ibas",
-      "Economia Global": "Economia Global",
+      "Política": "Política",
+      "Economia": "Economia",
+      "Mundo": "Mundo",
+      "Segurança": "Segurança",
+      "Mercosul": "Mercosul",
+      "Sociedade": "Sociedade",
       "Ciência & Ambiente": "Ciência & Ambiente",
     },
   },
@@ -55,6 +55,7 @@ const I18N = {
     edicaoLocal: "Río de Janeiro",
     todas: "Todas",
     buscarPlaceholder: "Buscar noticias…",
+    filtroPaisTodos: "Todos los países",
     ultimas: "Últimas",
     maisNoticias: "Más noticias",
     leiaTambem: "Sigue leyendo",
@@ -80,13 +81,12 @@ const I18N = {
     footerDev: "Desarrollado por",
     notaIlustrativa: "Imagen meramente ilustrativa.",
     categorias: {
-      "América do Sul": "América del Sur",
-      "Brics": "Brics",
-      "Mercosul & UE": "Mercosur & UE",
-      "CPLP": "CPLP",
-      "G20 & IBAS": "G20 & IBAS",
-      "G20 & Ibas": "G20 & IBAS",
-      "Economia Global": "Economía Global",
+      "Política": "Política",
+      "Economia": "Economía",
+      "Mundo": "Mundo",
+      "Segurança": "Seguridad",
+      "Mercosul": "Mercosur",
+      "Sociedade": "Sociedad",
       "Ciência & Ambiente": "Ciencia & Ambiente",
     },
   },
@@ -96,6 +96,7 @@ const I18N = {
     edicaoLocal: "Rio de Janeiro",
     todas: "All",
     buscarPlaceholder: "Search stories…",
+    filtroPaisTodos: "All countries",
     ultimas: "Latest",
     maisNoticias: "More stories",
     leiaTambem: "Keep reading",
@@ -121,13 +122,12 @@ const I18N = {
     footerDev: "Built by",
     notaIlustrativa: "Image for illustrative purposes only.",
     categorias: {
-      "América do Sul": "South America",
-      "Brics": "Brics",
-      "Mercosul & UE": "Mercosur & EU",
-      "CPLP": "CPLP",
-      "G20 & IBAS": "G20 & IBAS",
-      "G20 & Ibas": "G20 & IBAS",
-      "Economia Global": "Global Economy",
+      "Política": "Politics",
+      "Economia": "Economy",
+      "Mundo": "World",
+      "Segurança": "Security",
+      "Mercosul": "Mercosur",
+      "Sociedade": "Society",
       "Ciência & Ambiente": "Science & Environment",
     },
   },
@@ -157,9 +157,6 @@ function traduzirCategoria(categoriaPt) {
   return (mapa && mapa[categoriaPt]) || categoriaPt;
 }
 
-/** Retorna o campo (titulo/lead/corpo) de um artigo no idioma atual,
- *  caindo pro português quando a tradução ainda não existe
- *  (matérias publicadas antes do recurso de tradução, por exemplo). */
 function campoIdioma(artigo, campo) {
   const idioma = idiomaAtual();
   if (idioma === "pt") return artigo[campo];
@@ -202,9 +199,6 @@ function tempoLeitura(corpo) {
   return Math.max(1, Math.round(palavras / 200));
 }
 
-/** Monta o seletor de idioma (PT / ES / EN) e religa o listener de troca.
- *  onTrocar(idioma) é chamado depois de gravar a preferência, pra a página
- *  re-renderizar o conteúdo sem precisar de reload. */
 function montarSeletorIdioma(container, onTrocar) {
   if (!container) return;
   const atual = idiomaAtual();
