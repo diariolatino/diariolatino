@@ -4,20 +4,34 @@ Chama a API gratuita do Gemini pra:
    só do título + resumo coletados (nunca do texto completo de terceiros);
 2) escrever uma matéria original em português a partir desses fatos.
 
-O modelo abaixo (GEMINI_MODEL) muda de tempos em tempos — confira o nome
-atual disponível no seu tier gratuito em https://ai.google.dev/gemini-api/docs/models
-antes de rodar em produção pela primeira vez.
+IMPORTANTE: o nome do modelo NÃO fica fixo no código. O Google costuma
+trocar/aposentar modelos sem aviso (ex: o "gemini-2.0-flash" que era usado
+aqui foi descontinuado em fev/2026). Em vez de depender de alguém lembrar
+de atualizar isso manualmente, o pipeline pergunta pra própria API do
+Gemini quais modelos existem HOJE com suporte a geração de texto, escolhe
+o melhor candidato (dando preferência a modelos "flash", que costumam ter
+cota gratuita mais generosa), e guarda essa escolha num cache local
+(site/data/gemini_modelo.json) pra não redescobrir a cada execução.
+
+Se o modelo salvo no cache parar de funcionar de um dia pro outro (foi
+aposentado, renomeado etc.), o código percebe pelo erro da chamada,
+redescobre a lista de modelos disponíveis e tenta os próximos candidatos
+automaticamente — sem precisar de intervenção manual.
 """
 import json
+import os
 import re
+import time
 import requests
 from . import config
 
-GEMINI_MODEL = "gemini-2.0-flash"
-GEMINI_ENDPOINT = (
-    f"https://generativelanguage.googleapis.com/v1beta/models/"
-    f"{GEMINI_MODEL}:generateContent"
-)
+LIST_MODELS_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models"
+GENERATE_ENDPOINT_TEMPLATE = "https://generativelanguage.googleapis.com/v1beta/{modelo}:generateContent"
+
+# depois de descoberto, reaproveita o modelo por até este tempo antes de
+# considerar redescobrir do zero — evita gastar chamadas à API só pra
+# confirmar algo que provavelmente ainda está de pé.
+CACHE_VALIDADE_SEGUNDOS = 24 * 60 * 60  # 1 dia
 
 PROMPT_SISTEMA = """Você é o redator do Diário Latino, portal de notícias brasileiro \
 com curadoria geopolítica focada em América Latina, Brics, Mercosul, CPLP, G20 e Sul Global.
@@ -51,6 +65,125 @@ Responda SOMENTE em JSON válido, neste formato exato, sem markdown, sem texto f
 """
 
 
+def _carregar_cache() -> dict | None:
+    if os.path.exists(config.GEMINI_MODEL_CACHE_PATH):
+        try:
+            with open(config.GEMINI_MODEL_CACHE_PATH, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            return None
+    return None
+
+
+def _salvar_cache(nome_modelo: str):
+    os.makedirs(os.path.dirname(config.GEMINI_MODEL_CACHE_PATH), exist_ok=True)
+    with open(config.GEMINI_MODEL_CACHE_PATH, "w", encoding="utf-8") as f:
+        json.dump({"modelo": nome_modelo, "descoberto_em": time.time()}, f)
+
+
+def _pontuar_modelo(nome_completo: str) -> int:
+    """Pontua um modelo pra escolher o melhor disponível sem precisar saber
+    o nome de antemão. Descarta o que claramente não serve pra gerar texto
+    (embedding, imagem, áudio etc), prioriza modelos 'flash' (tendem a ter
+    cota gratuita mais generosa) e, entre os elegíveis, prefere a geração
+    numérica mais recente."""
+    nome = nome_completo.lower()
+
+    bloqueado = [
+        "embedding", "aqa", "gecko", "imagen", "tts", "veo", "gemma",
+        "image-generation", "vision-only", "audio",
+    ]
+    if any(termo in nome for termo in bloqueado):
+        return -10_000
+
+    pontos = 0
+    if "flash" in nome:
+        pontos += 50
+    elif "pro" in nome:
+        pontos += 30
+    else:
+        pontos += 10  # ainda tenta, só fica atrás de flash/pro
+
+    if "lite" in nome:
+        pontos -= 5
+    if "exp" in nome or "preview" in nome or "thinking" in nome:
+        pontos -= 10  # prefere estável; ainda serve como opção de reserva
+
+    numeros = re.findall(r"(\d+)(?:\.(\d+))?", nome)
+    if numeros:
+        major, minor = numeros[0]
+        pontos += int(major) * 10 + int(minor or 0)
+
+    return pontos
+
+
+def _listar_modelos_candidatos() -> list:
+    try:
+        resp = requests.get(
+            LIST_MODELS_ENDPOINT,
+            params={"key": config.GEMINI_API_KEY},
+            timeout=20,
+        )
+        resp.raise_for_status()
+        modelos = resp.json().get("models", [])
+    except Exception as e:
+        print(f"[gemini] falha ao listar modelos disponíveis: {e}")
+        return []
+
+    candidatos = []
+    for m in modelos:
+        metodos = m.get("supportedGenerationMethods", [])
+        if "generateContent" not in metodos:
+            continue
+        nome = m.get("name", "").replace("models/", "")
+        pontuacao = _pontuar_modelo(nome)
+        if pontuacao > -1000:
+            candidatos.append((pontuacao, nome))
+
+    candidatos.sort(key=lambda x: x[0], reverse=True)
+    return [nome for _, nome in candidatos]
+
+
+def _chamar_generate_content(nome_modelo: str, corpo_requisicao: dict) -> dict:
+    resp = requests.post(
+        GENERATE_ENDPOINT_TEMPLATE.format(modelo=nome_modelo),
+        params={"key": config.GEMINI_API_KEY},
+        json=corpo_requisicao,
+        timeout=45,
+    )
+    resp.raise_for_status()
+    return resp.json()
+
+
+def _obter_resposta_gemini(corpo_requisicao: dict) -> dict:
+    """Tenta o modelo salvo em cache primeiro; se ele falhar (aposentado,
+    renomeado, indisponível) ou o cache estiver velho, redescobre a lista
+    de modelos válidos hoje e vai tentando cada um, do melhor pro pior,
+    até um funcionar — e atualiza o cache com o vencedor."""
+    cache = _carregar_cache()
+    if cache and (time.time() - cache.get("descoberto_em", 0)) < CACHE_VALIDADE_SEGUNDOS:
+        try:
+            return _chamar_generate_content(cache["modelo"], corpo_requisicao)
+        except Exception as e:
+            print(f"[gemini] modelo em cache '{cache['modelo']}' falhou ({e}); redescobrindo...")
+
+    candidatos = _listar_modelos_candidatos()
+    if not candidatos:
+        raise RuntimeError("nenhum modelo Gemini com suporte a geração de texto foi encontrado")
+
+    ultimo_erro = None
+    for nome_modelo in candidatos:
+        try:
+            dados = _chamar_generate_content(nome_modelo, corpo_requisicao)
+            _salvar_cache(nome_modelo)
+            return dados
+        except Exception as e:
+            ultimo_erro = e
+            print(f"[gemini] modelo '{nome_modelo}' indisponível ({e}); tentando o próximo...")
+
+    raise RuntimeError(f"todos os modelos candidatos falharam. Último erro: {ultimo_erro}")
+
+
 def _extrair_json(texto: str) -> dict:
     texto = texto.strip()
     texto = re.sub(r"^```json|^```|```$", "", texto, flags=re.MULTILINE).strip()
@@ -70,14 +203,7 @@ def gerar_materia(candidato: dict) -> dict | None:
     }
 
     try:
-        resp = requests.post(
-            GEMINI_ENDPOINT,
-            params={"key": config.GEMINI_API_KEY},
-            json=corpo_requisicao,
-            timeout=45,
-        )
-        resp.raise_for_status()
-        dados = resp.json()
+        dados = _obter_resposta_gemini(corpo_requisicao)
         texto_bruto = dados["candidates"][0]["content"]["parts"][0]["text"]
         return _extrair_json(texto_bruto)
     except Exception as e:
