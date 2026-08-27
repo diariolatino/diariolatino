@@ -33,8 +33,9 @@ GENERATE_ENDPOINT_TEMPLATE = "https://generativelanguage.googleapis.com/v1beta/m
 # confirmar algo que provavelmente ainda está de pé.
 CACHE_VALIDADE_SEGUNDOS = 24 * 60 * 60  # 1 dia
 
-PROMPT_SISTEMA = """Você é o redator do Diário Latino, portal de notícias brasileiro \
-com curadoria geopolítica focada em América Latina, Brics, Mercosul, CPLP, G20 e Sul Global.
+PROMPT_SISTEMA = """Você é o redator do Diário Latino, portal de notícias que cobre \
+toda a América Latina, com curadoria geopolítica focada em América Latina, Brics, \
+Mercosul, CPLP, G20 e Sul Global.
 
 Você recebe apenas um TÍTULO e, quando disponível, um RESUMO curto vindos de uma fonte \
 de metadados. Você NUNCA recebe o texto integral de terceiros.
@@ -48,9 +49,15 @@ e informativo, 250 a 450 palavras, com título, lead (1-2 frases) e corpo.
 estrutural do título/resumo fornecido. Se o material fornecido for muito escasso para \
 sustentar uma matéria completa, escreva um texto mais curto e factualmente conservador \
 em vez de inventar informação.
-4. Sugerir 1 a 2 palavras-chave em inglês pra busca de imagem no banco Pexels (ex: \
+4. Depois de escrever a versão em português, produza TAMBÉM uma versão em espanhol \
+neutro (latino-americano, não o de Espanha) e uma versão em inglês, ambas traduções \
+fiéis e fluentes do título, lead e corpo em português — mesmo conteúdo factual, \
+adaptado naturalmente ao idioma (não é preciso reextrair fatos, é tradução jornalística \
+de qualidade).
+5. Sugerir 1 a 2 palavras-chave em inglês pra busca de imagem no banco Pexels (ex: \
 "port cargo ship", "government building").
-5. Sugerir 1 categoria dentre: América do Sul, Brics, Mercosul & UE, CPLP, G20 & Ibas, \
+6. Sugerir 1 categoria dentre exatamente estas opções (grafia exata, inclusive \
+maiúsculas): América do Sul, Brics, Mercosul & UE, CPLP, G20 & IBAS, \
 Economia Global, Ciência & Ambiente.
 
 Responda SOMENTE em JSON válido, neste formato exato, sem markdown, sem texto fora do JSON:
@@ -60,7 +67,11 @@ Responda SOMENTE em JSON válido, neste formato exato, sem markdown, sem texto f
   "corpo": "...",
   "categoria": "...",
   "palavras_chave_imagem": ["...", "..."],
-  "fatos": {"o_que": "...", "quem": "...", "quando": "...", "onde": "...", "por_que": "..."}
+  "fatos": {"o_que": "...", "quem": "...", "quando": "...", "onde": "...", "por_que": "..."},
+  "traducoes": {
+    "es": {"titulo": "...", "lead": "...", "corpo": "..."},
+    "en": {"titulo": "...", "lead": "...", "corpo": "..."}
+  }
 }
 """
 
@@ -199,7 +210,7 @@ def gerar_materia(candidato: dict) -> dict | None:
     corpo_requisicao = {
         "system_instruction": {"parts": [{"text": PROMPT_SISTEMA}]},
         "contents": [{"parts": [{"text": material}]}],
-        "generationConfig": {"temperature": 0.6, "maxOutputTokens": 1200},
+        "generationConfig": {"temperature": 0.6, "maxOutputTokens": 3500},
     }
 
     try:

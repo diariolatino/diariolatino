@@ -3,7 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Diário Latino</title>
+<title>Diário Latino — Notícias e geopolítica da América Latina</title>
+<meta name="description" content="Diário Latino: notícias e geopolítica sob a perspectiva do Sul, para toda a América Latina.">
+<meta property="og:title" content="Diário Latino">
+<meta property="og:description" content="Notícias e geopolítica sob a perspectiva do Sul, para toda a América Latina.">
+<meta property="og:image" content="https://diariolatino.github.io/diariolatino/site/diariolatino-logo.png">
+<meta property="og:type" content="website">
 <link rel="icon" type="image/x-icon" href="diariolatino-logo-redondo.ico?v=2">
 <link rel="shortcut icon" type="image/x-icon" href="diariolatino-logo-redondo.ico?v=2">
 <link rel="apple-touch-icon" href="diariolatino-logo.png?v=2">
@@ -15,37 +20,35 @@
 
 <div class="topbar">
   <div class="wrap">
-    <span class="edicao">Rio de Janeiro · Quarta-feira, 26 de agosto de 2026 · Ano I — Nº 001</span>
+    <span class="edicao" id="edicao-local"></span>
+    <div class="topbar-direita">
+      <div class="seletor-idioma" id="seletor-idioma-topo"></div>
+    </div>
   </div>
 </div>
 
 <header class="masthead">
-  <div class="kicker">América Latina · Brics · Sul Global</div>
+  <div class="kicker" id="masthead-kicker"></div>
   <div class="masthead-titulo">
-    <img src="diariolatino-logo.png" alt="" class="masthead-logo">
+    <img src="diariolatino-logo.png" alt="Diário Latino" class="masthead-logo">
     <h1>Diário Latino</h1>
   </div>
-  <div class="tagline">Notícias e geopolítica sob a perspectiva do Sul</div>
+  <div class="tagline" id="masthead-tagline"></div>
+  <div class="regua-dupla"></div>
 </header>
 
 <nav class="categorias">
-  <ul>
-    <li><a href="#">América do Sul</a></li>
-    <li><a href="#">Brics</a></li>
-    <li><a href="#">Mercosul &amp; UE</a></li>
-    <li><a href="#">CPLP</a></li>
-    <li><a href="#">G20 &amp; IBAS</a></li>
-    <li><a href="#">Economia Global</a></li>
-    <li><a href="#">Ciência &amp; Ambiente</a></li>
-  </ul>
+  <div class="wrap">
+    <ul id="lista-categorias"></ul>
+    <div class="busca-nav">
+      <input type="search" id="campo-busca" placeholder="">
+    </div>
+  </div>
 </nav>
 
-<main class="wrap">
-
 <main class="wrap" id="conteudo-principal">
-  <p id="estado-vazio" style="display:none; padding:40px 0; text-align:center; color:#6f6f66; font-style:italic;">
-    Ainda não há notícias publicadas. O pipeline roda a cada hora — volte em breve.
-  </p>
+  <p id="estado-vazio" style="display:none; padding:40px 0; text-align:center; color:#6f6f66; font-style:italic;"></p>
+  <p id="sem-resultados" class="sem-resultados" style="display:none;"></p>
 
   <section class="destaque" id="secao-destaque" style="display:none;">
     <div>
@@ -54,13 +57,13 @@
       <h2 id="destaque-titulo"></h2>
       <p class="lead" id="destaque-lead"></p>
       <div class="meta">
-        <span>Redação Diário Latino</span>
+        <span id="destaque-redacao"></span>
         <span id="destaque-data"></span>
         <span class="selo-ia-inline" id="destaque-fontes"></span>
       </div>
     </div>
     <aside class="lateral-ultimas">
-      <h3>Últimas</h3>
+      <h3 id="titulo-ultimas"></h3>
       <div id="lista-ultimas"></div>
     </aside>
   </section>
@@ -68,26 +71,60 @@
   <section class="grade" id="secao-grade"></section>
 
   <section class="radar" id="secao-radar" style="display:none;">
-    <h3>Mais notícias</h3>
+    <h3 id="titulo-mais-noticias"></h3>
     <div class="radar-lista" id="radar-lista"></div>
   </section>
 
 </main>
 
-<script>
-const SELO_IA_TEXTO = "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas";
+<button class="voltar-topo" id="voltar-topo" aria-label="Voltar ao topo">↑</button>
 
-function formatarData(iso) {
-  if (!iso) return "";
-  const diff = (Date.now() - new Date(iso).getTime()) / 60000; // minutos
-  if (diff < 60) return `há ${Math.max(1, Math.round(diff))} min`;
-  if (diff < 1440) return `há ${Math.round(diff / 60)}h`;
-  return new Date(iso).toLocaleDateString('pt-BR');
-}
+<footer>
+  <div class="wrap">
+    <div class="grid-footer">
+      <div>
+        <h5>Diário Latino</h5>
+        <p id="footer-desc"></p>
+      </div>
+      <div>
+        <ul>
+          <h6 id="footer-secoes-titulo"></h6>
+          <li class="footer-secao-item" data-pt="América do Sul">América do Sul</li>
+          <li class="footer-secao-item" data-pt="Brics">Brics</li>
+          <li class="footer-secao-item" data-pt="Mercosul & UE">Mercosul &amp; UE</li>
+          <li class="footer-secao-item" data-pt="CPLP">CPLP</li>
+          <li class="footer-secao-item" data-pt="G20 & IBAS">G20 &amp; IBAS</li>
+        </ul>
+      </div>
+      <div>
+        <ul>
+          <h6 id="footer-transparencia-titulo"></h6>
+          <li id="footer-ia"></li>
+          <li id="footer-fontes"></li>
+          <li id="footer-referencia"></li>
+          <li id="footer-imagens"></li>
+        </ul>
+      </div>
+    </div>
+    <div class="baixo">
+      <span>© <span id="ano-copyright">2026</span> Diário Latino</span>
+      <span>diariolatino.com.br</span>
+      <span id="footer-dev-linha">Desenvolvido por <a href="https://hefezzia.com.br" style="border-bottom:1px dotted rgba(244,243,239,0.6);">Hefezzia</a></span>
+    </div>
+  </div>
+</footer>
+
+<script src="i18n.js"></script>
+<script>
+const CATEGORIAS_ORDEM = ["América do Sul", "Brics", "Mercosul & UE", "CPLP", "G20 & IBAS", "Economia Global", "Ciência & Ambiente"];
+
+let TODOS_ARTIGOS = [];
+let CATEGORIA_ATIVA = "todas";
+let TERMO_BUSCA = "";
 
 function figuraImagem(imagem) {
   if (!imagem) return "";
-  return `<img src="${imagem.url}" alt="">
+  return `<img src="${imagem.url}" alt="" loading="lazy">
     <figcaption class="credito-foto">Foto: <a href="${imagem.photographer_url}" target="_blank" rel="noopener">${imagem.photographer}</a> / <a href="${imagem.pexels_url}" target="_blank" rel="noopener">Pexels</a></figcaption>`;
 }
 
@@ -95,45 +132,115 @@ function linkMateria(artigo) {
   return `artigo.html?id=${encodeURIComponent(artigo.id)}`;
 }
 
-async function renderizarHome() {
-  let artigos = [];
-  try {
-    const resp = await fetch('data/articles.json', { cache: 'no-store' });
-    if (resp.ok) artigos = await resp.json();
-  } catch (e) {
-    console.error('Falha ao carregar articles.json', e);
+function linkFontes(artigo) {
+  const nomes = (artigo.fontes && artigo.fontes.length) ? artigo.fontes.join(' · ') : t('fontes');
+  if (artigo.url_fonte_original) {
+    return `${t('fontes')}: <a class="link-fonte" href="${artigo.url_fonte_original}" target="_blank" rel="noopener">${nomes}</a>`;
   }
+  return `${t('fontes')}: ${nomes}`;
+}
 
-  if (!artigos.length) {
+function aplicarTextosEstaticos() {
+  document.getElementById('edicao-local').textContent = `${t('edicaoLocal')} · ${dataEdicaoCompleta()}`;
+  document.getElementById('masthead-kicker').textContent = t('kicker');
+  document.getElementById('masthead-tagline').textContent = t('tagline');
+  document.getElementById('estado-vazio').textContent = t('estadoVazio');
+  document.getElementById('sem-resultados').textContent = t('semResultados');
+  document.getElementById('titulo-ultimas').textContent = t('ultimas');
+  document.getElementById('titulo-mais-noticias').textContent = t('maisNoticias');
+  document.getElementById('campo-busca').placeholder = t('buscarPlaceholder');
+  document.getElementById('footer-desc').textContent = t('footerDesc');
+  document.getElementById('footer-secoes-titulo').textContent = t('footerSecoes');
+  document.getElementById('footer-transparencia-titulo').textContent = t('footerTransparencia');
+  document.getElementById('footer-ia').textContent = t('footerIa');
+  document.getElementById('footer-fontes').textContent = t('footerFontes');
+  document.getElementById('footer-referencia').textContent = t('footerReferencia');
+  document.getElementById('footer-imagens').textContent = t('footerImagens');
+  document.getElementById('footer-dev-linha').innerHTML = `${t('footerDev')} <a href="https://hefezzia.com.br" style="border-bottom:1px dotted rgba(244,243,239,0.6);">Hefezzia</a>`;
+
+  document.querySelectorAll('.footer-secao-item').forEach((el) => {
+    el.textContent = traduzirCategoria(el.dataset.pt);
+  });
+}
+
+function montarNavCategorias() {
+  const container = document.getElementById('lista-categorias');
+  const itens = [`<li><button type="button" class="categoria-link${CATEGORIA_ATIVA === 'todas' ? ' ativo' : ''}" data-categoria="todas">${t('todas')}</button></li>`]
+    .concat(CATEGORIAS_ORDEM.map(cat => `
+      <li><button type="button" class="categoria-link${CATEGORIA_ATIVA === cat ? ' ativo' : ''}" data-categoria="${cat}">${traduzirCategoria(cat)}</button></li>
+    `));
+  container.innerHTML = itens.join('');
+
+  container.querySelectorAll('.categoria-link').forEach(btn => {
+    btn.addEventListener('click', () => {
+      CATEGORIA_ATIVA = btn.dataset.categoria;
+      window.location.hash = CATEGORIA_ATIVA === 'todas' ? '' : encodeURIComponent(CATEGORIA_ATIVA);
+      montarNavCategorias();
+      renderizarConteudo();
+    });
+  });
+}
+
+function artigosFiltrados() {
+  let lista = TODOS_ARTIGOS;
+  if (CATEGORIA_ATIVA !== 'todas') {
+    lista = lista.filter(a => a.categoria === CATEGORIA_ATIVA);
+  }
+  if (TERMO_BUSCA.trim()) {
+    const termo = TERMO_BUSCA.trim().toLowerCase();
+    lista = lista.filter(a => {
+      const titulo = (campoIdioma(a, 'titulo') || '').toLowerCase();
+      const lead = (campoIdioma(a, 'lead') || '').toLowerCase();
+      return titulo.includes(termo) || lead.includes(termo);
+    });
+  }
+  return lista;
+}
+
+function renderizarConteudo() {
+  const artigos = artigosFiltrados();
+
+  document.getElementById('estado-vazio').style.display = 'none';
+  document.getElementById('sem-resultados').style.display = 'none';
+  document.getElementById('secao-destaque').style.display = 'none';
+  document.getElementById('secao-radar').style.display = 'none';
+  document.getElementById('secao-grade').innerHTML = '';
+
+  if (!TODOS_ARTIGOS.length) {
     document.getElementById('estado-vazio').style.display = 'block';
+    return;
+  }
+  if (!artigos.length) {
+    document.getElementById('sem-resultados').style.display = 'block';
     return;
   }
 
   const [principal, ...resto] = artigos;
 
   document.getElementById('secao-destaque').style.display = 'grid';
-  document.getElementById('destaque-categoria').textContent = principal.categoria;
+  document.getElementById('destaque-categoria').textContent = traduzirCategoria(principal.categoria);
   document.getElementById('destaque-figura').innerHTML = figuraImagem(principal.imagem);
-  document.getElementById('destaque-titulo').innerHTML = `<a href="${linkMateria(principal)}">${principal.titulo}</a>`;
-  document.getElementById('destaque-lead').textContent = principal.lead;
+  document.getElementById('destaque-titulo').innerHTML = `<a href="${linkMateria(principal)}">${campoIdioma(principal, 'titulo')}</a>`;
+  document.getElementById('destaque-lead').textContent = campoIdioma(principal, 'lead');
+  document.getElementById('destaque-redacao').textContent = t('redacao');
   document.getElementById('destaque-data').textContent = formatarData(principal.publicado_em);
-  document.getElementById('destaque-fontes').textContent = `Fontes: ${principal.fontes.join(' · ')}`;
+  document.getElementById('destaque-fontes').innerHTML = linkFontes(principal);
 
   const ultimas = resto.slice(0, 4);
   document.getElementById('lista-ultimas').innerHTML = ultimas.map(a => `
     <div class="item-ultima">
-      <span class="selo">${a.categoria}</span>
-      <h4><a href="${linkMateria(a)}">${a.titulo}</a></h4>
+      <span class="selo">${traduzirCategoria(a.categoria)}</span>
+      <h4><a href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h4>
       <div class="hora">${formatarData(a.publicado_em)}</div>
     </div>`).join('');
 
   const grade = resto.slice(4, 7);
   document.getElementById('secao-grade').innerHTML = grade.map(a => `
     <article class="coluna">
-      <span class="selo">${a.categoria}</span>
-      ${a.imagem ? `<img src="${a.imagem.url}" alt="">` : ''}
-      <h3><a href="${linkMateria(a)}">${a.titulo}</a></h3>
-      <p class="dek">${a.lead}</p>
+      <span class="selo">${traduzirCategoria(a.categoria)}</span>
+      ${a.imagem ? `<img src="${a.imagem.url}" alt="" loading="lazy">` : ''}
+      <h3><a href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h3>
+      <p class="dek">${campoIdioma(a, 'lead')}</p>
       <div class="meta"><span>${formatarData(a.publicado_em)}</span></div>
     </article>`).join('');
 
@@ -141,48 +248,59 @@ async function renderizarHome() {
   if (maisNoticias.length) {
     document.getElementById('secao-radar').style.display = 'block';
     document.getElementById('radar-lista').innerHTML = maisNoticias.map(a => `
-      <div class="radar-item"><span class="pais">${a.categoria}</span><a href="${linkMateria(a)}">${a.titulo}</a></div>`).join('');
+      <div class="radar-item"><span class="pais">${traduzirCategoria(a.categoria)}</span><a href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></div>`).join('');
   }
 }
 
-renderizarHome();
-document.getElementById('ano-copyright').textContent = new Date().getFullYear();
-</script>
+async function carregarArtigos() {
+  try {
+    const resp = await fetch('data/articles.json', { cache: 'no-store' });
+    if (resp.ok) TODOS_ARTIGOS = await resp.json();
+  } catch (e) {
+    console.error('Falha ao carregar articles.json', e);
+  }
+}
 
-<footer>
-  <div class="wrap">
-    <div class="grid-footer">
-      <div>
-        <h5>Diário Latino</h5>
-        <p>Portal de notícias independente com curadoria geopolítica sob a perspectiva brasileira — América Latina, Sul Global, Brics e relações internacionais.</p>
-      </div>
-      <div>
-        <ul>
-          <h6>Seções</h6>
-          <li>América do Sul</li>
-          <li>Brics</li>
-          <li>Mercosul &amp; UE</li>
-          <li>CPLP</li>
-          <li>G20 &amp; Ibas</li>
-        </ul>
-      </div>
-      <div>
-        <ul>
-          <h6>Transparência</h6>
-          <li>Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas</li>
-          <li>Fontes: Agência Brasil, GDELT, comunicados oficiais de governos da América Latina</li>
-          <li>Referência linguística: ASALE (Associação de Academias da Língua Espanhola)</li>
-          <li>Imagens: Pexels, com crédito ao fotógrafo em cada matéria</li>
-        </ul>
-      </div>
-    </div>
-    <div class="baixo">
-      <span>© <span id="ano-copyright">2026</span> Diário Latino</span>
-      <span>diariolatino.com.br</span>
-      <span>Desenvolvido por <a href="https://hefezzia.com.br" style="border-bottom:1px dotted rgba(244,243,239,0.6);">Hefezzia</a></span>
-    </div>
-  </div>
-</footer>
+function inicializarBusca() {
+  const campo = document.getElementById('campo-busca');
+  let temporizador;
+  campo.addEventListener('input', () => {
+    clearTimeout(temporizador);
+    temporizador = setTimeout(() => {
+      TERMO_BUSCA = campo.value;
+      renderizarConteudo();
+    }, 150);
+  });
+}
+
+function inicializarVoltarTopo() {
+  const botao = document.getElementById('voltar-topo');
+  window.addEventListener('scroll', () => {
+    botao.classList.toggle('visivel', window.scrollY > 500);
+  });
+  botao.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+}
+
+async function iniciar() {
+  const hash = decodeURIComponent(window.location.hash.replace('#', ''));
+  if (hash && CATEGORIAS_ORDEM.includes(hash)) CATEGORIA_ATIVA = hash;
+
+  aplicarTextosEstaticos();
+  montarSeletorIdioma(document.getElementById('seletor-idioma-topo'), () => {
+    aplicarTextosEstaticos();
+    montarNavCategorias();
+    renderizarConteudo();
+  });
+  montarNavCategorias();
+  await carregarArtigos();
+  renderizarConteudo();
+  inicializarBusca();
+  inicializarVoltarTopo();
+  document.getElementById('ano-copyright').textContent = new Date().getFullYear();
+}
+
+iniciar();
+</script>
 
 </body>
 </html>

@@ -47,6 +47,9 @@ def publicar(materia_gerada: dict, candidato: dict, imagem: dict | None):
         "url_fonte_original": candidato.get("url_original"),
         "imagem": imagem,  # None é válido — template deve lidar com isso
         "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+        # traduções automáticas pt->es/en, geradas junto com a matéria original.
+        # o front-end usa isso pro seletor de idioma e cai pro português se faltar.
+        "traducoes": materia_gerada.get("traducoes", {}),
     }
 
     artigos.insert(0, artigo)

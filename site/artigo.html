@@ -4,6 +4,11 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title id="titulo-aba">Diário Latino</title>
+<meta name="description" id="meta-descricao" content="Diário Latino">
+<meta property="og:title" id="og-titulo" content="Diário Latino">
+<meta property="og:description" id="og-descricao" content="">
+<meta property="og:image" id="og-imagem" content="https://diariolatino.github.io/diariolatino/site/diariolatino-logo.png">
+<meta property="og:type" content="article">
 <link rel="icon" type="image/x-icon" href="diariolatino-logo-redondo.ico?v=2">
 <link rel="shortcut icon" type="image/x-icon" href="diariolatino-logo-redondo.ico?v=2">
 <link rel="apple-touch-icon" href="diariolatino-logo.png?v=2">
@@ -15,7 +20,7 @@
   .materia h1 {
     font-family: 'Playfair Display', serif;
     font-weight: 700;
-    font-size: 38px;
+    font-size: 40px;
     line-height: 1.15;
     color: var(--verde);
     margin: 14px 0 16px;
@@ -25,6 +30,7 @@
   .materia img { width: 100%; height: 380px; object-fit: cover; filter: grayscale(15%) contrast(1.05); }
   .materia .corpo { font-size: 17px; line-height: 1.75; white-space: pre-line; }
   .materia .voltar { display: inline-block; margin-bottom: 18px; font-size: 13px; color: var(--verde); }
+  .materia .voltar:hover { color: var(--terracota); }
   .rodape-materia {
     max-width: 760px;
     margin: 30px auto 0;
@@ -41,77 +47,217 @@
 
 <div class="topbar">
   <div class="wrap">
-    <span class="edicao">Diário Latino</span>
+    <span class="edicao" id="edicao-local"></span>
+    <div class="topbar-direita">
+      <div class="seletor-idioma" id="seletor-idioma-topo"></div>
+    </div>
   </div>
 </div>
 
 <header class="masthead">
-  <div class="kicker">América Latina · Brics · Sul Global</div>
-  <h1 style="font-size:38px;">
-    <a href="index.html" style="color:inherit; display:inline-flex; align-items:center; gap:12px; justify-content:center;">
-      <img src="diariolatino-logo.png" alt="" style="height:44px; width:auto;">
-      Diário Latino
+  <div class="kicker" id="masthead-kicker"></div>
+  <div class="masthead-titulo">
+    <a href="index.html" style="display:contents;">
+      <img src="diariolatino-logo.png" alt="Diário Latino" class="masthead-logo">
+      <h1><a href="index.html" style="color:inherit;">Diário Latino</a></h1>
     </a>
-  </h1>
+  </div>
+  <div class="tagline" id="masthead-tagline"></div>
+  <div class="regua-dupla"></div>
 </header>
 
+<nav class="categorias">
+  <div class="wrap">
+    <ul id="lista-categorias"></ul>
+  </div>
+</nav>
+
 <main class="wrap materia" id="materia">
-  <p id="carregando">Carregando matéria...</p>
+  <p id="carregando"></p>
 </main>
+
+<div class="leia-tambem" id="leia-tambem" style="display:none;">
+  <h3 id="leia-tambem-titulo"></h3>
+  <div class="leia-tambem-grade" id="leia-tambem-grade"></div>
+</div>
+
+<button class="voltar-topo" id="voltar-topo" aria-label="Voltar ao topo">↑</button>
 
 <footer>
   <div class="wrap">
     <div class="baixo">
       <span>© <span id="ano-copyright">2026</span> Diário Latino</span>
       <span>diariolatino.com.br</span>
-      <span>Desenvolvido por <a href="https://hefezzia.com.br" style="border-bottom:1px dotted rgba(244,243,239,0.6);">Hefezzia</a></span>
+      <span id="footer-dev-linha">Desenvolvido por <a href="https://hefezzia.com.br" style="border-bottom:1px dotted rgba(244,243,239,0.6);">Hefezzia</a></span>
     </div>
   </div>
 </footer>
 
+<script src="i18n.js"></script>
 <script>
+const CATEGORIAS_ORDEM = ["América do Sul", "Brics", "Mercosul & UE", "CPLP", "G20 & IBAS", "Economia Global", "Ciência & Ambiente"];
+let TODOS_ARTIGOS = [];
+let ARTIGO_ATUAL = null;
+
+function linkMateria(artigo) {
+  return `artigo.html?id=${encodeURIComponent(artigo.id)}`;
+}
+
 function figuraImagem(imagem) {
   if (!imagem) return "";
   return `<figure><img src="${imagem.url}" alt="">
     <figcaption class="credito-foto">Foto: <a href="${imagem.photographer_url}" target="_blank" rel="noopener">${imagem.photographer}</a> / <a href="${imagem.pexels_url}" target="_blank" rel="noopener">Pexels</a></figcaption></figure>`;
 }
 
-async function renderizarMateria() {
-  const params = new URLSearchParams(window.location.search);
-  const id = params.get('id');
-  const container = document.getElementById('materia');
-
-  let artigos = [];
-  try {
-    const resp = await fetch('data/articles.json', { cache: 'no-store' });
-    if (resp.ok) artigos = await resp.json();
-  } catch (e) {
-    console.error(e);
+function linkFontes(artigo) {
+  const nomes = (artigo.fontes && artigo.fontes.length) ? artigo.fontes.join(' · ') : '';
+  if (artigo.url_fonte_original) {
+    return `${t('fontes')}: <a class="link-fonte" href="${artigo.url_fonte_original}" target="_blank" rel="noopener">${nomes}</a>`;
   }
+  return `${t('fontes')}: ${nomes}`;
+}
 
-  const artigo = artigos.find(a => a.id === id);
-  if (!artigo) {
-    container.innerHTML = '<p>Matéria não encontrada. <a href="index.html">Voltar para a home</a>.</p>';
+function aplicarTextosEstaticos() {
+  document.getElementById('edicao-local').textContent = `${t('edicaoLocal')} · ${dataEdicaoCompleta()}`;
+  document.getElementById('masthead-kicker').textContent = t('kicker');
+  document.getElementById('masthead-tagline').textContent = t('tagline');
+  document.getElementById('carregando').textContent = t('carregando');
+  document.getElementById('leia-tambem-titulo').textContent = t('leiaTambem');
+  document.getElementById('footer-dev-linha').innerHTML = `${t('footerDev')} <a href="https://hefezzia.com.br" style="border-bottom:1px dotted rgba(244,243,239,0.6);">Hefezzia</a>`;
+}
+
+function montarNavCategorias() {
+  const container = document.getElementById('lista-categorias');
+  container.innerHTML = [`<li><a href="index.html">${t('todas')}</a></li>`]
+    .concat(CATEGORIAS_ORDEM.map(cat => `<li><a href="index.html#${encodeURIComponent(cat)}">${traduzirCategoria(cat)}</a></li>`))
+    .join('');
+}
+
+function renderizarLeiaTambem() {
+  const relacionadas = TODOS_ARTIGOS
+    .filter(a => a.id !== ARTIGO_ATUAL.id)
+    .sort((a, b) => new Date(b.publicado_em) - new Date(a.publicado_em))
+    .slice(0, 3);
+
+  if (!relacionadas.length) return;
+
+  document.getElementById('leia-tambem').style.display = 'block';
+  document.getElementById('leia-tambem-grade').innerHTML = relacionadas.map(a => `
+    <a class="leia-tambem-item" href="${linkMateria(a)}">
+      ${a.imagem ? `<img src="${a.imagem.url}" alt="" loading="lazy">` : ''}
+      <span class="selo">${traduzirCategoria(a.categoria)}</span>
+      <h4>${campoIdioma(a, 'titulo')}</h4>
+    </a>`).join('');
+}
+
+function copiarLink(botao) {
+  const url = window.location.href;
+  const finalizar = () => {
+    const textoOriginal = botao.textContent;
+    botao.textContent = t('linkCopiado');
+    setTimeout(() => { botao.textContent = textoOriginal; }, 1800);
+  };
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(url).then(finalizar).catch(finalizar);
+  } else {
+    finalizar();
+  }
+}
+
+function compartilhar() {
+  const titulo = campoIdioma(ARTIGO_ATUAL, 'titulo');
+  if (navigator.share) {
+    navigator.share({ title: titulo, url: window.location.href }).catch(() => {});
+  } else {
+    copiarLink(document.getElementById('botao-copiar'));
+  }
+}
+
+function renderizarMateria() {
+  const container = document.getElementById('materia');
+  if (!ARTIGO_ATUAL) {
+    container.innerHTML = `<p>${t('naoEncontrada')} <a href="index.html">${t('voltar')}</a></p>`;
     return;
   }
 
-  document.getElementById('titulo-aba').textContent = artigo.titulo + ' — Diário Latino';
+  const titulo = campoIdioma(ARTIGO_ATUAL, 'titulo');
+  const lead = campoIdioma(ARTIGO_ATUAL, 'lead');
+  const corpo = campoIdioma(ARTIGO_ATUAL, 'corpo');
+  const minutos = tempoLeitura(ARTIGO_ATUAL.corpo);
+
+  document.getElementById('titulo-aba').textContent = titulo + ' — Diário Latino';
+  document.getElementById('meta-descricao').content = lead || '';
+  document.getElementById('og-titulo').content = titulo;
+  document.getElementById('og-descricao').content = lead || '';
+  if (ARTIGO_ATUAL.imagem) document.getElementById('og-imagem').content = ARTIGO_ATUAL.imagem.url;
+
   container.innerHTML = `
-    <a class="voltar" href="index.html">← Voltar para a home</a>
-    <span class="selo">${artigo.categoria}</span>
-    <h1>${artigo.titulo}</h1>
-    ${figuraImagem(artigo.imagem)}
-    <p class="lead-materia">${artigo.lead}</p>
-    <div class="corpo">${artigo.corpo}</div>
-    <div class="rodape-materia">
-      <p class="selo-ia">${artigo.selo_ia}</p>
-      <p>Fontes: ${artigo.fontes.join(' · ')}</p>
+    <a class="voltar" href="index.html">${t('voltar')}</a>
+    <span class="selo">${traduzirCategoria(ARTIGO_ATUAL.categoria)}</span>
+    <h1>${titulo}</h1>
+    ${figuraImagem(ARTIGO_ATUAL.imagem)}
+    <p class="lead-materia">${lead}</p>
+    <div class="acoes-materia">
+      <span>${formatarData(ARTIGO_ATUAL.publicado_em)}${minutos ? ' · ' + minutos + ' ' + t('minLeitura') : ''}</span>
+      <div class="compartilhar-botoes">
+        <button type="button" id="botao-compartilhar">${t('compartilhar')}</button>
+        <button type="button" id="botao-copiar">${t('copiarLink')}</button>
+      </div>
     </div>
+    <div class="corpo">${corpo}</div>
   `;
+
+  document.getElementById('botao-compartilhar').addEventListener('click', compartilhar);
+  document.getElementById('botao-copiar').addEventListener('click', (e) => copiarLink(e.currentTarget));
+
+  const rodape = document.createElement('div');
+  rodape.className = 'rodape-materia';
+  rodape.innerHTML = `
+    <p class="selo-ia">${ARTIGO_ATUAL.selo_ia || t('footerIa')}</p>
+    <p>${linkFontes(ARTIGO_ATUAL)}</p>
+  `;
+  container.after(rodape);
+
+  renderizarLeiaTambem();
 }
 
-renderizarMateria();
-document.getElementById('ano-copyright').textContent = new Date().getFullYear();
+function inicializarVoltarTopo() {
+  const botao = document.getElementById('voltar-topo');
+  window.addEventListener('scroll', () => {
+    botao.classList.toggle('visivel', window.scrollY > 500);
+  });
+  botao.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+}
+
+async function carregarArtigos() {
+  try {
+    const resp = await fetch('data/articles.json', { cache: 'no-store' });
+    if (resp.ok) TODOS_ARTIGOS = await resp.json();
+  } catch (e) {
+    console.error(e);
+  }
+}
+
+async function iniciar() {
+  aplicarTextosEstaticos();
+  montarNavCategorias();
+  montarSeletorIdioma(document.getElementById('seletor-idioma-topo'), () => {
+    aplicarTextosEstaticos();
+    montarNavCategorias();
+    renderizarMateria();
+  });
+
+  await carregarArtigos();
+  const params = new URLSearchParams(window.location.search);
+  const id = params.get('id');
+  ARTIGO_ATUAL = TODOS_ARTIGOS.find(a => a.id === id) || null;
+
+  renderizarMateria();
+  inicializarVoltarTopo();
+  document.getElementById('ano-copyright').textContent = new Date().getFullYear();
+}
+
+iniciar();
 </script>
 
 </body>
