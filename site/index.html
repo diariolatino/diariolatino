@@ -24,7 +24,14 @@
       <div class="wrap">
         <ul id="lista-categorias"></ul>
         <div class="busca-nav">
-          <input type="search" id="campo-busca" placeholder="">
+          <div class="busca-caixa">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <circle cx="11" cy="11" r="7" stroke-width="2"/>
+              <line x1="21" y1="21" x2="16.65" y2="16.65" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+            <input type="search" id="campo-busca" placeholder="">
+          </div>
+          <select id="filtro-pais" aria-label="Filtrar por país"></select>
         </div>
       </div>
     </nav>
@@ -72,11 +79,13 @@
           <div>
             <ul>
               <h6 id="footer-secoes-titulo"></h6>
-              <li class="footer-secao-item" data-pt="América do Sul">América do Sul</li>
-              <li class="footer-secao-item" data-pt="Brics">Brics</li>
-              <li class="footer-secao-item" data-pt="Mercosul & UE">Mercosul &amp; UE</li>
-              <li class="footer-secao-item" data-pt="Relações Internacionais">Relações Internacionais</li>
+              <li class="footer-secao-item" data-pt="Política">Política</li>
+              <li class="footer-secao-item" data-pt="Economia">Economia</li>
+              <li class="footer-secao-item" data-pt="Mundo">Mundo</li>
               <li class="footer-secao-item" data-pt="Segurança">Segurança</li>
+              <li class="footer-secao-item" data-pt="Mercosul">Mercosul</li>
+              <li class="footer-secao-item" data-pt="Sociedade">Sociedade</li>
+              <li class="footer-secao-item" data-pt="Ciência & Ambiente">Ciência &amp; Ambiente</li>
             </ul>
           </div>
           <div>
@@ -100,10 +109,18 @@
     <script src="header.js"></script>
     <script src="i18n.js"></script>
     <script>
-    const CATEGORIAS_ORDEM = ["América do Sul", "Brics", "Mercosul & UE", "Relações Internacionais", "Segurança", "Economia Global", "Ciência & Ambiente"];
+    const CATEGORIAS_ORDEM = ["Política", "Economia", "Mundo", "Segurança", "Mercosul", "Sociedade", "Ciência & Ambiente"];
+
+    const PAISES_POR_REGIAO = {
+      "América do Sul": ["Argentina", "Bolívia", "Brasil", "Chile", "Colômbia", "Equador", "Paraguai", "Peru", "Uruguai", "Venezuela"],
+      "América Central": ["Costa Rica", "El Salvador", "Guatemala", "Honduras", "Nicarágua", "Panamá"],
+      "América do Norte": ["México"],
+      "Caribe": ["Cuba", "Haiti", "Porto Rico", "República Dominicana"],
+    };
     
     let TODOS_ARTIGOS = [];
     let CATEGORIA_ATIVA = "todas";
+    let PAIS_ATIVO = "todos";
     let TERMO_BUSCA = "";
     
     function figuraImagem(imagem, artigo) {
@@ -167,11 +184,30 @@
         });
       });
     }
+
+    function montarFiltroPais() {
+      const select = document.getElementById('filtro-pais');
+      const grupos = Object.entries(PAISES_POR_REGIAO).map(([regiao, paises]) => `
+        <optgroup label="${regiao}">
+          ${paises.map(p => `<option value="${p}">${p}</option>`).join('')}
+        </optgroup>
+      `).join('');
+      select.innerHTML = `<option value="todos">${t('filtroPaisTodos')}</option>${grupos}`;
+      select.value = PAIS_ATIVO;
+
+      select.addEventListener('change', () => {
+        PAIS_ATIVO = select.value;
+        renderizarConteudo();
+      });
+    }
     
     function artigosFiltrados() {
       let lista = TODOS_ARTIGOS;
       if (CATEGORIA_ATIVA !== 'todas') {
         lista = lista.filter(a => a.categoria === CATEGORIA_ATIVA);
+      }
+      if (PAIS_ATIVO !== 'todos') {
+        lista = lista.filter(a => a.pais === PAIS_ATIVO);
       }
       if (TERMO_BUSCA.trim()) {
         const termo = TERMO_BUSCA.trim().toLowerCase();
@@ -280,9 +316,11 @@
       montarSeletorIdioma(document.getElementById('seletor-idioma-topo'), () => {
         aplicarTextosEstaticos();
         montarNavCategorias();
+        montarFiltroPais();
         renderizarConteudo();
       });
       montarNavCategorias();
+      montarFiltroPais();
       await carregarArtigos();
       renderizarConteudo();
       inicializarBusca();
