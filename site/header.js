@@ -29,8 +29,10 @@ function montarCabecalho() {
     <header class="masthead">
       <div class="kicker" id="masthead-kicker"></div>
       <div class="masthead-titulo">
-        <img src="diariolatino-logo.png" alt="Diário Latino" class="masthead-logo masthead-logo--home">
-        <h1>Diário Latino</h1>
+        <a href="index.html" class="masthead-link">
+          <img src="diariolatino-logo.png" alt="Diário Latino" class="masthead-logo masthead-logo--home">
+          <h1>Diário Latino</h1>
+        </a>
       </div>
       <div class="tagline" id="masthead-tagline"></div>
     </header>
