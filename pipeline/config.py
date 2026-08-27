@@ -24,32 +24,37 @@ GEMINI_MODEL_CACHE_PATH = os.path.join(DATA_DIR, "gemini_modelo.json")
 # ---- palavras-chave de relevância geopolítica (pt + es + en, minúsculas) ----
 PALAVRAS_RELEVANTES = [
     # blocos e organismos
-    "brics", "mercosul", "mercosur", "cplp", "g20", "ibas", "unasul", "celac", "onu", "un ",
+    "brics", "mercosul", "mercosur", "g20", "unasul", "unasur", "celac", "onu", "un ",
     # regiões
-    "américa latina", "america latina", "latin america", "américa do sul", "south america",
-    "sul global", "global south",
-    # países da região (cobertura ampla)
+    "américa latina", "america latina", "latin america", "américa do sul", "sudamérica",
+    "south america", "sul global", "sur global", "global south",
+    # países da região (cobertura ampla, pt + es)
     "brasil", "brazil", "argentina", "chile", "uruguai", "uruguay", "paraguai", "paraguay",
     "bolívia", "bolivia", "peru", "colômbia", "colombia", "venezuela", "equador", "ecuador",
-    "méxico", "mexico", "cuba",
-    # temas
-    "geopolítica", "geopolitica", "geopolitics", "comércio exterior", "relações internacionais",
-    "diplomacia", "cúpula", "cumbre", "summit", "acordo comercial", "sanções", "tarifas",
-    "moeda", "dólar", "banco de desenvolvimento",
+    "méxico", "mexico", "cuba", "guatemala", "honduras", "el salvador", "nicaragua",
+    "costa rica", "panamá", "panama", "república dominicana", "republica dominicana",
+    # temas (pt + es)
+    "geopolítica", "geopolitica", "geopolitics", "comércio exterior", "comercio exterior",
+    "relações internacionais", "relaciones internacionales", "diplomacia", "diplomacy",
+    "cúpula", "cumbre", "summit", "acordo comercial", "acuerdo comercial",
+    "sanções", "sanciones", "tarifas", "aranceles", "moeda", "moneda", "dólar", "dolar",
+    "banco de desenvolvimento", "banco de desarrollo",
+    "migração", "migración", "imigração", "inmigración", "fronteira", "frontera",
+    "narcotráfico", "narcotrafico", "crime organizado", "crimen organizado",
 ]
 
 # ---- fontes ----
+# corrigido: antes só pegava sourcelang:por, o que excluía quase toda a
+# imprensa em espanhol da região (Argentina, Chile, Colômbia, México etc.)
 GDELT_QUERY = (
     "(brics OR mercosul OR mercosur OR \"america latina\" OR \"south america\" "
-    "OR brasil OR brazil) sourcelang:por"
+    "OR brasil OR brazil OR argentina OR chile OR colombia OR peru OR bolivia "
+    "OR venezuela OR uruguay OR paraguay OR ecuador OR mexico) "
+    "(sourcelang:por OR sourcelang:spa)"
 )
 GDELT_ENDPOINT = "https://api.gdeltproject.org/api/v2/doc/doc"
 
-# config.py — trecho atualizado
-
-# ---- Agência Brasil: mesma licença CC BY 2.5, mais editorias ----
-# (internacional e geral já testados ao vivo nesta sessão; economia/política
-# vêm do índice oficial https://agenciabrasil.ebc.com.br/feed/ — rodar 1x pra confirmar)
+# Agência Brasil — CC BY 2.5 Brasil, mesma licença nas 4 editorias
 AGENCIA_BRASIL_FEEDS = [
     "https://agenciabrasil.ebc.com.br/rss/internacional/feed.xml",   # testado ao vivo
     "https://agenciabrasil.ebc.com.br/rss/geral/feed.xml",           # já em produção
@@ -58,17 +63,17 @@ AGENCIA_BRASIL_FEEDS = [
 ]
 
 # créditos que a própria Agência Brasil marca como "proibida a reprodução"
-# (vi isso ao vivo num item assinado por repórteres da Reuters dentro do
-# feed internacional — precisa filtrar por dc:creator antes de usar como insumo)
+# dentro do feed (confirmado ao vivo num item assinado por repórter da Reuters)
 CREDITOS_BLOQUEADOS = ["reuters"]
 
-# ---- Radar de manchete — NUNCA entra no prompt de geração de texto,
-# só sinaliza pauta. Por isso aqui cabe qualquer fonte do mundo. ----
+# radar de manchete — NUNCA entra no prompt de geração de texto, só sinaliza
+# pauta pro GDELT/Agência Brasil investigar. Por isso aqui cabe fonte de
+# qualquer lugar do mundo, sem restrição de licença.
 RADAR_FEEDS = [
     # América Latina / Mercosul
     "http://feeds.bbci.co.uk/news/world/latin_america/rss.xml",      # já em produção
     "https://en.mercopress.com/rss/latin-america",                   # testado ao vivo
-    "https://en.mercopress.com/rss/mercosur",                        # índice oficial mercopress.com/feeds
+    "https://en.mercopress.com/rss/mercosur",                        # índice oficial
     "https://en.mercopress.com/rss/brazil",                          # índice oficial
     "https://en.mercopress.com/rss/argentina",                       # índice oficial
     "https://buenosairesherald.com/feed",                            # site oficial
@@ -83,6 +88,6 @@ RADAR_FEEDS = [
     "https://www.france24.com/en/rss",
     "https://www.telesurenglish.net/rss/RssTelesur.xml",             # viés: mídia estatal venezuelana
 
-    # ONU / organismos multilaterais (radar, não conteúdo)
+    # organismos multilaterais
     "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
 ]
