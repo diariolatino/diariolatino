@@ -19,6 +19,7 @@ ARTICLES_PATH = os.path.join(DATA_DIR, "articles.json")
 SEEN_IDS_PATH = os.path.join(DATA_DIR, "seen_ids.json")
 REVIEW_QUEUE_PATH = os.path.join(DATA_DIR, "review_queue.json")
 USED_IMAGES_PATH = os.path.join(DATA_DIR, "used_images.json")
+GEMINI_MODEL_CACHE_PATH = os.path.join(DATA_DIR, "gemini_modelo.json")
 
 # ---- palavras-chave de relevância geopolítica (pt + es + en, minúsculas) ----
 PALAVRAS_RELEVANTES = [
