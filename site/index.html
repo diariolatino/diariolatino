@@ -45,14 +45,12 @@
   </div>
 </nav>
 
-<div class="regua-dupla"></div>
-
 <main class="wrap" id="conteudo-principal">
   <p id="estado-vazio" style="display:none; padding:40px 0; text-align:center; color:#6f6f66; font-style:italic;"></p>
   <p id="sem-resultados" class="sem-resultados" style="display:none;"></p>
 
   <section class="destaque" id="secao-destaque" style="display:none;">
-    <div>
+    <div class="cartao-clicavel">
       <span class="selo" id="destaque-categoria"></span>
       <figure id="destaque-figura"></figure>
       <h2 id="destaque-titulo"></h2>
@@ -129,7 +127,7 @@ function figuraImagem(imagem, artigo) {
     ? `<a href="${linkMateria(artigo)}"><img src="${imagem.url}" alt="" loading="lazy"></a>`
     : `<img src="${imagem.url}" alt="" loading="lazy">`;
   return `${foto}
-    <figcaption class="credito-foto">Foto: <a href="${imagem.photographer_url}" target="_blank" rel="noopener">${imagem.photographer}</a> / <a href="${imagem.pexels_url}" target="_blank" rel="noopener">Pexels</a></figcaption>`;
+    <figcaption class="credito-foto">Foto: <a href="${imagem.photographer_url}" target="_blank" rel="noopener">${imagem.photographer}</a> / <a href="${imagem.pexels_url}" target="_blank" rel="noopener">Pexels</a><br>${t('notaIlustrativa')}</figcaption>`;
 }
 
 function linkMateria(artigo) {
@@ -224,9 +222,7 @@ function renderizarConteudo() {
   document.getElementById('secao-destaque').style.display = 'grid';
   document.getElementById('destaque-categoria').textContent = traduzirCategoria(principal.categoria);
   document.getElementById('destaque-figura').innerHTML = figuraImagem(principal.imagem, principal);
-  document.getElementById('destaque-titulo').innerHTML = principal.imagem
-    ? campoIdioma(principal, 'titulo')
-    : `<a href="${linkMateria(principal)}">${campoIdioma(principal, 'titulo')}</a>`;
+  document.getElementById('destaque-titulo').innerHTML = `<a class="link-esticado" href="${linkMateria(principal)}">${campoIdioma(principal, 'titulo')}</a>`;
   document.getElementById('destaque-lead').textContent = campoIdioma(principal, 'lead');
   document.getElementById('destaque-redacao').textContent = t('redacao');
   document.getElementById('destaque-data').textContent = formatarData(principal.publicado_em);
@@ -238,7 +234,7 @@ function renderizarConteudo() {
       ${a.imagem ? `<a class="item-ultima-foto" href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : ''}
       <div class="item-ultima-corpo">
         <span class="selo">${traduzirCategoria(a.categoria)}</span>
-        <h4>${a.imagem ? campoIdioma(a, 'titulo') : `<a href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a>`}</h4>
+        <h4><a class="link-esticado" href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h4>
         <div class="hora">${formatarData(a.publicado_em)}</div>
       </div>
     </div>`).join('');
@@ -248,7 +244,7 @@ function renderizarConteudo() {
     <article class="coluna">
       <span class="selo">${traduzirCategoria(a.categoria)}</span>
       ${a.imagem ? `<a href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : ''}
-      <h3>${a.imagem ? campoIdioma(a, 'titulo') : `<a href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a>`}</h3>
+      <h3><a class="link-esticado" href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h3>
       <p class="dek">${campoIdioma(a, 'lead')}</p>
       <div class="meta"><span>${formatarData(a.publicado_em)}</span></div>
     </article>`).join('');
@@ -257,7 +253,7 @@ function renderizarConteudo() {
   if (maisNoticias.length) {
     document.getElementById('secao-radar').style.display = 'block';
     document.getElementById('radar-lista').innerHTML = maisNoticias.map(a => `
-      <div class="radar-item"><span class="pais">${traduzirCategoria(a.categoria)}</span><a href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></div>`).join('');
+      <a class="radar-item" href="${linkMateria(a)}"><span class="pais">${traduzirCategoria(a.categoria)}</span>${campoIdioma(a, 'titulo')}</a>`).join('');
   }
 }
 
