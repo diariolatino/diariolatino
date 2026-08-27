@@ -214,32 +214,71 @@
   }
   nav.categorias button.categoria-link.ativo::after { transform: scaleX(1); }
 
-  .busca-nav {
+    .busca-nav {
     flex-shrink: 0;
     display: flex;
-    align-items: center;
-    padding: 8px 0;
+    align-items: stretch;
+    border: 1.5px solid var(--verde);
   }
-  .busca-nav input {
+  .busca-caixa {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  .busca-caixa svg {
+    position: absolute;
+    left: 9px;
+    width: 13px;
+    height: 13px;
+    stroke: var(--verde);
+    fill: none;
+    pointer-events: none;
+  }
+  .busca-nav input#campo-busca {
     font: inherit;
     font-size: 12.5px;
-    border: 1px solid var(--linha);
+    font-style: italic;
+    border: none;
     background: #fff;
-    padding: 6px 10px;
-    width: 160px;
+    padding: 7px 10px 7px 28px;
+    width: 170px;
     color: var(--texto);
-    transition: width 0.2s ease, border-color 0.2s ease;
+    transition: width 0.2s ease, background 0.2s ease;
   }
-  .busca-nav input:focus {
+  .busca-nav input#campo-busca::placeholder { color: #8a8a80; }
+  .busca-nav input#campo-busca:focus {
     outline: none;
-    border-color: var(--verde);
-    width: 210px;
+    background: #fdfdfb;
+    width: 220px;
   }
+  .busca-nav select#filtro-pais {
+    font: inherit;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    border: none;
+    border-left: 1.5px solid var(--verde);
+    background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 6'%3E%3Cpath fill='%231E352B' d='M0 0l5 6 5-6z'/%3E%3C/svg%3E") no-repeat right 10px center;
+    background-size: 9px 6px;
+    padding: 7px 24px 7px 10px;
+    color: var(--verde);
+    appearance: none;
+    -webkit-appearance: none;
+    cursor: pointer;
+    max-width: 150px;
+  }
+  .busca-nav select#filtro-pais:focus { outline: none; background-color: #fdfdfb; }
+  .busca-nav:focus-within { border-color: var(--terracota); }
+  .busca-nav:focus-within select#filtro-pais { border-left-color: var(--terracota); }
+  .busca-nav:focus-within svg { stroke: var(--terracota); }
 
   @media (max-width: 860px) {
     nav.categorias .wrap { flex-wrap: wrap; padding-top: 6px; padding-bottom: 6px; }
-    .busca-nav { width: 100%; padding: 4px 0 8px; }
-    .busca-nav input { width: 100%; }
+    .busca-nav { width: 100%; margin: 4px 0 8px; }
+    .busca-caixa { flex: 1; }
+    .busca-nav input#campo-busca { width: 100%; }
+    .busca-nav select#filtro-pais { max-width: 42%; }
   }
 
   /* ===== SELO DE CATEGORIA (estilo carimbo) ===== */
