@@ -63,7 +63,6 @@
     </a>
   </div>
   <div class="tagline" id="masthead-tagline"></div>
-  <div class="regua-dupla"></div>
 </header>
 
 <nav class="categorias">
@@ -71,6 +70,8 @@
     <ul id="lista-categorias"></ul>
   </div>
 </nav>
+
+<div class="regua-dupla"></div>
 
 <main class="wrap materia" id="materia">
   <p id="carregando"></p>
@@ -83,7 +84,7 @@
 
 <button class="voltar-topo" id="voltar-topo" aria-label="Voltar ao topo">↑</button>
 
-<footer>
+<footer class="rodape-compacto">
   <div class="wrap">
     <div class="baixo">
       <span>© <span id="ano-copyright">2026</span> Diário Latino</span>
@@ -143,17 +144,23 @@ function renderizarLeiaTambem() {
 
   document.getElementById('leia-tambem').style.display = 'block';
   document.getElementById('leia-tambem-grade').innerHTML = relacionadas.map(a => `
-    <a class="leia-tambem-item" href="${linkMateria(a)}">
-      ${a.imagem ? `<img src="${a.imagem.url}" alt="" loading="lazy">` : ''}
+    <div class="leia-tambem-item">
+      ${a.imagem ? `<a class="leia-tambem-foto" href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : ''}
       <span class="selo">${traduzirCategoria(a.categoria)}</span>
-      <h4>${campoIdioma(a, 'titulo')}</h4>
-    </a>`).join('');
+      <h4>${a.imagem ? campoIdioma(a, 'titulo') : `<a href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a>`}</h4>
+    </div>`).join('');
 }
 
-function copiarLink(botao) {
+function compartilhar(botao) {
+  const titulo = campoIdioma(ARTIGO_ATUAL, 'titulo');
   const url = window.location.href;
+  if (navigator.share) {
+    navigator.share({ title: titulo, url }).catch(() => {});
+    return;
+  }
   const finalizar = () => {
-    const textoOriginal = botao.textContent;
+    const textoOriginal = botao.dataset.textoOriginal || botao.textContent;
+    botao.dataset.textoOriginal = textoOriginal;
     botao.textContent = t('linkCopiado');
     setTimeout(() => { botao.textContent = textoOriginal; }, 1800);
   };
@@ -161,15 +168,6 @@ function copiarLink(botao) {
     navigator.clipboard.writeText(url).then(finalizar).catch(finalizar);
   } else {
     finalizar();
-  }
-}
-
-function compartilhar() {
-  const titulo = campoIdioma(ARTIGO_ATUAL, 'titulo');
-  if (navigator.share) {
-    navigator.share({ title: titulo, url: window.location.href }).catch(() => {});
-  } else {
-    copiarLink(document.getElementById('botao-copiar'));
   }
 }
 
@@ -201,14 +199,12 @@ function renderizarMateria() {
       <span>${formatarData(ARTIGO_ATUAL.publicado_em)}${minutos ? ' · ' + minutos + ' ' + t('minLeitura') : ''}</span>
       <div class="compartilhar-botoes">
         <button type="button" id="botao-compartilhar">${t('compartilhar')}</button>
-        <button type="button" id="botao-copiar">${t('copiarLink')}</button>
       </div>
     </div>
     <div class="corpo">${corpo}</div>
   `;
 
-  document.getElementById('botao-compartilhar').addEventListener('click', compartilhar);
-  document.getElementById('botao-copiar').addEventListener('click', (e) => copiarLink(e.currentTarget));
+  document.getElementById('botao-compartilhar').addEventListener('click', (e) => compartilhar(e.currentTarget));
 
   const rodape = document.createElement('div');
   rodape.className = 'rodape-materia';
