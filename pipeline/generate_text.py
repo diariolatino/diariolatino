@@ -55,7 +55,7 @@ de qualidade).
 "port cargo ship", "government building").
 6. Sugerir 1 categoria dentre exatamente estas opções (grafia exata, inclusive \
 maiúsculas): América do Sul, Mercosul & UE, Economia Global, Ciência & Ambiente, \
-Migração & Fronteiras, Segurança & Crime Organizado, Diplomacia & Relações Internacionais.
+Migração & Fronteiras, Segurança & Crime Organizado, Relações Internacionais.
 
 Responda SOMENTE em JSON válido, neste formato exato, sem markdown, sem texto fora do JSON:
 {
