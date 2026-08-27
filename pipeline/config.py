@@ -45,12 +45,44 @@ GDELT_QUERY = (
 )
 GDELT_ENDPOINT = "https://api.gdeltproject.org/api/v2/doc/doc"
 
+# config.py — trecho atualizado
+
+# ---- Agência Brasil: mesma licença CC BY 2.5, mais editorias ----
+# (internacional e geral já testados ao vivo nesta sessão; economia/política
+# vêm do índice oficial https://agenciabrasil.ebc.com.br/feed/ — rodar 1x pra confirmar)
 AGENCIA_BRASIL_FEEDS = [
-    "https://agenciabrasil.ebc.com.br/rss/internacional/feed.xml",
-    "https://agenciabrasil.ebc.com.br/rss/geral/feed.xml",
+    "https://agenciabrasil.ebc.com.br/rss/internacional/feed.xml",   # testado ao vivo
+    "https://agenciabrasil.ebc.com.br/rss/geral/feed.xml",           # já em produção
+    "https://agenciabrasil.ebc.com.br/rss/economia/feed.xml",        # índice oficial
+    "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml",        # índice oficial
 ]
 
-# feeds de jornal grande = só "radar de manchete", nunca vira insumo de texto
+# créditos que a própria Agência Brasil marca como "proibida a reprodução"
+# (vi isso ao vivo num item assinado por repórteres da Reuters dentro do
+# feed internacional — precisa filtrar por dc:creator antes de usar como insumo)
+CREDITOS_BLOQUEADOS = ["reuters"]
+
+# ---- Radar de manchete — NUNCA entra no prompt de geração de texto,
+# só sinaliza pauta. Por isso aqui cabe qualquer fonte do mundo. ----
 RADAR_FEEDS = [
-    "http://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+    # América Latina / Mercosul
+    "http://feeds.bbci.co.uk/news/world/latin_america/rss.xml",      # já em produção
+    "https://en.mercopress.com/rss/latin-america",                   # testado ao vivo
+    "https://en.mercopress.com/rss/mercosur",                        # índice oficial mercopress.com/feeds
+    "https://en.mercopress.com/rss/brazil",                          # índice oficial
+    "https://en.mercopress.com/rss/argentina",                       # índice oficial
+    "https://buenosairesherald.com/feed",                            # site oficial
+    "https://mexiconewsdaily.com/feed",                              # site oficial
+    "https://cnnespanol.cnn.com/feed",                               # site oficial
+
+    # BRICS / geopolítica global (Rússia, Índia, China, África do Sul, Oriente Médio)
+    "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "https://feeds.bbci.co.uk/mundo/rss.xml",
+    "https://www.aljazeera.com/xml/rss/all.xml",
+    "https://rss.dw.com/xml/rss-en-all",
+    "https://www.france24.com/en/rss",
+    "https://www.telesurenglish.net/rss/RssTelesur.xml",             # viés: mídia estatal venezuelana
+
+    # ONU / organismos multilaterais (radar, não conteúdo)
+    "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
 ]
