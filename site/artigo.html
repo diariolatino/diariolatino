@@ -45,23 +45,7 @@
 </head>
 <body>
 
-<div class="topbar">
-  <div class="wrap">
-    <span class="edicao" id="edicao-local"></span>
-    <div class="topbar-direita">
-      <div class="seletor-idioma" id="seletor-idioma-topo"></div>
-    </div>
-  </div>
-</div>
-
-<header class="masthead">
-  <div class="kicker" id="masthead-kicker"></div>
-  <div class="masthead-titulo">
-    <img src="diariolatino-logo.png" alt="Diário Latino" class="masthead-logo masthead-logo--home">
-    <h1>Diário Latino</h1>
-  </div>
-  <div class="tagline" id="masthead-tagline"></div>
-</header>
+<div id="cabecalho-app"></div>
 
 <nav class="categorias">
   <div class="wrap">
@@ -92,6 +76,7 @@
   </div>
 </footer>
 
+<script src="header.js"></script>
 <script src="i18n.js"></script>
 <script>
 const CATEGORIAS_ORDEM = ["América do Sul", "Brics", "Mercosul & UE", "CPLP", "G20 & IBAS", "Economia Global", "Ciência & Ambiente"];
@@ -233,6 +218,7 @@ async function carregarArtigos() {
 }
 
 async function iniciar() {
+  montarCabecalho();
   aplicarTextosEstaticos();
   montarNavCategorias();
   montarSeletorIdioma(document.getElementById('seletor-idioma-topo'), () => {
