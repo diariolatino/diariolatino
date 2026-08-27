@@ -26,7 +26,7 @@ import requests
 from . import config
 
 LIST_MODELS_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models"
-GENERATE_ENDPOINT_TEMPLATE = "https://generativelanguage.googleapis.com/v1beta/{modelo}:generateContent"
+GENERATE_ENDPOINT_TEMPLATE = "https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
 
 # depois de descoberto, reaproveita o modelo por até este tempo antes de
 # considerar redescobrir do zero — evita gastar chamadas à API só pra
