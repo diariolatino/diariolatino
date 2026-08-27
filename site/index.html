@@ -30,11 +30,10 @@
 <header class="masthead">
   <div class="kicker" id="masthead-kicker"></div>
   <div class="masthead-titulo">
-    <img src="diariolatino-logo.png" alt="Diário Latino" class="masthead-logo">
+    <img src="diariolatino-logo.png" alt="Diário Latino" class="masthead-logo masthead-logo--home">
     <h1>Diário Latino</h1>
   </div>
   <div class="tagline" id="masthead-tagline"></div>
-  <div class="regua-dupla"></div>
 </header>
 
 <nav class="categorias">
@@ -45,6 +44,8 @@
     </div>
   </div>
 </nav>
+
+<div class="regua-dupla"></div>
 
 <main class="wrap" id="conteudo-principal">
   <p id="estado-vazio" style="display:none; padding:40px 0; text-align:center; color:#6f6f66; font-style:italic;"></p>
@@ -122,9 +123,12 @@ let TODOS_ARTIGOS = [];
 let CATEGORIA_ATIVA = "todas";
 let TERMO_BUSCA = "";
 
-function figuraImagem(imagem) {
+function figuraImagem(imagem, artigo) {
   if (!imagem) return "";
-  return `<img src="${imagem.url}" alt="" loading="lazy">
+  const foto = artigo
+    ? `<a href="${linkMateria(artigo)}"><img src="${imagem.url}" alt="" loading="lazy"></a>`
+    : `<img src="${imagem.url}" alt="" loading="lazy">`;
+  return `${foto}
     <figcaption class="credito-foto">Foto: <a href="${imagem.photographer_url}" target="_blank" rel="noopener">${imagem.photographer}</a> / <a href="${imagem.pexels_url}" target="_blank" rel="noopener">Pexels</a></figcaption>`;
 }
 
@@ -219,8 +223,10 @@ function renderizarConteudo() {
 
   document.getElementById('secao-destaque').style.display = 'grid';
   document.getElementById('destaque-categoria').textContent = traduzirCategoria(principal.categoria);
-  document.getElementById('destaque-figura').innerHTML = figuraImagem(principal.imagem);
-  document.getElementById('destaque-titulo').innerHTML = `<a href="${linkMateria(principal)}">${campoIdioma(principal, 'titulo')}</a>`;
+  document.getElementById('destaque-figura').innerHTML = figuraImagem(principal.imagem, principal);
+  document.getElementById('destaque-titulo').innerHTML = principal.imagem
+    ? campoIdioma(principal, 'titulo')
+    : `<a href="${linkMateria(principal)}">${campoIdioma(principal, 'titulo')}</a>`;
   document.getElementById('destaque-lead').textContent = campoIdioma(principal, 'lead');
   document.getElementById('destaque-redacao').textContent = t('redacao');
   document.getElementById('destaque-data').textContent = formatarData(principal.publicado_em);
@@ -229,17 +235,20 @@ function renderizarConteudo() {
   const ultimas = resto.slice(0, 4);
   document.getElementById('lista-ultimas').innerHTML = ultimas.map(a => `
     <div class="item-ultima">
-      <span class="selo">${traduzirCategoria(a.categoria)}</span>
-      <h4><a href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h4>
-      <div class="hora">${formatarData(a.publicado_em)}</div>
+      ${a.imagem ? `<a class="item-ultima-foto" href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : ''}
+      <div class="item-ultima-corpo">
+        <span class="selo">${traduzirCategoria(a.categoria)}</span>
+        <h4>${a.imagem ? campoIdioma(a, 'titulo') : `<a href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a>`}</h4>
+        <div class="hora">${formatarData(a.publicado_em)}</div>
+      </div>
     </div>`).join('');
 
   const grade = resto.slice(4, 7);
   document.getElementById('secao-grade').innerHTML = grade.map(a => `
     <article class="coluna">
       <span class="selo">${traduzirCategoria(a.categoria)}</span>
-      ${a.imagem ? `<img src="${a.imagem.url}" alt="" loading="lazy">` : ''}
-      <h3><a href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h3>
+      ${a.imagem ? `<a href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : ''}
+      <h3>${a.imagem ? campoIdioma(a, 'titulo') : `<a href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a>`}</h3>
       <p class="dek">${campoIdioma(a, 'lead')}</p>
       <div class="meta"><span>${formatarData(a.publicado_em)}</span></div>
     </article>`).join('');
