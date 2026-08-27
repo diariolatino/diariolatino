@@ -2,6 +2,7 @@ from . import config
 from .sources_gdelt import coletar_gdelt
 from .sources_rss import coletar_agencia_brasil, coletar_radar
 from .filter_relevance import filtrar
+from .diversidade import intercalar_por_categoria
 from .generate_text import gerar_materia
 from .similarity_check import checar_originalidade
 from .image_pexels import buscar_imagem
@@ -21,9 +22,12 @@ def rodar():
 
     candidatos = filtrar(candidatos)
     candidatos = [c for c in candidatos if not ja_publicado(c["id"])]
-    print(f"  {len(candidatos)} candidatos relevantes e inéditos")
+    candidatos = intercalar_por_categoria(candidatos)  # varia o tema desde a ordem de tentativa
+    print(f"  {len(candidatos)} candidatos relevantes, inéditos e intercalados por tema")
 
     publicados = 0
+    categorias_usadas_nesta_execucao = set()
+
     for candidato in candidatos:
         if publicados >= config.MAX_ARTIGOS_POR_EXECUCAO:
             break
@@ -36,6 +40,13 @@ def rodar():
         if not materia:
             continue
 
+        categoria = materia.get("categoria", "América do Sul")
+        if categoria in categorias_usadas_nesta_execucao:
+            # trava de segurança final: a intercalação já tenta evitar isso,
+            # mas o Gemini pode classificar diferente do estimado
+            print(f"  [pulado] '{materia.get('titulo')}' — tema '{categoria}' já usado nesta execução")
+            continue
+
         resultado_check = checar_originalidade(materia, candidato)
         if not resultado_check["aprovado"]:
             print(f"  [revisão] '{materia.get('titulo')}' sinalizado: {resultado_check['detalhes']}")
@@ -44,8 +55,9 @@ def rodar():
 
         imagem = buscar_imagem(materia.get("palavras_chave_imagem", []))
         artigo = publicar(materia, candidato, imagem)
+        categorias_usadas_nesta_execucao.add(categoria)
         publicados += 1
-        print(f"  [publicado] {artigo['titulo']}")
+        print(f"  [publicado] {artigo['titulo']} — {categoria}")
 
     print(f"Concluído: {publicados} artigo(s) publicado(s) nesta execução.")
 
