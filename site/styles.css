@@ -52,11 +52,16 @@
     padding: 34px 20px 18px;
     border-bottom: 4px solid var(--terracota);
   }
+  .masthead-titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+  }
   .masthead-logo {
     display: block;
-    height: 72px;
+    height: 56px;
     width: auto;
-    margin: 0 auto 14px;
   }
   .masthead .kicker {
     font-family: 'Source Sans 3', sans-serif;
