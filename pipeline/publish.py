@@ -41,14 +41,13 @@ def publicar(materia_gerada: dict, candidato: dict, imagem: dict | None):
         "titulo": materia_gerada["titulo"],
         "lead": materia_gerada["lead"],
         "corpo": materia_gerada["corpo"],
-        "categoria": materia_gerada.get("categoria", "América do Sul"),
+        "categoria": materia_gerada.get("categoria", "Mundo"),
+        "pais": materia_gerada.get("pais", "América Latina"),
         "publicado_em": datetime.now(timezone.utc).isoformat(),
         "fontes": fontes,
         "url_fonte_original": candidato.get("url_original"),
-        "imagem": imagem,  # None é válido — template deve lidar com isso
+        "imagem": imagem,
         "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-        # traduções automáticas pt->es/en, geradas junto com a matéria original.
-        # o front-end usa isso pro seletor de idioma e cai pro português se faltar.
         "traducoes": materia_gerada.get("traducoes", {}),
     }
 
