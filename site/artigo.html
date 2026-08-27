@@ -41,6 +41,7 @@
     line-height: 1.7;
   }
   .rodape-materia .selo-ia { font-style: italic; }
+  .masthead-logo { transform: translateY(5px); }
 </style>
 </head>
 <body>
@@ -107,7 +108,7 @@ function linkMateria(artigo) {
 function figuraImagem(imagem) {
   if (!imagem) return "";
   return `<figure><img src="${imagem.url}" alt="">
-    <figcaption class="credito-foto">Foto: <a href="${imagem.photographer_url}" target="_blank" rel="noopener">${imagem.photographer}</a> / <a href="${imagem.pexels_url}" target="_blank" rel="noopener">Pexels</a></figcaption></figure>`;
+    <figcaption class="credito-foto">Foto: <a href="${imagem.photographer_url}" target="_blank" rel="noopener">${imagem.photographer}</a> / <a href="${imagem.pexels_url}" target="_blank" rel="noopener">Pexels</a><br>${t('notaIlustrativa')}</figcaption></figure>`;
 }
 
 function linkFontes(artigo) {
@@ -147,7 +148,7 @@ function renderizarLeiaTambem() {
     <div class="leia-tambem-item">
       ${a.imagem ? `<a class="leia-tambem-foto" href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : ''}
       <span class="selo">${traduzirCategoria(a.categoria)}</span>
-      <h4>${a.imagem ? campoIdioma(a, 'titulo') : `<a href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a>`}</h4>
+      <h4><a class="link-esticado" href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h4>
     </div>`).join('');
 }
 
