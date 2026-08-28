@@ -77,7 +77,6 @@
 <script src="header.js"></script>
 <script src="i18n.js"></script>
 <script>
-const CATEGORIAS_ORDEM = ["América do Sul", "Brics", "Mercosul & UE", "CPLP", "G20 & IBAS", "Economia Global", "Ciência & Ambiente"];
 let TODOS_ARTIGOS = [];
 let ARTIGO_ATUAL = null;
 
@@ -127,7 +126,7 @@ function renderizarLeiaTambem() {
   document.getElementById('leia-tambem-grade').innerHTML = relacionadas.map(a => `
     <div class="leia-tambem-item">
       ${a.imagem ? `<a class="leia-tambem-foto" href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : ''}
-      <span class="selo">${traduzirCategoria(a.categoria)}</span>
+      <span class="selo">${rotuloCategoriaPais(a)}</span>
       <h4><a class="link-esticado" href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h4>
     </div>`).join('');
 }
@@ -172,7 +171,7 @@ function renderizarMateria() {
 
   container.innerHTML = `
     <a class="voltar" href="index.html">${t('voltar')}</a>
-    <span class="selo">${traduzirCategoria(ARTIGO_ATUAL.categoria)}</span>
+    <span class="selo">${rotuloCategoriaPais(ARTIGO_ATUAL)}</span>
     <h1>${titulo}</h1>
     ${figuraImagem(ARTIGO_ATUAL.imagem)}
     <p class="lead-materia">${lead}</p>

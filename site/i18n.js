@@ -157,6 +157,66 @@ function traduzirCategoria(categoriaPt) {
   return (mapa && mapa[categoriaPt]) || categoriaPt;
 }
 
+/* ===== Categorias, regiões e países ===== */
+
+const CATEGORIAS_ORDEM = ["Política", "Economia", "Mundo", "Segurança", "Mercosul", "Sociedade", "Ciência & Ambiente"];
+
+const REGIOES_ORDEM = ["América do Sul", "América Central", "Caribe"];
+
+const PAISES_POR_REGIAO = {
+  "América do Sul": ["Brasil", "Argentina", "Chile", "Uruguai", "Paraguai", "Bolívia", "Peru", "Equador", "Colômbia", "Venezuela", "Guiana", "Suriname"],
+  "América Central": ["México", "Guatemala", "Belize", "Honduras", "El Salvador", "Nicarágua", "Costa Rica", "Panamá"],
+  "Caribe": ["Cuba", "República Dominicana", "Haiti", "Porto Rico", "Jamaica", "Trinidad e Tobago"],
+};
+
+const NOMES_REGIAO = {
+  pt: { "América do Sul": "América do Sul", "América Central": "América Central", "Caribe": "Caribe" },
+  es: { "América do Sul": "América del Sur", "América Central": "América Central", "Caribe": "El Caribe" },
+  en: { "América do Sul": "South America", "América Central": "Central America", "Caribe": "The Caribbean" },
+};
+
+const NOMES_PAIS = {
+  es: {
+    "Brasil": "Brasil", "Argentina": "Argentina", "Chile": "Chile", "Uruguai": "Uruguay", "Paraguai": "Paraguay",
+    "Bolívia": "Bolivia", "Peru": "Perú", "Equador": "Ecuador", "Colômbia": "Colombia", "Venezuela": "Venezuela",
+    "Guiana": "Guyana", "Suriname": "Surinam", "México": "México", "Guatemala": "Guatemala", "Belize": "Belice",
+    "Honduras": "Honduras", "El Salvador": "El Salvador", "Nicarágua": "Nicaragua", "Costa Rica": "Costa Rica",
+    "Panamá": "Panamá", "Cuba": "Cuba", "República Dominicana": "República Dominicana", "Haiti": "Haití",
+    "Porto Rico": "Puerto Rico", "Jamaica": "Jamaica", "Trinidad e Tobago": "Trinidad y Tobago",
+    "Estados Unidos": "Estados Unidos", "Japão": "Japón", "Indonésia": "Indonesia", "Irã": "Irán", "Paquistão": "Pakistán",
+  },
+  en: {
+    "Brasil": "Brazil", "Argentina": "Argentina", "Chile": "Chile", "Uruguai": "Uruguay", "Paraguai": "Paraguay",
+    "Bolívia": "Bolivia", "Peru": "Peru", "Equador": "Ecuador", "Colômbia": "Colombia", "Venezuela": "Venezuela",
+    "Guiana": "Guyana", "Suriname": "Suriname", "México": "Mexico", "Guatemala": "Guatemala", "Belize": "Belize",
+    "Honduras": "Honduras", "El Salvador": "El Salvador", "Nicarágua": "Nicaragua", "Costa Rica": "Costa Rica",
+    "Panamá": "Panama", "Cuba": "Cuba", "República Dominicana": "Dominican Republic", "Haiti": "Haiti",
+    "Porto Rico": "Puerto Rico", "Jamaica": "Jamaica", "Trinidad e Tobago": "Trinidad and Tobago",
+    "Estados Unidos": "United States", "Japão": "Japan", "Indonésia": "Indonesia", "Irã": "Iran", "Paquistão": "Pakistan",
+  },
+};
+
+function traduzirPais(paisPt) {
+  if (!paisPt) return "";
+  const idioma = idiomaAtual();
+  if (idioma === "pt") return paisPt;
+  const mapa = NOMES_PAIS[idioma];
+  return (mapa && mapa[paisPt]) || paisPt;
+}
+
+function traduzirRegiao(regiaoPt) {
+  const idioma = idiomaAtual();
+  return (NOMES_REGIAO[idioma] && NOMES_REGIAO[idioma][regiaoPt]) || regiaoPt;
+}
+
+/** Rótulo "CATEGORIA · PAÍS" usado nos selos das matérias, com fallback
+ *  gracioso pra matérias antigas que ainda não tenham o campo `pais`. */
+function rotuloCategoriaPais(artigo) {
+  const categoria = traduzirCategoria(artigo.categoria);
+  if (!artigo.pais) return categoria;
+  return `${categoria} · ${traduzirPais(artigo.pais)}`;
+}
+
 function campoIdioma(artigo, campo) {
   const idioma = idiomaAtual();
   if (idioma === "pt") return artigo[campo];
