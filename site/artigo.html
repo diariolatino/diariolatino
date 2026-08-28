@@ -86,8 +86,10 @@ function linkMateria(artigo) {
 
 function figuraImagem(imagem) {
   if (!imagem) return "";
+  const nomeFonte = imagem.fonte_nome || 'Pexels';
+  const linkFonte = imagem.fonte_url || imagem.pexels_url;
   return `<figure><img src="${imagem.url}" alt="">
-    <figcaption class="credito-foto">Foto: <a href="${imagem.photographer_url}" target="_blank" rel="noopener">${imagem.photographer}</a> / <a href="${imagem.pexels_url}" target="_blank" rel="noopener">Pexels</a><br>${t('notaIlustrativa')}</figcaption></figure>`;
+    <figcaption class="credito-foto">Foto: <a href="${imagem.photographer_url}" target="_blank" rel="noopener">${imagem.photographer}</a> / <a href="${linkFonte}" target="_blank" rel="noopener">${nomeFonte}</a><br>${t('notaIlustrativa')}</figcaption></figure>`;
 }
 
 function linkFontes(artigo) {

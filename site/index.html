@@ -125,8 +125,10 @@
       const foto = artigo
         ? `<a href="${linkMateria(artigo)}"><img src="${imagem.url}" alt="" loading="lazy"></a>`
         : `<img src="${imagem.url}" alt="" loading="lazy">`;
+      const nomeFonte = imagem.fonte_nome || 'Pexels';
+      const linkFonte = imagem.fonte_url || imagem.pexels_url;
       return `${foto}
-        <figcaption class="credito-foto">Foto: <a href="${imagem.photographer_url}" target="_blank" rel="noopener">${imagem.photographer}</a> / <a href="${imagem.pexels_url}" target="_blank" rel="noopener">Pexels</a><br>${t('notaIlustrativa')}</figcaption>`;
+        <figcaption class="credito-foto">Foto: <a href="${imagem.photographer_url}" target="_blank" rel="noopener">${imagem.photographer}</a> / <a href="${linkFonte}" target="_blank" rel="noopener">${nomeFonte}</a><br>${t('notaIlustrativa')}</figcaption>`;
     }
     
     function linkMateria(artigo) {
@@ -299,7 +301,7 @@
           </div>
         </div>`).join('');
     
-      const grade = resto.slice(5, 17);
+      const grade = resto.slice(5, 29);
       document.getElementById('secao-grade').innerHTML = grade.map(a => `
         <article class="coluna">
           <span class="selo">${rotuloCategoriaPais(a)}</span>
@@ -309,7 +311,7 @@
           <div class="meta"><span>${formatarData(a.publicado_em)}</span></div>
         </article>`).join('');
     
-      const maisNoticias = resto.slice(17);
+      const maisNoticias = resto.slice(29);
       if (maisNoticias.length) {
         document.getElementById('secao-radar').style.display = 'block';
         document.getElementById('radar-lista').innerHTML = maisNoticias.map(a => `

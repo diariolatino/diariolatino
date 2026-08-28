@@ -51,8 +51,20 @@ neutro (latino-americano, não o de Espanha) e uma versão em inglês, ambas tra
 fiéis e fluentes do título, lead e corpo em português — mesmo conteúdo factual, \
 adaptado naturalmente ao idioma (não é preciso reextrair fatos, é tradução jornalística \
 de qualidade).
-5. Sugerir 1 a 2 palavras-chave em inglês pra busca de imagem no banco Pexels (ex: \
-"port cargo ship", "government building").
+5. Sugerir de 2 a 3 frases de busca em inglês pra encontrar uma foto editorial \
+relevante em bancos de imagem (Pexels, Pixabay, Unsplash, Openverse), da mais \
+específica pra mais genérica. Regras importantes pra evitar foto errada:
+   - Cada item deve ser uma frase de busca pronta (ex: "Brazil presidential \
+election campaign rally"), não uma palavra solta.
+   - Se a matéria tem um país central, a frase MAIS específica deve incluir \
+o nome desse país em inglês (ex: "Brazil election" e não só "election") — \
+sem isso, bancos de imagem tendem a devolver o resultado mais popular pro \
+termo em inglês, que costuma ser dos EUA, criando incoerências como uma \
+matéria sobre eleição no Brasil vir ilustrada com bandeira americana.
+   - Prefira termos concretos e fotografáveis (prédio, bandeira do país \
+certo, multidão, tribunal, porto, plantação) a conceitos abstratos.
+   - As frases seguintes podem afrouxar a especificidade (tirar o país, por \
+exemplo) só como plano B, caso a mais específica não retorne nada.
 6. Sugerir 1 categoria dentre exatamente estas opções (grafia exata, inclusive \
 maiúsculas): Política, Economia, Mundo, Segurança, Mercosul, Sociedade, Ciência & Ambiente.
    - Política: eleições, governo, congresso, partidos, corrupção, crises institucionais.

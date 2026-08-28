@@ -3,6 +3,9 @@ import os
 # ---- chaves (vêm dos GitHub Secrets em produção) ----
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 PEXELS_API_KEY = os.environ.get("PEXELS_API_KEY", "")
+PIXABAY_API_KEY = os.environ.get("PIXABAY_API_KEY", "")
+UNSPLASH_ACCESS_KEY = os.environ.get("UNSPLASH_ACCESS_KEY", "")
+# Openverse não exige chave — funciona mesmo se nenhuma das acima estiver configurada.
 
 # ---- limites por execução (proteger cota gratuita do Gemini/Pexels) ----
 MAX_ARTIGOS_POR_EXECUCAO = int(os.environ.get("MAX_ARTIGOS_POR_EXECUCAO", "3"))

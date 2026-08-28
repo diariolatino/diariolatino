@@ -81,7 +81,7 @@ button { font-family: inherit; }
 /* ===== MASTHEAD (nameplate clássico, à la NYT/WSJ/The Economist) ===== */
 .masthead {
   text-align: center;
-  padding: 30px 20px 26px;
+  padding: 26px 20px 22px;
 }
 .masthead .kicker {
   font-family: 'Source Sans 3', sans-serif;
@@ -90,7 +90,7 @@ button { font-family: inherit; }
   letter-spacing: 0.3em;
   text-transform: uppercase;
   color: var(--verde);
-  margin-bottom: 14px;
+  margin-bottom: 6px;
 }
 .masthead-titulo,
 .masthead-link {
@@ -116,7 +116,7 @@ button { font-family: inherit; }
   line-height: 1;
 }
 .masthead .tagline {
-  margin-top: 10px;
+  margin-top: 4px;
   font-size: 13px;
   color: #55554e;
   font-style: italic;
@@ -144,17 +144,21 @@ nav.categorias .wrap {
   align-items: center;
   justify-content: space-between;
   gap: 20px;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
 }
 nav.categorias ul {
   list-style: none;
   margin: 0;
   padding: 0;
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 0;
   overflow-x: auto;
+  scrollbar-width: none;
+  min-width: 0;
+  flex: 1 1 auto;
 }
+nav.categorias ul::-webkit-scrollbar { display: none; }
 nav.categorias li { position: relative; }
 nav.categorias li + li::before {
   content: "";
@@ -341,12 +345,16 @@ nav.categorias button.categoria-link.ativo::after { transform: scaleX(1); }
 }
 
 @media (max-width: 860px) {
-  nav.categorias ul { justify-content: flex-start; }
-  .busca-nav { width: 100%; flex-wrap: wrap; padding: 6px 0 10px; }
-  .busca-caixa { flex: 1; min-width: 0; }
-  .busca-caixa input { width: 100%; }
-  .busca-caixa:focus-within input { width: 100%; }
-  .filtro-pais-painel { left: 0; right: 0; }
+  .busca-caixa input { width: 90px; }
+  .busca-caixa:focus-within input { width: 120px; }
+  .filtro-pais-botao span#filtro-pais-label { display: none; }
+  .filtro-pais-botao { padding: 8px 10px; }
+  .filtro-pais-painel { left: auto; right: 0; }
+}
+@media (max-width: 600px) {
+  .busca-caixa { padding: 6px 10px; }
+  .busca-caixa input { width: 70px; }
+  .busca-caixa:focus-within input { width: 90px; }
 }
 
 /* ===== SELOS (categoria · país) ===== */
@@ -667,7 +675,7 @@ article.coluna .meta { font-size: 10.5px; color: #8a8a80; }
 
 /* ===== RODAPÉ DO SITE ===== */
 footer {
-  background: var(--verde);
+  background: var(--terracota);
   color: var(--papel);
   margin-top: 20px;
   padding: 34px 0 26px;

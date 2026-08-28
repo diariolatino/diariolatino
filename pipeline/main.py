@@ -5,15 +5,16 @@ from .filter_relevance import filtrar
 from .diversidade import intercalar_por_categoria
 from .generate_text import gerar_materia
 from .similarity_check import checar_originalidade
-from .image_pexels import buscar_imagem
+from .image_search import buscar_imagem
 from .publish import ja_publicado, publicar, enviar_para_revisao
 
 
 def rodar():
     if not config.GEMINI_API_KEY:
         raise SystemExit("GEMINI_API_KEY não configurada (confira os GitHub Secrets).")
-    if not config.PEXELS_API_KEY:
-        raise SystemExit("PEXELS_API_KEY não configurada (confira os GitHub Secrets).")
+    if not (config.PEXELS_API_KEY or config.PIXABAY_API_KEY or config.UNSPLASH_ACCESS_KEY):
+        print("[aviso] nenhuma chave de banco de imagem paga configurada (Pexels/Pixabay/Unsplash) — "
+              "seguindo só com Openverse, que não exige chave.")
 
     print("Coletando candidatos...")
     candidatos = coletar_gdelt() + coletar_agencia_brasil()
@@ -53,7 +54,7 @@ def rodar():
             enviar_para_revisao(materia, candidato, resultado_check["detalhes"])
             continue
 
-        imagem = buscar_imagem(materia.get("palavras_chave_imagem", []))
+        imagem = buscar_imagem(materia.get("palavras_chave_imagem", []), pais=materia.get("pais"))
         artigo = publicar(materia, candidato, imagem)
         categorias_usadas_nesta_execucao.add(categoria)
         publicados += 1
