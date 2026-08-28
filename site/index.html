@@ -31,7 +31,13 @@
             </svg>
             <input type="search" id="campo-busca" placeholder="">
           </div>
-          <select id="filtro-pais" aria-label="Filtrar por país"></select>
+          <div class="filtro-pais-dropdown" id="filtro-pais-dropdown">
+            <button type="button" class="filtro-pais-botao" id="filtro-pais-botao" aria-haspopup="listbox" aria-expanded="false">
+              <span id="filtro-pais-label"></span>
+              <svg class="seta-dropdown" viewBox="0 0 10 6" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M0 0l5 6 5-6z"/></svg>
+            </button>
+            <div class="filtro-pais-painel" id="filtro-pais-painel" role="listbox"></div>
+          </div>
         </div>
       </div>
     </nav>
@@ -79,12 +85,14 @@
           <div>
             <ul>
               <h6 id="footer-secoes-titulo"></h6>
-              <li class="footer-secao-item" data-pt="Política">Política</li>
-              <li class="footer-secao-item" data-pt="Economia">Economia</li>
-              <li class="footer-secao-item" data-pt="Mundo">Mundo</li>
-              <li class="footer-secao-item" data-pt="Segurança">Segurança</li>
-              <li class="footer-secao-item" data-pt="Mercosul">Mercosul</li>
-              <li class="footer-secao-item" data-pt="Sociedade">Sociedade</li>
+              <li class="footer-secao-item" data-pt="América do Sul">América do Sul</li>
+              <li class="footer-secao-item" data-pt="Diplomacia & Relações Internacionais">Diplomacia & Relações Internacionais</li>
+              <li class="footer-secao-item" data-pt="Segurança & Crime Organizado">Segurança & Crime Organizado</li>
+              <li class="footer-secao-item" data-pt="Brics">Brics</li>
+              <li class="footer-secao-item" data-pt="Mercosul & UE">Mercosul & UE</li>
+              <li class="footer-secao-item" data-pt="G20 & IBAS">G20 & IBAS</li>
+              <li class="footer-secao-item" data-pt="CPLP">CPLP</li>
+              <li class="footer-secao-item" data-pt="Economia Global">Economia Global</li>
               <li class="footer-secao-item" data-pt="Ciência & Ambiente">Ciência &amp; Ambiente</li>
             </ul>
           </div>
@@ -109,18 +117,9 @@
     <script src="header.js"></script>
     <script src="i18n.js"></script>
     <script>
-    const CATEGORIAS_ORDEM = ["Política", "Economia", "Mundo", "Segurança", "Mercosul", "Sociedade", "Ciência & Ambiente"];
-
-    const PAISES_POR_REGIAO = {
-      "América do Sul": ["Argentina", "Bolívia", "Brasil", "Chile", "Colômbia", "Equador", "Paraguai", "Peru", "Uruguai", "Venezuela"],
-      "América Central": ["Costa Rica", "El Salvador", "Guatemala", "Honduras", "Nicarágua", "Panamá"],
-      "América do Norte": ["México"],
-      "Caribe": ["Cuba", "Haiti", "Porto Rico", "República Dominicana"],
-    };
-    
     let TODOS_ARTIGOS = [];
     let CATEGORIA_ATIVA = "todas";
-    let PAIS_ATIVO = "todos";
+    let FILTRO_LOCAL = { tipo: "todos", valor: null };
     let TERMO_BUSCA = "";
     
     function figuraImagem(imagem, artigo) {
@@ -186,19 +185,58 @@
     }
 
     function montarFiltroPais() {
-      const select = document.getElementById('filtro-pais');
-      const grupos = Object.entries(PAISES_POR_REGIAO).map(([regiao, paises]) => `
-        <optgroup label="${regiao}">
-          ${paises.map(p => `<option value="${p}">${p}</option>`).join('')}
-        </optgroup>
-      `).join('');
-      select.innerHTML = `<option value="todos">${t('filtroPaisTodos')}</option>${grupos}`;
-      select.value = PAIS_ATIVO;
+      const dropdown = document.getElementById('filtro-pais-dropdown');
+      const botao = document.getElementById('filtro-pais-botao');
+      const label = document.getElementById('filtro-pais-label');
+      const painel = document.getElementById('filtro-pais-painel');
 
-      select.addEventListener('change', () => {
-        PAIS_ATIVO = select.value;
-        renderizarConteudo();
+      label.textContent = FILTRO_LOCAL.tipo === 'pais' ? traduzirPais(FILTRO_LOCAL.valor)
+        : FILTRO_LOCAL.tipo === 'regiao' ? traduzirRegiao(FILTRO_LOCAL.valor)
+        : t('filtroPaisTodos');
+
+      const itemTodos = `
+        <button type="button" class="filtro-pais-item filtro-pais-item--todos${FILTRO_LOCAL.tipo === 'todos' ? ' ativo' : ''}" data-tipo="todos">${t('filtroPaisTodos')}</button>`;
+
+      const grupos = REGIOES_ORDEM.map(regiao => `
+        <div class="filtro-pais-grupo">
+          <button type="button" class="filtro-pais-regiao${FILTRO_LOCAL.tipo === 'regiao' && FILTRO_LOCAL.valor === regiao ? ' ativo' : ''}" data-tipo="regiao" data-valor="${regiao}">${traduzirRegiao(regiao)}</button>
+          ${PAISES_POR_REGIAO[regiao].map(pais => `
+            <button type="button" class="filtro-pais-item${FILTRO_LOCAL.tipo === 'pais' && FILTRO_LOCAL.valor === pais ? ' ativo' : ''}" data-tipo="pais" data-valor="${pais}">${traduzirPais(pais)}</button>
+          `).join('')}
+        </div>`).join('');
+
+      painel.innerHTML = itemTodos + grupos;
+
+      painel.querySelectorAll('[data-tipo]').forEach(el => {
+        el.addEventListener('click', () => {
+          const tipo = el.dataset.tipo;
+          FILTRO_LOCAL = tipo === 'todos' ? { tipo: 'todos', valor: null } : { tipo, valor: el.dataset.valor };
+          fecharFiltroPais();
+          montarFiltroPais();
+          renderizarConteudo();
+        });
       });
+
+      if (!botao.dataset.ligado) {
+        botao.dataset.ligado = '1';
+        botao.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const aberto = dropdown.classList.toggle('aberto');
+          botao.setAttribute('aria-expanded', aberto ? 'true' : 'false');
+        });
+        document.addEventListener('click', (e) => {
+          if (!dropdown.contains(e.target)) fecharFiltroPais();
+        });
+        document.addEventListener('keydown', (e) => {
+          if (e.key === 'Escape') fecharFiltroPais();
+        });
+      }
+    }
+
+    function fecharFiltroPais() {
+      const dropdown = document.getElementById('filtro-pais-dropdown');
+      dropdown.classList.remove('aberto');
+      document.getElementById('filtro-pais-botao').setAttribute('aria-expanded', 'false');
     }
     
     function artigosFiltrados() {
@@ -206,8 +244,11 @@
       if (CATEGORIA_ATIVA !== 'todas') {
         lista = lista.filter(a => a.categoria === CATEGORIA_ATIVA);
       }
-      if (PAIS_ATIVO !== 'todos') {
-        lista = lista.filter(a => a.pais === PAIS_ATIVO);
+      if (FILTRO_LOCAL.tipo === 'pais') {
+        lista = lista.filter(a => a.pais === FILTRO_LOCAL.valor);
+      } else if (FILTRO_LOCAL.tipo === 'regiao') {
+        const paisesDaRegiao = PAISES_POR_REGIAO[FILTRO_LOCAL.valor] || [];
+        lista = lista.filter(a => paisesDaRegiao.includes(a.pais));
       }
       if (TERMO_BUSCA.trim()) {
         const termo = TERMO_BUSCA.trim().toLowerCase();
@@ -241,7 +282,7 @@
       const [principal, ...resto] = artigos;
     
       document.getElementById('secao-destaque').style.display = 'grid';
-      document.getElementById('destaque-categoria').textContent = traduzirCategoria(principal.categoria);
+      document.getElementById('destaque-categoria').textContent = rotuloCategoriaPais(principal);
       document.getElementById('destaque-figura').innerHTML = figuraImagem(principal.imagem, principal);
       document.getElementById('destaque-titulo').innerHTML = `<a class="link-esticado" href="${linkMateria(principal)}">${campoIdioma(principal, 'titulo')}</a>`;
       document.getElementById('destaque-lead').textContent = campoIdioma(principal, 'lead');
@@ -249,32 +290,32 @@
       document.getElementById('destaque-data').textContent = formatarData(principal.publicado_em);
       document.getElementById('destaque-fontes').innerHTML = linkFontes(principal);
     
-      const ultimas = resto.slice(0, 4);
+      const ultimas = resto.slice(0, 5);
       document.getElementById('lista-ultimas').innerHTML = ultimas.map(a => `
         <div class="item-ultima">
           ${a.imagem ? `<a class="item-ultima-foto" href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : ''}
           <div class="item-ultima-corpo">
-            <span class="selo">${traduzirCategoria(a.categoria)}</span>
+            <span class="selo">${rotuloCategoriaPais(a)}</span>
             <h4><a class="link-esticado" href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h4>
             <div class="hora">${formatarData(a.publicado_em)}</div>
           </div>
         </div>`).join('');
     
-      const grade = resto.slice(4, 7);
+      const grade = resto.slice(5, 17);
       document.getElementById('secao-grade').innerHTML = grade.map(a => `
         <article class="coluna">
-          <span class="selo">${traduzirCategoria(a.categoria)}</span>
+          <span class="selo">${rotuloCategoriaPais(a)}</span>
           ${a.imagem ? `<a href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : ''}
           <h3><a class="link-esticado" href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h3>
           <p class="dek">${campoIdioma(a, 'lead')}</p>
           <div class="meta"><span>${formatarData(a.publicado_em)}</span></div>
         </article>`).join('');
     
-      const maisNoticias = resto.slice(7);
+      const maisNoticias = resto.slice(17);
       if (maisNoticias.length) {
         document.getElementById('secao-radar').style.display = 'block';
         document.getElementById('radar-lista').innerHTML = maisNoticias.map(a => `
-          <a class="radar-item" href="${linkMateria(a)}"><span class="pais">${traduzirCategoria(a.categoria)}</span>${campoIdioma(a, 'titulo')}</a>`).join('');
+          <a class="radar-item" href="${linkMateria(a)}"><span class="pais">${a.pais ? traduzirPais(a.pais) : traduzirCategoria(a.categoria)}</span>${campoIdioma(a, 'titulo')}</a>`).join('');
       }
     }
     
