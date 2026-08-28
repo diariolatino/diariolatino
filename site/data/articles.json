@@ -1,5 +1,37 @@
 [
   {
+    "id": "e0dc7551-3b5a-44f0-b3e7-ffa56d027970",
+    "titulo": "Reginaldo Lopes é indicado para presidir comissão da MP que isenta compras internacionais no Brasil",
+    "lead": "O presidente da Câmara dos Deputados, Hugo Motta, indicou o deputado Reginaldo Lopes para presidir a comissão mista da Medida Provisória 1357/26, que propõe o fim do imposto de importação sobre compras do exterior de até 50 dólares.",
+    "corpo": "O anúncio ocorreu após uma reunião no Palácio da Alvorada entre a liderança do Congresso e o presidente Luiz Inácio Lula da Silva. Ficou acertado que a proposta, que extingue a alíquota federal de 20% cobrada sobre pequenas encomendas internacionais — conhecida como \"taxa das blusinhas\" —, será votada durante um esforço concentrado no Congresso Nacional programado para a primeira semana de setembro. A urgência da apreciação se deve ao prazo de validade da Medida Provisória, que expira no próximo mês.\n\nA relatoria do texto na comissão mista ficará a cargo de um integrante a ser indicado pelo Senado Federal. De acordo com congressistas, a eliminação da taxa atende a uma demanda de consumidores locais por alívio financeiro nas aquisições realizadas em plataformas digitais estrangeiras.\n\nAlém da medida referente ao comércio eletrônico, o alinhamento entre os poderes Executivo e Legislativo definiu a inclusão de outras matérias de impacto social e econômico na pauta de votações da próxima semana. Entre os projetos prioritários acordados estão a Proposta de Emenda à Constituição referente ao fim da jornada de trabalho no formato 6x1, a PEC da Segurança Pública, a regulamentação do regime tributário especial para serviços de datacenter (Redata) e a proposta que institui a Política Nacional de Minerais Críticos e Estratégicos.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-08-28T22:04:43.687492+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/hugo-motta-indica-presidente-da-comissao-da-mp-da-taxa-das-blusinhas",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/30179028/pexels-photo-30179028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "João  Pavese",
+      "photographer_url": "https://www.pexels.com/@bangalo",
+      "pexels_url": "https://www.pexels.com/photo/brazilian-national-congress-architecture-30179028/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Reginaldo Lopes encabezará la comisión que evaluará el fin del impuesto a compras internacionales en Brasil",
+        "lead": "El presidente de la Cámara de Diputados de Brasil, Hugo Motta, designó al diputado Reginaldo Lopes para presidir la comisión mixta que analizará la Medida Provisional 1357/26, iniciativa que busca eliminar el arancel a las importaciones individuales de hasta 50 dólares.",
+        "corpo": "El anuncio se realizó tras una reunión en el Palacio de la Alvorada entre líderes legislativos y el presidente Luiz Inácio Lula da Silva. Durante el encuentro, se acordó someter a votación la propuesta —que elimina la tasa federal del 20% sobre pequeñas compras en plataformas digitales— en un esfuerzo concentrado del Congreso programado para la primera semana de septiembre, dado que la norma perderá validez si no se aprueba antes de que finalice el mes.\n\nLa ponencia del texto en la comisión mixta estará a cargo de un senador designado por el Senado Federal. Según los legisladores, la supresión del gravamen atiende a las demandas de los consumidores por reducir la carga tributaria en el comercio electrónico internacional.\n\nAsimismo, la agenda pactada entre el Gobierno y el Congreso contempla el tratamiento de otras iniciativas de relevante impacto económico y social. Entre los proyectos incluidos figuran la propuesta de reforma constitucional para poner fin a la jornada laboral de seis días de trabajo por uno de descanso, una reforma en materia de seguridad pública, la creación de un régimen tributario especial para centros de datos (Redata) y la ley marco sobre minerales críticos y estratégicos."
+      },
+      "en": {
+        "titulo": "Brazil’s House Speaker Appoints Head of Committee on Import Tax Exemption Bill",
+        "lead": "The President of the Brazilian House of Deputies, Hugo Motta, has appointed Representative Reginaldo Lopes to chair the joint committee reviewing Provisional Measure 1357/26, which aims to abolish import taxes on international purchases under $50.",
+        "corpo": "The announcement followed a meeting at the Alvorada Palace between legislative leaders and President Luiz Inácio Lula da Silva. The leaders agreed to vote on the proposal—which eliminates the 20% federal tax on small cross-border e-commerce purchases—during a legislative push scheduled for the first week of September. The urgency stems from the measure’s expiration date in the coming month.\n\nThe reporting of the measure within the joint committee will be assigned to a representative selected by the Federal Senate. According to lawmakers, removing the duty responds to public calls for lower taxes on digital purchases from foreign retailers.\n\nIn addition to the online retail tax measure, the agreement between the executive and legislative branches prioritizes several other economic and social initiatives. The legislative agenda for the upcoming voting push includes a constitutional amendment to end the 6x1 workweek schedule, a public security reform, a special tax regime for data centers, and a policy proposal for critical and strategic minerals."
+      }
+    }
+  },
+  {
     "id": "b4bd8898-5bb3-4c52-bc27-de14ff1d75ec",
     "titulo": "Candidatos à Presidência do Brasil intensificam agendas de campanha pelo país",
     "lead": "Os postulantes ao Palácio do Planalto cumpriram agendas movimentadas nesta quinta-feira (27), com sabatinas na imprensa, visitas a infraestruturas e encontros com eleitores em diversos estados.",
