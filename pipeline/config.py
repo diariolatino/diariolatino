@@ -18,7 +18,7 @@ MAX_ARTIGOS_POR_EXECUCAO = int(os.environ.get("MAX_ARTIGOS_POR_EXECUCAO", "1"))
 # sem isso, uma lista grande de candidatos poderia consumir dezenas de
 # chamadas à API numa hora só e estourar a cota gratuita antes da hora
 # seguinte.
-MAX_TENTATIVAS_GEMINI_POR_EXECUCAO = int(os.environ.get("MAX_TENTATIVAS_GEMINI_POR_EXECUCAO", "6"))
+MAX_TENTATIVAS_GEMINI_POR_EXECUCAO = int(os.environ.get("MAX_TENTATIVAS_GEMINI_POR_EXECUCAO", "3"))
 MAX_ARTIGOS_NO_SITE = 60  # quantos artigos ficam guardados no articles.json
 
 # ---- checagem de similaridade ----
