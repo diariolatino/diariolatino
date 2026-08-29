@@ -99,6 +99,20 @@ Responda SOMENTE em JSON válido, neste formato exato, sem markdown, sem texto f
 """
 
 
+class CotaGeminiExcedida(Exception):
+    """Levantada quando a API do Gemini responde 429 (cota gratuita ou
+    limite de taxa esgotado). Diferente de outras falhas (candidato ruim,
+    JSON malformado etc.), não adianta insistir no próximo candidato —
+    o chamador deve parar a execução mais cedo pra não desperdiçar
+    chamadas contra uma cota que já está zerada."""
+    pass
+
+
+def _eh_erro_de_cota(e: Exception) -> bool:
+    resp = getattr(e, "response", None)
+    return resp is not None and getattr(resp, "status_code", None) == 429
+
+
 def _carregar_cache() -> dict | None:
     if os.path.exists(config.GEMINI_MODEL_CACHE_PATH):
         try:
@@ -190,6 +204,8 @@ def _obter_resposta_gemini(corpo_requisicao: dict) -> dict:
         try:
             return _chamar_generate_content(cache["modelo"], corpo_requisicao)
         except Exception as e:
+            if _eh_erro_de_cota(e):
+                raise CotaGeminiExcedida(str(e)) from e
             print(f"[gemini] modelo em cache '{cache['modelo']}' falhou ({e}); redescobrindo...")
 
     candidatos = _listar_modelos_candidatos()
@@ -197,6 +213,7 @@ def _obter_resposta_gemini(corpo_requisicao: dict) -> dict:
         raise RuntimeError("nenhum modelo Gemini com suporte a geração de texto foi encontrado")
 
     ultimo_erro = None
+    algum_erro_de_cota = False
     for nome_modelo in candidatos:
         try:
             dados = _chamar_generate_content(nome_modelo, corpo_requisicao)
@@ -204,8 +221,14 @@ def _obter_resposta_gemini(corpo_requisicao: dict) -> dict:
             return dados
         except Exception as e:
             ultimo_erro = e
+            if _eh_erro_de_cota(e):
+                algum_erro_de_cota = True
             print(f"[gemini] modelo '{nome_modelo}' indisponível ({e}); tentando o próximo...")
 
+    if algum_erro_de_cota:
+        raise CotaGeminiExcedida(
+            f"cota/limite de taxa do Gemini atingido em todos os modelos testados. Último erro: {ultimo_erro}"
+        )
     raise RuntimeError(f"todos os modelos candidatos falharam. Último erro: {ultimo_erro}")
 
 
@@ -231,6 +254,8 @@ def gerar_materia(candidato: dict) -> dict | None:
         dados = _obter_resposta_gemini(corpo_requisicao)
         texto_bruto = dados["candidates"][0]["content"]["parts"][0]["text"]
         return _extrair_json(texto_bruto)
+    except CotaGeminiExcedida:
+        raise
     except Exception as e:
         print(f"[gemini] falha ao gerar matéria para '{candidato.get('titulo')}': {e}")
         return None

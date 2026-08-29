@@ -8,7 +8,17 @@ UNSPLASH_ACCESS_KEY = os.environ.get("UNSPLASH_ACCESS_KEY", "")
 # Openverse não exige chave — funciona mesmo se nenhuma das acima estiver configurada.
 
 # ---- limites por execução (proteger cota gratuita do Gemini/Pexels) ----
-MAX_ARTIGOS_POR_EXECUCAO = int(os.environ.get("MAX_ARTIGOS_POR_EXECUCAO", "3"))
+# 1 artigo por execução: o workflow já roda 1x/hora, então isso garante o
+# ritmo de "1 notícia por hora" em vez de publicar várias de uma vez e
+# esgotar a cota gratuita do Gemini ainda de manhã.
+MAX_ARTIGOS_POR_EXECUCAO = int(os.environ.get("MAX_ARTIGOS_POR_EXECUCAO", "1"))
+# quantas tentativas de geração (chamadas ao Gemini) o pipeline pode fazer
+# numa única execução antes de desistir, mesmo que nenhuma vire matéria
+# publicável (candidato ruim, muito parecido com outra matéria etc.) —
+# sem isso, uma lista grande de candidatos poderia consumir dezenas de
+# chamadas à API numa hora só e estourar a cota gratuita antes da hora
+# seguinte.
+MAX_TENTATIVAS_GEMINI_POR_EXECUCAO = int(os.environ.get("MAX_TENTATIVAS_GEMINI_POR_EXECUCAO", "6"))
 MAX_ARTIGOS_NO_SITE = 60  # quantos artigos ficam guardados no articles.json
 
 # ---- checagem de similaridade ----

@@ -3,7 +3,7 @@ from .sources_gdelt import coletar_gdelt
 from .sources_rss import coletar_agencia_brasil, coletar_radar
 from .filter_relevance import filtrar
 from .diversidade import intercalar_por_categoria
-from .generate_text import gerar_materia
+from .generate_text import gerar_materia, CotaGeminiExcedida
 from .similarity_check import checar_originalidade
 from .image_search import buscar_imagem
 from .publish import ja_publicado, publicar, enviar_para_revisao
@@ -27,17 +27,28 @@ def rodar():
     print(f"  {len(candidatos)} candidatos relevantes, inéditos e intercalados por tema")
 
     publicados = 0
+    tentativas_gemini = 0
     categorias_usadas_nesta_execucao = set()
 
     for candidato in candidatos:
         if publicados >= config.MAX_ARTIGOS_POR_EXECUCAO:
+            break
+        if tentativas_gemini >= config.MAX_TENTATIVAS_GEMINI_POR_EXECUCAO:
+            print(f"  [limite] {tentativas_gemini} tentativas de geração nesta execução — "
+                  f"parando por aqui pra preservar cota das próximas horas.")
             break
 
         # GDELT só dá metadado (sem resumo) — pula se não tiver material mínimo
         if candidato["tipo"] == "metadado" and not candidato.get("titulo"):
             continue
 
-        materia = gerar_materia(candidato)
+        tentativas_gemini += 1
+        try:
+            materia = gerar_materia(candidato)
+        except CotaGeminiExcedida as e:
+            print(f"  [cota] limite gratuito do Gemini atingido nesta janela ({e}). "
+                  f"Encerrando a execução mais cedo — a próxima hora tenta de novo.")
+            break
         if not materia:
             continue
 
