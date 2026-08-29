@@ -1,5 +1,38 @@
 [
   {
+    "id": "468ca601-1e76-4394-be44-e6a7ed9bbfd5",
+    "titulo": "Empasse entre apresentadoras Magaly Medina e Gisela Valcárcel segue sem acordo para encontro",
+    "lead": "As duas figuras de destaque da televisão peruana mantêm posições divergentes sobre as condições para realizar uma reunião presencial. A falta de consenso quanto aos termos impede a concretização do diálogo.",
+    "corpo": "A relação de rivalidade e desentendimentos entre Magaly Medina e Gisela Valcárcel, duas das figuras mais conhecidas da televisão e do entretenimento no Peru, registra a manutenção de um impasse quanto às exigências estabelecidas por cada uma para a realização de um eventual encontro.\n\nAs divergências envolvem os termos, formatos e pré-requisitos exigidos por ambas as partes para aceitar a realização da reunião. Diante da ausência de um acordo mútuo sobre essas condições prévias, a possibilidade de um diálogo direto, seja público ou privado, permanece estagnada.\n\nO histórico de controvérsias entre as comunicadoras remonta a anos de concorrência por audiência na televisão peruana. O debate sobre as condições para uma aproximação reflete o interesse constante que as divergências entre as duas personalidades despertam no cenário da mídia do país.",
+    "categoria": "Sociedade",
+    "pais": "Peru",
+    "publicado_em": "2026-08-29T14:08:18.199250+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://rpp.pe/capital/espectaculos/magaly-medina-y-gisela-valcarcel-mantienen-su-impasse-por-un-encuentro-en-sus-condiciones-noticias-1704417",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/7865064/pexels-photo-7865064.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "SHAHBAZ ZAMAN",
+      "photographer_url": "https://www.pexels.com/@shahbazzaman",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/photo-of-a-studio-set-up-7865064/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Impasse entre las conductoras Magaly Medina y Gisela Valcárcel continúa sin acuerdo para un encuentro",
+        "lead": "Las dos reconocidas figuras de la televisión peruana mantienen posiciones encontradas sobre las condiciones necesarias para concretar una reunión presencial. La falta de consenso sobre los términos impide la concreción del diálogo.",
+        "corpo": "La relación de rivalidad y desencuentros entre Magaly Medina y Gisela Valcárcel, dos de las figuras más conocidas de la televisión y el entretenimiento en el Perú, registra la persistencia de un impasse respecto a las exigencias establecidas por cada una para llevar a cabo un eventual encuentro.\n\nLas discrepancias giran en torno a los términos, formatos y requisitos previos exigidos por ambas partes para aceptar la realización de la reunión. Ante la ausencia de un acuerdo mutuo sobre estas condiciones previas, la posibilidad de un diálogo directo, ya sea público o privado, permanece estancada.\n\nEl historial de controversias entre las comunicadoras abarca varios años de competencia por la audiencia en la televisión peruana. El debate continuo sobre las condiciones para una aproximación refleja el interés constante que sus diferencias generan en el ámbito mediático del país."
+      },
+      "en": {
+        "titulo": "Standoff Between TV Hosts Magaly Medina and Gisela Valcárcel Continues Without Agreement on Meeting Terms",
+        "lead": "Two of Peru's most prominent television figures remain at odds over the conditions required to hold an in-person meeting. The lack of consensus regarding the terms has stalled potential direct dialogue.",
+        "corpo": "The long-standing rivalry and public disagreements between Magaly Medina and Gisela Valcárcel, two of the most recognized personalities in Peruvian television and entertainment, remain at an impasse due to conflicting demands set by each host for a potential meeting.\n\nThe disagreements center on the terms, formats, and prerequisites required by both parties before agreeing to meet. In the absence of mutual consensus on these preliminary conditions, any prospect of direct dialogue, whether public or private, remains suspended.\n\nThe history of friction between the two broadcasters spans years of rating competition on Peruvian television. The ongoing debate over the prerequisites for a meeting underscores the persistent media attention surrounding their public relationship in the country."
+      }
+    }
+  },
+  {
     "id": "07503b2d-7774-4c6d-96b1-d55dddf4a23e",
     "titulo": "Fóssil raro de peixe pré-histórico de 254 milhões de anos é identificado em Mato Grosso",
     "lead": "Pesquisadores identificaram uma nova espécie de peixe pré-histórico excepcionalmente preservada no município de Alto Garças, em Mato Grosso. O achado, que data de cerca de 254 milhões de anos, lança luz sobre os ecossistemas sul-americanos que antecederam a maior extinção em massa da história do planeta.",
