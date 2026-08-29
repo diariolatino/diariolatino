@@ -1,5 +1,38 @@
 [
   {
+    "id": "83f0bc80-ca2f-4089-9f55-6eabba3ec9d4",
+    "titulo": "Justiça brasileira revoga prisão preventiva de chileno acusado de racismo",
+    "lead": "A Justiça no Brasil revogou a prisão preventiva de um cidadão chileno detido sob a acusação de racismo, determinando que ele responda ao processo mediante o uso de tornozeleira eletrônica.",
+    "corpo": "As autoridades judiciais brasileiras concederam a revogação da prisão preventiva a um cidadão de nacionalidade chilena que havia sido detido no país sob a acusação da prática de racismo. A decisão substitui a detenção por medidas cautelares alternativas, permitindo que o acusado aguarde o prosseguimento das investigações e dos trâmites legais fora do sistema penitenciário.\n\nComo parte das exigências estipuladas para a concessão da liberdade provisória, o investigado terá que utilizar uma tornozeleira eletrônica. O dispositivo de monitoramento remoto permitirá ao Poder Judiciário acompanhar a localização e assegurar o cumprimento das restrições de circulação impostas durante a vigência da medida cautelar.\n\nNo Brasil, os crimes resultantes de preconceito de raça ou de cor são objeto de legislação específica e rigorosa. A alteração da medida cautelar não encerra a apuração dos fatos nem isenta o acusado de eventuais responsabilidades penais, mantendo-se a obrigatoriedade de observância estrita a todas as condicionantes judiciais estabelecidas.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-08-29T11:08:46.832967+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.t13.cl/noticia/mundo/revocan-prision-preventiva-para-chileno-detenido-por-racismo-brasil-tendra-usar-29-8-2026",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/7108356/pexels-photo-7108356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Pavel Danilyuk",
+      "photographer_url": "https://www.pexels.com/@pavel-danilyuk",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-person-wearing-white-socks-7108356/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Justicia brasileña revoca prisión preventiva a chileno detenido por racismo y ordena uso de tobillera electrónica",
+        "lead": "La Justicia de Brasil revocó la prisión preventiva de un ciudadano chileno detenido bajo la acusación de racismo, determinando que enfrente el proceso mediante el uso de una tobillera electrónica.",
+        "corpo": "Las autoridades judiciales brasileñas concedieron la revocación de la prisión preventiva a un ciudadano chileno que había sido detenido en el país por la presunta comisión del delito de racismo. La resolución judicial sustituye la privación de libertad por medidas cautelares alternativas, permitiendo que el acusado enfrente el desarrollo de las investigaciones fuera de un centro penitenciario.\n\nComo parte de los requisitos fijados para la concesión de la libertad provisional, el investigado deberá portar una tobillera electrónica de monitoreo continuo. El dispositivo permitirá a las autoridades judiciales dar seguimiento a su localización y garantizar el cumplimiento de las restricciones de movilidad impuestas mientras permanezca vigente la medida cautelar.\n\nEn Brasil, los delitos derivados del prejuicio racial están tipificados bajo un marco normativo severo. La modificación de la medida preventiva no implica el cierre de la causa penal ni la exoneración del acusado, quien deberá cumplir de forma estricta las condiciones fijadas por el tribunal correspondiente."
+      },
+      "en": {
+        "titulo": "Brazilian Court Revokes Preventive Detention of Chilean Arrested for Racism",
+        "lead": "A Brazilian court has revoked the preventive detention of a Chilean citizen arrested on racism charges, ordering that he be monitored via an electronic ankle bracelet while awaiting trial.",
+        "corpo": "Brazilian judicial authorities have granted the revocation of preventive detention for a Chilean national who was being held in the country on racism charges. The ruling replaces prison detention with alternative precautionary measures, allowing the accused to await the continuation of legal proceedings outside of custody.\n\nAs part of the conditions established for provisional release, the individual will be required to wear an electronic monitoring ankle bracelet. The device will enable judicial authorities to track his location and ensure compliance with spatial restrictions imposed during the duration of the court order.\n\nIn Brazil, offenses related to racial discrimination are subject to strict legal frameworks. The adjustment of the precautionary measure does not conclude the investigation or clear the accused of potential criminal liability, requiring strict adherence to all judicial conditions set forth by the court."
+      }
+    }
+  },
+  {
     "id": "a4b7e599-3302-4d88-b9da-1404816ec97b",
     "titulo": "Rio de Janeiro cria canal público para denúncias e orientações sobre direitos de pessoas com autismo",
     "lead": "O governo do estado do Rio de Janeiro sancionou a legislação que institui o Disque Autismo, serviço voltado ao recebimento de denúncias de violência e violação de direitos contra pessoas com Transtorno do Espectro Autista.",
