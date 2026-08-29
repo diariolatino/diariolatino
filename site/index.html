@@ -25,18 +25,21 @@
         <ul id="lista-categorias"></ul>
         <div class="busca-nav">
           <div class="busca-caixa">
-            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <svg class="icone-busca" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
               <circle cx="11" cy="11" r="7" stroke-width="2"/>
               <line x1="21" y1="21" x2="16.65" y2="16.65" stroke-width="2" stroke-linecap="round"/>
             </svg>
             <input type="search" id="campo-busca" placeholder="">
-          </div>
-          <div class="filtro-pais-dropdown" id="filtro-pais-dropdown">
-            <button type="button" class="filtro-pais-botao" id="filtro-pais-botao" aria-haspopup="listbox" aria-expanded="false">
-              <span id="filtro-pais-label"></span>
-              <svg class="seta-dropdown" viewBox="0 0 10 6" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M0 0l5 6 5-6z"/></svg>
-            </button>
-            <div class="filtro-pais-painel" id="filtro-pais-painel" role="listbox"></div>
+            <div class="filtro-pais-dropdown" id="filtro-pais-dropdown">
+              <button type="button" class="filtro-pais-botao" id="filtro-pais-botao" aria-haspopup="listbox" aria-expanded="false" aria-label="Filtrar por país">
+                <svg class="icone-filtro" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <line x1="3" y1="6" x2="21" y2="6" stroke-width="2.5" stroke-linecap="round"/>
+                  <line x1="6.5" y1="12" x2="17.5" y2="12" stroke-width="2.5" stroke-linecap="round"/>
+                  <line x1="10" y1="18" x2="14" y2="18" stroke-width="2.5" stroke-linecap="round"/>
+                </svg>
+              </button>
+              <div class="filtro-pais-painel" id="filtro-pais-painel" role="listbox"></div>
+            </div>
           </div>
         </div>
       </div>
@@ -187,10 +190,10 @@
     function montarFiltroPais() {
       const dropdown = document.getElementById('filtro-pais-dropdown');
       const botao = document.getElementById('filtro-pais-botao');
-      const label = document.getElementById('filtro-pais-label');
       const painel = document.getElementById('filtro-pais-painel');
 
-      label.textContent = FILTRO_LOCAL.tipo === 'pais' ? traduzirPais(FILTRO_LOCAL.valor)
+      botao.classList.toggle('ativo', FILTRO_LOCAL.tipo !== 'todos');
+      botao.title = FILTRO_LOCAL.tipo === 'pais' ? traduzirPais(FILTRO_LOCAL.valor)
         : FILTRO_LOCAL.tipo === 'regiao' ? traduzirRegiao(FILTRO_LOCAL.valor)
         : t('filtroPaisTodos');
 
