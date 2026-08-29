@@ -90,7 +90,7 @@ button { font-family: inherit; }
   letter-spacing: 0.3em;
   text-transform: uppercase;
   color: var(--verde);
-  margin-bottom: 0px;
+  margin-bottom: -15px;
 }
 .masthead-titulo,
 .masthead-link {
@@ -116,7 +116,7 @@ button { font-family: inherit; }
   line-height: 1;
 }
 .masthead .tagline {
-  margin-top: 5px;
+  margin-top: -15px;
   font-size: 13px;
   color: #55554e;
   font-style: italic;
