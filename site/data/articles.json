@@ -1,5 +1,38 @@
 [
   {
+    "id": "6288475e-e952-4e90-abb3-be4eaa801621",
+    "titulo": "Javiera Tapia defende projeção da relevância cultural de Atacama além das fronteiras do Chile",
+    "lead": "Em declarações divulgadas pela imprensa local, Javiera Tapia manifestou o desejo de que a Região de Atacama resgate sua expressão cultural e alcance reconhecimento para além das fronteiras chilenas.",
+    "corpo": "A Região de Atacama, situada no norte do Chile e historicamente reconhecida por sua riqueza mineral e paisagens geográficas singulares, possui também uma identidade histórica e cultural que busca maior visibilidade. As afirmações de Javiera Tapia destacam a importância de valorizar o patrimônio local e impulsionar iniciativas que promovam o desenvolvimento cultural na região.\n\nDe acordo com as declarações veiculadas pelo veículo local Diario Chañarcillo, o objetivo principal é fazer com que a produção e o patrimônio cultural de Atacama voltem a ocupar um lugar de destaque no cenário regional e internacional. A busca por essa projeção envolve o fortalecimento das tradições locais, o apoio aos artistas e agentes culturais e a difusão da memória histórica regional.\n\nO debate sobre a descentralização cultural no Chile tem ganhado espaço, com diversos atores defendendo que regiões fora do eixo metropolitano de Santiago recebam investimentos e atenção para desenvolver seus próprios circuitos artísticos e turísticos. Nesse contexto, a valorização de Atacama reforça o papel do interior do país na construção da identidade cultural nacional e latino-americana.",
+    "categoria": "Sociedade",
+    "pais": "Chile",
+    "publicado_em": "2026-08-29T07:09:23.300464+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.chanarcillo.cl/javiera-tapia-me-encantaria-que-atacama-volviera-a-ser-una-region-culturalmente-relevante-mas-alla-de-nuestras-fronteras/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/20873970/pexels-photo-20873970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Patricio F. Kozow",
+      "photographer_url": "https://www.pexels.com/@patricio-f-kozow-247863892",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/turquoise-water-on-a-beach-20873970/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Javiera Tapia aboga por proyectar la relevancia cultural de Atacama más allá de las fronteras de Chile",
+        "lead": "En declaraciones difundidas por la prensa local, Javiera Tapia manifestó su deseo de que la Región de Atacama rescate su expresión cultural y alcance reconocimiento más allá de las fronteras chilenas.",
+        "corpo": "La Región de Atacama, ubicada en el norte de Chile y reconocible históricamente por su riqueza mineral y paisajes geográficos singulares, posee también una identidad histórica y cultural que busca mayor visibilidad. Las afirmaciones de Javiera Tapia destacan la importancia de valorizar el patrimonio local e impulsar iniciativas que promuevan el desarrollo cultural en la región.\n\nDe acuerdo con las declaraciones recogidas por el medio local Diario Chañarcillo, el objetivo principal es lograr que la producción y el patrimonio cultural de Atacama vuelvan a ocupar un lugar destacado en el escenario regional e internacional. La búsqueda de esta proyección involucra el fortalecimiento de las tradiciones locales, el apoyo a los artistas y gestores culturales y la difusión de la memoria histórica regional.\n\nEl debate sobre la descentralización cultural en Chile ha ido ganando espacio, con diversos actores defendiendo que las regiones fuera del eje metropolitano de Santiago reciban inversiones y atención para desarrollar sus propios circuitos artísticos y turísticos. En este contexto, la valorización de Atacama refuerza el papel del interior del país en la construcción de la identidad cultural nacional y latinoamericana."
+      },
+      "en": {
+        "titulo": "Javiera Tapia Advocates for Projecting Atacama's Cultural Relevance Beyond Chile's Borders",
+        "lead": "In statements reported by local media, Javiera Tapia expressed her wish for the Atacama Region to revitalize its cultural expression and achieve recognition beyond Chilean borders.",
+        "corpo": "The Atacama Region, located in northern Chile and historically recognized for its mineral wealth and unique geographical landscapes, also possesses a rich historical and cultural identity seeking broader visibility. Javiera Tapia's statements highlight the importance of valuing local heritage and promoting initiatives that drive cultural development across the region.\n\nAccording to statements published by local outlet Diario Chañarcillo, the main objective is to ensure that Atacama's cultural heritage and production regain a prominent place on both the regional and international stages. Pursuing this vision involves strengthening local traditions, supporting artists and cultural workers, and promoting the region's historical memory.\n\nThe debate surrounding cultural decentralization in Chile has gained traction, with various figures arguing that regions outside the Santiago metropolitan hub should receive investment and focus to build their own artistic and tourism circuits. In this context, placing greater value on Atacama highlights the role of the country's regions in shaping both national and Latin American cultural identity."
+      }
+    }
+  },
+  {
     "id": "b4bd8898-5bb3-4c52-bc27-de14ff1d75ec",
     "titulo": "Candidatos à Presidência do Brasil intensificam agendas de campanha pelo país",
     "lead": "Os postulantes ao Palácio do Planalto cumpriram agendas movimentadas nesta quinta-feira (27), com sabatinas na imprensa, visitas a infraestruturas e encontros com eleitores em diversos estados.",
