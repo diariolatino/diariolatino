@@ -90,7 +90,7 @@ button { font-family: inherit; }
   letter-spacing: 0.3em;
   text-transform: uppercase;
   color: var(--verde);
-  margin-bottom: -25px;
+  margin-bottom: -30px;
 }
 .masthead-titulo,
 .masthead-link {
