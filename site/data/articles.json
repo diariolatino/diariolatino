@@ -1,5 +1,38 @@
 [
   {
+    "id": "a4b7e599-3302-4d88-b9da-1404816ec97b",
+    "titulo": "Rio de Janeiro cria canal público para denúncias e orientações sobre direitos de pessoas com autismo",
+    "lead": "O governo do estado do Rio de Janeiro sancionou a legislação que institui o Disque Autismo, serviço voltado ao recebimento de denúncias de violência e violação de direitos contra pessoas com Transtorno do Espectro Autista.",
+    "corpo": "A nova medida, oficializada por meio da Lei nº 11.297 e publicada no Diário Oficial do estado, busca ampliar a proteção e a garantia de assistência para a população neurodivergente. Além de registrar queixas e relatos de maus-tratos, a plataforma servirá como ponto de apoio informativo para famílias que necessitam de orientação sobre o acesso a serviços públicos de saúde, atendimento especializado e direitos assegurados por lei.\n\nO atendimento será oferecido por ligação telefônica e também por canais digitais, como portais na internet e aplicativos para dispositivos móveis. A legislação garante a possibilidade de encaminhamento anônimo das denúncias, assegurando o sigilo das informações prestadas pelos cidadãos. Após o registro, os relatos serão direcionados aos órgãos governamentais e de fiscalização competentes para a tomada das providências cabíveis.\n\nA implementação prática do serviço ocorrerá após a definição da secretaria estadual responsável pela gestão da ferramenta e a contratação da equipe especializada para o atendimento ao público. Assim que estruturada, a central telefônica e os contatos digitais serão divulgados em estabelecimentos de saúde, redes de ensino públicas e privadas, além dos portais oficiais do governo fluminense.\n\nA iniciativa reforça o debate sobre o cumprimento dos direitos das pessoas com Transtorno do Espectro Autista e busca integrar as redes estaduais de proteção social e saúde pública no Rio de Janeiro.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-08-29T10:10:54.135216+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/governador-do-rio-sanciona-lei-que-cria-o-servico-disque-autismo",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/32281747/pexels-photo-32281747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Americo Vermelho",
+      "photographer_url": "https://www.pexels.com/@americo-vermelho-429128537",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/aerial-view-of-rio-de-janeiro-skyline-32281747/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Río de Janeiro crea canal público para denuncias y orientación sobre derechos de personas con autismo",
+        "lead": "El gobierno del estado de Río de Janeiro sancionó la legislación que instituye el Disque Autismo, servicio dedicado a recibir denuncias de violencia y violación de derechos contra personas con Trastorno del Espectro Autista.",
+        "corpo": "La nueva medida, oficializada mediante la Ley Nº 11.297 y publicada en el Diario Oficial del estado, busca ampliar la protección y la garantía de asistencia para la población neurodivergente. Además de registrar quejas y relatos de maltrato, la plataforma servirá como punto de apoyo informativo para familias que requieren orientación sobre el acceso a servicios públicos de salud, atención especializada y derechos garantizados por ley.\n\nLa atención se ofrecerá vía telefónica y también a través de canales digitales, como portales web y aplicaciones para dispositivos móviles. La legislación garantiza la posibilidad de enviar denuncias de forma anónima, asegurando la confidencialidad de la información facilitada por los ciudadanos. Tras el registro, los relatos se derivarán a los organismos gubernamentales y de fiscalización competentes para la adopción de las medidas correspondientes.\n\nLa implementación práctica del servicio se llevará a cabo tras la definición de la secretaría estatal encargada de la gestión de la herramienta y la contratación del personal especializado para la atención al público. Una vez estructurada, la central telefónica y los contactos digitales se difundirán en establecimientos de salud, redes educativas públicas y privadas, así como en los portales oficiales del gobierno del estado.\n\nLa iniciativa refuerza el debate sobre el cumplimiento de los derechos de las personas con Trastorno del Espectro Autista y busca integrar las redes estatales de protección social y salud pública en Río de Janeiro."
+      },
+      "en": {
+        "titulo": "Rio de Janeiro creates public channel for reporting and guidance on autism rights",
+        "lead": "The state government of Rio de Janeiro has enacted legislation establishing Disque Autismo, a service dedicated to receiving reports of violence and rights violations against individuals with Autism Spectrum Disorder.",
+        "corpo": "The new measure, formalized under Law No. 11,297 and published in the state's Official Gazette, aims to expand protection and care guarantees for the neurodivergent population. Beyond registering complaints of abuse and ill-treatment, the platform will function as an information point for families seeking guidance on accessing public health services, specialized care, and legally protected rights.\n\nAssistance will be provided via telephone and digital channels, including websites and mobile applications. The law permits anonymous reporting, protecting the privacy of citizens submitting complaints. Once logged, reports will be forwarded to the relevant government bodies and oversight agencies for appropriate action.\n\nPractical implementation will follow the designation of the state department responsible for managing the program and the hiring of qualified staff to handle inquiries. Once operational, the hotline numbers and digital access points will be publicized in healthcare facilities, public and private schools, and official government portals.\n\nThe initiative reinforces the discussion surrounding the enforcement of rights for people with Autism Spectrum Disorder while striving to connect state social protection and public health networks in Rio de Janeiro."
+      }
+    }
+  },
+  {
     "id": "6288475e-e952-4e90-abb3-be4eaa801621",
     "titulo": "Javiera Tapia defende projeção da relevância cultural de Atacama além das fronteiras do Chile",
     "lead": "Em declarações divulgadas pela imprensa local, Javiera Tapia manifestou o desejo de que a Região de Atacama resgate sua expressão cultural e alcance reconhecimento para além das fronteiras chilenas.",
