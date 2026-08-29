@@ -1,5 +1,38 @@
 [
   {
+    "id": "66826ead-86ea-4729-a0fd-2de857e91a4c",
+    "titulo": "Rádio Nacional FM de Brasília celebra 50 anos com programação cultural especial",
+    "lead": "A Rádio Nacional FM de Brasília comemora meio século de existência com atrações especiais voltadas à memória e à valorização da produção artística do Distrito Federal.",
+    "corpo": "A emissora pública de rádio preparou uma grade comemorativa para marcar 50 anos de atuação contínua no Distrito Federal. A celebração ganha destaque no programa \"Espaço Arte\", que vai ao ar sob a condução dos apresentadores Marcelo Ferreira e Mário Sartorello. A atração promove um bate-papo unindo nomes consagrados e novos expoentes da cena musical brasiliense.\n\nEntre os convidados participantes da edição especial estão o pianista e arranjador Renato Vasconcellos e o multi-instrumentista e poeta Renato Mattos, além das cantoras Fernanda Jacob e Ane Êoketu, representantes da nova geração do samba local. O objetivo do encontro é resgatar o papel histórico da emissora na difusão da arte regional e na consolidação do patrimônio cultural da capital federal.\n\nAs homenagens se estendem ao longo da programação com o programa \"Tarde Nacional\", veiculado na sequência, das 15h às 18h. A atração reúne depoimentos e felicitações enviados por diversos representantes da classe artística brasileira, reforçando o vínculo da emissora com os criadores culturais do país.\n\nCriado originalmente em 2004 na frequência AM e integrado à faixa FM em 2016, o \"Espaço Arte\" firmou-se como um canal contínuo de difusão de projetos culturais e da cadeia produtiva das artes no Distrito Federal. A Rádio Nacional de Brasília integra o sistema público de comunicação gerido pela Empresa Brasil de Comunicação, cobrindo diversas regiões brasileiras por meio de redes de rádio e plataformas digitais.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-08-29T12:10:12.524899+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/programa-espaco-arte-celebra-50-anos-da-nacional-fm-brasilia",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/2329647/pexels-photo-2329647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "MESSALA CIULLA",
+      "photographer_url": "https://www.pexels.com/@messalaciulla",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/art-structure-2329647/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Radio Nacional FM de Brasilia celebra 50 años con programación cultural especial",
+        "lead": "Radio Nacional FM de Brasilia conmemora medio siglo de existencia con emisiones especiales dedicadas a la memoria y valorización de la producción artística del Distrito Federal.",
+        "corpo": "La emisora pública de radio preparó una programación conmemorativa para marcar 50 años de trayectoria continua en el Distrito Federal. La celebración destaca en el programa \"Espaço Arte\", conducido por los presentadores Marcelo Ferreira y Mário Sartorello. La emisión reúne a figuras consolidadas y nuevos exponentes de la escena musical de Brasilia.\n\nEntre los invitados de esta edición especial se encuentran el pianista y arreglista Renato Vasconcellos y el multiinstrumentista y poeta Renato Mattos, además de las cantantes Fernanda Jacob y Ane Êoketu, representantes de la nueva generación del samba local. El encuentro busca rescatar el papel histórico de la emisora en la difusión del arte regional y en la consolidación del patrimonio cultural de la capital brasileña.\n\nLos homenajes continúan a lo largo del día en el programa \"Tarde Nacional\", transmitido de 15:00 a 18:00 horas, que incluye mensajes de felicitación enviados por diversos referentes del ámbito artístico nacional, reforzando el vínculo de la radio con la comunidad cultural del país.\n\nCreado originalmente en 2004 en la frecuencia AM e integrado a la banda FM en 2016, \"Espaço Arte\" se consolidó como un canal permanente para la divulgación de proyectos culturales en el Distrito Federal. Radio Nacional de Brasilia forma parte del sistema público de comunicación gestionado por la Empresa Brasil de Comunicação, con cobertura en diversas regiones de Brasil mediante redes radiales y plataformas digitales."
+      },
+      "en": {
+        "titulo": "Radio Nacional FM de Brasília celebrates 50 years with special cultural programming",
+        "lead": "Radio Nacional FM de Brasília marks half a century of broadcasting with special programming highlighting the memory and artistic production of Brazil's Federal District.",
+        "corpo": "The public radio station has arranged a commemorative lineup to celebrate 50 years of continuous broadcasting in the Federal District. The anniversary spotlight falls on the cultural show \"Espaço Arte,\" hosted by Marcelo Ferreira and Mário Sartorello, bringing together established names and emerging talents from Brasília's music scene.\n\nGuests featured in this special edition include pianist and arranger Renato Vasconcellos, multi-instrumentalist and poet Renato Mattos, as well as singers Fernanda Jacob and Ane Êoketu, representing the new generation of local samba. The broadcast aims to highlight the station's historical role in promoting regional arts and shaping the cultural heritage of the federal capital.\n\nCelebrations extend into the afternoon with the show \"Tarde Nacional,\" airing from 3:00 p.m. to 6:00 p.m., featuring celebratory messages from artists across the country and reinforcing the station's deep connections with Brazil's creative community.\n\nOriginally launched in 2004 on the AM band and expanding to FM in 2016, \"Espaço Arte\" has established itself as a vital platform for artistic initiatives in the Federal District. Radio Nacional de Brasília is part of the public communication network managed by Empresa Brasil de Comunicação, reaching audiences across Brazil through terrestrial radio and digital platforms."
+      }
+    }
+  },
+  {
     "id": "83f0bc80-ca2f-4089-9f55-6eabba3ec9d4",
     "titulo": "Justiça brasileira revoga prisão preventiva de chileno acusado de racismo",
     "lead": "A Justiça no Brasil revogou a prisão preventiva de um cidadão chileno detido sob a acusação de racismo, determinando que ele responda ao processo mediante o uso de tornozeleira eletrônica.",
