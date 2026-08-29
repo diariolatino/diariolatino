@@ -90,7 +90,7 @@ button { font-family: inherit; }
   letter-spacing: 0.3em;
   text-transform: uppercase;
   color: var(--verde);
-  margin-bottom: 6px;
+  margin-bottom: 15px;
 }
 .masthead-titulo,
 .masthead-link {
@@ -116,7 +116,7 @@ button { font-family: inherit; }
   line-height: 1;
 }
 .masthead .tagline {
-  margin-top: 4px;
+  margin-top: 15px;
   font-size: 13px;
   color: #55554e;
   font-style: italic;
@@ -199,12 +199,11 @@ nav.categorias button.categoria-link:hover::after { transform: scaleX(1); }
 nav.categorias button.categoria-link.ativo { color: var(--terracota); }
 nav.categorias button.categoria-link.ativo::after { transform: scaleX(1); }
 
-/* ===== BUSCA + FILTRO DE PAÍS ===== */
+/* ===== BUSCA + FILTRO DE PAÍS (unificados numa só pílula) ===== */
 .busca-nav {
   flex-shrink: 0;
   display: flex;
   align-items: center;
-  gap: 10px;
   padding: 8px 0;
 }
 
@@ -215,10 +214,10 @@ nav.categorias button.categoria-link.ativo::after { transform: scaleX(1); }
   background: #fff;
   border: 1px solid var(--linha);
   border-radius: 999px;
-  padding: 7px 14px;
-  transition: border-color 0.2s ease, box-shadow 0.2s ease, width 0.2s ease;
+  padding: 6px 6px 6px 14px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
-.busca-caixa svg {
+.busca-caixa .icone-busca {
   flex-shrink: 0;
   width: 14px;
   height: 14px;
@@ -227,10 +226,10 @@ nav.categorias button.categoria-link.ativo::after { transform: scaleX(1); }
   transition: stroke 0.2s ease;
 }
 .busca-caixa:focus-within {
-  border-color: var(--verde);
-  box-shadow: 0 0 0 3px rgba(31, 77, 61, 0.08);
+  border-color: var(--terracota);
+  box-shadow: 0 0 0 3px rgba(161, 80, 58, 0.1);
 }
-.busca-caixa:focus-within svg { stroke: var(--verde); }
+.busca-caixa:focus-within .icone-busca { stroke: var(--terracota); }
 .busca-caixa input {
   font: inherit;
   font-size: 12.5px;
@@ -244,42 +243,40 @@ nav.categorias button.categoria-link.ativo::after { transform: scaleX(1); }
 .busca-caixa input::placeholder { color: #a3a399; }
 .busca-caixa:focus-within input { width: 190px; }
 
-.filtro-pais-dropdown { position: relative; }
+/* botão de filtro (ícone), embutido dentro da própria caixa de busca */
+.filtro-pais-dropdown { position: relative; flex-shrink: 0; }
 .filtro-pais-botao {
   display: flex;
   align-items: center;
-  gap: 8px;
-  font: inherit;
-  font-size: 12px;
-  font-weight: 600;
-  letter-spacing: 0.03em;
-  color: var(--texto);
-  background: #fff;
-  border: 1px solid var(--linha);
-  border-radius: 999px;
-  padding: 8px 16px;
-  cursor: pointer;
-  white-space: nowrap;
-  transition: border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
-}
-.filtro-pais-botao:hover { border-color: var(--terracota); color: var(--terracota); }
-.filtro-pais-dropdown.aberto .filtro-pais-botao {
-  border-color: var(--verde);
-  color: var(--verde);
-  box-shadow: 0 0 0 3px rgba(31, 77, 61, 0.08);
-}
-.seta-dropdown {
-  width: 9px;
-  height: 6px;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: none;
+  background: none;
   color: #8a8a80;
-  transition: transform 0.2s ease, color 0.2s ease;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
 }
-.filtro-pais-dropdown.aberto .seta-dropdown { transform: rotate(180deg); color: var(--verde); }
+.icone-filtro {
+  width: 16px;
+  height: 16px;
+  stroke: currentColor;
+  fill: none;
+  transition: transform 0.2s ease;
+}
+.filtro-pais-botao:hover { background: #f2f1ec; color: var(--terracota); }
+.filtro-pais-botao.ativo,
+.filtro-pais-dropdown.aberto .filtro-pais-botao {
+  background: var(--terracota);
+  color: var(--papel);
+}
+.filtro-pais-dropdown.aberto .icone-filtro { transform: scale(0.92); }
 
 .filtro-pais-painel {
   position: absolute;
   right: 0;
-  top: calc(100% + 8px);
+  top: calc(100% + 10px);
   min-width: 240px;
   max-height: 380px;
   overflow-y: auto;
@@ -340,21 +337,18 @@ nav.categorias button.categoria-link.ativo::after { transform: scaleX(1); }
 .filtro-pais-item:hover { background: #f8f7f3; color: var(--terracota); }
 .filtro-pais-item.ativo,
 .filtro-pais-regiao.ativo {
-  background: var(--verde);
+  background: var(--terracota);
   color: var(--papel);
 }
 
 @media (max-width: 860px) {
   .busca-caixa input { width: 90px; }
   .busca-caixa:focus-within input { width: 120px; }
-  .filtro-pais-botao span#filtro-pais-label { display: none; }
-  .filtro-pais-botao { padding: 8px 10px; }
   .filtro-pais-painel { left: auto; right: 0; }
 }
 @media (max-width: 600px) {
-  .busca-caixa { padding: 6px 10px; }
-  .busca-caixa input { width: 70px; }
-  .busca-caixa:focus-within input { width: 90px; }
+  .busca-caixa input { width: 64px; }
+  .busca-caixa:focus-within input { width: 84px; }
 }
 
 /* ===== SELOS (categoria · país) ===== */
