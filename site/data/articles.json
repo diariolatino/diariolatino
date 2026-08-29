@@ -1,5 +1,38 @@
 [
   {
+    "id": "a285fdf1-13c8-436b-a06e-99007a5b2d00",
+    "titulo": "Policial torna-se a primeira mulher paraguaia a concluir curso de elite no Brasil",
+    "lead": "A policial Adriana Ayala alcançou um marco histórico ao se tornar a primeira mulher da Polícia Nacional do Paraguai a concluir com êxito o treinamento especializado conhecido como \"Cazadora\" no Brasil.",
+    "corpo": "A conquista da policial paraguaia Adriana Ayala representa um feito inédito na cooperação e na formação de forças de segurança entre o Paraguai e o Brasil. Ao concluir o rigoroso curso de especialização em território brasileiro, Ayala garantiu o título de \"Cazadora\", sendo a primeira mulher de seu país a atingir esse nível de capacitação operacional.\n\nO treinamento, reconhecido por sua alta exigência física e tática, é voltado para a preparação de agentes em operações complexas e de alta intensidade, frequentemente focadas em patrulhamento, combate tático e sobrevivência em ambientes adversos. A conclusão do programa por uma agente feminina sublinha avanços no acesso e na participação de mulheres em divisões de elite das forças de segurança da América Latina.\n\nA formação de quadros policiais em instituições parceiras do continente reforça também os laços de cooperação bilateral na área de defesa e segurança pública entre os dois países vizinhos, promovendo a troca de experiências operacionais e o fortalecimento do combate a ilícitos na região de fronteira. Com a conquista, a policial paraguaia abre precedentes para que mais mulheres ingressem em cursos de táticas especiais e operações de alto risco.\n\nO reconhecimento obtido por Adriana Ayala reflete o contínuo esforço de capacitação técnica das forças policiais da região. A integração de cursos especializados no Brasil para agentes de países vizinhos tem sido uma ferramenta de padronização de procedimentos de segurança e de aprimoramento do combate a crimes transnacionais no Sul Global.",
+    "categoria": "Segurança",
+    "pais": "Paraguai",
+    "publicado_em": "2026-08-29T23:08:39.945745+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.hoy.com.py/nacionales/2026/08/29/adriana-ayala-la-primera-mujer-policia-paraguaya-egresada-como-cazadora-en-brasil",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/38376904/pexels-photo-38376904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "tiredtraveller",
+      "photographer_url": "https://www.pexels.com/@tiredtraveller",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/turkish-police-graduation-ceremony-in-yozgat-38376904/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Oficial se convierte en la primera mujer paraguaya en graduarse de curso de élite en Brasil",
+        "lead": "La oficial de policía Adriana Ayala logró un hito histórico al convertirse en la primera mujer de la Policía Nacional de Paraguay en completar con éxito el entrenamiento especializado conocido como \"Cazadora\" en Brasil.",
+        "corpo": "El logro de la oficial paraguaya Adriana Ayala representa un hecho inédito en la cooperación y formación de las fuerzas de seguridad entre Paraguay y Brasil. Al concluir el riguroso curso de especialización en territorio brasileño, Ayala obtuvo el título de \"Cazadora\", convirtiéndose en la primera mujer de su país en alcanzar este nivel de capacitación operacional.\n\nEl entrenamiento, reconocido por su alta exigencia física y táctica, está orientado a la preparación de agentes en operaciones complejas y de alta intensidad, enfocadas frecuentemente en patrullaje, combate táctico y supervivencia en ambientes adversos. La graduación de una agente femenina en este programa subraya los avances en el acceso y la participación de mujeres en divisiones de élite de las fuerzas de seguridad en América Latina.\n\nLa formación de cuadros policiales en instituciones de países vecinos refuerza también los lazos de cooperación bilateral en materia de defensa y seguridad pública entre ambas naciones, promoviendo el intercambio de experiencias operacionales y el fortalecimiento de la seguridad fronteriza. Con este logro, la oficial paraguaya sienta un precedente para que más mujeres ingresen a cursos de tácticas especiales y operaciones de alto riesgo.\n\nEl reconocimiento alcanzado por Adriana Ayala refleja el esfuerzo continuo de capacitación técnica de las fuerzas policiales en la región. La integración de cursos especializados en Brasil para agentes de países vecinos actúa como un mecanismo para estandarizar procedimientos de seguridad e impulsar el combate a delitos transnacionales en el Sur Global."
+      },
+      "en": {
+        "titulo": "Police officer becomes first Paraguayan woman to complete elite training in Brazil",
+        "lead": "Police officer Adriana Ayala achieved a historic milestone by becoming the first female officer from the National Police of Paraguay to successfully complete the specialized \"Cazadora\" training in Brazil.",
+        "corpo": "Paraguayan police officer Adriana Ayala's achievement represents an unprecedented milestone in security forces' cooperation and training between Paraguay and Brazil. By completing the rigorous specialization course on Brazilian soil, Ayala earned the title of \"Cazadora,\" becoming the first woman from her country to reach this level of operational qualification.\n\nThe training, recognized for its high physical and tactical demands, is focused on preparing agents for complex, high-intensity operations, often centered on patrolling, tactical combat, and survival in harsh environments. The completion of the program by a female officer highlights progress in women's access to and participation in elite divisions of Latin American security forces.\n\nThe training of police personnel in partner institutions across the continent also strengthens bilateral cooperation in defense and public safety between the two neighboring countries, promoting the exchange of operational expertise and reinforcing cross-border security efforts. With this accomplishment, the Paraguayan officer sets a precedent for more women to enter special tactics and high-risk operations courses.\n\nThe recognition earned by Adriana Ayala reflects the ongoing technical training efforts within the region's police forces. The integration of specialized courses in Brazil for agents from neighboring nations serves as a mechanism for standardizing security procedures and improving capabilities against transnational crime in the Global South."
+      }
+    }
+  },
+  {
     "id": "f17022a3-c2e9-46c0-b513-aee0e8417fb7",
     "titulo": "Impasse na COP17 adia criação de acordo global contra secas para 2028",
     "lead": "A 17ª Conferência das Nações Unidas de Combate à Desertificação (COP17), realizada na Mongólia, encerra seus trabalhos sem alcançar um consenso para a criação de um regime internacional obrigatório de enfrentamento às secas. Diante das divergências entre blocos de países, a decisão sobre o tema foi postergada para a próxima edição do evento, prevista para 2028.",
