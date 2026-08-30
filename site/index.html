@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Diário Latino | Notícias da América Latina</title>
+    <title>Diário Latino — Notícias e geopolítica da América Latina</title>
     <meta name="description" content="Diário Latino: notícias e geopolítica sob a perspectiva do Sul, para toda a América Latina.">
     <meta property="og:title" content="Diário Latino">
     <meta property="og:description" content="Notícias e geopolítica sob a perspectiva do Sul, para toda a América Latina.">
@@ -68,6 +68,16 @@
       </section>
     
       <section class="grade" id="secao-grade"></section>
+    
+      <section class="mosaico" id="secao-mosaico" style="display:none;">
+        <div class="mosaico-coluna mosaico-principal" id="mosaico-esquerda"></div>
+        <div class="mosaico-coluna mosaico-meio" id="mosaico-meio"></div>
+        <div class="mosaico-coluna mosaico-principal" id="mosaico-direita"></div>
+      </section>
+    
+      <section class="digest" id="secao-digest" style="display:none;">
+        <div class="digest-grade" id="digest-grade"></div>
+      </section>
     
       <section class="radar" id="secao-radar" style="display:none;">
         <h3 id="titulo-mais-noticias"></h3>
@@ -270,6 +280,8 @@
       document.getElementById('estado-vazio').style.display = 'none';
       document.getElementById('sem-resultados').style.display = 'none';
       document.getElementById('secao-destaque').style.display = 'none';
+      document.getElementById('secao-mosaico').style.display = 'none';
+      document.getElementById('secao-digest').style.display = 'none';
       document.getElementById('secao-radar').style.display = 'none';
       document.getElementById('secao-grade').innerHTML = '';
     
@@ -314,7 +326,63 @@
           <div class="meta"><span>${formatarData(a.publicado_em)}</span></div>
         </article>`).join('');
     
-      const maisNoticias = resto.slice(29);
+      // ===== MOSAICO (opção B): grande + linha + 3 sem foto + linha + grande =====
+      const mosaico = resto.slice(29, 34);
+      const elMosaico = document.getElementById('secao-mosaico');
+      if (mosaico.length) {
+        elMosaico.style.display = 'grid';
+        const grandeEsq = mosaico[0];
+        const grandeDir = mosaico.length > 1 ? mosaico[mosaico.length - 1] : null;
+        const meio = mosaico.length > 2 ? mosaico.slice(1, mosaico.length - 1) : [];
+
+        const materiaGrande = a => `
+          <span class="selo">${rotuloCategoriaPais(a)}</span>
+          ${a.imagem ? `<a href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : ''}
+          <h3><a class="link-esticado" href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h3>
+          <p class="dek">${campoIdioma(a, 'lead')}</p>
+          <div class="meta"><span>${formatarData(a.publicado_em)}</span></div>`;
+
+        document.getElementById('mosaico-esquerda').innerHTML = materiaGrande(grandeEsq);
+
+        const elMeio = document.getElementById('mosaico-meio');
+        elMeio.style.display = meio.length ? 'flex' : 'none';
+        elMeio.innerHTML = meio.map(a => `
+          <div class="mosaico-item">
+            <span class="selo">${rotuloCategoriaPais(a)}</span>
+            <h4><a class="link-esticado" href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h4>
+            <div class="hora">${formatarData(a.publicado_em)}</div>
+          </div>`).join('');
+
+        const elDireita = document.getElementById('mosaico-direita');
+        if (grandeDir) {
+          elDireita.style.display = 'block';
+          elDireita.innerHTML = materiaGrande(grandeDir);
+        } else {
+          elDireita.style.display = 'none';
+        }
+      } else {
+        elMosaico.style.display = 'none';
+      }
+    
+      // ===== DIGEST (opção A): lista compacta com foto, 5 linhas x 3 =====
+      const digest = resto.slice(34, 49);
+      const elDigest = document.getElementById('secao-digest');
+      if (digest.length) {
+        elDigest.style.display = 'block';
+        document.getElementById('digest-grade').innerHTML = digest.map(a => `
+          <div class="digest-item">
+            ${a.imagem ? `<a class="digest-foto" href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : ''}
+            <div class="digest-corpo">
+              <span class="selo">${rotuloCategoriaPais(a)}</span>
+              <h4><a class="link-esticado" href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h4>
+              <div class="hora">${formatarData(a.publicado_em)}</div>
+            </div>
+          </div>`).join('');
+      } else {
+        elDigest.style.display = 'none';
+      }
+    
+      const maisNoticias = resto.slice(49);
       if (maisNoticias.length) {
         document.getElementById('secao-radar').style.display = 'block';
         document.getElementById('radar-lista').innerHTML = maisNoticias.map(a => `

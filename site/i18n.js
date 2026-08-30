@@ -10,7 +10,7 @@ const NOMES_IDIOMA = { pt: "PT", es: "ES", en: "EN" };
 const I18N = {
   pt: {
     kicker: "Uma só América Latina",
-    tagline: "Geopolítica sob a perspectiva da América Latina",
+    tagline: "Notícias e geopolítica sob a perspectiva do Sul",
     edicaoLocal: "Rio de Janeiro",
     todas: "Todas",
     buscarPlaceholder: "Buscar matérias…",
@@ -51,7 +51,7 @@ const I18N = {
   },
   es: {
     kicker: "Una sola América Latina",
-    tagline: "Geopolítica desde la perspectiva de América Latina",
+    tagline: "Noticias y geopolítica desde la perspectiva del Sur",
     edicaoLocal: "Río de Janeiro",
     todas: "Todas",
     buscarPlaceholder: "Buscar noticias…",
@@ -92,7 +92,7 @@ const I18N = {
   },
   en: {
     kicker: "One Latin America",
-    tagline: "Geopolitics from a Latin American perspective",
+    tagline: "News and geopolitics from a Southern perspective",
     edicaoLocal: "Rio de Janeiro",
     todas: "All",
     buscarPlaceholder: "Search stories…",
