@@ -1,3 +1,0 @@
-requests>=2.31
-feedparser>=6.0
-sentence-transformers>=2.7  # só é baixado/usado de fato se USAR_EMBEDDING_CHECK=true
