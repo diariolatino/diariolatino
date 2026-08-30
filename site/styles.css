@@ -159,6 +159,12 @@ nav.categorias ul {
   flex: 1 1 auto;
 }
 nav.categorias ul::-webkit-scrollbar { display: none; }
+/* quando a lista de categorias é o único filho da barra (página de
+   matéria, sem a busca ao lado), centraliza em vez de grudar na esquerda */
+nav.categorias .wrap > ul:only-child {
+  flex: 0 1 auto;
+  margin: 0 auto;
+}
 nav.categorias li { position: relative; }
 nav.categorias li + li::before {
   content: "";
