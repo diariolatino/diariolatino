@@ -1,5 +1,38 @@
 [
   {
+    "id": "1c19c1ec-b849-40f8-98c2-baebc5c9fa22",
+    "titulo": "Brasil integra esforço global em estudo inédito voltado à cura da hepatite B",
+    "lead": "O Brasil iniciou sua participação em uma pesquisa científica inédita que busca encontrar a cura para a hepatite B, uma infecção viral grave que afeta o fígado e representa um desafio de saúde pública global.",
+    "corpo": "A iniciativa coloca a comunidade científica brasileira no centro das atenções internacionais no campo da medicina e da virologia. A hepatite B é uma doença crônica que, se não tratada, pode evoluir para condições graves como cirrose hepática e câncer de fígado. Atualmente, os tratamentos disponíveis conseguem controlar a replicação do vírus, mas a cura definitiva ainda permanece como um dos grandes objetivos da ciência médica global.\n\nA inserção do Brasil neste estudo inédito reforça o papel do país no cenário de pesquisas clínicas internacionais. Com uma infraestrutura de saúde robusta e pesquisadores altamente qualificados, o país se apresenta como um parceiro estratégico para o desenvolvimento de novas terapias e testes de medicamentos inovadores. Além disso, a participação brasileira é fundamental para garantir que as especificidades genéticas e epidemiológicas da população da América Latina sejam consideradas nos resultados finais da pesquisa.\n\nEspera-se que o avanço deste estudo traga novas perspectivas para milhões de pessoas que convivem com a forma crônica da doença. No contexto do Sul Global, onde o acesso a tratamentos contínuos e de alto custo pode ser um obstáculo, a descoberta de uma cura definitiva para a hepatite B teria um impacto social e econômico imensurável, aliviando a pressão sobre os sistemas públicos de saúde, como o Sistema Único de Saúde (SUS) no Brasil.",
+    "categoria": "Ciência & Ambiente",
+    "pais": "Brasil",
+    "publicado_em": "2026-08-30T19:09:19.872644+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.diariodepernambuco.com.br/dp-/dp-saude/2026/08/11722604-brasil-participa-de-estudo-inedito-para-buscar-a-cura-da-hepatite-b.html",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/37839843/pexels-photo-37839843.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Lefteris Betsis",
+      "photographer_url": "https://www.pexels.com/@lefteris-betsis-2151972654",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/scientist-working-in-modern-laboratory-37839843/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasil integra esfuerzo global en estudio inédito orientado a la cura de la hepatitis B",
+        "lead": "Brasil ha iniciado su participación en una investigación científica inédita que busca encontrar la cura para la hepatitis B, una infección viral grave que afecta al hígado y representa un desafío de salud pública global.",
+        "corpo": "La iniciativa coloca a la comunidad científica brasileña en el centro de la atención internacional en el campo de la medicina y la virología. La hepatitis B es una enfermedad crónica que, de no ser tratada, puede evolucionar hacia condiciones graves como la cirrosis hepática y el cáncer de hígado. Actualmente, los tratamientos disponibles logran controlar la replicación del virus, pero la cura definitiva sigue siendo uno de los grandes objetivos de la ciencia médica global.\n\nLa inserción de Brasil en este estudio inédito refuerza el papel del país en el escenario de las investigaciones clínicas internacionales. Con una infraestructura de salud robusta y investigadores altamente calificados, el país se presenta como un socio estratégico para el desarrollo de nuevas terapias y pruebas de medicamentos innovadores. Además, la participación brasileña es fundamental para garantizar que las especificidades genéticas y epidemiológicas de la población de América Latina sean consideradas en los resultados finales de la investigación.\n\nSe espera que el avance de este estudio brinde nuevas perspectivas para millones de personas que conviven con la forma crónica de la enfermedad. En el contexto del Sur Global, donde el acceso a tratamientos continuos y de alto costo puede ser un obstáculo, el descubrimiento de una cura definitiva para la hepatitis B tendría un impacto social y económico inconmensurable, aliviando la presión sobre los sistemas de salud pública, como el Sistema Único de Salud (SUS) en Brasil."
+      },
+      "en": {
+        "titulo": "Brazil joins global effort in unprecedented study seeking cure for hepatitis B",
+        "lead": "Brazil has begun its participation in an unprecedented scientific study aimed at finding a cure for hepatitis B, a serious viral infection that affects the liver and represents a global public health challenge.",
+        "corpo": "The initiative places the Brazilian scientific community at the center of international attention in the fields of medicine and virology. Hepatitis B is a chronic disease that, if left untreated, can progress to severe conditions such as liver cirrhosis and liver cancer. Currently, available treatments can control viral replication, but a definitive cure remains one of the major goals of global medical science.\n\nBrazil's inclusion in this unprecedented study reinforces the country's role in the international clinical research arena. With a robust healthcare infrastructure and highly qualified researchers, the country stands out as a strategic partner for developing new therapies and testing innovative drugs. Furthermore, Brazilian participation is crucial to ensuring that the genetic and epidemiological specificities of the Latin American population are considered in the research's final outcomes.\n\nThe progress of this study is expected to bring new perspectives to millions of people living with the chronic form of the disease. In the context of the Global South, where access to continuous and high-cost treatments can be a barrier, discovering a definitive cure for hepatitis B would have an immeasurable social and economic impact, easing the burden on public healthcare systems, such as Brazil's Unified Health System (SUS)."
+      }
+    }
+  },
+  {
     "id": "a9f11acd-2f64-4a56-8860-2adf60cbb16a",
     "titulo": "Embaixada da Palestina no Chile rechaça declarações e cobra esclarecimentos diplomáticos",
     "lead": "A Embaixada da Palestina no Chile expressou forte rejeição às declarações do jurista Gabriel Zaliasnik e solicitou que as autoridades chilenas esclareçam se há alguma mudança na postura diplomática oficial do país diante do conflito no Oriente Médio.",
