@@ -1,5 +1,38 @@
 [
   {
+    "id": "ecf65553-2b59-481e-ac20-3ab1ed30f374",
+    "titulo": "Axel Kicillof articula lançamento nacional de movimento político com plenária federal",
+    "lead": "O governador da província de Buenos Aires, Axel Kicillof, avança na organização de uma plenária federal para oficializar o lançamento nacional do Movimento Direito ao Futuro.",
+    "corpo": "O governador da província de Buenos Aires, Axel Kicillof, prepara a expansão de sua base política em todo o território argentino com o lançamento oficial do Movimento Direito ao Futuro em escala nacional. O evento central dessa articulação será uma plenária federal, voltada para reunir dirigentes, militantes e lideranças de diferentes províncias do país.\n\nA iniciativa marca uma etapa de consolidação e projeção da liderança de Kicillof no cenário político da Argentina. Até então focado predominantemente na administração do maior distrito eleitoral argentino, o espaço político liderado pelo governador busca agora articular uma rede de apoio nacional e estruturar diretrizes programáticas para o movimento.\n\nA realização da plenária federal pretende agregar diversos setores sociais, sindicais e políticos alinhados com a proposta do grupo. A movimentação ocorre em um momento de reorganização das forças políticas no país, visando fortalecer o debate sobre políticas públicas, desenvolvimento econômico e garantias de direitos sociais em nível nacional.",
+    "categoria": "Política",
+    "pais": "Argentina",
+    "publicado_em": "2026-08-30T22:08:42.182923+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.noticiasdelacalle.com.ar/noticias/2026/08/30/191285-kicillof-prepara-el-lanzamiento-nacional-del-movimiento-derecho-al-futuro-con-un-plenario-federal",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/35524224/pexels-photo-35524224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Renan Braz",
+      "photographer_url": "https://www.pexels.com/@renan-braz-1732586",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/venezuelan-protesters-gather-in-city-square-35524224/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Kicillof articula el lanzamiento nacional de un movimiento político con un plenario federal",
+        "lead": "El gobernador de la provincia de Buenos Aires, Axel Kicillof, avanza en la organización de un plenario federal para oficializar el lanzamiento nacional del Movimiento Derecho al Futuro.",
+        "corpo": "El gobernador de la provincia de Buenos Aires, Axel Kicillof, prepara la expansión de su base política en todo el territorio argentino con el lanzamiento oficial del Movimiento Derecho al Futuro a escala nacional. El evento central de esta articulación será un plenario federal, diseñado para reunir a dirigentes, militantes y referentes de diferentes provincias del país.\n\nLa iniciativa marca una etapa de consolidación y proyección del liderazgo de Kicillof en el escenario político argentino. Hasta ahora enfocado predominantemente en la gestión del mayor distrito electoral del país, el espacio político liderado por el gobernador busca articular una red de apoyo nacional y estructurar directrices programáticas para el movimiento.\n\nLa realización del plenario federal pretende convocar a diversos sectores sociales, sindicales y políticos alineados con la propuesta del grupo. La movilización tiene lugar en un momento de reorganización de las fuerzas políticas en el país, buscando fortalecer el debate sobre políticas públicas, desarrollo económico y garantías de derechos sociales a nivel nacional."
+      },
+      "en": {
+        "titulo": "Kicillof orchestrates national launch of political movement with federal plenary",
+        "lead": "The governor of Buenos Aires province, Axel Kicillof, is organizing a federal plenary session to formalize the national launch of the Right to the Future Movement.",
+        "corpo": "The governor of Buenos Aires province, Axel Kicillof, is preparing to expand his political base across Argentina with the official national launch of the Right to the Future Movement. The central event of this effort will be a federal plenary session aimed at bringing together leaders, activists, and representatives from various provinces.\n\nThe initiative marks a stage of consolidation and national projection for Kicillof's leadership in Argentine politics. Previously focused primarily on governing the country's largest electoral district, the political movement led by the governor now seeks to build a nationwide support network and structure core programmatic guidelines.\n\nThe federal plenary session is expected to gather social, trade union, and political sectors aligned with the group's agenda. The strategy comes during a period of reorganization among political forces in Argentina, aiming to elevate discussions on public policy, economic development, and social rights at a national level."
+      }
+    }
+  },
+  {
     "id": "f00f1b41-dd49-4851-a60d-b6d2a0fea65f",
     "titulo": "Bombeiros resgatam grupo de 20 pessoas à deriva no mar no Rio de Janeiro",
     "lead": "Um grupo de esportistas que realizada uma travessia aquática na zona oeste do Rio de Janeiro foi resgatado pelo Corpo de Bombeiros após ser arrastado por fortes ventos neste domingo (30).",
