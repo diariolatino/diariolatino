@@ -28,7 +28,12 @@ from . import config
 LIST_MODELS_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models"
 GENERATE_ENDPOINT_TEMPLATE = "https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
 
-CACHE_VALIDADE_SEGUNDOS = 24 * 60 * 60  # 1 dia
+CACHE_VALIDADE_SEGUNDOS = 24 * 60 * 60
+# quantos modelos alternativos tentar, no máximo, quando o modelo em cache
+# falha — sem esse teto, uma única "tentativa" (do ponto de vista do
+# main.py) poderia disparar uma chamada pra CADA modelo listado pela API,
+# estourando o orçamento de chamadas por execução sem querer.
+MAX_MODELOS_TENTADOS = 3  # 1 dia
 
 PROMPT_SISTEMA = """Você é o redator do Diário Latino, portal de notícias que cobre \
 toda a América Latina, com curadoria geopolítica focada em América Latina, Brics, \
@@ -149,13 +154,22 @@ def _pontuar_modelo(nome_completo: str) -> int:
 
     if "lite" in nome:
         pontos -= 5
+    # modelos "preview"/"exp"/"thinking" tendem a ter cota gratuita bem
+    # mais curta do que os modelos já estabelecidos — penalidade forte o
+    # bastante pra nunca vencer um "flash" estável equivalente.
     if "exp" in nome or "preview" in nome or "thinking" in nome:
-        pontos -= 10
+        pontos -= 30
 
+    # peso bem menor que antes: a versão numérica serve só de desempate
+    # entre modelos da mesma categoria (ex: dois "flash"), não deve
+    # sobrepor a diferença entre flash/pro nem a penalidade acima. Modelos
+    # recém-lançados nem sempre vêm marcados como "preview" no nome, mas
+    # tendem a ter cota gratuita inicial mais curta mesmo assim — por
+    # isso não vale mais a pena apostar tudo no número mais alto.
     numeros = re.findall(r"(\d+)(?:\.(\d+))?", nome)
     if numeros:
         major, minor = numeros[0]
-        pontos += int(major) * 10 + int(minor or 0)
+        pontos += int(major) * 2 + int(minor or 0) * 0.2
 
     return pontos
 
@@ -200,21 +214,29 @@ def _chamar_generate_content(nome_modelo: str, corpo_requisicao: dict) -> dict:
 
 def _obter_resposta_gemini(corpo_requisicao: dict) -> dict:
     cache = _carregar_cache()
+    modelo_cache = None
     if cache and (time.time() - cache.get("descoberto_em", 0)) < CACHE_VALIDADE_SEGUNDOS:
+        modelo_cache = cache["modelo"]
         try:
-            return _chamar_generate_content(cache["modelo"], corpo_requisicao)
+            return _chamar_generate_content(modelo_cache, corpo_requisicao)
         except Exception as e:
-            if _eh_erro_de_cota(e):
-                raise CotaGeminiExcedida(str(e)) from e
-            print(f"[gemini] modelo em cache '{cache['modelo']}' falhou ({e}); redescobrindo...")
+            motivo = "cota/limite de taxa atingido" if _eh_erro_de_cota(e) else str(e)
+            print(f"[gemini] modelo em cache '{modelo_cache}' falhou ({motivo}); tentando outros modelos...")
+            # IMPORTANTE: não desiste aqui mesmo se for erro de cota — a
+            # cota do Gemini é POR MODELO, não geral da conta. Um 429 no
+            # modelo em cache não significa que os outros também estejam
+            # esgotados, então sempre cai pro fluxo abaixo antes de
+            # declarar cota geral excedida.
 
     candidatos = _listar_modelos_candidatos()
+    if modelo_cache:
+        candidatos = [c for c in candidatos if c != modelo_cache]
     if not candidatos:
         raise RuntimeError("nenhum modelo Gemini com suporte a geração de texto foi encontrado")
 
     ultimo_erro = None
     algum_erro_de_cota = False
-    for nome_modelo in candidatos:
+    for nome_modelo in candidatos[:MAX_MODELOS_TENTADOS]:
         try:
             dados = _chamar_generate_content(nome_modelo, corpo_requisicao)
             _salvar_cache(nome_modelo)
