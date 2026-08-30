@@ -1,5 +1,38 @@
 [
   {
+    "id": "ab4e55df-862a-48a8-b143-9a6d63865c7f",
+    "titulo": "Registro de falecimento de Inés Amalia Riva de Mingorance mobiliza comunidade de Junín, na Argentina",
+    "lead": "A comunidade de Junín, localizada na província de Buenos Aires, Argentina, registrou recentemente o falecimento de Inés Amalia Riva, viúva de Mingorance, conforme divulgado pelos canais de comunicação locais.",
+    "corpo": "O falecimento de Inés Amalia Riva de Mingorance foi comunicado oficialmente por meio dos registros necrológicos da imprensa de Junín, cidade situada no norte da província de Buenos Aires. O anúncio fúnebre, acompanhado da tradicional sigla em espanhol \"Q.E.P.D.\" (Que En Paz Descanse), reflete a importância dos registros comunitários e familiares na imprensa regional argentina, que atua como um elo de coesão social em cidades do interior do país.\n\nJunín é um importante centro urbano e agrícola da província de Buenos Aires, onde as publicações locais desempenham um papel fundamental na preservação da memória histórica e na comunicação de eventos vitais da população. A divulgação de notas de pesar e obituários continua sendo uma prática tradicional profundamente enraizada na sociedade argentina, servindo para prestar homenagens públicas e conectar famílias e vizinhos em momentos de luto.\n\nAté o momento, os detalhes específicos sobre as cerimônias fúnebres ou as causas do falecimento não foram detalhados publicamente nos relatórios iniciais de imprensa, mantendo-se o respeito à privacidade familiar conforme as convenções locais de divulgação.",
+    "categoria": "Sociedade",
+    "pais": "Argentina",
+    "publicado_em": "2026-08-30T13:08:48.284865+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://laverdadonline.com/ines-amalia-riva-vda-de-mingorance-q-e-p-d/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/13537411/pexels-photo-13537411.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Julieta Peralta",
+      "photographer_url": "https://www.pexels.com/@julieta-peralta-311040746",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/drone-shot-of-city-at-dusk-13537411/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Registro de fallecimiento de Inés Amalia Riva de Mingorance moviliza a la comunidad de Junín, en Argentina",
+        "lead": "La comunidad de Junín, ubicada en la provincia de Buenos Aires, Argentina, registró recientemente el fallecimiento de Inés Amalia Riva, viuda de Mingorance, según lo divulgado por los medios de comunicación locales.",
+        "corpo": "El fallecimiento de Inés Amalia Riva de Mingorance fue comunicado oficialmente a través de los registros necrológicos de la prensa de Junín, ciudad situada en el norte de la provincia de Buenos Aires. El anuncio fúnebre, acompañado de la tradicional sigla \"Q.E.P.D.\" (Que En Paz Descanse), refleja la importancia de los registros comunitarios y familiares en la prensa regional argentina, que actúa como un nexo de cohesión social en las ciudades del interior del país.\n\nJunín es un importante centro urbano y agrícola de la provincia de Buenos Aires, donde las publicaciones locales desempeñan un papel fundamental en la preservación de la memoria histórica y en la comunicación de eventos vitales de la población. La divulgación de notas de pesar y obituarios sigue siendo una práctica tradicional profundamente arraigada en la sociedad argentina, sirviendo para rendir homenajes públicos y conectar a familias y vecinos en momentos de duelo.\n\nHasta el momento, los detalles específicos sobre las ceremonias fúnebres o las causas del fallecimiento no han sido detallados públicamente en los reportes iniciales de prensa, manteniéndose el respeto a la privacidad familiar conforme a las convenciones locales de divulgación."
+      },
+      "en": {
+        "titulo": "Death of Inés Amalia Riva de Mingorance recorded in Junín, Argentina",
+        "lead": "The community of Junín, located in the province of Buenos Aires, Argentina, recently recorded the passing of Inés Amalia Riva, widow of Mingorance, as reported by local media outlets.",
+        "corpo": "The passing of Inés Amalia Riva de Mingorance was officially announced through the obituary records of the press in Junín, a city situated in the northern part of the Buenos Aires province. The funeral announcement, accompanied by the traditional Spanish acronym \"Q.E.P.D.\" (May She Rest in Peace), reflects the importance of community and family records in the Argentine regional press, which acts as a bond of social cohesion in inland cities.\n\nJunín is a significant urban and agricultural hub in the province of Buenos Aires, where local publications play a fundamental role in preserving historical memory and communicating vital events of the population. The publication of condolences and obituaries remains a deeply rooted traditional practice in Argentine society, serving to pay public tribute and connect families and neighbors in times of mourning.\n\nAt this time, specific details regarding the funeral services or the causes of death have not been publicly detailed in the initial press reports, maintaining respect for family privacy in accordance with local disclosure conventions."
+      }
+    }
+  },
+  {
     "id": "b4bd8898-5bb3-4c52-bc27-de14ff1d75ec",
     "titulo": "Candidatos à Presidência do Brasil intensificam agendas de campanha pelo país",
     "lead": "Os postulantes ao Palácio do Planalto cumpriram agendas movimentadas nesta quinta-feira (27), com sabatinas na imprensa, visitas a infraestruturas e encontros com eleitores em diversos estados.",
