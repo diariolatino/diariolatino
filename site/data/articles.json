@@ -1,5 +1,38 @@
 [
   {
+    "id": "d45ef166-b983-4a41-a38f-c0c1ebf0c782",
+    "titulo": "Venezuela e Estados Unidos selam acordo bilionário para exploração de petróleo",
+    "lead": "A presidente interina da Venezuela, Delcy Rodríguez, confirmou a assinatura de um amplo pacto petrolífero com o governo dos Estados Unidos. A parceria prevê investimentos superiores a 100 bilhões de dólares para impulsionar a infraestrutura energética venezuelana.",
+    "corpo": "O entendimento bilateral abrange o desenvolvimento de 17 campos estratégicos que somam um potencial estimado em 65 bilhões de barris de petróleo. Segundo o governo venezuelano, a expectativa é gerar mais de 200 bilhões de dólares em arrecadação fiscal para o Estado, além de permitir o ingresso de operadoras privadas na produção e modernização do setor de hidrocarbonetos.\n\nA negociação ocorre em um contexto de retomada das relações diplomáticas entre Caracas e Washington, restabelecidas formalmente após a operação militar norte-americana que resultou na captura do ex-presidente Nicolás Maduro. Atualmente, a Venezuela registra uma extração diária de aproximadamente 1,23 milhão de barris de crude, o patamar mais elevado registrado pelo país desde início de 2019.\n\nPelo lado norte-americano, o acordo reflete o interesse da Casa Branca em assegurar o acesso a volumosas reservas brutas para estabilizar a oferta internacional de energia e aliviar a pressão sobre os preços dos combustíveis no mercado interno norte-americano, pressionado por tensões geopolíticas no Oriente Médio e pela redução das reservas estratégicas de petróleo dos EUA.\n\nDetentora de uma das maiores reservas comprovadas de petróleo do planeta — estimadas em cerca de 303 bilhões de barris —, a Venezuela busca utilizar o aporte de capital privado internacional para reconstruir a infraestrutura industrial deteriorada e reativar a economia nacional por meio da geração de empregos e do aumento de receitas públicas.",
+    "categoria": "Economia",
+    "pais": "Venezuela",
+    "publicado_em": "2026-08-30T00:10:13.691950+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/presidente-da-venezuela-confirma-acordo-petrolifero-com-estados-unidos",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/10407684/pexels-photo-10407684.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Tom Fisk",
+      "photographer_url": "https://www.pexels.com/@tomfisk",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/aerial-view-of-an-industrial-plant-with-lights-turned-on-during-night-time-10407684/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Venezuela y Estados Unidos firman acuerdo multimillonario para la explotación de petróleo",
+        "lead": "La presidenta interina de Venezuela, Delcy Rodríguez, confirmó la firma de un amplio pacto petrolero con el gobierno de Estados Unidos. La alianza prevé inversiones superiores a los 100.000 millones de dólares para impulsar la infraestructura energética venezolana.",
+        "corpo": "El entendimiento bilateral abarca el desarrollo de 17 campos estratégicos que suman un potencial estimado en 65.000 millones de barriles de petróleo. Según el gobierno venezolano, la expectativa es generar más de 200.000 millones de dólares en recaudación fiscal para el Estado, además de permitir el ingreso de operadoras privadas en la producción y modernización del sector de hidrocarburos.\n\nLa negociación se produce en un contexto de reanudación de las relaciones diplomáticas entre Caracas y Washington, restablecidas formalmente tras la operación militar estadounidense que resultó en la captura del expresidente Nicolás Maduro. Actualmente, Venezuela registra una extracción diaria de aproximadamente 1,23 millones de barriles de crudo, el nivel más alto registrado por el país desde principios de 2019.\n\nPor el lado estadounidense, el acuerdo refleja el interés de la Casa Blanca en asegurar el acceso a voluminosas reservas de crudo para estabilizar la oferta internacional de energía y aliviar la presión sobre los precios de los combustibles en el mercado interno norteamericano, presionado por tensiones geopolíticas en Medio Oriente y la reducción de las reservas estratégicas de petróleo de EE.UU.\n\nPoseedora de una de las mayores reservas probadas de petróleo del planeta —estimadas en unos 303.000 millones de barriles—, Venezuela busca utilizar el aporte de capital privado internacional para reconstruir su infraestructura industrial deteriorada y reactivar la economía nacional mediante la generación de empleo y el aumento de ingresos públicos."
+      },
+      "en": {
+        "titulo": "Venezuela and United States Seal Billion-Dollar Oil Exploration Deal",
+        "lead": "Venezuela's interim president, Delcy Rodríguez, confirmed the signing of a comprehensive oil pact with the United States government. The partnership foresees investments exceeding 100 billion dollars to boost Venezuelan energy infrastructure.",
+        "corpo": "The bilateral agreement encompasses the development of 17 strategic fields with an estimated potential of 65 billion barrels of oil. According to the Venezuelan government, the deal is expected to generate over 200 billion dollars in tax revenue for the state, while allowing private operators to participate in production and modernization across the hydrocarbon sector.\n\nThe negotiation takes place amidst the resumption of diplomatic ties between Caracas and Washington, formally restored following the US military operation that resulted in the capture of former president Nicolás Maduro. Currently, Venezuela records a daily extraction of approximately 1.23 million barrels of crude, the highest level registered by the nation since early 2019.\n\nOn the American side, the deal reflects the White House's interest in securing access to substantial crude reserves to stabilize international energy supplies and ease pressure on domestic fuel prices in the US, driven by geopolitical tensions in the Middle East and depleted strategic petroleum reserves.\n\nHolding one of the world's largest proven oil reserves—estimated at around 303 billion barrels—Venezuela aims to leverage international private capital to rebuild deteriorated industrial infrastructure and revitalize its national economy through job creation and increased public revenue."
+      }
+    }
+  },
+  {
     "id": "a285fdf1-13c8-436b-a06e-99007a5b2d00",
     "titulo": "Policial torna-se a primeira mulher paraguaia a concluir curso de elite no Brasil",
     "lead": "A policial Adriana Ayala alcançou um marco histórico ao se tornar a primeira mulher da Polícia Nacional do Paraguai a concluir com êxito o treinamento especializado conhecido como \"Cazadora\" no Brasil.",
