@@ -1,5 +1,38 @@
 [
   {
+    "id": "e8c18ac5-9431-4411-bb8f-94be0dcee0ae",
+    "titulo": "Brasil e Estados Unidos retomam negociações comerciais após impasse sobre novas tarifas",
+    "lead": "As equipes diplomáticas e comerciais do Brasil e dos Estados Unidos iniciaram conversas para tentar resolver o impasse criado pelas sobretaxas aplicadas unilateralmente por Washington. A retomada do diálogo ocorre após articulação direta entre os presidentes Luiz Inácio Lula da Silva e Donald Trump.",
+    "corpo": "As negociações entre os dois países haviam sido paralisadas após a Casa Branca implementar uma tarifa de 25% sobre parcela das exportações brasileiras. A justificativa apresentada pelo Escritório do Representante Comercial dos EUA (USTR) fundamentou-se em alegações de práticas comerciais desleais por parte de Brasília, citando aspectos do sistema de pagamentos Pix e o acesso ao mercado nacional de etanol.\n\nAlém dessa taxação específica, o governo norte-americano aplicou uma sobretaxa adicional de 12,5% sob o argumento de deficiências no combate ao trabalho forçado, medida de alcance global que afetou mais de cinquenta países e a União Europeia. O governo brasileiro rejeita as alegações, avaliando que a nova taxa foi estruturada para substituir restrições anteriores que haviam sido anuladas pela Suprema Corte dos Estados Unidos.\n\nO diálogo foi restabelecido a partir de um contato telefônico em que o chefe do Executivo brasileiro reiterou que as sanções econômicas carecem de sustentação técnica. Segundo a diplomacia brasileira, as exigências de Washington por abertura de mercado não vieram acompanhadas de contrapartidas equitativas, refletindo também tensões geopolíticas pelo espaço de influência na América Latina e pressões no cenário político regional.\n\nA expectativa para esta nova fase de reuniões é estabelecer parâmetros formais para a revisão das tarifas impostas, buscando evitar prejuízos prolongados ao fluxo bilateral de bens e serviços entre as duas maiores economias do continente.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-08-31T19:12:46.422850+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/brasil-e-eua-retomam-negociacao-apos-tarifacos-de-25-e-125",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/6949993/pexels-photo-6949993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Werner Pfennig",
+      "photographer_url": "https://www.pexels.com/@werner-pfennig",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/men-shaking-hands-6949993/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasil y Estados Unidos reanudan negociaciones comerciales tras impase por nuevos aranceles",
+        "lead": "Los equipos diplomáticos y comerciales de Brasil y Estados Unidos iniciaron conversaciones para intentar resolver el impase generado por los recargos aplicados unilateralmente por Washington. La reanudación del diálogo ocurre tras una gestión directa entre los presidentes Luiz Inácio Lula da Silva y Donald Trump.",
+        "corpo": "Las negociaciones entre ambos países se habían paralizado después de que la Casa Blanca implementara un arancel del 25% sobre parte de las exportaciones brasileñas. La justificación presentada por la Oficina del Representante Comercial de EE. UU. (USTR) se fundamentó en alegaciones de prácticas comerciales desleales por parte de Brasilia, citando aspectos del sistema de pagos Pix y el acceso al mercado nacional de etanol.\n\nAdemás de este gravamen específico, el gobierno estadounidense aplicó una sobretasa adicional del 12,5% bajo el argumento de deficiencias en el combate al trabajo forzado, una medida de alcance global que afectó a más de cincuenta países y a la Unión Europea. El gobierno brasileño rechaza las alegaciones, evaluando que la nueva tasa fue estructurada para reemplazar restricciones anteriores que habían sido anuladas por la Corte Suprema de los Estados Unidos.\n\nEl diálogo se reestableció a partir de un contacto telefónico en el que el jefe del Ejecutivo brasileño reiteró que las sanciones económicas carecen de sustento técnico. Según la diplomacia brasileña, las exigencias de Washington para la apertura de mercados no estuvieron acompañadas de contrapartidas equitativas, reflejando también tensiones geopolíticas por la influencia en América Latina y presiones en el escenario político regional.\n\nLa expectativa para esta nueva fase de reuniones es establecer parámetros formales para la revisión de los aranceles impuestos, buscando evitar perjuicios prolongados al flujo bilateral de bienes y servicios entre las dos mayores economías del continente."
+      },
+      "en": {
+        "titulo": "Brazil and the United States Resume Trade Negotiations After Impasse Over New Tariffs",
+        "lead": "Diplomatic and trade teams from Brazil and the United States have begun talks to try to resolve the impasse created by surcharges applied unilaterally by Washington. The resumption of dialogue follows direct communication between Presidents Luiz Inácio Lula da Silva and Donald Trump.",
+        "corpo": "Negotiations between the two countries had stalled after the White House implemented a 25% tariff on a portion of Brazilian exports. The justification provided by the Office of the US Trade Representative (USTR) was based on allegations of unfair trade practices by Brasilia, citing aspects of the Pix electronic payment system and access to the domestic ethanol market.\n\nIn addition to this specific levy, the US government applied an extra 12.5% surcharge citing shortcomings in efforts to combat forced labor—a global measure that affected more than fifty nations and the European Union. The Brazilian government rejects the claims, assessing that the new tax was structured to replace previous restrictions that had been struck down by the US Supreme Court.\n\nDialogue was restored following a phone call in which the Brazilian head of state reiterated that the economic sanctions lack technical grounding. According to Brazilian diplomacy, Washington's demands for market opening were not accompanied by equitable concessions, also reflecting geopolitical tensions over influence in Latin America and pressures within the regional political landscape.\n\nThe expectation for this new phase of meetings is to establish formal parameters for reviewing the imposed tariffs, aiming to prevent prolonged harm to the bilateral flow of goods and services between the continent's two largest economies."
+      }
+    }
+  },
+  {
     "id": "ade39898-261d-4c6d-9138-52ce4ea8cf9b",
     "titulo": "Rio de Janeiro cria canal oficial de atendimento e denúncias para pessoas com autismo",
     "lead": "O governo do estado do Rio de Janeiro oficializou a criação do Disque Autismo, serviço destinado ao recebimento de denúncias de violações de direitos de pessoas com Transtorno do Espectro Autista (TEA) e à orientação de famílias sobre o acesso a cuidados de saúde.",
