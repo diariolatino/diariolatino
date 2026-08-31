@@ -1,5 +1,38 @@
 [
   {
+    "id": "c2924172-9d2f-45c4-9101-385b7d06ca81",
+    "titulo": "Rádio Nacional FM de Brasília celebra 50 anos com programação especial e foco na comunicação pública",
+    "lead": "A Rádio Nacional FM de Brasília comemora cinco décadas de história com uma programação especial nesta sexta-feira (28), destacando o papel da comunicação pública na valorização da cultura do Distrito Federal.",
+    "corpo": "A celebração dos 50 anos da emissora pública será marcada por edições especiais de seus programas tradicionais. O destaque fica por conta do Espaço Arte, que vai ao ar a partir das 13h sob a condução de Marcelo Ferreira e Mário Sartorello. O programa reunirá artistas de diferentes gerações que ajudaram a construir a identidade cultural da capital brasileira, incluindo o pianista e compositor Renato Vasconcellos, o multi-instrumentista Renato Mattos, e as cantoras de samba Fernanda Jacob e Ane Êoketu.\n\nCriado em 2004, originalmente na Rádio Nacional AM, o Espaço Arte consolidou-se como uma das principais vitrines para a produção artística do Distrito Federal, migrando também para a FM em 2016. Além dele, o programa Tarde Nacional apresentará depoimentos e homenagens de diversos artistas à trajetória da rádio ao longo da tarde.\n\nA Rádio Nacional é um dos pilares da comunicação pública no Brasil, gerida pela Empresa Brasil de Comunicação (EBC). Atualmente, a rede conta com oito emissoras próprias espalhadas pelo território nacional, cobrindo regiões metropolitanas como Rio de Janeiro e São Paulo, além de alcançar áreas remotas por meio da Rádio Nacional da Amazônia e da Rádio Nacional do Alto Solimões.\n\nA comemoração reforça a importância histórica das rádios públicas na integração nacional e na difusão da diversidade cultural brasileira, consolidando a Nacional FM de Brasília como uma referência na difusão artística do Planalto Central.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-08-31T15:09:48.442281+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/programa-espaco-arte-celebra-50-anos-da-nacional-fm-brasilia",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/9387374/pexels-photo-9387374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "alexandre saraiva carniato",
+      "photographer_url": "https://www.pexels.com/@alexandre-saraiva-carniato-583650",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/singer-in-a-recording-studio-9387374/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Radio Nacional FM de Brasilia celebra 50 años con programación especial y foco en la comunicación pública",
+        "lead": "Radio Nacional FM de Brasilia conmemora cinco décadas de historia con una programación especial este viernes (28), destacando el papel de la comunicación pública en la valorización de la cultura del Distrito Federal.",
+        "corpo": "La celebración de los 50 años de la emisora pública estará marcada por ediciones especiales de sus programas tradicionales. El punto destacado será el programa Espaço Arte, que se transmitirá a partir de las 13:00 horas bajo la conducción de Marcelo Ferreira y Mário Sartorello. El espacio reunirá a artistas de diferentes generaciones que ayudaron a construir la identidad cultural de la capital brasileña, incluyendo al pianista y compositor Renato Vasconcellos, el multiinstrumentista Renato Mattos y las cantantes de samba Fernanda Jacob y Ane Êoketu.\n\nCreado en 2004, originalmente en Radio Nacional AM, Espaço Arte se consolidó como una de las principales vitrinas para la producción artística del Distrito Federal, migrando también a la FM en 2016. Además, el programa Tarde Nacional presentará testimonios y homenajes de diversos artistas a la trayectoria de la radio a lo largo de la tarde.\n\nRadio Nacional es uno de los pilares de la comunicación pública en Brasil, gestionada por la Empresa Brasil de Comunicação (EBC). Actualmente, la red cuenta con ocho emisoras propias distribuidas por el territorio nacional, cubriendo regiones metropolitanas como Río de Janeiro y São Paulo, además de llegar a zonas remotas a través de Radio Nacional de la Amazonía y Radio Nacional del Alto Solimões.\n\nLa conmemoración refuerza la importancia histórica de las radios públicas en la integración nacional y en la difusión de la diversidad cultural brasileña, consolidando a Nacional FM de Brasilia como un referente en la difusión artística del Planalto Central."
+      },
+      "en": {
+        "titulo": "Radio Nacional FM de Brasília celebrates 50 years with special programming and focus on public communication",
+        "lead": "Radio Nacional FM de Brasília commemorates five decades of history with a special broadcast this Friday (28th), highlighting the role of public communication in promoting the culture of Brazil's Federal District.",
+        "corpo": "The celebration of the public broadcaster's 50th anniversary will feature special editions of its traditional programs. The highlight is the show Espaço Arte, airing at 1:00 PM, hosted by Marcelo Ferreira and Mário Sartorello. The program will gather artists from different generations who helped shape the cultural identity of the Brazilian capital, including pianist and composer Renato Vasconcellos, multi-instrumentalist Renato Mattos, and samba singers Fernanda Jacob and Ane Êoketu.\n\nCreated in 2004, originally on Radio Nacional AM, Espaço Arte has established itself as a major showcase for artistic production in the Federal District, expanding to FM in 2016. Additionally, the Tarde Nacional show will feature testimonials and tributes from various artists to the station's legacy throughout the afternoon.\n\nRadio Nacional is a cornerstone of public communication in Brazil, managed by the Empresa Brasil de Comunicação (EBC). Currently, the network operates eight proprietary stations across the country, covering metropolitan areas like Rio de Janeiro and São Paulo, as well as reaching remote regions through Radio Nacional da Amazônia and Radio Nacional do Alto Solimões.\n\nThe celebration reinforces the historical importance of public radio stations in national integration and the promotion of Brazilian cultural diversity, cementing Nacional FM de Brasília as a benchmark for artistic dissemination in the Central Highlands."
+      }
+    }
+  },
+  {
     "id": "e9016fc8-ebe8-4d19-aabd-6b1a6bc0b1c3",
     "titulo": "Argentina adia aumento de combustíveis planejado para setembro para conter inflação",
     "lead": "O governo da Argentina decidiu postergar um reajuste tarifário crucial nos combustíveis que estava previsto para entrar em vigor no mês de setembro.",
