@@ -1,5 +1,38 @@
 [
   {
+    "id": "2238dbd4-a384-4556-af83-f3f1f2f6dec6",
+    "titulo": "Bombeiros resgatam grupo de vinte pessoas à deriva no litoral do Rio de Janeiro",
+    "lead": "Um grupo de 20 banhistas que praticava esportes aquáticos e natação na zona oeste do Rio de Janeiro foi resgatado pelo Corpo de Bombeiros neste domingo após ser arrastado por fortes ventos em direção ao mar aberto.",
+    "corpo": "O incidente ocorreu nas proximidades da Barra da Tijuca durante uma travessia que tinha como destino final as Ilhas Tijucas. De acordo com informações do Corpo de Bombeiros, o grupo contava com pessoas de 20 a 67 anos distribuídas em cinco pranchas de stand up paddle e integrantes que realizavam o percurso a nado.\n\nDurante o trajeto marítimo, uma mudança repentina no padrão dos ventos desviou os esportistas da rota original, empurrando-os em direção ao bairro vizinho de São Conrado. Devido à intensidade das correntes e do deslocamento forçado, os praticantes não conseguiram retornar à faixa de areia por meios próprios e acabaram ficando à deriva em alto-mar.\n\nA operação de socorro foi iniciada após um dos integrantes do grupo acionar o serviço de emergência da corporação por telefone. Equipes de resgate utilizaram motos aquáticas para localizar e transportar todas as pessoas em segurança de volta à costa.\n\nApós o desembarque, os vinte resgatados passaram por triagem médica preliminar na própria praia. As autoridades confirmaram que todos apresentavam boas condições de saúde, sem necessidade de transferência para hospitais ou unidades de pronto atendimento.\n\nO episódio coincide com registros de rajadas de vento em diferentes pontos da capital fluminense, monitorados pelo sistema municipal Alerta Rio. O serviço meteorológico prevê a aproximação de uma frente fria nos próximos dias, cenário que deve trazer instabilidade climática, chuva forte e queda nas temperaturas em toda a faixa litorânea do estado.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-08-31T02:08:41.045743+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/grupo-de-20-pessoas-fica-deriva-no-rio-e-e-resgatado-pelos-bombeiros",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/16533141/pexels-photo-16533141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Rcastro creative",
+      "photographer_url": "https://www.pexels.com/@rcastro-creative-530099892",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/bay-on-sea-shore-in-town-16533141/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Bomberos rescatan a un grupo de veinte personas a la deriva en la costa de Río de Janeiro",
+        "lead": "Un grupo de 20 personas que practicaba deportes acuáticos y natación en la zona oeste de Río de Janeiro fue rescatado por el Cuerpo de Bomberos este domingo tras ser arrastrado por fuertes vientos hacia mar abierto.",
+        "corpo": "El incidente ocurrió en las inmediaciones de Barra da Tijuca durante una travesía que tenía como destino final las Islas Tijucas. De acuerdo con información del Cuerpo de Bomberos, el grupo estaba integrado por personas de entre 20 y 67 años distribuidas en cinco tablas de paddle surf y participantes que realizaban el trayecto a nado.\n\nDurante el recorrido marítimo, un cambio repentino en el patrón de los vientos desvió a los deportistas de su ruta original, empujándolos hacia el barrio vecino de São Conrado. Debido a la intensidad de las corrientes y al desplazamiento forzado, los integrantes no lograron regresar a la orilla por sus propios medios y quedaron a la deriva en mar abierto.\n\nLa operación de auxilio se puso en marcha luego de que uno de los miembros del grupo alertara al servicio de emergencias de la corporación por vía telefónica. Equipos de rescate emplearon motos acuáticas para localizar y trasladar a todas las personas a salvo de regreso a la costa.\n\nTras llegar a tierra firme, los veinte rescatados recibieron una evaluación médica preliminar en el lugar. Las autoridades confirmaron que todos se encontraban en buen estado de salud, sin necesidad de ser derivados a hospitales o centros médicos de urgencia.\n\nEl hecho coincidió con registros de ráfagas de viento en diversos sectores de la capital carioca, monitoreados por el sistema meteorológico municipal Alerta Rio. Los pronósticos anticipan el arribo de un frente frío en los próximos días, lo que generará inestabilidad, lluvias intensas y un descenso térmico en el litoral del estado."
+      },
+      "en": {
+        "titulo": "Firefighters rescue group of twenty people adrift off the coast of Rio de Janeiro",
+        "lead": "A group of 20 people practicing water sports and swimming in the western zone of Rio de Janeiro was rescued by the Fire Department on Sunday after being pushed into open waters by strong winds.",
+        "corpo": "The incident occurred near Barra da Tijuca during a crossing heading toward the Tijucas Islands. According to the Fire Department, the group comprised individuals aged 20 to 67 using five stand-up paddleboards alongside several swimmers.\n\nDuring the journey, a sudden shift in wind patterns blew the group off their planned course toward the neighboring district of São Conrado. Overwhelmed by sea currents and drifted far from their destination, the participants were unable to return to shore independently and were left stranded in open water.\n\nThe emergency operation was launched after one of the group members contacted emergency services via telephone. Rescue teams deployed jet skis to reach the location and safely transport everyone back to the coastline.\n\nUpon returning to shore, all twenty individuals underwent preliminary medical evaluations on site. Officials confirmed that everyone was in good health, with no need for hospitalization or transfer to emergency medical units.\n\nThe incident coincided with reports of strong wind gusts across various areas of the city, monitored by the municipal Alerta Rio meteorological system. Forecasters anticipate the arrival of a cold front in the coming days, which is expected to bring unstable weather, heavy rain, and dropping temperatures across the coastal region."
+      }
+    }
+  },
+  {
     "id": "52121a28-dff5-440d-8208-5cf87a77821c",
     "titulo": "Impasse diplomático na COP17 adia criação de regime global de combate às secas",
     "lead": "A 17ª Conferência da ONU sobre Desertificação, realizada na Mongólia, caminha para encerrar suas atividades sem a criação de um tratado obrigatório sobre secas, empurrando a decisão para 2028.",
