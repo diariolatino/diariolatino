@@ -1,5 +1,38 @@
 [
   {
+    "id": "f93d5378-f8ae-4d5a-8c0b-636f8e4f0921",
+    "titulo": "Chile marca presença no Festival de Veneza com duas produções na disputa oficial",
+    "lead": "A cinematografia chilena alcança destaque internacional ao emplacar duas produções na competição oficial do Festival Internacional de Cinema de Veneza. A participação reforça a projeção da indústria audiovisual do país em um dos palcos mais prestigiados do circuito global.",
+    "corpo": "O cinema chileno conquistou um espaço relevante na programação do tradicional Festival Internacional de Cinema de Veneza, garantindo a inclusão de duas obras em sua cobiçada competição oficial. A presença dupla na mostra principal evidencia o dinamismo e o reconhecimento crítico que a produção audiovisual do país sul-americano vem acumulando no cenário artístico internacional.\n\nA seleção para a disputa pelo Leão de Ouro coloca diretores e equipes chilenas em contato direto com a crítica especializada, distribuidoras globais e o público dos grandes festivais de cinema. Historicamente, a participação em mostras de primeira linha no circuito europeu funciona como uma vitrine crucial para impulsionar a distribuição de filmes latino-americanos em mercados internacionais, além de consolidar trajetórias autorais.\n\nNos últimos anos, o setor cinematográfico do Chile tem se destacado pela diversidade temática e pelo rigor técnico de suas narrativas, frequentemente explorando questões de memória, tensões sociais e dramas contemporâneos. A inserção simultânea de dois longas-metragens na principal seção competitiva veneziana confirma a vitalidade das políticas de fomento e das coproduções internacionais que sustentam o audiovisual chileno.\n\nO Festival de Veneza, realizado anualmente na Itália, é uma das mais antigas e influentes plataformas para o lançamento de produções mundiais. A participação de destaque do Chile reafirma a relevância cultural do país e fortalece o posicionamento do cinema latino-americano nos circuitos de maior visibilidade e prestígio do hemisfério norte.",
+    "categoria": "Sociedade",
+    "pais": "Chile",
+    "publicado_em": "2026-08-31T06:10:32.351985+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.elmostrador.cl/cultura/2026/08/31/chile-llega-al-festival-de-venecia-con-dos-peliculas-en-competencia-oficial/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/31121087/pexels-photo-31121087.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Helena Jankovičová Kováčová",
+      "photographer_url": "https://www.pexels.com/@helen1",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/venetian-carnival-masked-duo-in-elegant-costumes-31121087/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Chile marca presencia en el Festival de Venecia con dos películas en la competencia oficial",
+        "lead": "El cine chileno alcanza proyección internacional al incluir dos producciones en la competencia oficial del Festival Internacional de Cine de Venecia. Esta doble participación consolida la posición de la industria audiovisual del país en uno de los certámenes más prestigiosos del mundo.",
+        "corpo": "El cine chileno logró un lugar destacado en la programación del tradicional Festival Internacional de Cine de Venecia, al asegurar la presencia de dos de sus producciones en la codiciada competencia oficial. La inclusión simultánea en la muestra principal refleja el dinamismo y el reconocimiento crítico que la cinematografía del país sudamericano ha cosechado en la escena artística internacional.\n\nLa selección para disputar el León de Oro sitúa a realizadores y equipos técnicos chilenos en contacto directo con la crítica especializada, distribuidoras globales y el público de los grandes festivales. Históricamente, la participación en las muestras de primer nivel del circuito europeo actúa como una plataforma indispensable para potenciar la distribución de filmes latinoamericanos en el exterior y consolidar trayectorias autorales.\n\nEn los últimos años, el sector audiovisual de Chile ha destacado por su diversidad temática y el rigor formal de sus relatos, abordando con frecuencia la memoria histórica, tensiones sociales y problemáticas contemporáneas. La presencia de dos largometrajes en la sección central veneciana ratifica la solidez de las iniciativas de fomento y de las coproducciones internacionales que impulsan al cine chileno.\n\nEl Festival de Venecia, celebrado anualmente en Italia, es uno de los eventos cinematográficos más antiguos e influyentes del planeta. Esta destacada participación chilena reafirma la relevancia cultural del país y fortalece el posicionamiento del cine latinoamericano en los circuitos de mayor visibilidad y prestigio global."
+      },
+      "en": {
+        "titulo": "Chile Secures Strong Presence at Venice Film Festival with Two Films in Official Competition",
+        "lead": "Chilean cinema has achieved notable international visibility by placing two productions in the official competition of the Venice International Film Festival. This double entry reinforces the growing standing of the country's film industry on one of the world's most prestigious stages.",
+        "corpo": "Chilean cinema has earned a prominent place on the lineup of the renowned Venice International Film Festival, securing two entries in its coveted official competition. The presence of two titles in the main section underscores the dynamism and critical acclaim that South American filmmakers have cultivated across the global artistic circuit.\n\nBeing selected to contend for the Golden Lion places Chilean directors and creative teams in direct dialogue with film critics, international distributors, and global audiences. Historically, participating in top-tier European festivals serves as an essential springboard to broaden international distribution for Latin American cinema and bolster the careers of established and emerging auteurs.\n\nIn recent years, Chile's audiovisual sector has stood out for its thematic diversity and narrative craftsmanship, frequently engaging with historical memory, social tensions, and contemporary human experiences. The simultaneous inclusion of two feature films in Venice's flagship competition highlights the resilience of national funding policies and international co-production partnerships that sustain Chilean filmmaking.\n\nHosted annually in Italy, the Venice Film Festival is one of the world's oldest and most influential launchpads for global cinema. Chile's notable representation reaffirms the country's cultural vitality and strengthens the footprint of Latin American cinema within high-profile international circuits."
+      }
+    }
+  },
+  {
     "id": "666a46a4-dd31-4b91-8359-d8902cc0323e",
     "titulo": "Inmet alerta para temporais e granizo no Sul enquanto calor predomina no restante do Brasil",
     "lead": "O Instituto Nacional de Meteorologia emitiu alertas meteorológicos destacando um forte contraste climático no território brasileiro, com tempestades severas na Região Sul e calor intenso no restante do país.",
