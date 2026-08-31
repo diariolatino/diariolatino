@@ -1,5 +1,38 @@
 [
   {
+    "id": "b3f555b1-ce56-4e3b-bab7-aa27469d0a88",
+    "titulo": "Turnê de León XIV na Argentina mobiliza expectativas sobre possíveis destinos",
+    "lead": "A possível passagem de León XIV pela Argentina durante sua turnê gera projeções sobre as cidades e locais que farão parte do itinerário no país sul-americano.",
+    "corpo": "A perspectiva de uma série de apresentações de León XIV na Argentina tem despertado atenção acerca dos locais e cidades que poderão integrar o roteiro oficial durante a visita. O país, tradicional polo cultural e de eventos de grande porte na América do Sul, desponta como um dos principais palcos a serem considerados no circuito regional.\n\nEmbora o cronograma completo e os detalhes logísticos de cada etapa dependam de confirmações oficiais por parte dos organizadores, analistas e o público local acompanham a definição dos possíveis palcos e centros urbanos com infraestrutura adequada para receber a passagem da turnê. A escolha de destinos costuma envolver praças com histórico de eventos de grande relevância nacional e internacional, a exemplo da capital e de centros urbanos estratégicos.\n\nMais informações sobre datas, locais definitivos e organização da agenda em território argentino deverão ser divulgadas conforme avançarem os anúncios das equipes responsáveis pelo planejamento da turnê.",
+    "categoria": "Sociedade",
+    "pais": "Argentina",
+    "publicado_em": "2026-08-31T00:11:45.273026+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.nuevodiarioweb.com.ar/el-pais/info-santiago-estero-leon-xiv-en-argentina-los-lugares-que-podria-visitar-durante-su-gira.htm",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/13230484/pexels-photo-13230484.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Lisa Fotios",
+      "photographer_url": "https://www.pexels.com/@fotios-photos",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/crowd-of-people-at-a-concert-13230484/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "La gira de León XIV en Argentina genera expectativas sobre los posibles destinos",
+        "lead": "El eventual paso de León XIV por Argentina durante su gira suscita proyecciones sobre las ciudades y recintos que formarán parte de su itinerario en el país sudamericano.",
+        "corpo": "La perspectiva de una serie de presentaciones de León XIV en Argentina ha despertado interés en torno a las locaciones y ciudades que podrían sumarse a la ruta oficial durante la visita. El país, tradicional polo cultural y de eventos de gran escala en América del Sur, figura como uno de los escenarios centrales a ser considerados en el circuito regional.\n\nSi bien el cronograma completo y los detalles logísticos de cada etapa dependen de las confirmaciones oficiales de los organizadores, el público local sigue de cerca la definición de los posibles recintos y centros urbanos dotados de la infraestructura requerida para acoger la gira. La selección de destinos suele considerar plazas con trayectoria en acontecimientos de alta trascendencia nacional e internacional, como la capital y otros puntos estratégicos.\n\nNuevos datos sobre fechas, sedes definitivas y la organización de la agenda en territorio argentino se darán a conocer a medida que avancen los anuncios oficiales a cargo del equipo de producción."
+      },
+      "en": {
+        "titulo": "León XIV's tour in Argentina raises expectations over potential venues",
+        "lead": "The anticipated visit of León XIV to Argentina as part of an upcoming tour has generated interest regarding the cities and venues that may be included in the itinerary.",
+        "corpo": "The prospect of a series of appearances by León XIV in Argentina has drawn attention to the specific cities and locations that could be included on the official schedule. The South American nation, a long-standing hub for major events and cultural gatherings in the region, stands out as a prime stop for regional circuits.\n\nWhile the full schedule and logistical arrangements for each leg remain subject to official confirmation from organizers, observers and the local audience are monitoring the potential selection of venues with the capacity and infrastructure required for such an event. Tour destinations typically focus on key metropolitan areas and major venues accustomed to hosting high-profile national and international engagements.\n\nFurther details regarding dates, confirmed venues, and organizational milestones across Argentina are expected to be announced as the tour's production team finalizes arrangements."
+      }
+    }
+  },
+  {
     "id": "6d971961-0901-47a9-a7d6-15be14b9d0c1",
     "titulo": "Venezuela e Estados Unidos firmam acordo bilionário para exploração de petróleo",
     "lead": "A presidente interina da Venezuela, Delcy Rodríguez, e o governo dos Estados Unidos confirmaram a assinatura de um acordo petrolífero de grande porte para o desenvolvimento de campos estratégicos no país sul-americano. O entendimento prevê investimentos privados superiores a 100 bilhões de dólares e o aumento expressivo da produção venezuelana de hidrocarbonetos.",
