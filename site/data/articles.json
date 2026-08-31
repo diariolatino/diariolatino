@@ -1,5 +1,38 @@
 [
   {
+    "id": "e9016fc8-ebe8-4d19-aabd-6b1a6bc0b1c3",
+    "titulo": "Argentina adia aumento de combustíveis planejado para setembro para conter inflação",
+    "lead": "O governo da Argentina decidiu postergar um reajuste tarifário crucial nos combustíveis que estava previsto para entrar em vigor no mês de setembro.",
+    "corpo": "A medida visa conter o impacto direto sobre o índice de inflação, que continua sendo um dos principais desafios da gestão macroeconômica do país. O termo \"combustível pisado\" reflete a estratégia governamental de moderar ou atrasar os reajustes de preços e impostos que incidem sobre a gasolina e o diesel, evitando um efeito cascata na economia.\n\nOriginalmente, o cronograma previa a atualização de impostos federais sobre os combustíveis líquidos para o início de setembro, uma ação alinhada com as metas de arrecadação e ajuste fiscal do Estado. No entanto, o temor de que o repasse imediato aos postos de abastecimento pudesse acelerar a alta de preços em setores sensíveis, como o de transporte de cargas e a distribuição de alimentos, pesou na decisão de adiar o aumento.\n\nA decisão expõe o dilema enfrentado pela administração pública entre cumprir as metas de equilíbrio fiscal e mitigar o desgaste social decorrente da perda do poder de compra da população. O controle temporário dos preços na bomba funciona como um amortecedor de curto prazo, embora analistas do setor de energia alertem que a medida acumula uma pressão represada para os meses seguintes.\n\nCom essa postergação, o governo tenta garantir uma estabilização temporária nos índices de preços ao consumidor, enquanto avalia o cenário financeiro global e o comportamento do mercado de petróleo bruto, fatores que também influenciam a formulação das tarifas locais.",
+    "categoria": "Economia",
+    "pais": "Argentina",
+    "publicado_em": "2026-08-31T13:09:34.156701+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://urgente24.com/dinero/combustible-pisado-el-gobierno-postergo-un-aumento-clave-septiembre-n631711",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/34636185/pexels-photo-34636185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "ddlogg",
+      "photographer_url": "https://www.pexels.com/@ddlogg-2150483267",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/modern-urban-gas-station-with-fuel-pumps-34636185/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Argentina posterga aumento de combustibles planificado para septiembre para contener la inflación",
+        "lead": "El gobierno de Argentina decidió aplazar un ajuste tarifario clave en los combustibles que estaba previsto para entrar en vigor en el mes de septiembre.",
+        "corpo": "La medida busca contener el impacto directo sobre el índice de inflación, que sigue siendo uno de los principales desafíos de la gestión macroeconómica del país. El término \"combustible pisado\" refleja la estrategia gubernamental de moderar o retrasar los reajustes de precios e impuestos que gravan la gasolina y el diésel, evitando un efecto cascada en la economía.\n\nOriginalmente, el cronograma preveía la actualización de impuestos federales sobre los combustibles líquidos para principios de septiembre, una acción alineada con las metas de recaudación y ajuste fiscal del Estado. Sin embargo, el temor a que el traslado inmediato a las estaciones de servicio pudiera acelerar la inflación en sectores sensibles, como el transporte de cargas y la distribución de alimentos, pesó en la decisión de posponer el incremento.\n\nLa decisión expone el dilema que enfrenta la administración pública entre cumplir con las metas de equilibrio fiscal y mitigar el desgaste social derivado de la pérdida del poder adquisitivo de la población. El control temporal de los precios en el surtidor funciona como un amortiguador de corto plazo, aunque analistas del sector energético advierten que la medida acumula una presión reprimida para los meses siguientes.\n\nCon esta postergación, el gobierno intenta garantizar una estabilización de los índices de precios al consumidor, mientras evalúa el escenario financiero global y el comportamiento del mercado de petróleo crudo, factores que también influyen en la formulación de las tarifas locales."
+      },
+      "en": {
+        "titulo": "Argentina Postpones Key Fuel Price Increase Planned for September to Curb Inflation",
+        "lead": "The Argentine government has decided to postpone a crucial fuel price adjustment that was scheduled to take effect in September.",
+        "corpo": "The measure aims to curb the direct impact on the inflation rate, which remains one of the main challenges of the country's macroeconomic management. The term \"combustible pisado\" (repressed fuel) reflects the government's strategy to moderate or delay price and tax adjustments on gasoline and diesel, preventing a cascade effect on the economy.\n\nOriginally, the schedule called for updating federal taxes on liquid fuels at the beginning of September, an action aligned with the State's revenue and fiscal adjustment goals. However, fears that the immediate pass-through to gas stations could accelerate price hikes in sensitive sectors, such as cargo transport and food distribution, weighed heavily on the decision to postpone the increase.\n\nThis decision highlights the dilemma faced by the public administration between meeting fiscal balance targets and mitigating the social impact resulting from the population's loss of purchasing power. The temporary control of pump prices acts as a short-term buffer, although energy sector analysts warn that the measure builds up repressed pressure for the following months.\n\nWith this postponement, the government attempts to ensure a temporary stabilization of consumer price indices while evaluating the global financial scenario and the behavior of the crude oil market, factors that also influence the formulation of local tariffs."
+      }
+    }
+  },
+  {
     "id": "50edbe0f-9903-4f74-be1c-e2c238820179",
     "titulo": "A projeção da imprensa boliviana no cenário informativo global",
     "lead": "Os veículos de comunicação da Bolívia, com destaque para iniciativas de projeção internacional como o jornal El Día, desempenham um papel crucial na difusão da realidade política, econômica e social do país para o mundo.",
