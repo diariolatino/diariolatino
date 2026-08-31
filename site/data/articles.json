@@ -1,5 +1,38 @@
 [
   {
+    "id": "a8013861-9abf-4bb4-b15c-ef6f03ea5f6c",
+    "titulo": "Governo da Colômbia formaliza início do plano de reconstrução pós-terremoto",
+    "lead": "O governo da Colômbia anunciou o início oficial das operações de reconstrução e assistência nas regiões atingidas por um recente terremoto no país.",
+    "corpo": "O governo colombiano confirmou o lançamento do plano de reconstrução destinado a atender as áreas impactadas pelo sismo que atingiu o território nacional. A medida busca coordenar ações estatais para a recuperação de infraestruturas danificadas, restauração de serviços essenciais e prestação de auxílio direto às famílias afetadas pelo evento natural.\n\nAs diretrizes divulgadas estabelecem que órgãos federais e locais atuarão em conjunto no mapeamento dos estragos e na execução das obras prioritárias. As frentes de trabalho contemplam desde a desobstrução de vias e reparo de edifícios públicos até o apoio habitacional e social para a população em situação de vulnerabilidade após o tremor.\n\nA estratégia governamental prioriza a normalização das rotinas comunitárias e a segurança estrutural das zonas atingidas. Autoridades locais seguem realizando levantamentos técnicos para mensurar o impacto total do abalo e ajustar o cronograma de recursos necessários ao longo das etapas de reconstrução no país.",
+    "categoria": "Sociedade",
+    "pais": "Colômbia",
+    "publicado_em": "2026-08-31T04:09:07.001557+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.elespectador.com/politica/gobierno-anuncia-el-inicio-de-la-reconstruccion-tras-el-terremoto-en-colombia/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/14000727/pexels-photo-14000727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Franklin Peña Gutierrez",
+      "photographer_url": "https://www.pexels.com/@franklin-pena-gutierrez-337911674",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/demolished-residential-buildings-14000727/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Gobierno de Colombia formaliza el inicio del plan de reconstrucción tras terremoto",
+        "lead": "El gobierno de Colombia anunció el inicio oficial de las operaciones de reconstrucción y asistencia en las regiones afectadas por un reciente terremoto en el país.",
+        "corpo": "El gobierno colombiano confirmó el lanzamiento del plan de reconstrucción destinado a atender las áreas impactadas por el sismo que afectó al territorio nacional. La medida busca coordinar acciones estatales para la recuperación de infraestructuras dañadas, la restauración de servicios esenciales y la prestación de ayuda directa a las familias afectadas por el evento natural.\n\nLas directrices divulgadas establecen que organismos federales y locales actuarán de manera conjunta en el mapeo de los daños y en la ejecución de las obras prioritarias. Las frentes de trabajo contemplan desde la remoción de escombros y reparación de edificios públicos hasta el apoyo habitacional y social para la población en situación de vulnerabilidad tras el temblor.\n\nLa estrategia gubernamental prioriza la normalización de las rutinas comunitarias y la seguridad estructural de las zonas afectadas. Las autoridades locales continúan realizando evaluaciones técnicas para medir el impacto total del sismo y ajustar el cronograma de recursos necesarios a lo largo de las etapas de reconstrucción en el país."
+      },
+      "en": {
+        "titulo": "Colombian Government Formally Begins Post-Earthquake Reconstruction Plan",
+        "lead": "The Colombian government has announced the official start of reconstruction and relief operations in the regions affected by a recent earthquake in the country.",
+        "corpo": "The Colombian government confirmed the launch of a reconstruction plan designed to address the areas impacted by the earthquake that struck the national territory. The measure aims to coordinate state actions for repairing damaged infrastructure, restoring essential services, and providing direct assistance to families affected by the natural event.\n\nThe guidelines released state that federal and local agencies will work jointly to assess damages and execute priority reconstruction projects. The operational fronts range from clearing roadways and repairing public buildings to offering housing and social support for vulnerable populations following the tremor.\n\nThe government's strategy prioritizes restoring community routines and ensuring the structural safety of the affected zones. Local authorities continue to conduct technical evaluations to measure the overall impact of the earthquake and adjust the resource schedule throughout the reconstruction phases in the country."
+      }
+    }
+  },
+  {
     "id": "2238dbd4-a384-4556-af83-f3f1f2f6dec6",
     "titulo": "Bombeiros resgatam grupo de vinte pessoas à deriva no litoral do Rio de Janeiro",
     "lead": "Um grupo de 20 banhistas que praticava esportes aquáticos e natação na zona oeste do Rio de Janeiro foi resgatado pelo Corpo de Bombeiros neste domingo após ser arrastado por fortes ventos em direção ao mar aberto.",
