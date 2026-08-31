@@ -1,5 +1,38 @@
 [
   {
+    "id": "50edbe0f-9903-4f74-be1c-e2c238820179",
+    "titulo": "A projeção da imprensa boliviana no cenário informativo global",
+    "lead": "Os veículos de comunicação da Bolívia, com destaque para iniciativas de projeção internacional como o jornal El Día, desempenham um papel crucial na difusão da realidade política, econômica e social do país para o mundo.",
+    "corpo": "No contexto da comunicação digital e da globalização, a imprensa boliviana tem buscado ampliar seu alcance para além das fronteiras nacionais. Veículos tradicionais e plataformas digitais do país andino assumem a missão de reportar os acontecimentos locais diretamente para a comunidade internacional, oferecendo uma perspectiva soberana e contextualizada dos fatos que moldam a nação.\n\nA relevância dessa projeção se reflete na cobertura de temas estratégicos para a Bolívia, como a gestão de recursos naturais, os debates políticos internos, a rica diversidade cultural e a integração regional no âmbito da América Latina e do Sul Global. Ao atuar como pontes de informação, esses meios de comunicação combatem distorções narrativas e aproximam a diáspora boliviana de sua terra natal.\n\nAlém disso, a presença ativa de jornais bolivianos no ambiente digital fortalece o ecossistema de mídia da região, permitindo que analistas, investidores e cidadãos de outros países compreendam as dinâmicas do país sem a necessidade de intermediários externos. Esse movimento consolida a importância do jornalismo local como fonte primária e confiável de informação em um mundo crescentemente interconectado.",
+    "categoria": "Sociedade",
+    "pais": "Bolívia",
+    "publicado_em": "2026-08-31T12:09:27.611891+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.eldia.com.bo/2026-08-31/politica/el-tse-iniciara-en-cochabamba-el-proceso-de-reforma-electoral-este-2-de-septiembre.html",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/15131966/pexels-photo-15131966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Valentin Angel Fernandez",
+      "photographer_url": "https://www.pexels.com/@vafphotos",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/kiosk-in-city-15131966/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "La proyección de la prensa boliviana en el escenario informativo global",
+        "lead": "Los medios de comunicación de Bolivia, con énfasis en iniciativas de proyección internacional como el periódico El Día, desempeñan un papel crucial en la difusión de la realidad política, económica y social del país hacia el mundo.",
+        "corpo": "En el contexto de la comunicación digital y la globalización, la prensa boliviana ha buscado ampliar su alcance más allá de las fronteras nacionales. Medios tradicionales y plataformas digitales del país andino asumen la misión de reportar los acontecimientos locales directamente a la comunidad internacional, ofreciendo una perspectiva soberana y contextualizada de los hechos que moldean la nación.\n\nLa relevancia de esta proyección se refleja en la cobertura de temas estratégicos para Bolivia, como la gestión de recursos naturales, los debates políticos internos, la rica diversidad cultural y la integración regional en el ámbito de América Latina y el Sur Global. Al actuar como puentes de información, estos medios de comunicación combaten distorciones narrativas y aproximan a la diáspora boliviana a su tierra natal.\n\nAsimismo, la presencia activa de periódicos bolivianos en el entorno digital fortalece el ecosistema de medios de la región, permitiendo que analistas, inversores y ciudadanos de otros países comprendan las dinámicas del país sin la necesidad de intermediarios externos. Este movimiento consolida la importancia del periodismo local como fuente primaria y confiable de información en un mundo cada vez más interconectado."
+      },
+      "en": {
+        "titulo": "The projection of Bolivian press in the global information landscape",
+        "lead": "Bolivian media outlets, highlighting international projection initiatives such as the newspaper El Día, play a crucial role in disseminating the country's political, economic, and social reality to the world.",
+        "corpo": "In the context of digital communication and globalization, the Bolivian press has sought to expand its reach beyond national borders. Traditional outlets and digital platforms from the Andean country take on the mission of reporting local events directly to the international community, offering a sovereign and contextualized perspective on the events shaping the nation.\n\nThe relevance of this projection is reflected in the coverage of strategic issues for Bolivia, such as natural resource management, internal political debates, rich cultural diversity, and regional integration within Latin America and the Global South. By acting as information bridges, these media outlets combat narrative distortions and bring the Bolivian diaspora closer to their homeland.\n\nFurthermore, the active presence of Bolivian newspapers in the digital environment strengthens the region's media ecosystem, allowing analysts, investors, and citizens from other countries to understand the country's dynamics without the need for external intermediaries. This movement consolidates the importance of local journalism as a primary and reliable source of information in an increasingly interconnected world."
+      }
+    }
+  },
+  {
     "id": "5c2966a4-10ee-4cfd-9335-61ef31053a71",
     "titulo": "Atleta de Bahía Blanca, Tiziano Copreni representará a Argentina no Mundial Universitário",
     "lead": "O jovem atleta Tiziano Copreni, originário de Bahía Blanca, foi selecionado para integrar a equipe nacional que representará a Argentina no próximo Mundial Universitário.",
