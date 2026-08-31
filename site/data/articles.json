@@ -1,5 +1,38 @@
 [
   {
+    "id": "666a46a4-dd31-4b91-8359-d8902cc0323e",
+    "titulo": "Inmet alerta para temporais e granizo no Sul enquanto calor predomina no restante do Brasil",
+    "lead": "O Instituto Nacional de Meteorologia emitiu alertas meteorológicos destacando um forte contraste climático no território brasileiro, com tempestades severas na Região Sul e calor intenso no restante do país.",
+    "corpo": "O Instituto Nacional de Meteorologia (Inmet) informou que a Região Sul do Brasil enfrenta alto risco de temporais acompanhados de queda de granizo e rajadas de vento, enquanto as demais regiões registram temperaturas elevadas e tempo seco.\n\nDiante do cenário de forte instabilidade atmosférica, foi emitido um aviso laranja de perigo para tempestades abrangendo todo o estado de Santa Catarina, o norte do Rio Grande do Sul e faixas oeste, centro e leste do Paraná, incluindo capitais como Curitiba e Florianópolis. Outras áreas dos três estados sulistas permanecem sob aviso amarelo de perigo potencial. No Rio Grande do Sul, as temperaturas sofrem declínio acentuado, com máximas que não devem superar os 19°C em Porto Alegre, ao passo que Curitiba pode alcançar 35°C antes da virada no tempo.\n\nEm contraste, o centro-norte do país vivencia uma onda de calor expressiva combinada com baixos índices de umidade relativa do ar. As projeções apontam máximas de até 41°C em cidades como Cuiabá e Porto Velho, além de marcas próximas a 40°C na região agrícola do Matopiba (Maranhão, Tocantins, Piauí e Bahia). Em São Paulo, os termômetros podem registrar até 36°C, enquanto Brasília deve marcar cerca de 33°C.\n\nO Inmet também reforçou alertas amarelos relativos à baixa umidade do ar durante as tardes em partes expressivas do Centro-Oeste, do Nordeste e do sul da Região Norte, quadro característico de períodos de estiagem prolongada que exige atenção para a saúde e para o risco de queimadas.",
+    "categoria": "Ciência & Ambiente",
+    "pais": "Brasil",
+    "publicado_em": "2026-08-31T05:08:59.160957+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/regiao-sul-tem-risco-de-temporal-e-granizo-outras-regioes-tem-calor",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/31343158/pexels-photo-31343158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Landiva  Weber",
+      "photographer_url": "https://www.pexels.com/@diva",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/dramatic-overcast-sky-with-cumulonimbus-clouds-31343158/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Inmet alerta sobre tormentas y granizo en el sur mientras el calor predomina en el resto de Brasil",
+        "lead": "El Instituto Nacional de Meteorología emitió alertas que destacan un fuerte contraste climático en Brasil, con tormentas severas en el sur y calor intenso en las demás regiones.",
+        "corpo": "El Instituto Nacional de Meteorología (Inmet) informó que la región sur de Brasil enfrenta un alto riesgo de tormentas acompañadas de granizo y ráfagas de viento, mientras que el resto del país experimenta temperaturas elevadas y clima seco.\n\nAnte el escenario de fuerte inestabilidad atmosférica, se emitió una alerta naranja por peligro de tormentas que abarca todo el estado de Santa Catarina, el norte de Rio Grande do Sul y sectores del oeste, centro y este de Paraná, incluidas capitales como Curitiba y Florianópolis. Otras zonas de estos tres estados permanecen bajo alerta amarilla. En Rio Grande do Sul, las temperaturas registrarán un marcado descenso, con máximas que no superarían los 19°C en Porto Alegre, mientras que Curitiba podría alcanzar los 35°C antes de la llegada del frente.\n\nEn contraste, el centro-norte del territorio brasileño atraviesa un episodio de calor significativo acompañado de bajos niveles de humedad relativa del aire. Los pronósticos prevén temperaturas de hasta 41°C en ciudades como Cuiabá y Porto Velho, y registros cercanos a los 40°C en la frontera agrícola de Matopiba (Maranhão, Tocantins, Piauí y Bahía). En São Paulo, los termómetros podrían marcar hasta 36°C, mientras que Brasilia se situará alrededor de los 33°C.\n\nAsimismo, el Inmet mantuvo avisos amarillos por baja humedad durante las tardes en amplias zonas del Centro-Oeste, Nordeste y el sur de la región Norte, un panorama típico de sequedad que demanda precauciones frente a la deshidratación y el riesgo de incendios forestales."
+      },
+      "en": {
+        "titulo": "Inmet warns of storms and hail in southern Brazil while heat dominates other regions",
+        "lead": "Brazil's National Meteorological Institute has issued weather alerts highlighting a sharp climatic contrast across the country, with severe storms in the South and intense heat elsewhere.",
+        "corpo": "Brazil's National Meteorological Institute (Inmet) reported that the country's Southern Region faces a high risk of severe thunderstorms accompanied by hail and strong winds, while the remaining regions experience elevated temperatures and dry air.\n\nDue to the intense atmospheric instability, an orange danger warning was issued for storms covering the entire state of Santa Catarina, northern Rio Grande do Sul, and parts of western, central, and eastern Paraná, including the capital cities of Curitiba and Florianópolis. Other areas across the three southern states remain under a yellow potential danger alert. In Rio Grande do Sul, temperatures are expected to drop sharply, with highs staying below 19°C in Porto Alegre, whereas Curitiba could reach 35°C before the weather shifts.\n\nConversely, the central and northern parts of Brazil are experiencing a significant heatwave paired with low relative humidity. Forecasts indicate maximum temperatures reaching up to 41°C in cities such as Cuiabá and Porto Velho, alongside figures near 40°C in the Matopiba agricultural region (comprising Maranhão, Tocantins, Piauí, and Bahia). In São Paulo, temperatures may reach 36°C, while Brasília is expected to record around 33°C.\n\nInmet also reinforced yellow alerts for low afternoon air humidity across extensive sections of the Central-West, Northeast, and the southern Amazon basin, conditions that require vigilance regarding health precautions and wildfire prevention."
+      }
+    }
+  },
+  {
     "id": "a8013861-9abf-4bb4-b15c-ef6f03ea5f6c",
     "titulo": "Governo da Colômbia formaliza início do plano de reconstrução pós-terremoto",
     "lead": "O governo da Colômbia anunciou o início oficial das operações de reconstrução e assistência nas regiões atingidas por um recente terremoto no país.",
