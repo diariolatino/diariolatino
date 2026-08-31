@@ -1,5 +1,38 @@
 [
   {
+    "id": "6967d0b6-3d2b-475f-b804-3a4561826106",
+    "titulo": "Defesa Civil reconhece emergência em seis municípios atingidos por chuvas e granizo no Sul do Brasil",
+    "lead": "O governo federal oficializou o estado de emergência em seis cidades do Paraná, Rio Grande do Sul e Santa Catarina após estragos provocados por tempestades de granizo e chuvas intensas.",
+    "corpo": "A decisão foi homologada pela Secretaria Nacional de Proteção e Defesa Civil por meio da Portaria nº 2.808, publicada no Diário Oficial da União. O documento abrange o município de Marquinho, no Paraná; as cidades de Bom Retiro do Sul, Caseiros, Jari e Rolante, no Rio Grande do Sul; e o município de Bocaina do Sul, em Santa Catarina.\n\nOs fenômenos meteorológicos atingiram a Região Sul entre os meses de julho e agosto. Segundo o relatório federal, as localidades de Marquinho e Caseiros registraram prejuízos decorrentes de fortes tempestades de granizo, enquanto Bom Retiro do Sul, Jari, Rolante e Bocaina do Sul sofreram os impactos de volumes elevados de precipitação acumulada.\n\nCom a decretação da emergência em âmbito federal, as prefeituras afetadas ficam habilitadas a solicitar recursos financeiros ao Ministério da Integração e do Desenvolvimento Regional. A tramitação dos pedidos ocorre por meio do Sistema Integrado de Informações sobre Desastres (S2iD), no qual as equipes municipais apresentam os planos de trabalho para análise técnica.\n\nOs repasses da União têm como objetivo custear ações imediatas de resposta e assistência à população atingida. Entre as medidas previstas estão a compra de cestas de alimentos, o fornecimento de água potável, a entrega de kits de higiene e limpeza, além da realização de obras emergenciais para a restauração de serviços essenciais nas comunidades afetadas.",
+    "categoria": "Ciência & Ambiente",
+    "pais": "Brasil",
+    "publicado_em": "2026-08-31T20:09:11.515907+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/defesa-civil-reconhece-situacao-de-emergencia-em-seis-cidades-do-sul",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/12998606/pexels-photo-12998606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Jens Hackradt",
+      "photographer_url": "https://www.pexels.com/@jens-hackradt-275583232",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-grayscale-photo-of-house-on-body-of-water-12998606/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Defensa Civil reconoce emergencia en seis municipios afectados por lluvias y granizo en el sur de Brasil",
+        "lead": "El gobierno federal oficializó el estado de emergencia en seis ciudades de los estados de Paraná, Río Grande del Sur y Santa Catarina tras los daños provocados por granizadas y lluvias intensas.",
+        "corpo": "La medida fue homologada por la Secretaría Nacional de Protección y Defensa Civil mediante la Resolución nº 2.808, publicada en el Diario Oficial de la Unión. El documento abarca al municipio de Marquinho, en Paraná; a las localidades de Bom Retiro do Sul, Caseiros, Jari y Rolante, en Río Grande del Sur; y a Bocaina do Sul, en Santa Catarina.\n\nLos fenómenos meteorológicos afectaron a la región sur entre los meses de julio y agosto. Según el informe federal, Marquinho y Caseiros sufrieron perjuicios ocasionados por fuertes granizadas, mientras que Bom Retiro do Sul, Jari, Rolante y Bocaina do Sul se vieron impactados por intensos volúmenes de precipitación acumulada.\n\nCon la oficialización de la emergencia a nivel federal, los gobiernos locales afectados quedan habilitados para solicitar recursos económicos al Ministerio de Integración y Desarrollo Regional. La tramitación de los fondos se gestiona a través del Sistema Integrado de Información sobre Desastres (S2iD), donde las autoridades municipales deben presentar sus planes de trabajo para evaluación técnica.\n\nLos fondos asignados por el ejecutivo central tienen como finalidad financiar acciones inmediatas de respuesta y asistencia a la población afectada. Entre las medidas previstas se encuentran la adquisición de cestas de alimentos, el suministro de agua potable, la distribución de kits de higiene y la ejecución de obras de emergencia para el restablecimiento de servicios públicos esenciales."
+      },
+      "en": {
+        "titulo": "Civil Defense Recognizes State of Emergency in Six Southern Brazilian Municipalities After Severe Weather",
+        "lead": "The Brazilian federal government has officially recognized a state of emergency in six towns across Paraná, Rio Grande do Sul, and Santa Catarina following damage caused by severe hailstorms and heavy rains.",
+        "corpo": "The decision was formalized by the National Secretariat for Protection and Civil Defense through Ordinance No. 2,808, published in the Official Gazette. The decree covers the municipality of Marquinho in Paraná; Bom Retiro do Sul, Caseiros, Jari, and Rolante in Rio Grande do Sul; and Bocaina do Sul in Santa Catarina.\n\nThe severe weather events struck the southern region between July and August. According to the federal report, Marquinho and Caseiros suffered damage from heavy hail, while Bom Retiro do Sul, Jari, Rolante, and Bocaina do Sul were severely impacted by intense accumulated rainfall.\n\nWith the federal recognition, affected local administrations are now eligible to request financial aid from the Ministry of Integration and Regional Development. Funding requests are processed through the Integrated Disaster Information System (S2iD), where municipal teams submit work plans for technical evaluation.\n\nFederal funds are intended to finance immediate response operations and relief efforts for affected residents. Planned measures include purchasing food packages, supplying drinking water, distributing hygiene and cleaning kits, and carrying out emergency repairs to restore essential public services."
+      }
+    }
+  },
+  {
     "id": "e8c18ac5-9431-4411-bb8f-94be0dcee0ae",
     "titulo": "Brasil e Estados Unidos retomam negociações comerciais após impasse sobre novas tarifas",
     "lead": "As equipes diplomáticas e comerciais do Brasil e dos Estados Unidos iniciaram conversas para tentar resolver o impasse criado pelas sobretaxas aplicadas unilateralmente por Washington. A retomada do diálogo ocorre após articulação direta entre os presidentes Luiz Inácio Lula da Silva e Donald Trump.",
