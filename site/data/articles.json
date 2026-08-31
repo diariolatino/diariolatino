@@ -1,5 +1,38 @@
 [
   {
+    "id": "5c2966a4-10ee-4cfd-9335-61ef31053a71",
+    "titulo": "Atleta de Bahía Blanca, Tiziano Copreni representará a Argentina no Mundial Universitário",
+    "lead": "O jovem atleta Tiziano Copreni, originário de Bahía Blanca, foi selecionado para integrar a equipe nacional que representará a Argentina no próximo Mundial Universitário.",
+    "corpo": "A convocação de Copreni destaca a relevância do esporte universitário argentino e projeta a cidade de Bahía Blanca, historicamente reconhecida por revelar talentos esportivos, no cenário internacional. O torneio reúne estudantes-atletas de diversos países, promovendo a integração global e o alto rendimento acadêmico e esportivo.\n\nA participação de atletas do interior do país na seleção argentina reforça o caráter federal do esporte universitário nacional. A preparação para o Mundial envolve rotinas intensas de treinamento conciliadas com a vida acadêmica, um modelo que a Argentina busca fortalecer por meio de suas federações esportivas universitárias. A expectativa em torno da delegação albiceleste é positiva, buscando consolidar o país como uma força competitiva nas modalidades em disputa.",
+    "categoria": "Sociedade",
+    "pais": "Argentina",
+    "publicado_em": "2026-08-31T11:09:04.606913+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "http://www.lanueva.com/nota/2026-8-31-5-0-47-el-bahiense-tiziano-copreni-jugara-el-mundial-universitario-con-la-seleccion-argentina",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/5532275/pexels-photo-5532275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Clip It Comunicación",
+      "photographer_url": "https://www.pexels.com/@andyclipit",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/men-playing-rugby-5532275/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "El bahiense Tiziano Copreni representará a Argentina en el Mundial Universitario",
+        "lead": "El joven atleta Tiziano Copreni, oriundo de Bahía Blanca, fue seleccionado para integrar el equipo nacional que representará a Argentina en el próximo Mundial Universitario.",
+        "corpo": "La convocatoria de Copreni destaca la relevancia del deporte universitario argentino y proyecta a la ciudad de Bahía Blanca, históricamente reconocida por formar talentos deportivos, en el escenario internacional. El torneo reúne a estudiantes-atletas de diversos países, promoviendo la integración global y el alto rendimiento académico y deportivo.\n\nLa participación de atletas del interior del país en la selección argentina refuerza el carácter federal del deporte universitario nacional. La preparación para el Mundial implica intensas rutinas de entrenamiento conciliadas con la vida académica, un modelo que Argentina busca fortalecer a través de sus federaciones deportivas universitarias. La expectativa en torno a la delegación albiceleste es positiva, buscando consolidar al país como una fuerza competitiva en las disciplinas en disputa."
+      },
+      "en": {
+        "titulo": "Bahia Blanca Athlete Tiziano Copreni to Represent Argentina in the World University Championship",
+        "lead": "Young athlete Tiziano Copreni, from Bahia Blanca, has been selected to join the national team representing Argentina in the upcoming World University Championship.",
+        "corpo": "Copreni's selection highlights the relevance of Argentine university sports and projects the city of Bahia Blanca, historically recognized for developing sporting talent, onto the international stage. The tournament gathers student-athletes from various countries, promoting global integration and high academic and athletic performance.\n\nThe participation of athletes from the country's interior in the Argentine national team reinforces the federal character of national university sports. Preparation for the Championship involves intense training routines balanced with academic life, a model that Argentina aims to strengthen through its university sports federations. Expectations surrounding the Argentine delegation are positive, aiming to consolidate the country as a competitive force in the contested disciplines."
+      }
+    }
+  },
+  {
     "id": "83e2dd4f-0796-42fc-b772-0ebbc5eaba8b",
     "titulo": "Festival do Rio projeta cinema nacional com a seleção da Première Brasil para 2026",
     "lead": "O Festival do Rio, um dos eventos cinematográficos mais importantes da América Latina, prepara a exibição das produções que farão parte da mostra Première Brasil em sua edição de 2026.",
