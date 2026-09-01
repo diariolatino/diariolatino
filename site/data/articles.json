@@ -1,5 +1,38 @@
 [
   {
+    "id": "a563a92c-792d-48fa-bf03-27b913fdb3ff",
+    "titulo": "O desabafo de Damián Herrera sobre a realidade da vida de imigrante no Brasil",
+    "lead": "O comunicador uruguaio Damián Herrera compartilhou reflexões sobre os desafios emocionais de viver no Brasil, desmistificando a ideia de que residir perto da praia é sinônimo de felicidade constante.",
+    "corpo": "A transição para viver em um novo país costuma ser associada a conquistas e momentos de lazer, mas a realidade dos imigrantes frequentemente esconde desafios profundos. Recentemente, o jornalista e comunicador uruguaio Damián Herrera, que atualmente reside no Brasil, abriu o jogo sobre os aspectos mais difíceis de sua rotina no exterior, ressaltando que a proximidade com paisagens paradisíacas não anula as dificuldades cotidianas e a solidão.\n\nEm suas declarações, Herrera enfatizou que \"estar na praia não é tudo felicidade\", chamando a atenção para a complexidade da adaptação cultural, a distância da família e dos amigos, e a construção de uma nova vida do zero. O relato do comunicador ecoa a experiência de milhares de sul-americanos que migram dentro da própria região em busca de novas oportunidades, mas enfrentam barreiras emocionais significativas.\n\nA manifestação pública de Herrera gerou repercussão entre seus seguidores e levantou debates sobre a saúde mental dos migrantes e a romantização da vida no exterior. Especialistas apontam que o processo de aculturação e a falta de uma rede de apoio local são fatores que pesam significativamente na experiência de quem decide deixar seu país de origem, independentemente da beleza do destino escolhido.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-01T16:40:28.244202+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.elpais.com.uy/tvshow/personajes/damian-herrera-se-abrio-y-mostro-el-lado-triste-de-su-vida-en-brasil-estar-en-la-playa-no-es-todo-felicidad",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/10541747/pexels-photo-10541747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Murillo Molissani",
+      "photographer_url": "https://www.pexels.com/@murillohm",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/photo-of-a-shirtless-man-walking-at-the-beach-10541747/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "El desahogo de Damián Herrera sobre la realidad de la vida de inmigrante en Brasil",
+        "lead": "El comunicador uruguayo Damián Herrera compartió reflexiones sobre los desafíos emocionales de vivir en Brasil, desmitificando la idea de que residir cerca de la playa es sinónimo de felicidad constante.",
+        "corpo": "La transición a vivir en un nuevo país suele asociarse con logros y momentos de ocio, pero la realidad de los inmigrantes frecuentemente esconde desafíos profundos. Recientemente, el periodista y comunicador uruguayo Damián Herrera, quien actualmente reside en Brasil, habló abiertamente sobre los aspectos más difíciles de su rutina en el exterior, resaltando que la cercanía con paisajes paradisíacos no anula las dificultades cotidianas y la soledad.\n\nEn sus declaraciones, Herrera enfatizó que \"estar en la playa no es todo felicidad\", llamando la atención sobre la complejidad de la adaptación cultural, la distancia de la familia y los amigos, y la construcción de una nueva vida desde cero. El relato del comunicador resuena con la experiencia de miles de sudamericanos que migran dentro de la propia región en busca de nuevas oportunidades, pero enfrentan barreras emocionales significativas.\n\nLa manifestación pública de Herrera generó repercusión entre sus seguidores y abrió debates sobre la salud mental de los migrantes y la romantización de la vida en el exterior. Especialistas señalan que el proceso de aculturación y la falta de una red de apoyo local son factores que pesan significativamente en la experiencia de quienes deciden dejar su país de origen, independientemente de la belleza del destino elegido."
+      },
+      "en": {
+        "titulo": "Damián Herrera opens up about the reality of immigrant life in Brazil",
+        "lead": "Uruguayan broadcaster Damián Herrera shared reflections on the emotional challenges of living in Brazil, debunking the idea that residing near the beach is synonymous with constant happiness.",
+        "corpo": "Moving to a new country is often associated with achievements and leisure, but the reality for immigrants frequently conceals deep challenges. Recently, Uruguayan journalist and broadcaster Damián Herrera, who currently resides in Brazil, opened up about the more difficult aspects of his routine abroad, emphasizing that being close to paradise-like landscapes does not erase daily difficulties and loneliness.\n\nIn his statements, Herrera stressed that \"being on the beach is not all happiness,\" drawing attention to the complexity of cultural adaptation, distance from family and friends, and building a new life from scratch. The broadcaster's account echoes the experience of thousands of South Americans who migrate within the region in search of new opportunities but face significant emotional barriers.\n\nHerrera's public remarks generated resonance among his followers and sparked discussions about the mental health of migrants and the romanticization of life abroad. Experts point out that the process of acculturation and the lack of a local support network are factors that weigh heavily on the experience of those who decide to leave their country of origin, regardless of how beautiful their chosen destination is."
+      }
+    }
+  },
+  {
     "id": "617b8545-80b6-43e3-a9cb-5ba2cda3f7b0",
     "titulo": "Exército do Uruguai realiza testes técnicos nos canhões dos tanques M-41C",
     "lead": "O Exército do Uruguai submeteu os canhões de sua frota de tanques M-41C a ensaios não destrutivos como parte de suas rotinas de manutenção e avaliação de material bélico.",
