@@ -1,5 +1,38 @@
 [
   {
+    "id": "69fe8cfe-320f-4849-a323-c48dc776148f",
+    "titulo": "Rádio Nacional exibe confronto entre Vitória e Vasco pelas quartas da Copa do Brasil",
+    "lead": "A emissora pública transmite ao vivo nesta quarta-feira (2) a partida decisiva válida pelo torneio nacional de futebol.",
+    "corpo": "A Rádio Nacional transmite nesta quarta-feira (2) a partida entre Vitória e Vasco da Gama, válida pelas quartas de final da Copa do Brasil. O confronto define a continuidade dos clubes no torneio, considerado uma das principais competições do calendário do futebol brasileiro.\n\nA cobertura da emissora pública leva aos ouvintes em todo o país os detalhes da partida decisiva, integrando a programação esportiva da rede estatal de comunicação. As transmissões de eventos esportivos promovidas pelos veículos públicos buscam ampliar o acesso da população à informação e ao entretenimento esportivo em diferentes regiões do território nacional.\n\nPor se tratar de uma fase eliminatória, a partida assume papel de destaque na agenda esportiva do dia, mobilizando torcedores de ambas as equipes na busca por uma vaga nas etapas finais do campeonato.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-01T20:15:02.825038+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.ebc.com.br/imprensa/2026/radio-nacional-transmite-nesta-quarta-2-decisao-entre-vitoria-e-vasco-pelas-quartas-da-copa-do-brasil",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/9750839/pexels-photo-9750839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Aslam Jawaid",
+      "photographer_url": "https://www.pexels.com/@aslam-jawaid-2211076",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/man-with-a-tv-camera-filming-a-soccer-match-9750839/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Rádio Nacional transmite el cruce entre Vitória y Vasco por los cuartos de la Copa de Brasil",
+        "lead": "La emisora pública transmitirá en vivo este miércoles (2) el partido decisivo correspondiente al torneo nacional de fútbol.",
+        "corpo": "Rádio Nacional transmite este miércoles (2) el encuentro entre Vitória y Vasco da Gama, correspondiente a los cuartos de final de la Copa de Brasil. El enfrentamiento definirá la continuidad de ambos clubes en el torneo, considerado una de las principales competencias del calendario futbolístico brasileño.\n\nLa cobertura de la emisora pública llevará a los oyentes de todo el país los detalles del partido decisivo, como parte de la programación deportiva de la red estatal de comunicación. Las transmisiones de eventos deportivos en medios públicos buscan ampliar el acceso de la población a la información y al entretenimiento deportivo en distintas regiones del territorio nacional.\n\nAl tratarse de una fase eliminatoria, el partido adquiere un lugar destacado en la agenda deportiva del día, movilizando a los aficionados de ambos equipos en busca del pase a las etapas finales del campeonato."
+      },
+      "en": {
+        "titulo": "Rádio Nacional to Broadcast Vitória vs. Vasco Match in Copa do Brasil Quarterfinals",
+        "lead": "The public broadcaster will air the decisive national football tournament match live this Wednesday (2).",
+        "corpo": "Rádio Nacional is set to broadcast the match between Vitória and Vasco da Gama this Wednesday (2), valid for the quarterfinals of the Copa do Brasil. The clash will determine which club advances in the tournament, considered one of the primary competitions on the Brazilian football calendar.\n\nThe public broadcaster's coverage will bring listeners across the country full details of the decisive match as part of the state communication network's sports programming. Sports broadcasts by public media outlets aim to expand public access to sports news and entertainment across various regions of Brazil.\n\nAs a knockout stage fixture, the match takes center stage on the day's sports agenda, rallying fans from both teams as they contend for a spot in the final rounds of the tournament."
+      }
+    }
+  },
+  {
     "id": "a0ec8d0c-6d38-47ab-a3c1-176480ecd6ea",
     "titulo": "Curitiba se consolida na cena eletrônica global com apresentações de Solomun e Vintage Culture",
     "lead": "A cidade de Curitiba, no sul do Brasil, reforça sua posição no roteiro da música eletrônica internacional ao receber apresentações dos renomados DJs Solomun e Vintage Culture.",
