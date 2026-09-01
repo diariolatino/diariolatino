@@ -1,5 +1,38 @@
 [
   {
+    "id": "2fed1f00-0b2b-4d94-8180-3ce74920bcf0",
+    "titulo": "Desafios estruturais e perspectivas de reconstrução marcam o debate sobre a Venezuela",
+    "lead": "As discussões sobre o futuro da Venezuela contrapõem a profundidade da crise socioeconômica e política enfrentada pelo país às propostas de recuperação e estabilização regional.",
+    "corpo": "A situação política, social e econômica da Venezuela permanece no centro das atenções geopolíticas na América Latina e no Sul Global. Marcada por anos de retração econômica, hiperinflação, sanções internacionais e forte polarização política, a nação sul-americana enfrenta obstáculos complexos para alcançar a estabilidade institucional e o crescimento sustentável.\n\nA crise humanitária e econômica venezuelana gerou impactos expressivos em toda a região, incluindo fluxos migratórios significativos para países vizinhos e intensos debates em fóruns multilaterais. Analistas e observadores internacionais destacam que o caminho para qualquer processo de reconstrução nacional exige a superação de divisões internas profundas, a recomposição da infraestrutura básica e a garantia de condições mínimas para o bem-estar da população.\n\nEnquanto discursos políticos frequentemente acenam com horizontes de prosperidade e renovação, a realidade cotidiana mantém o país diante de desafios urgentes no acesso a serviços essenciais, renda e direitos sociais. O debate sobre os caminhos para a recuperação da Venezuela reflete não apenas os dilemas internos do país, mas também a complexidade das relações diplomáticas e dos arranjos de cooperação na América Latina.",
+    "categoria": "Política",
+    "pais": "Venezuela",
+    "publicado_em": "2026-09-01T23:12:24.532435+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.infobae.com/america/opinion/2026/09/01/venezuela-el-camino-al-paraiso-comienza-en-el-infierno/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/38556235/pexels-photo-38556235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Joaquim Pacheco",
+      "photographer_url": "https://www.pexels.com/@joaquim-pacheco-1570917592",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/aerial-view-of-caracas-cityscape-with-mountains-38556235/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Desafíos estructurales y perspectivas de reconstrucción marcan el debate sobre Venezuela",
+        "lead": "Las discusiones sobre el futuro de Venezuela contraponen la profundidad de la crisis socioeconómica y política que enfrenta el país a las propuestas de recuperación y estabilización regional.",
+        "corpo": "La situación política, social y económica de Venezuela permanece en el centro de la atención geopolítica en América Latina y el Sur Global. Marcada por años de contracción económica, hiperinflación, sanciones internacionales y una fuerte polarización política, la nación sudamericana enfrenta complejos obstáculos para alcanzar la estabilidad institucional y el crecimiento sostenible.\n\nLa crisis humanitaria y económica venezolana generó impactos significativos en toda la región, incluidos importantes flujos migratorios hacia países vecinos e intensos debates en foros multilaterales. Analistas u observadores internacionales destacan que el camino hacia cualquier proceso de reconstrucción nacional requiere superar profundas divisiones internas, recomponer la infraestructura básica y garantizar condiciones mínimas para el bienestar de la población.\n\nMientras los discursos políticos frecuentemente señalan horizontes de prosperidad y renovación, la realidad cotidiana mantiene al país frente a desafíos urgentes en el acceso a servicios esenciales, ingresos y derechos sociales. El debate sobre los caminos para la recuperación de Venezuela refleja no solo los dilemas internos del país, sino también la complejidad de las relaciones diplomáticas y de los acuerdos de cooperación en América Latina."
+      },
+      "en": {
+        "titulo": "Structural challenges and reconstruction prospects shape the debate on Venezuela",
+        "lead": "Discussions on Venezuela's future contrast the depth of the country's socio-economic and political crisis with proposals for recovery and regional stabilization.",
+        "corpo": "The political, social, and economic situation in Venezuela remains at the center of geopolitical attention in Latin America and the Global South. Marked by years of economic contraction, hyperinflation, international sanctions, and sharp political polarization, the South American nation faces complex obstacles to achieving institutional stability and sustainable growth.\n\nThe Venezuelan humanitarian and economic crisis has had significant impacts across the region, including major migratory flows to neighboring countries and intense debates in multilateral forums. International analysts and observers emphasize that the path toward any national reconstruction process requires overcoming deep internal divisions, restoring basic infrastructure, and ensuring minimum conditions for the population's well-being.\n\nWhile political discourse frequently points toward horizons of prosperity and renewal, daily reality leaves the country facing urgent challenges regarding access to essential services, income, and social rights. The debate over the path forward for Venezuela reflects not only the country's internal dilemmas, but also the complexity of diplomatic relations and cooperation arrangements across Latin America."
+      }
+    }
+  },
+  {
     "id": "69fe8cfe-320f-4849-a323-c48dc776148f",
     "titulo": "Rádio Nacional exibe confronto entre Vitória e Vasco pelas quartas da Copa do Brasil",
     "lead": "A emissora pública transmite ao vivo nesta quarta-feira (2) a partida decisiva válida pelo torneio nacional de futebol.",
