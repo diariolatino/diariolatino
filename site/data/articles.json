@@ -1,5 +1,38 @@
 [
   {
+    "id": "a0ec8d0c-6d38-47ab-a3c1-176480ecd6ea",
+    "titulo": "Curitiba se consolida na cena eletrônica global com apresentações de Solomun e Vintage Culture",
+    "lead": "A cidade de Curitiba, no sul do Brasil, reforça sua posição no roteiro da música eletrônica internacional ao receber apresentações dos renomados DJs Solomun e Vintage Culture.",
+    "corpo": "O cenário da música eletrônica no sul do Brasil ganha destaque global com a passagem de grandes nomes do gênero por Curitiba. A capital paranaense consolidou sua relevância na cena internacional ao receber apresentações do DJ e produtor bósnio-alemão Solomun e do brasileiro Vintage Culture, um dos nomes mais influentes da atualidade no cenário da house music.\n\nA presença de artistas desse calibre posiciona a cidade como um polo de atração para o turismo de entretenimento e eventos culturais na América Latina. Solomun, conhecido por sua residência em Ibiza e por liderar o selo Diynamic, divide o protagonismo com Vintage Culture (projeto do brasileiro Lukas Ruiz), que acumula passagens pelos maiores festivais do mundo, como o Coachella e o Tomorrowland.\n\nEventos desse porte movimentam a economia local, atraindo público de diversas regiões do Brasil e de países vizinhos. A convergência de atrações nacionais e internacionais em Curitiba evidencia o amadurecimento do mercado de entretenimento na região, que passa a competir diretamente com outras grandes metrópoles latino-americanas na rota de grandes turnês mundiais.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-01T17:13:50.566496+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://jornaldebrasilia.com.br/entretenimento/katia-flavia/solomun-e-vintage-culture-fazem-curitiba-virar-pista-mundial/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/13146356/pexels-photo-13146356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Isabella Mendes",
+      "photographer_url": "https://www.pexels.com/@isabella-mendes-107313",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/crowd-of-people-watching-a-concert-13146356/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Curitiba se consolida en la escena electrónica global con presentaciones de Solomun y Vintage Culture",
+        "lead": "La ciudad de Curitiba, en el sur de Brasil, refuerza su posición en la ruta de la música electrónica internacional al recibir presentaciones de los renombrados DJs Solomun y Vintage Culture.",
+        "corpo": "El escenario de la música electrónica en el sur de Brasil cobra protagonismo global con el paso de grandes nombres del género por Curitiba. La capital paranaense consolidó su relevancia en la escena internacional al recibir presentaciones del DJ y productor bosnio-alemán Solomun y del brasileño Vintage Culture, uno de los nombres más influyentes de la actualidad en la escena de la música house.\n\nLa presencia de artistas de este calibre posiciona a la ciudad como un polo de atracción para el turismo de entretenimiento y eventos culturales en América Latina. Solomun, conocido por su residencia en Ibiza y por liderar el sello Diynamic, comparte el protagonismo con Vintage Culture (proyecto del brasileño Lukas Ruiz), quien acumula presentaciones en los festivales más grandes del mundo, como Coachella y Tomorrowland.\n\nEventos de esta magnitud dinamizan la economía local, atrayendo público de diversas regiones de Brasil y de países vecinos. La convergencia de atracciones nacionales e internacionales en Curitiba evidencia la madurez del mercado del entretenimiento en la región, que pasa a competir directamente con otras grandes metrópoles latinoamericanas en la ruta de grandes giras mundiales."
+      },
+      "en": {
+        "titulo": "Curitiba solidifies its place in the global electronic music scene with performances by Solomun and Vintage Culture",
+        "lead": "The city of Curitiba, in southern Brazil, strengthens its position on the international electronic music circuit by hosting performances by renowned DJs Solomun and Vintage Culture.",
+        "corpo": "The electronic music scene in southern Brazil gains global prominence as major names in the genre visit Curitiba. The capital of Paraná consolidated its relevance on the international stage by hosting performances by Bosnian-German DJ and producer Solomun and Brazilian artist Vintage Culture, one of the most influential names in house music today.\n\nThe presence of artists of this caliber positions the city as a hub for entertainment tourism and cultural events in Latin America. Solomun, known for his Ibiza residency and for leading the Diynamic label, shares the spotlight with Vintage Culture (the project of Brazilian Lukas Ruiz), who has performed at the world's largest festivals, such as Coachella and Tomorrowland.\n\nEvents of this scale boost the local economy, drawing audiences from various regions of Brazil and neighboring countries. The convergence of national and international attractions in Curitiba highlights the maturation of the entertainment market in the region, which now competes directly with other major Latin American metropolises on the route of major world tours."
+      }
+    }
+  },
+  {
     "id": "a563a92c-792d-48fa-bf03-27b913fdb3ff",
     "titulo": "O desabafo de Damián Herrera sobre a realidade da vida de imigrante no Brasil",
     "lead": "O comunicador uruguaio Damián Herrera compartilhou reflexões sobre os desafios emocionais de viver no Brasil, desmistificando a ideia de que residir perto da praia é sinônimo de felicidade constante.",
