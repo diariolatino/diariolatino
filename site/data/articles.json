@@ -1,5 +1,38 @@
 [
   {
+    "id": "a858054e-d08d-439b-a8e8-49f2bf49abfe",
+    "titulo": "Morre aos 77 anos o jornalista Carlos Monforte, referência do telejornalismo brasileiro",
+    "lead": "O jornalista Carlos Monforte morreu aos 77 anos, em Brasília, onde realizava tratamento contra um câncer. Com uma trajetória de décadas marcada pela cobertura política e pela ancoragem de grandes telejornais, o comunicador deixa um importante legado para a imprensa brasileira.",
+    "corpo": "Nascido em Santos, no litoral paulista, em julho de 1949, Monforte iniciou sua carreira profissional na imprensa escrita, atuando no jornal local A Tribuna e, posteriormente, como repórter especial no Estado de S. Paulo. Sua projeção no telejornalismo começou em 1978, quando passou a integrar a equipe da TV Globo.\n\nAo longo de sua carreira na televisão, o jornalista cobriu os bastidores políticos do país para programas de grande repercussão, como o Jornal Nacional e o Fantástico. Em 1982, assumiu a apresentação do Bom Dia São Paulo e, no ano seguinte, tornou-se editor-chefe e âncora do Bom Dia Brasil, função que desempenhou ao longo de quase uma década.\n\nMonforte também atuou como repórter especial do Jornal da Globo e comandou o Jornal das Dez, na GloboNews, emissora na qual trabalhou até encerrar seu ciclo no grupo de comunicação em 2016.\n\nA notícia de seu falecimento gerou manifestações de pesar na categoria. O Sindicato dos Jornalistas Profissionais do Distrito Federal destacou, em nota oficial, a conduta ética, a competência técnica e a dedicação do profissional, apontando sua trajetória como uma referência inspiradora para as novas gerações de comunicadores no país.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-01T00:23:05.015985+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/jornalista-carlos-monforte-morre-aos-77-anos",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/7865064/pexels-photo-7865064.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "SHAHBAZ ZAMAN",
+      "photographer_url": "https://www.pexels.com/@shahbazzaman",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/photo-of-a-studio-set-up-7865064/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Muere a los 77 años el periodista Carlos Monforte, referente de la televisión brasileña",
+        "lead": "El periodista Carlos Monforte falleció a los 77 años en Brasilia, donde recibía tratamiento contra el cáncer. Con una trayectoria de décadas marcada por la cobertura política y la conducción de importantes noticieros, el comunicador deja un notable legado en la prensa brasileña.",
+        "corpo": "Nacido en Santos, en el litoral paulista, en julio de 1949, Monforte inició su carrera profesional en la prensa escrita, trabajando en el periódico local A Tribuna y, posteriormente, como reportero especial en O Estado de S. Paulo. Su proyección en la televisión cobró impulso en 1978, cuando se incorporó al equipo de TV Globo.\n\nA lo largo de su carrera en la pantalla, el periodista cubrió los acontecimientos políticos del país para programas de amplia audiencia como Jornal Nacional y Fantástico. En 1982 asumió la conducción de Bom Dia São Paulo y, al año siguiente, pasó a ser editor general y presentador de Bom Dia Brasil, función que desempeñó durante casi una década.\n\nMonforte también trabajó como reportero especial de Jornal da Globo y condujo Jornal das Dez en la señal de noticias GloboNews, donde permaneció hasta concluir su ciclo en el grupo de medios en 2016.\n\nLa noticia de su fallecimiento motivó expresiones de pesar en el gremio periodístico. El Sindicato de Periodistas del Distrito Federal destacó en un comunicado la ética, solvencia profesional y dedicación del periodista, señalando su trayectoria como un referente para las nuevas generaciones de comunicadores en Brasil."
+      },
+      "en": {
+        "titulo": "Brazilian television journalist Carlos Monforte dies at 77",
+        "lead": "Journalist Carlos Monforte has died at the age of 77 in Brasília, where he was undergoing treatment for cancer. With a career spanning decades across political reporting and news anchoring, he leaves a significant mark on Brazilian broadcast media.",
+        "corpo": "Born in the coastal city of Santos in July 1949, Monforte began his career in print media, working for local newspaper A Tribuna and later as a special reporter for O Estado de S. Paulo. His rise in television journalism took off in 1978, when he joined TV Globo.\n\nThroughout his broadcasting career, Monforte covered key political developments in Brasília for high-profile news programs such as Jornal Nacional and Fantástico. In 1982, he began hosting Bom Dia São Paulo, and the following year became editor-in-chief and anchor of the national morning broadcast Bom Dia Brasil, a position he held for nearly a decade.\n\nHe also served as a special correspondent for Jornal da Globo and anchored Jornal das Dez on cable news network GloboNews, remaining with the organization until 2016.\n\nHis passing drew tributes from media colleagues and industry organizations. The Federal District Journalists' Union released a statement praising Monforte's professional ethics, competence, and dedication, highlighting his career as an enduring benchmark for Brazilian journalism."
+      }
+    }
+  },
+  {
     "id": "6967d0b6-3d2b-475f-b804-3a4561826106",
     "titulo": "Defesa Civil reconhece emergência em seis municípios atingidos por chuvas e granizo no Sul do Brasil",
     "lead": "O governo federal oficializou o estado de emergência em seis cidades do Paraná, Rio Grande do Sul e Santa Catarina após estragos provocados por tempestades de granizo e chuvas intensas.",
