@@ -1,5 +1,38 @@
 [
   {
+    "id": "1cbd1719-9471-4229-b11f-ef7ca75801cf",
+    "titulo": "Desemprego na Colômbia recua para 8,1% em julho, apontam dados oficiais do DANE",
+    "lead": "A taxa de desocupação na Colômbia registrou queda e atingiu 8,1% em julho, de acordo com o levantamento divulgado pelo Departamento Administrativo Nacional de Estatística (DANE). O resultado reflete a dinâmica do mercado de trabalho nacional no período.",
+    "corpo": "O Departamento Administrativo Nacional de Estatística (DANE) da Colômbia divulgou o mais recente balanço sobre o mercado de trabalho no país, revelando que a taxa de desemprego caiu para 8,1% no mês de julho. O indicador é o principal termômetro oficial da ocupação econômica e da absorção de mão de obra em território colombiano.\n\nA divulgação periódica do DANE compõe a base estatística utilizada por analistas, formuladores de políticas públicas e agentes econômicos para avaliar o ritmo da atividade produtiva nacional. O desempenho do emprego é acompanhado de perto tanto pelas autoridades monetárias e fiscais do país quanto por organismos multilaterais que monitoram a evolução econômica da América Latina.\n\nHistoricamente, as oscilações nos índices de desocupação na Colômbia estão vinculadas ao comportamento de setores estruturais como comércio, serviços, agricultura, construção civil e indústria, além dos níveis de informalidade que tradicionalmente afetam o mercado de trabalho regional. Os números consolidados pelo órgão governamental oferecem um panorama das tendências de contratação e participação da força de trabalho nas principais áreas urbanas e zonas rurais.\n\nCom a publicação dos dados oficiais de julho, o governo e as entidades do setor produtivo passam a dispor de novas referências para a projeção de indicadores macroeconômicos, consumo das famílias e medidas de estímulo ao emprego formal para os meses subsequentes.",
+    "categoria": "Economia",
+    "pais": "Colômbia",
+    "publicado_em": "2026-09-01T04:14:59.712235+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://cronicadelquindio.com/actualidad/economia/desempleo-en-colombia-bajo-a-81-en-julio-de-2026-revela-el-dane/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/7008378/pexels-photo-7008378.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Carlos Escobar",
+      "photographer_url": "https://www.pexels.com/@carlos-escobar-32250122",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/an-aerial-photography-of-city-buildings-7008378/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "El desempleo en Colombia cayó al 8,1 % en julio, según datos oficiales del DANE",
+        "lead": "La tasa de desocupación en Colombia registró una disminución y se ubicó en el 8,1 % en julio, según el informe publicado por el Departamento Administrativo Nacional de Estadística (DANE). El resultado refleja la dinámica del mercado laboral nacional durante dicho período.",
+        "corpo": "El Departamento Administrativo Nacional de Estadística (DANE) de Colombia presentó su más reciente balance sobre el mercado laboral del país, revelando que la tasa de desempleo bajó al 8,1 % en el mes de julio. Este indicador constituye el principal termómetro oficial sobre la ocupación económica y la absorción de mano de obra en el territorio colombiano.\n\nLa publicación periódica del DANE conforma la base estadística empleada por analistas, formuladores de políticas públicas y actores económicos para evaluar el ritmo de la actividad productiva nacional. El desempeño del empleo es seguido de cerca tanto por las autoridades monetarias y fiscales del país como por organismos multilaterales que monitorean la evolución económica de América Latina.\n\nHistóricamente, las variaciones en las cifras de desocupación en Colombia se vinculan al comportamiento de sectores clave como el comercio, los servicios, la agricultura, la construcción y la manufactura, así como a los niveles de informalidad que habitualmente inciden en el mercado de trabajo regional. Las cifras consolidadas por la entidad gubernamental ofrecen un panorama de las tendencias de contratación y participación de la fuerza laboral tanto en las principales áreas urbanas como en las zonas rurales.\n\nCon la divulgación de los datos oficiales de julio, el gobierno y las entidades del sector productivo cuentan con nuevas referencias para proyectar indicadores macroeconómicos, el consumo de los hogares y estrategias de impulso al empleo formal en los meses venideros."
+      },
+      "en": {
+        "titulo": "Unemployment in Colombia drops to 8.1% in July, official DANE data reveals",
+        "lead": "Colombia's unemployment rate decreased to 8.1% in July, according to the report released by the National Administrative Department of Statistics (DANE). The figure reflects national labor market dynamics during the period.",
+        "corpo": "Colombia's National Administrative Department of Statistics (DANE) published its latest labor market report, revealing that the unemployment rate fell to 8.1% in July. The indicator serves as the primary official benchmark for economic occupation and workforce absorption across Colombian territory.\n\nThe periodic data released by DANE provides the statistical baseline used by analysts, policymakers, and economic actors to evaluate the pace of national productive activity. Employment performance is closely monitored by the country's monetary and fiscal authorities, as well as by multilateral organizations tracking Latin American economic developments.\n\nHistorically, fluctuations in Colombian unemployment figures are tied to the performance of key sectors such as commerce, services, agriculture, construction, and manufacturing, as well as informality levels that traditionally affect the regional labor market. The consolidated figures from the state statistical agency offer an overview of hiring trends and labor force participation across major urban areas and rural regions.\n\nFollowing the release of the official July data, the government and private sector bodies gain updated references to project macroeconomic indicators, household consumption, and policy measures aimed at fostering formal employment in the coming months."
+      }
+    }
+  },
+  {
     "id": "6fea8643-9f88-4ecd-a197-41851084c156",
     "titulo": "EBC lança Centro de Inovação e Pesquisa focado em inteligência artificial e novas tecnologias digitais",
     "lead": "A Empresa Brasil de Comunicação anunciou a criação do Centro de Inovação e Pesquisa em Comunicação Pública, iniciativa voltada ao desenvolvimento tecnológico, acadêmico e de novas metodologias no setor público de comunicação.",
