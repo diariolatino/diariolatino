@@ -1,5 +1,38 @@
 [
   {
+    "id": "6fea8643-9f88-4ecd-a197-41851084c156",
+    "titulo": "EBC lança Centro de Inovação e Pesquisa focado em inteligência artificial e novas tecnologias digitais",
+    "lead": "A Empresa Brasil de Comunicação anunciou a criação do Centro de Inovação e Pesquisa em Comunicação Pública, iniciativa voltada ao desenvolvimento tecnológico, acadêmico e de novas metodologias no setor público de comunicação.",
+    "corpo": "O novo centro atuará na coordenação de projetos de ciência, tecnologia e inovação, abordando áreas centrais da transformação digital, tais como inteligência artificial, a implantação da TV 3.0 e a plataformização das mídias públicas. A iniciativa busca consolidar a atuação da estatal como uma Instituição Científica e Tecnológica, estabelecendo pontes entre a gestão de comunicação e a produção acadêmica nacional.\n\nNas frentes de articulação institucional, o órgão já iniciou tratativas e cooperação com diversos órgãos do governo federal e universidades públicas, a exemplo do Ministério da Ciência, Tecnologia e Inovação, da Fundação Oswaldo Cruz e da Universidade Federal do Rio de Janeiro. As parcerias visam aplicar descobertas científicas na modernização das operações da Rede Nacional de Comunicação Pública.\n\nDentre as iniciativas de largada, destaca-se a criação do Repositório de Pesquisa em Comunicação Pública. O repositório funcionará como um acervo digital centralizado para produções acadêmicas e relatórios técnicos de pesquisadores brasileiros e estrangeiros, dando ampla visibilidade a estudos voltados ao aprimoramento do setor de comunicação estatal.\n\nParalelamente, o centro lançou um edital de pitching interno direcionado aos empregados da empresa pública, estimulando a apresentação de soluções inovadoras para a melhoria dos fluxos operacionais. A iniciativa representa a operacionalização prática da Política de Inovação da instituição, conjunto de diretrizes aprovado no primeiro semestre pela diretoria executiva do conglomerado.",
+    "categoria": "Ciência & Ambiente",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-01T02:14:27.883945+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/ebc-lanca-centro-de-inovacao-e-pesquisa-em-comunicacao-publica",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/33925166/pexels-photo-33925166.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Tahir Xəlfəquliyev",
+      "photographer_url": "https://www.pexels.com/@tahir",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/inside-a-television-broadcast-control-room-33925166/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "EBC lanza Centro de Innovación e Investigación enfocado en inteligencia artificial y nuevas tecnologías digitales",
+        "lead": "La Empresa Brasil de Comunicación anunció la creación del Centro de Innovación e Investigación en Comunicación Pública, una iniciativa orientada al desarrollo tecnológico, académico y de nuevas metodologías en el sector público de comunicación.",
+        "corpo": "El nuevo centro actuará en la coordinación de proyectos de ciencia, tecnología e innovación, abordando áreas centrales de la transformación digital, tales como la inteligencia artificial, la implementación de la TV 3.0 y la plataforma digitalización de los medios públicos. La iniciativa busca consolidar la actuación de la estatal como una Institución Científica y Tecnológica, estableciendo puentes entre la gestión de comunicación y la producción académica nacional.\n\nEn el frente de articulación institucional, el organismo ya inició conversaciones y cooperación con diversos órganos del gobierno federal y universidades públicas, como el Ministerio de Ciencia, Tecnología e Innovación, la Fundación Oswaldo Cruz y la Universidad Federal de Río de Janeiro. Las alianzas buscan aplicar descubrimientos científicos en la modernización de las operaciones de la Red Nacional de Comunicación Pública.\n\nEntre las iniciativas iniciales, destaca la creación del Repositorio de Investigación en Comunicación Pública. La plataforma funcionará como un archivo digital centralizado para producciones académicas y informes técnicos de investigadores, otorgando amplia visibilidad a estudios orientados al perfeccionamiento del sector de comunicación estatal.\n\nParalelamente, el centro lanzó una convocatoria interna de pitching dirigida a los empleados de la empresa pública, estimulando la presentación de soluciones innovadoras para la mejora de los flujos operacionales. La iniciativa representa la aplicación práctica de la Política de Innovación de la institución, un conjunto de directrices aprobado en el primer semestre por la directiva ejecutiva del conglomerado."
+      },
+      "en": {
+        "titulo": "EBC launches Innovation and Research Center focused on artificial intelligence and new digital technologies",
+        "lead": "Empresa Brasil de Comunicação announced the creation of the Center for Innovation and Research in Public Communication, an initiative aimed at technological, academic, and methodological development in the public communication sector.",
+        "corpo": "The new center will coordinate science, technology, and innovation projects, addressing core areas of digital transformation such as artificial intelligence, the implementation of TV 3.0, and the platformization of public media. The initiative seeks to consolidate the state company's role as a Scientific and Technological Institution, establishing bridges between communication management and national academic research.\n\nOn the institutional engagement front, the unit has already initiated talks and cooperation with various federal government bodies and public universities, such as the Ministry of Science, Technology and Innovation, the Oswaldo Cruz Foundation, and the Federal University of Rio de Janeiro. These partnerships aim to apply scientific discoveries toward modernizing the operations of the National Public Communication Network.\n\nAmong the initial projects, the creation of the Public Communication Research Repository stands out. The platform will serve as a centralized digital archive for academic publications and technical reports by researchers, providing broad visibility to studies dedicated to enhancing the state communication sector.\n\nConcurrently, the center launched an internal pitching call aimed at company employees, encouraging the submission of innovative solutions to improve operational workflows. The initiative represents the practical implementation of the company's Innovation Policy, a set of guidelines approved in the first half of the year by the executive board."
+      }
+    }
+  },
+  {
     "id": "a858054e-d08d-439b-a8e8-49f2bf49abfe",
     "titulo": "Morre aos 77 anos o jornalista Carlos Monforte, referência do telejornalismo brasileiro",
     "lead": "O jornalista Carlos Monforte morreu aos 77 anos, em Brasília, onde realizava tratamento contra um câncer. Com uma trajetória de décadas marcada pela cobertura política e pela ancoragem de grandes telejornais, o comunicador deixa um importante legado para a imprensa brasileira.",
