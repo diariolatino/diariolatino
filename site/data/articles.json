@@ -1,5 +1,38 @@
 [
   {
+    "id": "54e79f26-0ef8-4308-ac8a-1902e1a08a04",
+    "titulo": "Gustavo Petro volta a denunciar perseguição política e institucional na Colômbia",
+    "lead": "O presidente colombiano, Gustavo Petro, declarou estar sendo alvo de perseguição política no país, criticando investidas de setores de oposição e órgãos de controle contra a sua gestão.",
+    "corpo": "O presidente da Colômbia, Gustavo Petro, manifestou-se publicamente para denunciar o que considera uma campanha de perseguição política direcionada ao seu mandato e aos membros de sua administração. De acordo com o mandatário, ações movidas por adversários e setores institucionais buscam desestabilizar o governo e obstaculizar o avanço das reformas propostas pela sua gestão.\n\nAs declarações ocorrem em meio a um ambiente de forte polarização política em Bogotá, onde o Poder Executivo tem enfrentado resistências no Congresso e contestações por parte de órgãos de fiscalização e do Judiciário. Petro tem reiterado em pronunciamentos recentes que as investigações e acusações dirigidas ao seu entorno configuram uma tentativa de desgaste sistemático e ativismo judicial contra um governo democraticamente eleito.\n\nA oposição, por sua vez, rejeita as acusações e argumenta que os questionamentos à gestão presidencial fazem parte das atribuições constitucionais de controle e fiscalização do Estado. O cenário reforça o clima de incerteza política no país andino, afetando a governabilidade e o debate sobre as agendas socioeconômicas no Legislativo.",
+    "categoria": "Política",
+    "pais": "Colômbia",
+    "publicado_em": "2026-09-02T01:14:05.069890+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.gazetadopovo.com.br/mundo/petro-denuncia-presidente-da-colombia-por-perseguicao-politica/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/6950208/pexels-photo-6950208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Werner Pfennig",
+      "photographer_url": "https://www.pexels.com/@werner-pfennig",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/an-elderly-man-having-a-speech-in-front-of-the-microphone-of-a-podium-6950208/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Gustavo Petro vuelve a denunciar persecución política e institucional en Colombia",
+        "lead": "El presidente colombiano, Gustavo Petro, declaró ser víctima de persecución política en el país, criticando las acciones de sectores de la oposición y organismos de control contra su gestión.",
+        "corpo": "El presidente de Colombia, Gustavo Petro, se pronunció públicamente para denunciar lo que considera una campaña de persecución política dirigida a su mandato y a los integrantes de su administración. Según el mandatario, las acciones impulsadas por adversarios y sectores institucionales buscan desestabilizar al gobierno y obstaculizar el avance de las reformas propuestas por su gestión.\n\nLas declaraciones se producen en medio de un clima de fuerte polarización política en Bogotá, donde el Poder Ejecutivo ha enfrentado resistencia en el Congreso y cuestionamientos por parte de organismos de fiscalización y del Poder Judicial. Petro ha reiterado en pronunciamientos recientes que las investigaciones y acusaciones dirigidas a su entorno configuran un intento de desgaste sistemático y activismo judicial contra un gobierno democráticamente electo.\n\nPor su parte, la oposición rechaza las acusaciones y sostiene que los cuestionamientos a la administración presidencial forman parte de las funciones constitucionales de control y fiscalización del Estado. Este panorama refuerza el ambiente de incertidumbre política en el país andino, afectando la gobernabilidad y el debate sobre las agendas socioeconómicas en el Legislativo."
+      },
+      "en": {
+        "titulo": "Gustavo Petro Denounces Political and Institutional Persecution in Colombia",
+        "lead": "Colombian President Gustavo Petro stated that he is the target of political persecution in the country, criticizing moves by opposition sectors and oversight bodies against his administration.",
+        "corpo": "Colombian President Gustavo Petro spoke out publicly to denounce what he describes as a campaign of political persecution targeting his mandate and members of his administration. According to the head of state, actions driven by political opponents and institutional sectors aim to destabilize the government and obstruct the progress of reforms proposed by his administration.\n\nThe statements come amid sharp political polarization in Bogotá, where the executive branch has faced resistance in Congress as well as scrutiny from judicial and oversight institutions. Petro has repeatedly asserted in recent public statements that investigations and allegations directed at his inner circle constitute a systematic attempt at political attrition and judicial activism against a democratically elected government.\n\nFor their part, opposition leaders reject the allegations, arguing that inquiries and oversight regarding the presidential administration fall within constitutional checks and balances. The escalating tension underscores the political uncertainty in the Andean nation, impacting governability and the legislative debate on key socioeconomic reforms."
+      }
+    }
+  },
+  {
     "id": "2fed1f00-0b2b-4d94-8180-3ce74920bcf0",
     "titulo": "Desafios estruturais e perspectivas de reconstrução marcam o debate sobre a Venezuela",
     "lead": "As discussões sobre o futuro da Venezuela contrapõem a profundidade da crise socioeconômica e política enfrentada pelo país às propostas de recuperação e estabilização regional.",
@@ -1694,26 +1727,6 @@
       "photographer": "RDNE Stock project",
       "photographer_url": "https://www.pexels.com/@rdne",
       "pexels_url": "https://www.pexels.com/photo/handcuffed-man-in-orange-top-sitting-two-persons-in-a-room-6065244/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "pais": "Brasil"
-  },
-  {
-    "id": "12ba195a-757d-47b4-9a44-f6e2f5caa98d",
-    "titulo": "Halo solar observado no Centro-Oeste é fenômeno óptico e não indica chuvas, esclarece meteorologia",
-    "lead": "Um anel luminoso ao redor do Sol chamou a atenção de moradores do Centro-Oeste brasileiro, incluindo Brasília, nesta terça-feira. Especialistas explicam que o evento é estritamente óptico e afasta crenças populares sobre a iminência de precipitações.",
-    "corpo": "Moradores de diversas localidades da região Centro-Oeste do Brasil, incluindo o Distrito Federal, presenciaram a formação de um halo solar. O evento visual consiste em um círculo luminoso e colorido que se desenha ao redor do astro, assemelhando-se aos efeitos de refração vistos em arco-íris.\n\nDe acordo com a meteorologista e consultora Andrea Ramos, a ocorrência não está associada à chegada de frentes frias ou precipitações, contrariando interpretações tradicionais do senso comum. Trata-se de um processo físico natural desencadeado pela interação da luz solar com nuvens do tipo cirrostratus, situadas em altitudes elevadas, entre cinco e dez quilômetros da superfície terrestre.\n\nEssas formações atmosféricas contêm microcristais de gelo com geometria hexagonal que atuam de maneira análoga a prismas ópticos. À medida que a claridade atravessa essa camada translúcida, ocorre o desvio e a decomposição dos raios nas diferentes faixas do espectro visível, projetando o anel nos céus.\n\nA especialista também ressaltou que o evento não oferece riscos atmosféricos ou alterações na radiação emitida pelo Sol. Contudo, adverte-se que a observação direta e desprotegida em direção ao astro deve ser evitada pela população, a fim de prevenir lesões na retina.",
-    "categoria": "Ciência & Ambiente",
-    "publicado_em": "2026-08-27T01:10:25.492794+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/beleza-nos-ceus-halo-solar-nao-e-sinal-de-chuva-diz-especialista",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/26937592/pexels-photo-26937592.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Roberto Lee Cortes",
-      "photographer_url": "https://www.pexels.com/@lenzatic",
-      "pexels_url": "https://www.pexels.com/photo/sun-in-sky-26937592/"
     },
     "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
     "pais": "Brasil"
