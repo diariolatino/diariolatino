@@ -1,5 +1,38 @@
 [
   {
+    "id": "7a1d0343-3810-4608-a6e6-6ce3501c026f",
+    "titulo": "Rebeca Aladro permanecerá temporariamente na chefia do Poder Judiciário no México",
+    "lead": "A magistrada Rebeca Aladro continuará exercendo a liderança do Poder Judiciário de forma temporária, garantindo a continuidade administrativa do órgão.",
+    "corpo": "A manutenção de Rebeca Aladro na chefia do Poder Judiciário foi confirmada de maneira temporária, assegurando a estabilidade das atividades institucionais e o acompanhamento dos trabalhos normais do órgão. A decisão busca manter a ordem operacional dos processos administrativos e judicantes, evitando descontinuidades na prestação dos serviços jurisdicionais à população e garantindo o andamento regular das demandas sob responsabilidade do órgão.\n\nA permanência provisória de lideranças em instâncias do Judiciário representa um recurso institucional comum para gerenciar períodos de transição ou aguardar definições regimentais e legais. Sob essa condução, cabe à presidência atuar no direcionamento das sessões colegiadas, no alinhamento das diretrizes administrativas e na coordenação do funcionamento regular do sistema de justiça sob sua jurisdição.\n\nO cenário judicial no México vem sendo marcado por debates sobre governabilidade, transparência e eficiência institucional. A continuidade da gestão sob o comando de Aladro visa assegurar a previsibilidade administrativa, mantendo a rotina dos trabalhos enquanto se cumprem os trâmites normativos estipulados para a consolidação dos cargos de chefia no Poder Judiciário.",
+    "categoria": "Política",
+    "pais": "México",
+    "publicado_em": "2026-09-02T02:23:02.080299+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://sintesis.mx/2026/09/01/continuara-rebeca-aladro-al-frente-del-poder-judicial-de-manera-temporal/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/6610670/pexels-photo-6610670.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Leandro Paes Leme",
+      "photographer_url": "https://www.pexels.com/@leandro-paes-leme-3903752",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/supreme-court-of-the-united-states-facade-6610670/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Rebeca Aladro continuará de manera temporal al frente del Poder Judicial en México",
+        "lead": "La magistrada Rebeca Aladro seguirá ejerciendo la dirección del Poder Judicial de forma temporal, garantizando la continuidad administrativa del órgano.",
+        "corpo": "La permanencia de Rebeca Aladro al frente del Poder Judicial fue confirmada de manera temporal, asegurando la estabilidad de las actividades institucionales y el seguimiento de los trabajos normales del órgano. La decisión busca mantener el orden operacional de los procesos administrativos y judiciales, evitando discontinuidades en la prestación de servicios jurisdiccionales a la ciudadanía y garantizando el curso regular de las demandas bajo responsabilidad del órgano.\n\nLa continuidad provisional de liderazgos en instancias del Judicial representa un recurso institucional común para gestionar periodos de transición o aguardar definiciones reglamentarias y legales. Bajo esa conducción, corresponde a la presidencia actuar en el direccionamiento de las sesiones colegiadas, el alineamiento de las directrices administrativas y la coordinación del funcionamiento regular del sistema de justicia bajo su jurisdicción.\n\nEl escenario judicial en México viene estando marcado por debates sobre gobernabilidad, transparencia y eficiencia institucional. La continuidad de la gestión bajo el mando de Aladro busca asegurar la previsibilidad administrativa, manteniendo la rutina de los trabajos mientras se cumplen los trámites normativos estipulados para la consolidación de los cargos de dirección en el Poder Judicial."
+      },
+      "en": {
+        "titulo": "Rebeca Aladro to Temporarily Remain at the Head of Mexico's Judiciary",
+        "lead": "Judge Rebeca Aladro will continue to temporarily lead the Judicial Branch, ensuring the administrative continuity of the judicial body.",
+        "corpo": "Rebeca Aladro's continuation at the head of the Judicial Branch has been confirmed on a temporary basis, ensuring the stability of institutional activities and the ongoing operation of the judicial body. The decision aims to maintain operational order in administrative and judicial procedures, avoiding disruptions in services provided to the public and guaranteeing the regular progress of matters under the institution's authority.\n\nThe temporary retention of leadership within the Judiciary is a standard institutional mechanism used to manage transitional periods or await regulatory and legal definitions. Under this arrangement, the presidency is responsible for guiding collegiate sessions, aligning administrative guidelines, and coordinating the regular operations of the justice system within its jurisdiction.\n\nThe judicial landscape in Mexico has been characterized by ongoing discussions regarding governance, transparency, and institutional efficiency. Maintaining leadership under Aladro aims to ensure administrative predictability, preserving daily institutional workflows while formal procedures regarding executive leadership roles are carried out."
+      }
+    }
+  },
+  {
     "id": "54e79f26-0ef8-4308-ac8a-1902e1a08a04",
     "titulo": "Gustavo Petro volta a denunciar perseguição política e institucional na Colômbia",
     "lead": "O presidente colombiano, Gustavo Petro, declarou estar sendo alvo de perseguição política no país, criticando investidas de setores de oposição e órgãos de controle contra a sua gestão.",
@@ -1707,26 +1740,6 @@
       "photographer": "Алесь Усцінаў",
       "photographer_url": "https://www.pexels.com/@alesustinau",
       "pexels_url": "https://www.pexels.com/photo/firefighters-responding-to-war-torn-kyiv-building-31778047/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "pais": "Brasil"
-  },
-  {
-    "id": "bd24abe8-2c43-4b13-8618-c036dc45a001",
-    "titulo": "Justiça decreta prisões preventivas e aponta mandante em caso de homicídio de advogado no Rio de Janeiro",
-    "lead": "A Justiça fluminense determinou novas prisões preventivas ligadas ao assassinato do advogado Rodrigo Crespo, ocorrido em fevereiro de 2024, após denúncia apresentada pelo Ministério Público.",
-    "corpo": "O Grupo de Atuação Especializada de Combate ao Crime Organizado (Gaeco), vinculado ao Ministério Público do Estado do Rio de Janeiro (MPRJ), obteve a decretação da prisão preventiva de mais quatro acusados de envolvimento na morte do advogado Rodrigo Crespo. O crime aconteceu no centro do Rio de Janeiro no dia 26 de fevereiro de 2024.\n\nDe acordo com as investigações conduzidas pelo MPRJ, o contraventor Adilson Oliveira Coutinho Filho, conhecido como Adilsinho e apontado como integrante da cúpula do jogo do bicho, é acusado de encomendar o homicídio. A motivação estaria relacionada a disputas e interesses no mercado de apostas online e empreendimentos associados a jogos, setor em que a vítima manifestava interesse em investir e buscar financiamento.\n\nDurante a operação decorrente da denúncia, a Polícia Civil cumpriu mandado de prisão preventiva contra o policial militar da ativa Renato Franco Lopes, conhecido como Pitbull e lotado em Duque de Caxias, que teve o porte de arma e as funções públicas suspensos. Mandados também foram cumpridos contra Adilsinho e Ryan Patrick Barboza de Oliveira, o Motinha, que já se encontravam detidos. Outro investigado, Rafael Ferreira Silva, conhecido como Cachoeira, é considerado foragido pela Justiça.\n\nSegundo o órgão acusatório, Ryan teria realizado a vigilância da vítima nos dias antecedentes ao crime, enquanto Renato e Rafael teriam prestado apoio operacional, monitorado os passos de Crespo e permanecido no veículo utilizado pelo executor.\n\nAlém de receber a denúncia por homicídio qualificado, o Juízo da 3ª Vara Criminal determinou que Adilsinho permaneça em presídio federal de segurança máxima pelo período de três anos. Adilsinho havia sido capturado em fevereiro de 2026 em Cabo Frio, na Região dos Lagos, em uma ação conjunta entre as polícias Federal e Civil.",
-    "categoria": "Segurança",
-    "publicado_em": "2026-08-27T01:12:47.676601+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/justica-decreta-prisao-de-envolvidos-na-morte-de-advogado-no-rio",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/6065244/pexels-photo-6065244.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "RDNE Stock project",
-      "photographer_url": "https://www.pexels.com/@rdne",
-      "pexels_url": "https://www.pexels.com/photo/handcuffed-man-in-orange-top-sitting-two-persons-in-a-room-6065244/"
     },
     "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
     "pais": "Brasil"
