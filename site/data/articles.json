@@ -1,5 +1,38 @@
 [
   {
+    "id": "b5001bf0-48ba-4f4a-a9e9-ed6265a9a554",
+    "titulo": "Mega-Sena acumula e prêmio principal chega a R$ 41 milhões",
+    "lead": "Nenhum participante acertou as seis dezenas do concurso 3.052 da Mega-Sena, realizado nesta terça-feira. Com o resultado, o prêmio principal acumulou e está estimado em R$ 41 milhões para a próxima rodada.",
+    "corpo": "Os números sorteados no concurso 3.052 foram 16, 30, 40, 47, 48 e 60. Sem vencedores na faixa principal de premiação, o valor segue acumulado para o próximo sorteio da loteria brasileira.\n\nNas faixas secundárias, a Caixa Econômica Federal informou que 21 apostas conseguiram acertar cinco dezenas e levarão o prêmio individual de R$ 80.825,85. Já na quadra, que contempla quatro acertos, foram registradas 1.699 apostas ganhadoras em todo o território nacional, cabendo a cada uma o valor de R$ 1.646,74.\n\nO próximo concurso ocorrerá na quinta-feira (3). Os interessados em concorrer ao prêmio acumulado de R$ 41 milhões podem registrar seus jogos até as 20h (horário de Brasília) do dia do sorteio. As apostas são aceitas em casas lotéricas credenciadas em todo o país ou por meio dos canais digitais oficiais da Caixa, incluindo o portal na internet e o aplicativo de loterias.\n\nO valor de uma aposta mínima, que permite a escolha de seis dezenas entre as 60 disponíveis no volante, é de R$ 6.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-02T04:16:32.724708+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-41-milhoes-confira-os-numeros-sorteados",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/5550130/pexels-photo-5550130.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Waldemar Brandt",
+      "photographer_url": "https://www.pexels.com/@wb2008",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/close-up-photo-of-lottery-ticket-5550130/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "La lotería Mega-Sena de Brasil se acumula y el premio mayor alcanza 41 millones de reales",
+        "lead": "Ningún participante acertó los seis números del sorteo 3.052 de la Mega-Sena, celebrado este martes. Con este resultado, el premio principal quedó acumulado y se estima en 41 millones de reales para la próxima jugada.",
+        "corpo": "Los números sorteados en el concurso 3.052 fueron 16, 30, 40, 47, 48 y 60. Al no registrarse ganadores en la categoría principal, el pozo continuará acumulándose para la siguiente edición de la lotería brasileña.\n\nEn las categorías secundarias, la Caixa Econômica Federal informó que 21 apuestas acertaron cinco números y recibirán un premio individual de 80.825,85 reales. En tanto, 1.699 boletos acertaron cuatro números en todo el país, obteniendo cada uno 1.646,74 reales.\n\nEl próximo sorteo se llevará a cabo el jueves (3). Quienes deseen participar por el premio acumulado de 41 millones de reales podrán registrar sus jugadas hasta las 20:00 (hora de Brasilia) del mismo día. Las apuestas pueden realizarse en agencias de lotería oficiales de todo Brasil o a través de las plataformas digitales de la Caixa, incluyendo su sitio web y su aplicación móvil.\n\nEl costo de una apuesta simple, que incluye la selección de seis números entre los 60 disponibles, es de 6 reales."
+      },
+      "en": {
+        "titulo": "Brazil's Mega-Sena lottery rolls over with jackpot reaching R$ 41 million",
+        "lead": "No ticket matched all six numbers in draw 3,052 of the Mega-Sena lottery on Tuesday. As a result, the top jackpot rolled over and is estimated at R$ 41 million for the upcoming draw.",
+        "corpo": "The numbers drawn in contest 3,052 were 16, 30, 40, 47, 48, and 60. With no winner matching all six digits, the prize pool rolled over for the next edition of Brazil's main lottery.\n\nIn the secondary tiers, Caixa Econômica Federal reported that 21 tickets matched five numbers, each earning R$ 80,825.85. Additionally, 1,699 tickets matched four numbers nationwide, receiving R$ 1,646.74 each.\n\nThe next draw is scheduled for Thursday (3). Players looking to compete for the R$ 41 million jackpot can place their bets until 8:00 p.m. (Brasília time) on the day of the draw. Bets can be made at licensed lottery retailers across Brazil or through Caixa's official digital channels, including its website and mobile app.\n\nA standard single bet, allowing players to select six numbers out of 60, costs R$ 6."
+      }
+    }
+  },
+  {
     "id": "7a1d0343-3810-4608-a6e6-6ce3501c026f",
     "titulo": "Rebeca Aladro permanecerá temporariamente na chefia do Poder Judiciário no México",
     "lead": "A magistrada Rebeca Aladro continuará exercendo a liderança do Poder Judiciário de forma temporária, garantindo a continuidade administrativa do órgão.",
@@ -1720,26 +1753,6 @@
       "photographer": "Juan Moccagatta",
       "photographer_url": "https://www.pexels.com/@juan-moccagatta-2159466094",
       "pexels_url": "https://www.pexels.com/photo/rescue-team-assisting-flood-victims-in-action-36072012/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "pais": "Brasil"
-  },
-  {
-    "id": "3382493e-8c8c-41d5-855d-928551920fb9",
-    "titulo": "Explosão de botijão de gás na zona norte de São Paulo resulta na interdição preventiva de 13 imóveis",
-    "lead": "Uma explosão provocada por um botijão de gás no bairro Jaraguá, zona norte de São Paulo, levou à interdição de 13 residências e mobilizou equipes de segurança e assistência social na madrugada de domingo.",
-    "corpo": "Um acidente residencial na Rua Anan Moreira dos Santos Mattos, localizada no bairro Jaraguá, na zona norte de São Paulo, causou danos estruturais significativos e a interdição preventiva de 13 imóveis. A ocorrência teve início por volta das 4h da manhã de domingo (23), após a explosão de um botijão de gás em uma das residências.\n\nDe acordo com informações da Defesa Civil municipal, o impacto afetou diretamente o imóvel onde ocorreu o vazamento e colocou outras 12 residências em situação de risco. Agentes da Defesa Civil do município e do estado realizaram vistorias técnicas preliminares no local, enquanto a Polícia Civil executou os procedimentos periciais para apurar as circunstâncias do acidente. Os imóveis afetados permaneceram interditados na segunda-feira (24).\n\nO Corpo de Bombeiros mobilizou 11 viaturas para o atendimento da emergência. Três pessoas foram atingidas pelo incidente: uma delas precisou ser encaminhada para o Pronto-Socorro do Hospital Penteado, ao passo que as outras duas receberam apoio inicial de moradores da região e não necessitaram de hospitalização.\n\nComo resposta imediata aos danos sociais provocados pelo sinistro, a Secretaria Municipal de Assistência e Desenvolvimento Social, por meio da Subprefeitura de Pirituba, prestou suporte às famílias afetadas. O órgão realizou o cadastro de 18 famílias no programa municipal de auxílio aluguel e prestou atendimento a outras 32 famílias que buscaram abrigo temporário na residência de parentes. A Defesa Civil municipal manteve equipes no local para monitorar a área e continuar o apoio aos moradores afetados.",
-    "categoria": "Segurança",
-    "publicado_em": "2026-08-27T01:12:51.554808+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/explosao-de-botijao-de-gas-causa-interdicao-de-13-casas-em-sao-paulo",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/31778047/pexels-photo-31778047.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Алесь Усцінаў",
-      "photographer_url": "https://www.pexels.com/@alesustinau",
-      "pexels_url": "https://www.pexels.com/photo/firefighters-responding-to-war-torn-kyiv-building-31778047/"
     },
     "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
     "pais": "Brasil"
