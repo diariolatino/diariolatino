@@ -23,13 +23,17 @@ def ja_publicado(candidato_id: str) -> bool:
     return candidato_id in vistos
 
 
+def carregar_artigos_publicados() -> list:
+    return _carregar_json(config.ARTICLES_PATH, [])
+
+
 def marcar_como_visto(candidato_id: str):
     vistos = _carregar_json(config.SEEN_IDS_PATH, [])
     vistos.append(candidato_id)
     _salvar_json(config.SEEN_IDS_PATH, vistos[-500:])  # mantém histórico enxuto
 
 
-def publicar(materia_gerada: dict, candidato: dict, imagem: dict | None):
+def publicar(materia_gerada: dict, candidato: dict, imagem: dict | None, materia_relacionada: dict | None = None):
     artigos = _carregar_json(config.ARTICLES_PATH, [])
 
     fontes = [candidato.get("fonte", "Fonte não identificada")]
@@ -41,14 +45,15 @@ def publicar(materia_gerada: dict, candidato: dict, imagem: dict | None):
         "titulo": materia_gerada["titulo"],
         "lead": materia_gerada["lead"],
         "corpo": materia_gerada["corpo"],
-        "categoria": materia_gerada.get("categoria", "Mundo"),
-        "pais": materia_gerada.get("pais", "América Latina"),
+        "categoria": materia_gerada.get("categoria") or "Mundo",
+        "pais": materia_gerada.get("pais") or "América Latina",
         "publicado_em": datetime.now(timezone.utc).isoformat(),
         "fontes": fontes,
         "url_fonte_original": candidato.get("url_original"),
         "imagem": imagem,
         "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
         "traducoes": materia_gerada.get("traducoes", {}),
+        "atualizacao_de": materia_relacionada["id"] if materia_relacionada else None,
     }
 
     artigos.insert(0, artigo)

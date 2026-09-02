@@ -21,10 +21,18 @@ MAX_ARTIGOS_POR_EXECUCAO = int(os.environ.get("MAX_ARTIGOS_POR_EXECUCAO", "1"))
 MAX_TENTATIVAS_GEMINI_POR_EXECUCAO = int(os.environ.get("MAX_TENTATIVAS_GEMINI_POR_EXECUCAO", "3"))
 MAX_ARTIGOS_NO_SITE = 60  # quantos artigos ficam guardados no articles.json
 
-# ---- checagem de similaridade ----
+# ---- checagem de similaridade (texto gerado vs. material de origem) ----
 LIMIAR_DIFFLIB = 0.55          # acima disso = parecido demais, vai pra revisão
 USAR_EMBEDDING_CHECK = os.environ.get("USAR_EMBEDDING_CHECK", "false").lower() == "true"
 LIMIAR_EMBEDDING = 0.86
+
+# ---- deduplicação de notícia (candidato novo vs. artigos já publicados) ----
+# não confundir com o filtro de imagem repetida (USADAS_MAX_HISTORICO, em
+# image_search.py) nem com o ja_publicado() de publish.py (que só pega o
+# EXATO mesmo candidato reaparecendo — aqui é sobre uma notícia NOVA que
+# cobre um fato que o site já publicou antes, vinda de outra fonte).
+JANELA_DEDUPLICACAO_NOTICIA = 60   # quantos artigos publicados recentes são comparados
+LIMIAR_MESMA_NOTICIA = 0.45        # similaridade de título acima da qual tratamos como a mesma notícia
 
 # ---- arquivos de estado ----
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "site", "data")

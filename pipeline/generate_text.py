@@ -86,8 +86,22 @@ Costa Rica, Cuba, Equador, El Salvador, Guatemala, Haiti, Honduras, México, Nic
 Panamá, Paraguai, Peru, Porto Rico, República Dominicana, Uruguai, Venezuela. Se a \
 matéria for sobre um bloco regional ou tema continental sem um país central, use \
 "América Latina".
+8. Às vezes o material que você recebe inclui, além do TÍTULO/RESUMO da fonte, um \
+bloco "NOTÍCIA JÁ PUBLICADA ANTERIORMENTE SOBRE O MESMO ASSUNTO" com o título e o \
+lead de uma matéria que o Diário Latino já publicou. Quando isso acontecer:
+   - Se o material novo trouxer um fato genuinamente novo em relação ao que já foi \
+publicado (novo desdobramento, nova decisão, novo número, nova declaração, mudança \
+de status), escreva a matéria normalmente seguindo as regras acima, MAS o título \
+DEVE deixar claro que é uma atualização — comece com "Atualização:" ou "Novas \
+informações:" (ou variação natural equivalente), seguido do fato novo em si.
+   - Se o material novo NÃO trouxer nenhum fato relevante além do que já foi \
+publicado (é essencialmente a mesma informação, só reformulada ou contada por outra \
+fonte), NÃO escreva a matéria. Responda SOMENTE com este JSON mínimo, sem mais nada: \
+{"duplicado": true}
 
-Responda SOMENTE em JSON válido, neste formato exato, sem markdown, sem texto fora do JSON:
+Responda SOMENTE em JSON válido, neste formato exato, sem markdown, sem texto fora do JSON \
+(exceto no caso do item 8, quando o material for duplicado — aí a resposta é só \
+{"duplicado": true}):
 {
   "titulo": "...",
   "lead": "...",
@@ -260,11 +274,18 @@ def _extrair_json(texto: str) -> dict:
     return json.loads(texto)
 
 
-def gerar_materia(candidato: dict) -> dict | None:
+def gerar_materia(candidato: dict, materia_relacionada: dict | None = None) -> dict | None:
     material = f"TÍTULO: {candidato.get('titulo', '')}\n"
     if candidato.get("resumo"):
         material += f"RESUMO: {candidato['resumo']}\n"
     material += f"FONTE: {candidato.get('fonte', 'desconhecida')}"
+
+    if materia_relacionada:
+        material += (
+            "\n\nNOTÍCIA JÁ PUBLICADA ANTERIORMENTE SOBRE O MESMO ASSUNTO:\n"
+            f"TÍTULO ANTERIOR: {materia_relacionada.get('titulo', '')}\n"
+            f"LEAD ANTERIOR: {materia_relacionada.get('lead', '')}"
+        )
 
     corpo_requisicao = {
         "system_instruction": {"parts": [{"text": PROMPT_SISTEMA}]},

@@ -5,8 +5,9 @@ from .filter_relevance import filtrar
 from .diversidade import intercalar_por_categoria
 from .generate_text import gerar_materia, CotaGeminiExcedida
 from .similarity_check import checar_originalidade
+from .deduplicacao import encontrar_materia_relacionada
 from .image_search import buscar_imagem
-from .publish import ja_publicado, publicar, enviar_para_revisao
+from .publish import ja_publicado, marcar_como_visto, publicar, enviar_para_revisao, carregar_artigos_publicados
 
 
 def rodar():
@@ -26,6 +27,8 @@ def rodar():
     candidatos = intercalar_por_categoria(candidatos)  # varia o tema desde a ordem de tentativa
     print(f"  {len(candidatos)} candidatos relevantes, inéditos e intercalados por tema")
 
+    artigos_publicados = carregar_artigos_publicados()
+
     publicados = 0
     tentativas_gemini = 0
     categorias_usadas_nesta_execucao = set()
@@ -44,12 +47,20 @@ def rodar():
 
         tentativas_gemini += 1
         try:
-            materia = gerar_materia(candidato)
+            materia_relacionada = encontrar_materia_relacionada(candidato, artigos_publicados)
+            materia = gerar_materia(candidato, materia_relacionada)
         except CotaGeminiExcedida as e:
             print(f"  [cota] limite gratuito do Gemini atingido nesta janela ({e}). "
                   f"Encerrando a execução mais cedo — a próxima hora tenta de novo.")
             break
         if not materia:
+            continue
+
+        if materia.get("duplicado"):
+            print(f"  [duplicado] candidato '{candidato.get('titulo')}' já coberto por "
+                  f"'{materia_relacionada.get('titulo') if materia_relacionada else '?'}' "
+                  f"sem fato novo relevante — descartado, não publicado.")
+            marcar_como_visto(candidato["id"])
             continue
 
         categoria = materia.get("categoria", "América do Sul")
@@ -66,7 +77,8 @@ def rodar():
             continue
 
         imagem = buscar_imagem(materia.get("palavras_chave_imagem", []), pais=materia.get("pais"))
-        artigo = publicar(materia, candidato, imagem)
+        artigo = publicar(materia, candidato, imagem, materia_relacionada)
+        artigos_publicados.insert(0, artigo)
         categorias_usadas_nesta_execucao.add(categoria)
         publicados += 1
         print(f"  [publicado] {artigo['titulo']} — {categoria}")
