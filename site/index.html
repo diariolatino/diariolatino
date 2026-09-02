@@ -67,13 +67,15 @@
         </aside>
       </section>
     
-      <section class="grade" id="secao-grade"></section>
+      <section class="grade" id="secao-grade-topo"></section>
     
       <section class="mosaico" id="secao-mosaico" style="display:none;">
         <div class="mosaico-coluna mosaico-principal" id="mosaico-esquerda"></div>
         <div class="mosaico-coluna mosaico-meio" id="mosaico-meio"></div>
         <div class="mosaico-coluna mosaico-principal" id="mosaico-direita"></div>
       </section>
+    
+      <section class="grade" id="secao-grade-baixo"></section>
     
       <section class="digest" id="secao-digest" style="display:none;">
         <div class="digest-grade" id="digest-grade"></div>
@@ -83,6 +85,8 @@
         <h3 id="titulo-mais-noticias"></h3>
         <div class="radar-lista" id="radar-lista"></div>
       </section>
+    
+      <nav class="paginacao" id="paginacao" style="display:none;"></nav>
     
     </main>
     
@@ -132,6 +136,8 @@
     let CATEGORIA_ATIVA = "todas";
     let FILTRO_LOCAL = { tipo: "todos", valor: null };
     let TERMO_BUSCA = "";
+    let PAGINA_ATUAL = 1;
+    const ARTIGOS_POR_PAGINA = 60;
     
     function figuraImagem(imagem, artigo) {
       if (!imagem) return "";
@@ -190,6 +196,7 @@
       container.querySelectorAll('.categoria-link').forEach(btn => {
         btn.addEventListener('click', () => {
           CATEGORIA_ATIVA = btn.dataset.categoria;
+          PAGINA_ATUAL = 1;
           window.location.hash = CATEGORIA_ATIVA === 'todas' ? '' : encodeURIComponent(CATEGORIA_ATIVA);
           montarNavCategorias();
           renderizarConteudo();
@@ -224,6 +231,7 @@
         el.addEventListener('click', () => {
           const tipo = el.dataset.tipo;
           FILTRO_LOCAL = tipo === 'todos' ? { tipo: 'todos', valor: null } : { tipo, valor: el.dataset.valor };
+          PAGINA_ATUAL = 1;
           fecharFiltroPais();
           montarFiltroPais();
           renderizarConteudo();
@@ -275,7 +283,11 @@
     }
     
     function renderizarConteudo() {
-      const artigos = artigosFiltrados();
+      const artigosTotal = artigosFiltrados();
+      const totalPaginas = Math.max(1, Math.ceil(artigosTotal.length / ARTIGOS_POR_PAGINA));
+      if (PAGINA_ATUAL > totalPaginas) PAGINA_ATUAL = totalPaginas;
+      const inicioPagina = (PAGINA_ATUAL - 1) * ARTIGOS_POR_PAGINA;
+      const artigos = artigosTotal.slice(inicioPagina, inicioPagina + ARTIGOS_POR_PAGINA);
     
       document.getElementById('estado-vazio').style.display = 'none';
       document.getElementById('sem-resultados').style.display = 'none';
@@ -283,14 +295,17 @@
       document.getElementById('secao-mosaico').style.display = 'none';
       document.getElementById('secao-digest').style.display = 'none';
       document.getElementById('secao-radar').style.display = 'none';
-      document.getElementById('secao-grade').innerHTML = '';
+      document.getElementById('secao-grade-topo').innerHTML = '';
+      document.getElementById('secao-grade-baixo').innerHTML = '';
     
       if (!TODOS_ARTIGOS.length) {
         document.getElementById('estado-vazio').style.display = 'block';
+        montarPaginacao(0, 1);
         return;
       }
       if (!artigos.length) {
         document.getElementById('sem-resultados').style.display = 'block';
+        montarPaginacao(artigosTotal.length, totalPaginas);
         return;
       }
     
@@ -316,15 +331,21 @@
           </div>
         </div>`).join('');
     
-      const grade = resto.slice(5, 29);
-      document.getElementById('secao-grade').innerHTML = grade.map(a => `
+      // Grade de 24 matérias, dividida em duas metades de 12 (o mosaico entra
+      // exatamente no meio, entre as duas metades).
+      const cartaoColuna = a => `
         <article class="coluna">
           <span class="selo">${rotuloCategoriaPais(a)}</span>
           ${a.imagem ? `<a href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : ''}
           <h3><a class="link-esticado" href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h3>
           <p class="dek">${campoIdioma(a, 'lead')}</p>
           <div class="meta"><span>${formatarData(a.publicado_em)}</span></div>
-        </article>`).join('');
+        </article>`;
+      const grade = resto.slice(5, 29);
+      const gradeTopo = grade.slice(0, 12);
+      const gradeBaixo = grade.slice(12, 24);
+      document.getElementById('secao-grade-topo').innerHTML = gradeTopo.map(cartaoColuna).join('');
+      document.getElementById('secao-grade-baixo').innerHTML = gradeBaixo.map(cartaoColuna).join('');
     
       // ===== MOSAICO (opção B): grande + linha + 3 sem foto + linha + grande =====
       const mosaico = resto.slice(29, 34);
@@ -364,8 +385,8 @@
         elMosaico.style.display = 'none';
       }
     
-      // ===== DIGEST (opção A): lista compacta com foto, 5 linhas x 3 =====
-      const digest = resto.slice(34, 49);
+      // ===== DIGEST (opção A): lista compacta com foto, 4 linhas x 3 =====
+      const digest = resto.slice(34, 46);
       const elDigest = document.getElementById('secao-digest');
       if (digest.length) {
         elDigest.style.display = 'block';
@@ -382,12 +403,43 @@
         elDigest.style.display = 'none';
       }
     
-      const maisNoticias = resto.slice(49);
+      const maisNoticias = resto.slice(46);
       if (maisNoticias.length) {
         document.getElementById('secao-radar').style.display = 'block';
         document.getElementById('radar-lista').innerHTML = maisNoticias.map(a => `
           <a class="radar-item" href="${linkMateria(a)}"><span class="pais">${a.pais ? traduzirPais(a.pais) : traduzirCategoria(a.categoria)}</span>${campoIdioma(a, 'titulo')}</a>`).join('');
       }
+    
+      montarPaginacao(artigosTotal.length, totalPaginas);
+    }
+    
+    function montarPaginacao(totalArtigos, totalPaginas) {
+      const el = document.getElementById('paginacao');
+      if (totalPaginas <= 1) {
+        el.style.display = 'none';
+        el.innerHTML = '';
+        return;
+      }
+      el.style.display = 'flex';
+      el.innerHTML = `
+        <button type="button" class="paginacao-botao" id="pagina-anterior" ${PAGINA_ATUAL <= 1 ? 'disabled' : ''}>${t('paginaAnterior')}</button>
+        <span class="paginacao-info">${t('pagina')} ${PAGINA_ATUAL} ${t('de')} ${totalPaginas}</span>
+        <button type="button" class="paginacao-botao" id="pagina-proxima" ${PAGINA_ATUAL >= totalPaginas ? 'disabled' : ''}>${t('proximaPagina')}</button>
+      `;
+      const anterior = document.getElementById('pagina-anterior');
+      const proxima = document.getElementById('pagina-proxima');
+      if (PAGINA_ATUAL > 1) anterior.addEventListener('click', () => irParaPagina(PAGINA_ATUAL - 1));
+      if (PAGINA_ATUAL < totalPaginas) proxima.addEventListener('click', () => irParaPagina(PAGINA_ATUAL + 1));
+    }
+    
+    function irParaPagina(n) {
+      PAGINA_ATUAL = Math.max(1, n);
+      const url = new URL(window.location.href);
+      if (PAGINA_ATUAL === 1) url.searchParams.delete('pagina');
+      else url.searchParams.set('pagina', String(PAGINA_ATUAL));
+      window.history.pushState({}, '', url);
+      renderizarConteudo();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
     
     async function carregarArtigos() {
@@ -406,6 +458,7 @@
         clearTimeout(temporizador);
         temporizador = setTimeout(() => {
           TERMO_BUSCA = campo.value;
+          PAGINA_ATUAL = 1;
           renderizarConteudo();
         }, 150);
       });
@@ -423,6 +476,9 @@
       const hash = decodeURIComponent(window.location.hash.replace('#', ''));
       if (hash && CATEGORIAS_ORDEM.includes(hash)) CATEGORIA_ATIVA = hash;
     
+      const paramPagina = parseInt(new URLSearchParams(window.location.search).get('pagina'), 10);
+      if (Number.isInteger(paramPagina) && paramPagina >= 1) PAGINA_ATUAL = paramPagina;
+    
       montarCabecalho();
       aplicarTextosEstaticos();
       montarSeletorIdioma(document.getElementById('seletor-idioma-topo'), () => {
@@ -439,6 +495,12 @@
       inicializarVoltarTopo();
       document.getElementById('ano-copyright').textContent = new Date().getFullYear();
     }
+    
+    window.addEventListener('popstate', () => {
+      const paramPagina = parseInt(new URLSearchParams(window.location.search).get('pagina'), 10);
+      PAGINA_ATUAL = (Number.isInteger(paramPagina) && paramPagina >= 1) ? paramPagina : 1;
+      renderizarConteudo();
+    });
     
     iniciar();
     </script>
