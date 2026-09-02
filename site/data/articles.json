@@ -1,5 +1,39 @@
 [
   {
+    "id": "9eb6fdef-5c92-420c-87d9-b79c02fffd41",
+    "titulo": "Banco do Brasil adota autenticação digital para identificar chamadas oficiais a clientes",
+    "lead": "O Banco do Brasil começou a utilizar um sistema de origem verificada para autenticar ligações telefônicas institucionais e proteger correntistas contra golpes e chamadas fraudulentas.",
+    "corpo": "O Banco do Brasil (BB) implementou a tecnologia de origem verificada em suas ligações ativas direcionadas a clientes, com o objetivo de frear tentativas de fraude e chamadas automatizadas indevidas. O recurso, validado pela Agência Nacional de Telecomunicações (Anatel) e operadoras de telefonia, permite que a tela do celular do usuário exiba uma identificação confirmando a autenticidade do contato realizado pela instituição financeira.\n\nA ferramenta opera por meio de uma assinatura digital associada ao número 4003-3001, utilizado por agências, escritórios de negócios e áreas de atendimento e suporte do banco. Antes que a ligação seja completada, as operadoras verificam essa chave de segurança em tempo real. Com a validação bem-sucedida, o smartphone exibe o nome e a logomarca do banco, reduzindo as chances de sucesso de criminosos que simulam contatos institucionais para aplicar golpes.\n\nSegundo dados divulgados pelo banco estatal, a instituição realizou uma média mensal de 1,5 milhão de chamadas ativas aos seus clientes no último ano, além de registrar 2,3 milhões de chamadas receptivas. Em testes preliminares, a identificação visual proporcionou um aumento de cerca de 30% na taxa de atendimento das ligações legítimas.\n\nO serviço é gratuito para os correntistas e não requer download de aplicativos adicionais, embora a instituição recomende conexão a redes 4G ou 5G para pleno funcionamento do protocolo. O BB reforça ainda que, mesmo em ligações identificadas, nunca solicita senhas, códigos de segurança de uso único, instalação de programas nem transferências financeiras.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-02T22:14:27.153021+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bb-passa-usar-tecnologia-de-origem-verificada-em-ligacoes",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/259103/pexels-photo-259103.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Pixabay",
+      "photographer_url": "https://www.pexels.com/@pixabay",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/assorted-banknotes-259103/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Banco do Brasil adopta autenticación digital para identificar llamadas oficiales a clientes",
+        "lead": "Banco do Brasil comenzó a utilizar un sistema de origen verificado para autenticar llamadas telefónicas institucionales y proteger a los usuarios contra fraudes telefónicos.",
+        "corpo": "Banco do Brasil (BB) implementó la tecnología de origen verificado en sus llamadas salientes hacia clientes, con el propósito de frenar intentos de estafa y llamadas automatizadas no deseadas. La herramienta, validada por la Agencia Nacional de Telecomunicaciones (Anatel) y las empresas de telecomunicaciones, permite que la pantalla del teléfono móvil muestre una identificación que confirma la autenticidad del contacto efectuado por la entidad financiera.\n\nEl sistema funciona mediante una firma digital asociada a la línea 4003-3001, utilizada por sucursales, oficinas comerciales y centros de atención al cliente del banco. Antes de que la llamada sea entregada al receptor, las operadoras verifican dicha clave de seguridad en tiempo real. Al completarse la validación, el dispositivo muestra el nombre institucional, reduciendo la efectividad de ciberdelincuentes que usurpan la identidad del banco para concretar fraudes.\n\nDe acuerdo con datos provistos por la entidad estatal, la institución realizó un promedio mensual de 1,5 millones de llamadas salientes durante el último año, además de gestionar 2,3 millones de comunicaciones entrantes. Durante las pruebas preliminares, la identificación visual generó un aumento cercano al 30% en la tasa de respuesta a llamadas legítimas.\n\nEl servicio es gratuito para los usuarios y no requiere la instalación de aplicaciones adicionales, aunque se recomienda conexión a redes 4G o 5G para su correcto funcionamiento. El BB recordó que, incluso en comunicaciones autenticadas, jamás solicita contraseñas, códigos de verificación temporal, instalación de software ni transferencias de dinero."
+      },
+      "en": {
+        "titulo": "Banco do Brasil adopts digital authentication to identify official customer calls",
+        "lead": "Banco do Brasil has begun utilizing verified caller ID technology to authenticate official phone calls and protect account holders from telephone fraud and scams.",
+        "corpo": "Banco do Brasil (BB) has rolled out verified calling technology on outbound calls to its customers, aiming to curb phone-based scams and unsolicited robocalls. Developed with validation from Brazil's National Telecommunications Agency (Anatel) and telecom carriers, the feature displays an authenticated caller ID on mobile screens, confirming that the call originated from the financial institution.\n\nThe system operates using a digital signature linked to the number 4003-3001, which is used across branches, business offices, and customer service departments. Telecom operators verify this digital signature in real time before the call connects. Once authenticated, the smartphone screen displays the bank's identification, significantly reducing the success rate of scammers impersonating the institution.\n\nAccording to figures released by the state-owned lender, the bank averaged 1.5 million outbound customer calls monthly over the past year, alongside 2.3 million incoming calls. During preliminary testing phases, verified caller identification drove an approximate 30% increase in answered legitimate calls.\n\nThe security feature is free of charge and requires no third-party applications, though users are advised to stay connected to 4G or 5G networks for full compatibility. BB emphasized that even during authenticated calls, it never requests passwords, one-time security codes, software downloads, or fund transfers."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "7020789e-d5d3-4486-9ba0-1b4334803583",
     "titulo": "Produção industrial brasileira interrompe sequência de quedas e cresce 0,2% em julho",
     "lead": "A atividade fabril do Brasil registrou leve recuperação de 0,2% em julho, encerrando dois meses consecutivos de retração econômica. O resultado foi impulsionado principalmente pelos setores de bens duráveis e equipamentos de informática.",
@@ -1833,25 +1867,5 @@
     },
     "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
     "pais": "Brasil"
-  },
-  {
-    "id": "fdaf941e-2122-401c-8d08-cfbeb4345ab0",
-    "titulo": "Forte terremoto no Japão deixa ao menos dez feridos e causa abalos na região de Tóquio",
-    "lead": "Um tremor de magnitude 5,9 atingiu o Japão na madrugada de domingo (23), com epicentro ao norte de Tóquio, resultando em pelo menos dez feridos, conforme informações da imprensa pública local.",
-    "corpo": "Um sismo de magnitude 5,9 atingiu o Japão na madrugada de domingo (23), deixando ao menos dez pessoas feridas, segundo dados divulgados pela emissora pública NHK e pela Agência de Meteorologia do Japão (JMA). O epicentro do abalo foi localizado na região sul da província de Ibaraki, ao norte da capital japonesa, a uma profundidade estimada de 68 quilômetros.\n\nApesar da intensidade sentida, a Agência de Meteorologia do Japão descartou qualquer risco de tsunami decorrente do tremor. A intensidade do abalo foi classificada como 5 fraco na escala japonesa de 0 a 7 nas províncias de Ibaraki, Saitama, Chiba e na própria capital, Tóquio, onde as ondas sísmicas provocaram oscilações em edifícios de grande altura.\n\nOperadores das usinas nucleares da região, incluindo a usina Tokai No.2, situada em Ibaraki, e a central de Fukushima 1, informaram que não foram constatadas anomalias em suas estruturas após o evento. Os monitoramentos locais indicam que os índices de radiação ao redor das instalações permanecem estáveis e dentro da normalidade.",
-    "categoria": "Ciência & Ambiente",
-    "publicado_em": "2026-08-27T02:55:35.487869+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/japao-e-atingido-por-terremoto-que-deixa-ao-menos-dez-pessoas-feridas",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/30670627/pexels-photo-30670627.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Sheldon Li",
-      "photographer_url": "https://www.pexels.com/@sheldon-li-316473606",
-      "pexels_url": "https://www.pexels.com/photo/tokyo-city-skyline-with-modern-architecture-30670627/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "pais": "Japão"
   }
 ]
