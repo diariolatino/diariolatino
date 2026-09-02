@@ -1,5 +1,39 @@
 [
   {
+    "id": "64a391dd-b292-4481-8463-d4197690879d",
+    "titulo": "ANPD abre consulta pública para definir agenda regulatória de proteção de dados no Brasil",
+    "lead": "A Agência Nacional de Proteção de Dados abriu nesta terça-feira prazo para que a sociedade envie sugestões para a elaboração da agenda regulatória do biênio 2027-2028. O processo participativo também orientará a avaliação de resultados das normas do setor até 2030.",
+    "corpo": "A Agência Nacional de Proteção de Dados (ANPD) iniciou, nesta terça-feira (1º), a coleta de contribuições públicas para estruturar sua agenda regulatória relativa ao período de 2027 a 2028. As contribuições encaminhadas pela sociedade civil, pesquisadores, setor empresarial e instituições públicas servirão também de base para a formulação da Agenda de Avaliação de Resultado Regulatório para o ciclo 2027-2030.\n\nOs interessados em participar podem submeter propostas até o dia 16 de outubro por meio da plataforma digital Brasil Participativo. Considerada o principal mecanismo de planejamento estratégico da autarquia, a agenda regulatória estabelece prioridades normativas, diretrizes técnicas, metas operacionais e cronogramas formais para os projetos regulatórios a serem implementados no país.\n\nPara o próximo biênio, a ANPD destacou como foco prioritário a segurança no ecossistema digital, com ênfase na salvaguarda de crianças, adolescentes e mulheres. Entre os temas elencados estão mecanismos de supervisão parental, padrões de segurança desde a concepção (design seguro) em plataformas digitais, impactos do uso de ferramentas de inteligência artificial por menores, obrigações de transparência das empresas de tecnologia e o enfrentamento à criação de conteúdos ilícitos por sistemas autônomos. A preservação da privacidade e o rigor no tratamento de dados pessoais completam o conjunto de eixos sugeridos.\n\nAlém de fiscalizar a conformidade com a Lei Geral de Proteção de Dados, a autarquia acompanha a aplicação do Estatuto Digital da Criança e do Adolescente. Na vertente de avaliação de impacto regulatório, o órgão planeja examinar a eficácia prática de normas já implementadas, incluindo o Regulamento de Transferência Internacional de Dados e as diretrizes orientativas sobre mecanismos de verificação etária em serviços online. Pelas normas vigentes, a versão final da agenda regulatória do biênio precisa ser oficialmente aprovada até o início de fevereiro de 2027.",
+    "categoria": "Ciência & Ambiente",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-02T20:14:43.160595+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/anpd-recebe-contribuicoes-para-agenda-regulatoria-2027-2028",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/38486959/pexels-photo-38486959.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Ann H",
+      "photographer_url": "https://www.pexels.com/@ann-h-45017",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/abstract-concept-of-encryption-security-38486959/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "La ANPD de Brasil abre consulta pública para definir su agenda regulatoria sobre protección de datos",
+        "lead": "La Agencia Nacional de Protección de Datos de Brasil abrió este martes el plazo para que la sociedad envíe propuestas destinadas a la elaboración de la agenda regulatoria del bienio 2027-2028. El proceso participativo también orientará la evaluación de resultados normativos hasta 2030.",
+        "corpo": "La Agencia Nacional de Protección de Datos (ANPD) inició este martes (1) la recepción de aportes públicos para estructurar su agenda regulatoria para el período 2027-2028. Las propuestas enviadas por organizaciones civiles, investigadores, empresas e instituciones públicas servirán además de base para formular la Agenda de Evaluación de Resultados Regulatorios para el ciclo 2027-2030.\n\nLos interesados en participar podrán enviar sus sugerencias hasta el 16 de octubre a través del portal digital Brasil Participativo. Considerada el principal instrumento de planificación estratégica de la entidad, la agenda regulatoria define las prioridades normativas, lineamientos técnicos, metas y cronogramas para los proyectos a desarrollarse en el país.\n\nPara el próximo período de dos años, la ANPD destacó como eje central la seguridad en el entorno digital, con especial atención a la protección de niños, adolescentes y mujeres. Entre las áreas de trabajo planteadas figuran los sistemas de supervisión parental, estándares de diseño seguro en plataformas en línea, el uso de inteligencia artificial por parte de menores, la rendición de cuentas de las empresas tecnológicas y la contención de contenidos ilícitos generados por sistemas automatizados. La salvaguarda de la privacidad y la gestión de datos personales completan las líneas de acción.\n\nAdemás de velar por el cumplimiento de la legislación de protección de datos, el organismo fiscaliza la aplicación del Estatuto Digital de la Niñez y la Adolescencia. En cuanto a la evaluación de impacto normativo, la agencia tiene previsto revisar la efectividad de disposiciones como el Reglamento de Transferencia Internacional de Datos y la guía sobre mecanismos de verificación de edad en servicios digitales. Conforme a las normas vigentes, el documento definitivo deberá quedar aprobado antes de febrero de 2027."
+      },
+      "en": {
+        "titulo": "Brazil's ANPD launches public consultation to set data protection regulatory agenda",
+        "lead": "Brazil's National Data Protection Authority opened a public consultation period on Tuesday to collect contributions for its 2027-2028 regulatory agenda. The participatory initiative will also guide regulatory impact assessments through 2030.",
+        "corpo": "Brazil's National Data Protection Authority (ANPD) launched a public consultation process on Tuesday (1) to draft its regulatory agenda for the 2027-2028 biennium. Submissions from civil society, academic researchers, private enterprises, and public entities will also inform the agency's Regulatory Outcome Evaluation Agenda for the 2027-2030 timeframe.\n\nInterested stakeholders can submit proposals through October 16 via the government's Brasil Participativo digital platform. Viewed as the agency's core strategic planning mechanism, the regulatory agenda establishes priority areas, technical guidelines, enforcement targets, and procedural timelines for regulatory projects across the country.\n\nFor the upcoming period, the ANPD prioritized digital ecosystem safety, focusing on safeguards for children, adolescents, and women. Proposed thematic tracks include parental supervision tools, safe-by-design standards across platforms, risks associated with minors using artificial intelligence, tech platform transparency, and measures against illegal content produced by generative AI systems. Data privacy enforcement and personal data governance also remain central components.\n\nAlongside general personal data protection oversight, the authority monitors enforcement of the national Child and Adolescent Digital Statute. Under its regulatory evaluation pillar, the agency plans to measure the real-world performance of existing frameworks, including rules on international data transfers and compliance guidelines for age-verification mechanisms on digital services. Under current administrative provisions, the final regulatory agenda must be formally ratified by February 2027."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "b9ef3567-14f8-4f38-ab62-b3968150bdbb",
     "titulo": "Campanhas de setembro mobilizam debates sobre saúde mental, inclusão e direitos sociais no Brasil",
     "lead": "O mês de setembro concentra mobilizações nacionais no Brasil voltadas à conscientização sobre saúde mental, garantia de direitos para pessoas com deficiência e proteção aos direitos sociais. Entre os eixos centrais do período estão as iniciativas do Setembro Amarelo e do Setembro Verde.",
@@ -1805,25 +1839,5 @@
     },
     "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
     "pais": "Indonésia"
-  },
-  {
-    "id": "86c10faa-00d9-4e05-8add-dcd8f6245de1",
-    "titulo": "Irã anuncia nova descoberta de mais de 212 bilhões de metros cúbicos de gás natural",
-    "lead": "O governo iraniano revelou a localização de mais de 212 bilhões de metros cúbicos de gás natural em um campo na província de Fars, em meio aos esforços do país para recuperar sua infraestrutura energética.",
-    "corpo": "O ministro do Petróleo do Irã, Mohsen Paknejad, anunciou no domingo (23) a descoberta de mais de 7,5 trilhões de pés cúbicos, o equivalente a cerca de 212,4 bilhões de metros cúbicos, de gás em um campo localizado no sul da província de Fars. De acordo com as estimativas apresentadas pela pasta, a taxa de recuperação prevista permitirá a extração de aproximadamente 5,7 bilhões de pés cúbicos do recurso na região.\n\nSegundo o ministro, o volume descoberto trata-se de gás considerado \"doce\", característica técnica que implica em menores custos operacionais e de desenvolvimento para a exploração. A novidade surge enquanto Teerã busca reparar sua infraestrutura energética, que sofreu danos decorrentes do conflito com Israel e Estados Unidos iniciado no final de fevereiro.\n\nAntes do conflito, o Irã mantinha uma produção estimada em cerca de 650 milhões de metros cúbicos diários. No entanto, os ataques reduziram a capacidade produtiva em cerca de 230 milhões de metros cúbicos por dia. Em julho, autoridades locais indicaram a expectativa de recuperar cerca de 100 milhões de metros cúbicos diários de capacidade nos meses subsequentes. A economia iraniana também se prepara para enfrentar novas sanções planejadas pelo governo dos Estados Unidos.",
-    "categoria": "Economia",
-    "publicado_em": "2026-08-27T02:50:10.114294+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/ira-anuncia-descoberta-de-mais-de-212-bilhoes-de-metros-cubicos-de-gas",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/36825977/pexels-photo-36825977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Mumtaz  Niazi",
-      "photographer_url": "https://www.pexels.com/@mumtaz-niazi-18390768",
-      "pexels_url": "https://www.pexels.com/photo/industrial-pipeline-system-in-saudi-arabian-factory-36825977/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "pais": "Irã"
   }
 ]
