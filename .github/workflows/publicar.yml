@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "0 * * * *"        # roda automaticamente a cada hora cheia (UTC)
 
+concurrency:
+  group: publicar-noticias
+  cancel-in-progress: false    # enfileira execuções sobrepostas em vez de rodar em paralelo
+
 permissions:
   contents: write              # necessário pra o job poder commitar o articles.json de volta
 
@@ -35,5 +39,18 @@ jobs:
           git config user.name "diariolatino-bot"
           git config user.email "bot@diariolatino.local"
           git add site/data/*.json
-          git diff --cached --quiet || git commit -m "Atualiza notícias [automático]"
-          git push
+          if git diff --cached --quiet; then
+            echo "Nada para commitar."
+            exit 0
+          fi
+          git commit -m "Atualiza notícias [automático]"
+          for tentativa in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push; then
+              exit 0
+            fi
+            echo "Push rejeitado (tentativa $tentativa/5) — outra execução deve ter" \
+                 "commitado ao mesmo tempo. Tentando de novo em 5s..."
+            sleep 5
+          done
+          echo "Não foi possível dar push depois de 5 tentativas." >&2
+          exit 1
