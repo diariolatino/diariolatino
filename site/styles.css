@@ -684,6 +684,44 @@ article.coluna .meta { font-size: 10.5px; color: #8a8a80; }
   margin-right: 8px;
 }
 
+/* ===== PAGINAÇÃO ===== */
+.paginacao {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 22px;
+  padding: 20px 0 46px;
+  border-top: 1px solid var(--linha);
+}
+.paginacao-botao {
+  font: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  border: 1px solid var(--linha);
+  border-radius: 999px;
+  background: #fff;
+  padding: 9px 20px;
+  color: var(--verde);
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+}
+.paginacao-botao:hover:not(:disabled) {
+  border-color: var(--terracota);
+  color: var(--terracota);
+  background: #faf9f6;
+}
+.paginacao-botao:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+.paginacao-info {
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  color: #8a8a80;
+  text-transform: uppercase;
+}
+
 /* ===== LEIA TAMBÉM (rodapé de cada matéria) ===== */
 .leia-tambem {
   max-width: 760px;
