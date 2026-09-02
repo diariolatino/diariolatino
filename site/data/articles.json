@@ -1,5 +1,39 @@
 [
   {
+    "id": "7020789e-d5d3-4486-9ba0-1b4334803583",
+    "titulo": "Produção industrial brasileira interrompe sequência de quedas e cresce 0,2% em julho",
+    "lead": "A atividade fabril do Brasil registrou leve recuperação de 0,2% em julho, encerrando dois meses consecutivos de retração econômica. O resultado foi impulsionado principalmente pelos setores de bens duráveis e equipamentos de informática.",
+    "corpo": "A indústria brasileira registrou uma modesta recuperação em julho ao avançar 0,2% na comparação com o mês anterior, segundo dados da Pesquisa Industrial Mensal divulgados pelo Instituto Brasileiro de Geografia e Estatística (IBGE). O índice põe fim a um ciclo de dois recuos mensais consecutivos observados em maio e junho, permitindo ao setor fabril acumular expansão de 1,1% no decorrer do ano e de 0,6% na janela acumulada de 12 meses.\n\nApesar do alívio mensal, o desempenho industrial ainda reflete percalços no ritmo produtivo. Quando comparado ao mesmo mês do ano anterior, o setor apresentou contração de 0,5%, e a média móvel trimestral encolheu 0,8%. Com esses números, o patamar operacional da indústria nacional situa-se 2,1% acima dos índices observados antes da pandemia de covid-19, embora permaneça 15% abaixo do recorde histórico registrado em maio de 2001.\n\nA dinâmica favorável de julho decorreu da expansão em três das quatro categorias econômicas monitoradas. Os bens de consumo duráveis lideraram os avanços com alta de 3,2%, acompanhados pelo segmento de bens de capital, que subiu 2,4%, e por bens semi e não duráveis, com variação positiva de 0,5%. A única retração entre as grandes divisões coube aos bens intermediários, que cederam 0,2%.\n\nNo recorte por atividades específicas, 13 dos 25 ramos industriais pesquisados apresentaram crescimento na passagem mensal. Os maiores saltos percentuais ocorreram na produção de equipamentos de informática, eletrônicos e ópticos (12,2%), outros equipamentos de transporte (11,2%) e produtos do fumo (11,1%), além de contribuições relevantes da indústria alimentícia (1%). Por outro lado, as pressões contrárias foram encabeçadas pela indústria extrativa, com retração de 1%, além de perdas na metalurgia e no ramo de celulose e papel. O índice de difusão mostrou que cerca de 69,6% dos 789 itens avaliados tiveram evolução positiva no mês.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-02T21:14:16.713184+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/producao-industrial-interrompe-2-meses-de-queda-e-sobe-02-em-julho",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/29257460/pexels-photo-29257460.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Aimbere Elorza",
+      "photographer_url": "https://www.pexels.com/@aimbere-elorza-1176843138",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/industrial-landscape-in-telemaco-borba-brazil-29257460/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Producción industrial brasileña interrumpe racha de caídas y sube 0,2% en julio",
+        "lead": "La actividad manufacturera de Brasil registró una leve recuperación del 0,2% en julio, poniendo fin a dos meses consecutivos de contracción económica. El resultado fue impulsado principalmente por los sectores de bienes duraderos y equipos informáticos.",
+        "corpo": "La industria brasileña experimentó una modesta recuperación en julio al avanzar un 0,2% en comparación con el mes anterior, según cifras de la Encuesta Industrial Mensual divulgadas por el Instituto Brasileño de Geografía y Estadística (IBGE). El índice pone fin a un ciclo de dos retrocesos mensuales consecutivos observados en mayo y junio, lo que permite al sector manufacturero acumular una expansión del 1,1% a lo largo del año y del 0,6% en el acumulado de 12 meses.\n\nA pesar del alivio mensual, el desempeño industrial todavía refleja dificultades en el ritmo productivo. Al cotejarse con el mismo mes del año anterior, el sector presentó una contracción del 0,5%, mientras que la media móvil trimestral cayó un 0,8%. Con estas cifras, el nivel operativo de la industria nacional se ubica un 2,1% por encima de los parámetros previos a la pandemia de covid-19, aunque se mantiene un 15% por debajo del máximo histórico alcanzado en mayo de 2001.\n\nLa dinámica favorable de julio se debió al avance en tres de las cuatro categorías económicas evaluadas. Los bienes de consumo duraderos encabezaron los progresos con un incremento del 3,2%, seguidos por los bienes de capital, que aumentaron un 2,4%, y los bienes semiduraderos y no duraderos, con una variación positiva del 0,5%. El único retroceso entre las grandes divisiones correspondió a los bienes intermedios, que cedieron un 0,2%.\n\nEn el detalle por actividades específicas, 13 de las 25 ramas monitoreadas crecieron en la comparación intermensual. Los mayores saltos porcentuales se dieron en equipos informáticos, electrónicos y ópticos (12,2%), otros equipos de transporte (11,2%) y productos de tabaco (11,1%), junto a aportes de la industria de alimentos (1%). En contraste, las mayores presiones a la baja procedieron de la industria extractiva (-1%), la metalurgia y el sector de celulosa y papel. El índice de difusión reflejó que el 69,6% de los 789 productos relevados tuvieron resultados positivos."
+      },
+      "en": {
+        "titulo": "Brazilian industrial production halts two-month drop, rising 0.2% in July",
+        "lead": "Brazil's manufacturing sector posted a mild 0.2% rebound in July, halting two consecutive months of economic contraction. The performance was largely driven by consumer durables and computer equipment manufacturing.",
+        "corpo": "Brazilian industry posted a modest recovery in July, expanding by 0.2% compared to the previous month, according to Monthly Industrial Survey data released by the Brazilian Institute of Geography and Statistics (IBGE). The result snaps two consecutive months of decline recorded in May and June, bringing the manufacturing sector's cumulative growth for the year to 1.1% and 0.6% over the trailing 12 months.\n\nDespite the monthly uptick, industrial performance still shows signs of moderation. When compared with the same month of the previous year, the sector contracted by 0.5%, while the three-month moving average fell by 0.8%. Under these metrics, national manufacturing activity stands 2.1% above pre-covid-19 levels, though it remains 15% below the all-time peak recorded in May 2001.\n\nJuly's positive momentum was shaped by advances in three of the four major economic categories monitored. Durable consumer goods led gains with a 3.2% rise, followed by capital goods at 2.4% and semi-durable and non-durable goods with a 0.5% uptick. Intermediate goods were the sole broad division to post a decline, sliding 0.2%.\n\nAcross specific sectors, 13 of the 25 surveyed industrial segments expanded month-over-month. The sharpest percentage increases occurred in computer, electronic, and optical equipment (12.2%), other transportation equipment (11.2%), and tobacco products (11.1%), alongside positive contributions from the food industry (1%). Conversely, downward pressure was led by the extractive sector, which dropped 1%, in addition to losses in metallurgy, chemicals, and paper and pulp manufacturing. The diffusion index showed that 69.6% of the 789 monitored products saw positive results during the month."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "64a391dd-b292-4481-8463-d4197690879d",
     "titulo": "ANPD abre consulta pública para definir agenda regulatória de proteção de dados no Brasil",
     "lead": "A Agência Nacional de Proteção de Dados abriu nesta terça-feira prazo para que a sociedade envie sugestões para a elaboração da agenda regulatória do biênio 2027-2028. O processo participativo também orientará a avaliação de resultados das normas do setor até 2030.",
@@ -1819,25 +1853,5 @@
     },
     "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
     "pais": "Japão"
-  },
-  {
-    "id": "c4a3e12f-fb44-40a8-99ef-6728c59b3285",
-    "titulo": "Balanço de terremoto na Indonésia atinge 100 mortos no décimo dia de buscas",
-    "lead": "As equipes de resgate na Indonésia continuam os trabalhos de socorro enquanto o balanço oficial de vítimas fatais do terremoto de magnitude 7,7 alcança 100 nesta segunda-feira (24).",
-    "corpo": "O forte tremor que atingiu a província de Nusa Tenggara Oriental no dia 15 deste mês deixou um total de 100 mortos, após alguns feridos sob cuidados médicos não resistirem aos ferimentos. De acordo com informações divulgadas pelo chefe da Agência de Gestão de Desastres, Suharyanto, em entrevista coletiva, o desastre também resultou em mais de 1.600 feridos.\n\nO sismo provocou danos severos na região, destruindo ou danificando mais de 73 mil moradias e obrigando aproximadamente 180 mil pessoas a deixarem suas residências. O evento sísmico foi acompanhado por milhares de réplicas, complicando o cenário de emergência. As autoridades locais intensificaram a resposta humanitária, utilizando helicópteros, caminhões e motocicletas para entregar suprimentos essenciais às populações afetadas em áreas de difícil acesso.\n\nEste evento marca o sismo mais letal registrado na Indonésia desde 2022, quando um terremoto de magnitude 5,6 atingiu a província de Java Ocidental e causou a morte de centenas de pessoas. Localizada sobre o \"Anel de Fogo do Pacífico\", a Indonésia possui uma população de cerca de 290 milhões de habitantes e está situada em uma zona de intensa atividade sísmica e vulcânica, onde o encontro de placas tectônicas torna frequentes os tremores de terra.",
-    "categoria": "Ciência & Ambiente",
-    "publicado_em": "2026-08-27T02:55:30.672396+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/indonesia-numero-de-mortos-no-terremoto-de-agosto-chega-100",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/15861615/pexels-photo-15861615.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Doruk Aksel Anıl",
-      "photographer_url": "https://www.pexels.com/@doruk-aksel-anil-477355556",
-      "pexels_url": "https://www.pexels.com/photo/destroyed-buildings-after-earthquake-15861615/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "pais": "Indonésia"
   }
 ]
