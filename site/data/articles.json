@@ -1,5 +1,39 @@
 [
   {
+    "id": "92aa8264-9fe5-419d-9472-79b6d98178f6",
+    "titulo": "Boca Juniors e Vélez Sarsfield disputam vaga nas quartas da Copa Argentina em Córdoba",
+    "lead": "As equipes de Boca Juniors e Vélez Sarsfield entram em campo na província de Córdoba em busca de uma vaga na fase de quartas de final da Copa Argentina.",
+    "corpo": "O futebol argentino volta suas atenções para a província de Córdoba, onde Boca Juniors e Vélez Sarsfield se enfrentam em partida eliminatória válida pelas oitavas de final da Copa Argentina. O confronto coloca frente a frente dois dos clubes mais tradicionais do país em um duelo direto pela permanência no torneio nacional.\n\nA Copa Argentina, disputada em formato eliminatório e tradicionalmente sediada em campos neutros distribuídos pelo território argentino, garante ao campeão uma vaga direta na fase de grupos da próxima edição da Copa Libertadores da América. Por conta dessa premiação esportiva e do prestígio da competição, o duelo adquire grande relevância para os objetivos de ambas as instituições na temporada.\n\nPara o Boca Juniors, a competição representa um caminho direto na busca por títulos nacionais e na consolidação de seu calendário continental. Já o Vélez Sarsfield busca avançar de fase para manter o ritmo competitivo e disputar troféus de expressão no cenário doméstico.\n\nA escolha da cidade de Córdoba reforça o modelo de descentralização do torneio federal, permitindo que torcedores fora da região metropolitana de Buenos Aires acompanhem decisões de alto nível esportivo. A partida será definida em jogo único, exigindo foco total de ambas as equipes para garantir a classificação às quartas de final.",
+    "categoria": "Sociedade",
+    "pais": "Argentina",
+    "publicado_em": "2026-09-02T23:13:08.860576+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.cadena3.com/noticia/futbol/boca-y-velez-se-enfrentan-por-un-lugar-en-los-cuartos-de-final-de-la-copa-argentina-en-cordoba_589942",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/37980183/pexels-photo-37980183.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Franco Monsalvo",
+      "photographer_url": "https://www.pexels.com/@franco-monsalvo-252430633",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/intense-local-soccer-match-in-action-37980183/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Boca Juniors y Vélez Sarsfield definen un lugar en los cuartos de la Copa Argentina en Córdoba",
+        "lead": "Los planteles de Boca Juniors y Vélez Sarsfield se enfrentan en la provincia de Córdoba en busca del pase a los cuartos de final de la Copa Argentina.",
+        "corpo": "El fútbol argentino concentra su atención en la provincia de Córdoba, donde Boca Juniors y Vélez Sarsfield se miden en un choque eliminatorio correspondiente a la Copa Argentina. El compromiso reúne a dos de los clubes más tradicionales del país en un mano a mano determinante por la continuidad en el certamen federal.\n\nLa Copa Argentina, disputada a partido único y en sedes neutrales distribuidas por el territorio argentino, otorga al conjunto campeón un cupo directo a la fase de grupos de la próxima edición de la Copa Libertadores de América. Debido a esta recompensa deportiva y a la relevancia del torneo, el enfrentamiento asume un valor estratégico para los objetivos de ambas instituciones.\n\nPara Boca Juniors, la competencia significa una vía directa para asegurar títulos nacionales y fortalecer su presencia internacional. Por su parte, Vélez Sarsfield busca consolidar su rendimiento y mantenerse en la carrera por consagrarse en el ámbito local.\n\nLa designación de Córdoba reafirma el carácter federal de la competencia, acercando encuentros de primer nivel a aficionados fuera de la capital. Al tratarse de una serie a eliminación directa, ambos equipos deberán extremar recaudos para asegurar su lugar entre los ocho mejores del torneo."
+      },
+      "en": {
+        "titulo": "Boca Juniors and Velez Sarsfield Clash in Cordoba for a Spot in Copa Argentina Quarterfinals",
+        "lead": "Boca Juniors and Velez Sarsfield face each other in the province of Cordoba seeking a place in the quarterfinals of the Copa Argentina.",
+        "corpo": "Argentine football turns its focus to the province of Cordoba, where Boca Juniors and Velez Sarsfield meet in a knockout match for the Copa Argentina. The fixture pits two of the country's most prominent clubs against each other in a direct battle to advance in the national competition.\n\nThe Copa Argentina, played in a single-elimination format across neutral venues throughout Argentina, awards the champion a direct berth in the group stage of the upcoming Copa Libertadores. Given this competitive incentive and the prestige of the title, the match carries significant weight for both sides' seasonal objectives.\n\nFor Boca Juniors, the tournament offers a crucial route toward domestic silverware and international qualification. Meanwhile, Velez Sarsfield aims to progress further in the bracket to maintain its competitive momentum and challenge for domestic honors.\n\nHosting the clash in Cordoba highlights the decentralized nature of the tournament, bringing high-stakes encounters to fans outside the Buenos Aires metropolitan area. With the tie decided in a single game, both teams require maximum focus to secure their place in the tournament's final eight."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "9eb6fdef-5c92-420c-87d9-b79c02fffd41",
     "titulo": "Banco do Brasil adota autenticação digital para identificar chamadas oficiais a clientes",
     "lead": "O Banco do Brasil começou a utilizar um sistema de origem verificada para autenticar ligações telefônicas institucionais e proteger correntistas contra golpes e chamadas fraudulentas.",
@@ -1844,26 +1878,6 @@
       "photographer": "Werner Pfennig",
       "photographer_url": "https://www.pexels.com/@werner-pfennig",
       "pexels_url": "https://www.pexels.com/photo/men-shaking-hands-6949993/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "pais": "Brasil"
-  },
-  {
-    "id": "7fe7ea23-3523-409c-9a59-b85905d0bce4",
-    "titulo": "Brasil e Estados Unidos retomam negociações comerciais após diálogo entre Lula e Trump",
-    "lead": "Representantes dos governos brasileiro e norte-americano se reunirão na próxima semana para reabrir tratativas comerciais, após conversa telefônica entre os presidentes Luiz Inácio Lula da Silva e Donald Trump.",
-    "corpo": "O Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic) e o Ministério das Relações Exteriores (MRE) confirmaram que o secretário-executivo Márcio Elias Rosa e diplomatas brasileiros deverão se reunir nos próximos dias com o Escritório do Representante Comercial dos Estados Unidos (USTR). A iniciativa ocorre na sequência de um telefonema de pouco mais de uma hora realizado entre o presidente Luiz Inácio Lula da Silva e o presidente dos Estados Unidos, Donald Trump. Durante a ligação, Lula qualificou como infundadas as alegações norte-americanas que fundamentaram a imposição de tarifas sobre produtos brasileiros e argumentou que as medidas prejudicam as economias de ambos os países. A conversa também abrangeu temas de segurança regional, cooperação no combate ao crime organizado e conflitos internacionais, como as guerras na Ucrânia e no Oriente Médio. Segundo o governo brasileiro, a receptividade mútua de manter os vínculos comerciais abriu um canal diplomático para buscar uma solução negociada para o atual impasse tarifário.",
-    "categoria": "Mundo",
-    "publicado_em": "2026-08-27T02:55:39.309746+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/ministros-do-brasil-e-eua-vao-retomar-negociacao-comercial",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/8939052/pexels-photo-8939052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Mikhail Nilov",
-      "photographer_url": "https://www.pexels.com/@mikhail-nilov",
-      "pexels_url": "https://www.pexels.com/photo/businesspeople-in-a-handshake-8939052/"
     },
     "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
     "pais": "Brasil"
