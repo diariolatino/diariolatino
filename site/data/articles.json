@@ -1,5 +1,39 @@
 [
   {
+    "id": "9bc5757c-8c95-4747-a790-79496bc69552",
+    "titulo": "Petroleira dos EUA prevê investimento bilionário para duplicar extração de petróleo na Venezuela",
+    "lead": "Uma companhia petrolífera norte-americana planeja destinar cerca de R$ 36 bilhões para expandir suas operações na Venezuela. O aporte financeiro visa dobrar os volumes atuais de extração de óleo cru no país sul-americano.",
+    "corpo": "O setor de energia na Venezuela prepara-se para receber um dos maiores volumes recentes de capital estrangeiro, com o anúncio do planejamento de uma petroleira dos Estados Unidos para aportar aproximadamente R$ 36 bilhões em projetos locais. O objetivo central dessa iniciativa é duplicar a extração de petróleo cru em áreas sob concessão e cooperação com o setor público venezuelano.\n\nA movimentação comercial acontece em um contexto estratégico para o abastecimento energético internacional e sinaliza uma reaproximação operacional pontual no setor de hidrocarbonetos. As reservas comprovadas da Venezuela estão entre as maiores do planeta, mas a produção nacional enfrentou declínios substanciais nas últimas décadas devido a sanções internacionais, falta de manutenção da infraestrutura de exploração e desafios operacionais internos.\n\nCom o novo plano de aportes financeiros, as instalações de refino, bombeamento e exploração de petróleo bruto devem receber atualizações técnicas e melhorias operacionais. A meta de elevar a produção pela metade do tempo previsto dependerá da modernização dos campos petrolíferos já existentes e da recomposição da capacidade logística voltada à exportação.\n\nAnalistas de mercado avaliam que investimentos dessa magnitude reforçam o papel da América Latina como um centro relevante de fornecimento de petróleo e derivados para os mercados globais. Além do impacto financeiro direto na indústria petrolífera do país, o ingresso desses recursos pode repercutir na arrecadação estatal e no dinamismo econômico venezuelano nos próximos ciclos.",
+    "categoria": "Economia",
+    "pais": "Venezuela",
+    "publicado_em": "2026-09-02T15:20:54.627153+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://veja.abril.com.br/mundo/a-petroleira-americana-que-vai-investir-r-36-bi-para-dobrar-producao-de-petroleo-na-venezuela/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/13129752/pexels-photo-13129752.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Ashraf Tanzin",
+      "photographer_url": "https://www.pexels.com/@ashraf-tanzin-288171397",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/lift-in-refinery-13129752/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Petrolera estadounidense prevé millonaria inversión para duplicar producción de crudo en Venezuela",
+        "lead": "Una compañía petrolera estadounidense planea destinar alrededor de 36 mil millones de reales para expandir sus operaciones en Venezuela. El objetivo del desembolso es duplicar los volúmenes de extracción de crudo en el país sudamericano.",
+        "corpo": "El sector energético en Venezuela se prepara para recibir uno de los mayores montos recientes de capital extranjero, tras el anuncio de un plan de inversión de una petrolera de Estados Unidos por cerca de 36 mil millones de reales en proyectos locales. El propósito central de la iniciativa consiste en duplicar la extracción de petróleo crudo en áreas bajo concesión y esquemas de cooperación con el sector público venezolano.\n\nEl despliegue comercial se produce en un escenario estratégico para el suministro energético global y marca un acercamiento operativo en el sector de los hidrocarburos. Si bien Venezuela cuenta con algunas de las mayores reservas probadas del planeta, su producción nacional experimentó fuertes contracciones en las últimas décadas debido a sanciones internacionales, rezago en el mantenimiento de infraestructuras y dificultades operativas internas.\n\nCon este nuevo programa de financiamiento, las instalaciones de refinación, bombeo y exploración de crudo recibirán adecuaciones técnicas y mejoras operativas. El cumplimiento de la meta de elevar la capacidad productiva dependerá de la modernización de los campos ya activos y del fortalecimiento de las redes logísticas destinadas a la exportación.\n\nAnalistas económicos señalan que inversiones de esta magnitud ratifican el papel de América Latina como un proveedor relevante de hidrocarburos para los mercados internacionales. Más allá del impacto directo en la industria petrolera, el flujo de estos recursos podría dinamizar la recaudación fiscal y la actividad económica venezolana en los próximos periodos."
+      },
+      "en": {
+        "titulo": "US oil company plans multi-billion investment to double petroleum output in Venezuela",
+        "lead": "A US-based oil corporation plans to allocate roughly 36 billion reais to expand its operations in Venezuela. The financial commitment aims to double the current crude production volumes in the South American nation.",
+        "corpo": "The Venezuelan energy industry is set to receive one of its largest recent foreign capital injections, following plans by a US oil corporation to invest approximately 36 billion reais into local operations. The primary objective of this capital program is to double crude oil output across operational joint ventures and concessions.\n\nThis commercial move comes amid strategic shifts in international energy security and reflects operational engagement within the regional hydrocarbons sector. Although Venezuela holds some of the largest proven oil reserves globally, domestic production has suffered severe contractions over past decades due to international sanctions, aging infrastructure, and domestic logistical hurdles.\n\nThrough these planned capital allocations, facilities dedicated to refining, pumping, and extraction are expected to undergo structural updates and technical overhauls. Achieving the goal of doubling output will hinge on the rehabilitation of existing active fields and the enhancement of export logistics chains.\n\nMarket analysts note that investments of this scale highlight Latin America's continued role as an essential energy supplier for global markets. Beyond the immediate impact on the petroleum sector, the inflow of these resources may influence national revenue and economic activity across Venezuela in the coming cycles."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "9f08c431-8b24-471b-a3a6-d802a0ac934f",
     "titulo": "Árbol Rojo celebra nono aniversário com foco no fortalecimento do cinema no sul do México",
     "lead": "A associação cultural Árbol Rojo iniciou um novo ciclo de atividades em comemoração ao seu nono aniversário, consolidando seu compromisso de impulsionar e difundir a produção cinematográfica na região sul do México.",
@@ -1749,25 +1783,5 @@
     },
     "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
     "pais": "Paquistão"
-  },
-  {
-    "id": "608b5994-dfab-42e8-9a2d-374b79f0a97d",
-    "titulo": "Dívida pública dos EUA supera US$ 40 trilhões impulsionada por cortes de impostos e tarifas",
-    "lead": "A dívida pública estadunidense ultrapassou pela primeira vez a marca de 40 trilhões de dólares, pressionada por reduções tributárias para os mais ricos, inflação ligada a conflitos geopolíticos e tarifas de importação.",
-    "corpo": "A dívida pública dos Estados Unidos atingiu um patamar recorde ao ultrapassar a marca de US$ 40 trilhões. De acordo com economistas ouvidos por especialistas internacionais, o endividamento foi impulsionado por cortes de impostos para o topo da pirâmide social implementados durante os governos de Donald Trump, pela inflação decorrente da guerra no Oriente Médio — que elevou os custos com combustíveis — e pelas tarifas aplicadas sobre importações.\n\nApesar do volume expressivo, que dobrou desde 2017, especialistas descartam risco imediato de insolvência por parte de Washington. Analistas apontam que o país emite sua própria moeda e detém o papel de principal reserva monetária global, permitindo que o Federal Reserve atue na sustentação do mercado de títulos públicos quando necessário. O principal fator de alerta reside no encarecimento dos juros da dívida, que saltaram para US$ 1,1 trilhão, alimentados tanto pela inflação quanto por incertezas associadas à política comercial agressiva da Casa Branca.\n\nEspecialistas destacam que o problema fiscal norte-americano está menos relacionado a excessos de gastos e mais a uma baixa arrecadação tributária, cuja carga permanece em cerca de 25% do Produto Interno Bruto (PIB), abaixo da média de nações desenvolvidas. Além disso, a estratégia de cortes fiscais direcionados aos mais ricos tem contribuído para a concentração de renda no país. Analistas também apontam o chamado \"risco Trump\", caracterizado pela imprevisibilidade nas relações comerciais e sanções, o qual tem levado alguns governos estrangeiros a diversificarem suas reservas, embora os títulos do Tesouro dos EUA mantenham sua liquidez e centralidade no sistema financeiro internacional.",
-    "categoria": "Economia",
-    "publicado_em": "2026-08-27T02:46:16.433565+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-08/guerra-tarifas-e-menos-imposto-ricos-geram-divida-recorde-nos-eua",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/32688418/pexels-photo-32688418.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Đào Thân",
-      "photographer_url": "https://www.pexels.com/@daothan",
-      "pexels_url": "https://www.pexels.com/photo/close-up-of-us-dollar-bill-currency-detail-32688418/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "pais": "Estados Unidos"
   }
 ]
