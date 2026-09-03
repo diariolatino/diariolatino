@@ -1,5 +1,39 @@
 [
   {
+    "id": "99c0e06c-e2df-4b40-a022-f69ee5ccd7f5",
+    "titulo": "Milei admite que políticas de sua gestão levaram um milhão de pessoas à pobreza neste ano",
+    "lead": "O presidente da Argentina, Javier Milei, declarou publicamente que as medidas econômicas e o plano de ajuste implementados sob sua gestão deixaram cerca de um milhão de cidadãos abaixo da linha de pobreza durante este ano.",
+    "corpo": "O presidente argentino Javier Milei reconheceu que os desdobramentos de suas decisões de governo resultaram no empobrecimento de aproximadamente um milhão de pessoas no país ao longo do ano corrente. A constatação ocorreu durante manifestações públicas recentes, registradas em vídeo, nas quais o mandatário abordou os custos sociais das reformas em andamento.\n\nDesde que assumiu a presidência da Argentina em dezembro de 2023, Milei colocou em prática uma ampla política de austeridade fiscal, corte expressivo de gastos públicos, eliminação de subsídios a serviços básicos e desregulamentação setorial. O objetivo declarado do Executivo tem sido alcançar o equilíbrio orçamentário e desacelerar os índices de inflação, que figuram historicamente entre os mais altos da América Latina.\n\nContudo, o impacto imediato das medidas gerou forte pressão sobre a renda dos trabalhadores assalariados, aposentados e setores mais vulneráveis da população argentina. O salto nos preços de transporte, energia e alimentos, combinado com a contenção salarial e a redução da atividade econômica interna, agravou as taxas de vulnerabilidade social medidas por órgãos oficiais e instituições acadêmicas.\n\nA declaração do chefe de Estado repercutiu de forma imediata no debate público e político do país. Setores da oposição parlamentar, organizações sindicais e movimentos sociais intensificaram as críticas ao modelo econômico da Casa Rosada, apontando a insuficiência de mecanismos de proteção aos cidadãos mais fragilizados. Por outro lado, defensores da administração sustentam que a contração econômica atual faz parte de uma transição necessária para estabilizar a moeda e restaurar a solvência financeira nacional a médio prazo.",
+    "categoria": "Economia",
+    "pais": "Argentina",
+    "publicado_em": "2026-09-03T20:14:03.597459+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.agencianova.com/nota.asp?n=2026_9_3&id=172076&id_tiponota=4",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/33126437/pexels-photo-33126437.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Valentina  Rodriguez",
+      "photographer_url": "https://www.pexels.com/@mavarodi",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/casa-rosada-in-buenos-aires-cityscape-33126437/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Milei admite que políticas de su gestión llevaron a un millón de personas a la pobreza este año",
+        "lead": "El presidente de Argentina, Javier Milei, reconoció públicamente que las medidas económicas y el plan de ajuste implementados por su gobierno dejaron a cerca de un millón de ciudadanos bajo la línea de pobreza durante este año.",
+        "corpo": "El mandatario argentino Javier Milei admitió que las consecuencias de sus decisiones de gobierno derivaron en el empobrecimiento de aproximadamente un millón de personas en el país a lo largo del año en curso. La afirmación tuvo lugar durante declaraciones públicas recientes, registradas en video, en las que el jefe de Estado abordó los costos sociales de las reformas en marcha.\n\nDesde su asunción en diciembre de 2023, Milei implementó una estricta política de austeridad fiscal, una profunda reducción del gasto público, el recorte de subsidios a los servicios esenciales y la desregulación sectorial. La meta fijada por el Ejecutivo ha sido consolidar el equilibrio fiscal y contener los índices de inflación, históricamente elevados en la región.\n\nNo obstante, el impacto inmediato de este programa ejerció una fuerte presión sobre los ingresos reales de trabajadores, jubilados y sectores vulnerables. El incremento en las tarifas de transporte, energía y alimentos, sumado a la contracción del consumo interno, profundizó los niveles de vulnerabilidad relevados por organismos oficiales y centros de estudios.\n\nLas palabras del mandatario generaron inmediatas reacciones en el ámbito político y social del país. Dirigentes opositores, organizaciones sindicales y movimientos sociales renovaron sus cuestionamientos a la orientación socioeconómica de la Casa Rosada, advirtiendo sobre la falta de contención social. En contraste, sectores afines al oficialismo argumentan que el ajuste responde a una etapa de transición indispensable para estabilizar la macroeconomía y recuperar la solvencia nacional."
+      },
+      "en": {
+        "titulo": "Milei admits his administration's policies pushed one million people into poverty this year",
+        "lead": "Argentine President Javier Milei publicly stated that the economic measures and austerity program carried out under his administration left around one million citizens in poverty this year.",
+        "corpo": "Argentine President Javier Milei acknowledged that the outcomes of his administration's policy decisions led to approximately one million people falling into poverty across the country during the current year. The remarks came during recent public appearances captured on video, where the head of state addressed the social costs tied to his ongoing reform agenda.\n\nSince taking office in December 2023, Milei has applied aggressive fiscal austerity measures, severe reductions in state spending, the phasing out of public utility subsidies, and broad deregulation. The government's stated objective has been to restore budgetary balance and curb high inflation rates that have long weighed on the Argentine economy.\n\nHowever, the immediate fallout has placed substantial strain on real incomes for wage earners, pensioners, and vulnerable segments of the population. Rising costs for public transit, utilities, and essential food items, coupled with weakened domestic demand, have exacerbated poverty indicators monitored by statistical agencies and research institutions.\n\nThe president's remarks triggered immediate reactions across the nation's political landscape. Opposition figures, labor unions, and grassroots organizations intensified their criticism of the Casa Rosada's economic trajectory, pointing to the absence of sufficient social safety nets. Conversely, supporters of the administration maintain that current hardships are an unavoidable transitional phase to stabilize public finances and ensure long-term monetary viability."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "b4547796-65db-46e9-9a1b-0abddd8c917d",
     "titulo": "Banco Central amplia prazo de contestação contra fraudes no sistema Pix",
     "lead": "O Banco Central do Brasil estendeu de 30 para 80 dias o prazo para contestar estornos indevidos realizados por meio do Mecanismo Especial de Devolução do Pix. A medida visa proteger comerciantes e prestadores de serviço contra golpes que exploram as próprias ferramentas de segurança do sistema.",
@@ -1961,39 +1995,6 @@
         "titulo": "Rio de Janeiro creates public channel for reporting and guidance on autism rights",
         "lead": "The state government of Rio de Janeiro has enacted legislation establishing Disque Autismo, a service dedicated to receiving reports of violence and rights violations against individuals with Autism Spectrum Disorder.",
         "corpo": "The new measure, formalized under Law No. 11,297 and published in the state's Official Gazette, aims to expand protection and care guarantees for the neurodivergent population. Beyond registering complaints of abuse and ill-treatment, the platform will function as an information point for families seeking guidance on accessing public health services, specialized care, and legally protected rights.\n\nAssistance will be provided via telephone and digital channels, including websites and mobile applications. The law permits anonymous reporting, protecting the privacy of citizens submitting complaints. Once logged, reports will be forwarded to the relevant government bodies and oversight agencies for appropriate action.\n\nPractical implementation will follow the designation of the state department responsible for managing the program and the hiring of qualified staff to handle inquiries. Once operational, the hotline numbers and digital access points will be publicized in healthcare facilities, public and private schools, and official government portals.\n\nThe initiative reinforces the discussion surrounding the enforcement of rights for people with Autism Spectrum Disorder while striving to connect state social protection and public health networks in Rio de Janeiro."
-      }
-    }
-  },
-  {
-    "id": "6288475e-e952-4e90-abb3-be4eaa801621",
-    "titulo": "Javiera Tapia defende projeção da relevância cultural de Atacama além das fronteiras do Chile",
-    "lead": "Em declarações divulgadas pela imprensa local, Javiera Tapia manifestou o desejo de que a Região de Atacama resgate sua expressão cultural e alcance reconhecimento para além das fronteiras chilenas.",
-    "corpo": "A Região de Atacama, situada no norte do Chile e historicamente reconhecida por sua riqueza mineral e paisagens geográficas singulares, possui também uma identidade histórica e cultural que busca maior visibilidade. As afirmações de Javiera Tapia destacam a importância de valorizar o patrimônio local e impulsionar iniciativas que promovam o desenvolvimento cultural na região.\n\nDe acordo com as declarações veiculadas pelo veículo local Diario Chañarcillo, o objetivo principal é fazer com que a produção e o patrimônio cultural de Atacama voltem a ocupar um lugar de destaque no cenário regional e internacional. A busca por essa projeção envolve o fortalecimento das tradições locais, o apoio aos artistas e agentes culturais e a difusão da memória histórica regional.\n\nO debate sobre a descentralização cultural no Chile tem ganhado espaço, com diversos atores defendendo que regiões fora do eixo metropolitano de Santiago recebam investimentos e atenção para desenvolver seus próprios circuitos artísticos e turísticos. Nesse contexto, a valorização de Atacama reforça o papel do interior do país na construção da identidade cultural nacional e latino-americana.",
-    "categoria": "Sociedade",
-    "pais": "Chile",
-    "publicado_em": "2026-08-29T07:09:23.300464+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://www.chanarcillo.cl/javiera-tapia-me-encantaria-que-atacama-volviera-a-ser-una-region-culturalmente-relevante-mas-alla-de-nuestras-fronteras/",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/20873970/pexels-photo-20873970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Patricio F. Kozow",
-      "photographer_url": "https://www.pexels.com/@patricio-f-kozow-247863892",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/turquoise-water-on-a-beach-20873970/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Javiera Tapia aboga por proyectar la relevancia cultural de Atacama más allá de las fronteras de Chile",
-        "lead": "En declaraciones difundidas por la prensa local, Javiera Tapia manifestó su deseo de que la Región de Atacama rescate su expresión cultural y alcance reconocimiento más allá de las fronteras chilenas.",
-        "corpo": "La Región de Atacama, ubicada en el norte de Chile y reconocible históricamente por su riqueza mineral y paisajes geográficos singulares, posee también una identidad histórica y cultural que busca mayor visibilidad. Las afirmaciones de Javiera Tapia destacan la importancia de valorizar el patrimonio local e impulsar iniciativas que promuevan el desarrollo cultural en la región.\n\nDe acuerdo con las declaraciones recogidas por el medio local Diario Chañarcillo, el objetivo principal es lograr que la producción y el patrimonio cultural de Atacama vuelvan a ocupar un lugar destacado en el escenario regional e internacional. La búsqueda de esta proyección involucra el fortalecimiento de las tradiciones locales, el apoyo a los artistas y gestores culturales y la difusión de la memoria histórica regional.\n\nEl debate sobre la descentralización cultural en Chile ha ido ganando espacio, con diversos actores defendiendo que las regiones fuera del eje metropolitano de Santiago reciban inversiones y atención para desarrollar sus propios circuitos artísticos y turísticos. En este contexto, la valorización de Atacama refuerza el papel del interior del país en la construcción de la identidad cultural nacional y latinoamericana."
-      },
-      "en": {
-        "titulo": "Javiera Tapia Advocates for Projecting Atacama's Cultural Relevance Beyond Chile's Borders",
-        "lead": "In statements reported by local media, Javiera Tapia expressed her wish for the Atacama Region to revitalize its cultural expression and achieve recognition beyond Chilean borders.",
-        "corpo": "The Atacama Region, located in northern Chile and historically recognized for its mineral wealth and unique geographical landscapes, also possesses a rich historical and cultural identity seeking broader visibility. Javiera Tapia's statements highlight the importance of valuing local heritage and promoting initiatives that drive cultural development across the region.\n\nAccording to statements published by local outlet Diario Chañarcillo, the main objective is to ensure that Atacama's cultural heritage and production regain a prominent place on both the regional and international stages. Pursuing this vision involves strengthening local traditions, supporting artists and cultural workers, and promoting the region's historical memory.\n\nThe debate surrounding cultural decentralization in Chile has gained traction, with various figures arguing that regions outside the Santiago metropolitan hub should receive investment and focus to build their own artistic and tourism circuits. In this context, placing greater value on Atacama highlights the role of the country's regions in shaping both national and Latin American cultural identity."
       }
     }
   }
