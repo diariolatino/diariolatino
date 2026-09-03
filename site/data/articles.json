@@ -1,5 +1,39 @@
 [
   {
+    "id": "2d587b38-9f28-46db-8a65-642007039003",
+    "titulo": "Rio de Janeiro registra prejuízo de R$ 69 milhões com furtos de fiação de cobre em cinco anos",
+    "lead": "As forças de segurança e a prefeitura do Rio de Janeiro iniciaram uma ofensiva contra ferros-velhos clandestinos após a cidade contabilizar um prejuízo superior a R$ 69 milhões provocado pelo furto de cabos elétricos entre 2021 e 2025.",
+    "corpo": "O impacto financeiro atinge diretamente serviços essenciais da capital fluminense. Segundo levantamento das autoridades locais, a Companhia de Engenharia de Tráfego (CET-Rio) teve uma perda estimada em R$ 27 milhões devido à subtração de quase 500 quilômetros de fiação de semáforos. Já a RioLuz, estatal responsável pela iluminação pública da cidade, contabilizou danos na ordem de R$ 42 milhões com o roubo de mais de 1,8 quilômetro de cabos da rede elétrica.\n\nA primeira intervenção do recém-criado Núcleo Integrado de Combate a Furtos e Receptação de Cabos e Fiação de Cobre ocorreu nesta quarta-feira na zona norte do Rio de Janeiro. A ação concentrou-se no bairro do Sampaio, na região do Grande Méier, onde agentes públicos desapropriaram dois estabelecimentos que funcionavam como ferros-velhos e demoliram uma estrutura irregular usada na receptação de materiais roubados.\n\nDe acordo com a Secretaria Municipal de Ordem Pública, a estratégia busca desarticular a cadeia logística do crime ao alvejar os receptadores do material. As autoridades ressaltam que as sucessivas manutenções na rede de trânsito e iluminação tornam-se ineficazes enquanto houver pontos ilegais de compra de cobre em operação na cidade. As áreas desapropriadas na zona norte serão readequadas pelo planejamento urbano municipal para a implantação de projetos públicos e regularização ambiental.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-03T14:16:20.983703+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/em-5-anos-furto-de-fios-de-cobre-no-rio-deu-prejuizo-de-r-69-milhoes",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/5194042/pexels-photo-5194042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Maira  Matsui",
+      "photographer_url": "https://www.pexels.com/@maira-matsui-3440407",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/photo-of-a-landscape-and-a-cable-car-5194042/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Río de Janeiro registra pérdidas de R$ 69 millones por robo de cableado de cobre en cinco años",
+        "lead": "Las fuerzas de seguridad y la alcaldía de Río de Janeiro iniciaron una ofensiva contra chatarrerías clandestinas tras contabilizar pérdidas superiores a R$ 69 millones provocadas por el robo de cables eléctricos entre 2021 y 2025.",
+        "corpo": "El impacto financiero afecta directamente a servicios esenciales de la capital carioca. Según balances de las autoridades locales, la Compañía de Ingeniería de Tráfico (CET-Rio) sufrió pérdidas estimadas en R$ 27 millones debido a la sustracción de casi 500 kilómetros de cableado de semáforos. Por su parte, RioLuz, empresa pública responsable del alumbrado municipal, registró daños por cerca de R$ 42 millones tras el robo de más de 1,8 kilómetros de cables de la red eléctrica.\n\nLa primera intervención del recién creado Núcleo Integrado de Combate al Robo y Recepción de Cables ocurrió este miércoles en la zona norte de Río de Janeiro. La acción se concentró en el barrio de Sampaio, en la región de Grande Méier, donde los agentes públicos expropiaron dos establecimientos que funcionaban como chatarrerías y demolieron una estructura irregular utilizada para la recepción de materiales robados.\n\nSegún la Secretaría Municipal de Orden Público, la estrategia busca desarticular la cadena logística del crimen atacando a los receptores del material. Las autoridades destacan que los continuos trabajos de mantenimiento en la red de tráfico y alumbrado resultan ineficaces mientras permanezcan operativos puntos ilegales de compra de cobre. Los predios expropiados en la zona norte serán readecuados por el departamento de planeación urbana para la implementación de proyectos públicos y regularización ambiental."
+      },
+      "en": {
+        "titulo": "Rio de Janeiro Reports R$ 69 Million Loss From Copper Wire Theft Over Five Years",
+        "lead": "Security forces and Rio de Janeiro municipal authorities launched a crackdown on illegal scrapyards after revealing over R$ 69 million in public losses caused by copper cable theft between 2021 and 2025.",
+        "corpo": "The financial toll directly impacts essential public services across the city. According to official figures, the Traffic Engineering Company (CET-Rio) sustained losses estimated at R$ 27 million following the theft of nearly 500 kilometers of traffic light wiring. Meanwhile, RioLuz, the public company responsible for municipal street lighting, reported damages of R$ 42 million due to the theft of over 1.8 kilometers of electrical network cables.\n\nThe first operation conducted by the newly established Integrated Unit Against Cable Theft and Fencing took place on Wednesday in Rio de Janeiro's North Zone. Operations focused on the Sampaio neighborhood in the Grande Méier area, where public agents expropriated two illegal scrapyards and demolished an unauthorized structure used to receive stolen goods.\n\nAccording to the Municipal Secretariat of Public Order, the strategy aims to dismantle the criminal logistics chain by targeting receivers of stolen materials. Officials stressed that ongoing maintenance on traffic and lighting infrastructure remains futile as long as illicit copper buyers operate in the city. The expropriated sites in the North Zone will be repurposed under municipal urban planning for public projects and environmental compliance."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "85fbf895-e46e-423e-b0a2-08424c81619a",
     "titulo": "Venezuela firma novos acordos comerciais com transnacionais do setor de energia",
     "lead": "O governo da Venezuela oficializou a assinatura de novos acordos comerciais com empresas transnacionais do setor energético, buscando impulsionar a produção local e fortalecer sua posição no mercado internacional.",
@@ -1959,38 +1993,6 @@
         "titulo": "Brazil Presidential Candidates Step Up Campaign Activities Across the Country",
         "lead": "Candidates vying for the presidency carried out busy campaign schedules on Thursday (27), featuring media interviews, visits to infrastructure projects, and rallies with voters across several states.",
         "corpo": "The presidential race in Brazil saw intense political activity across multiple regions of the country. Candidates focused their efforts on interviews with news outlets, public campaign events, and presentations detailing proposals for key sectors such as infrastructure, healthcare, and labor.\n\nAmong the key highlights of the day, candidates addressed issues of significant socioeconomic impact. Minimum wage policy and workers' rights were featured in speeches directed at labor groups, while proposals to strengthen agribusiness and improve crop transport routes were emphasized during visits to infrastructure projects in the country's interior.\n\nAt the same time, public health and primary care received attention on the campaign trail, with visits to hospital facilities and proposals to increase federal funding for the public healthcare system. Appearances in media interviews and live online broadcasts enabled candidates to outline their government platforms and foreign policy perspectives to potential voters.\n\nStreet rallies, walks, and meetings with social movements and professional sectors characterized the activities of several contenders in major urban centers. As the election calendar moves forward, candidates are expanding their strategies to engage diverse segments of society and strengthen their presence nationwide."
-      }
-    }
-  },
-  {
-    "id": "8fddbf92-64af-415b-86b2-fb7e1df3ca4a",
-    "titulo": "Prêmio da Mega-Sena acumula e estimativa atinge R$ 30 milhões para o próximo sorteio",
-    "lead": "Nenhum apostador acertou as seis dezenas do concurso 3.050 da Mega-Sena realizado na quinta-feira, fazendo com que o prêmio principal acumulasse para R$ 30 milhões.",
-    "corpo": "O sorteio do concurso 3.050 da Mega-Sena, realizado nesta quinta-feira (27), terminou sem ganhadores na faixa principal de seis acertos. Como consequência do resultado, o valor do prêmio acumulou e a estimativa para a próxima apuração atingiu a marca de R$ 30 milhões.\n\nAs dezenas sorteadas no concurso foram: 11 - 14 - 30 - 38 - 49 - 55. Apesar de nenhum bilhete ter cravado os seis números, a premiação contemplou milhares de apostadores nas faixas secundárias. A quina registrou 26 apostas ganhadoras, e cada uma receberá a quantia de R$ 55.536,51. Já a quadra teve 1.682 apostas premiadas, cabendo a cada um dos contemplados o valor de R$ 1.415,06.\n\nO próximo concurso da loteria está agendado para o domingo (30), às 11h. Quem pretender disputar o prêmio milionário poderá registrar os seus jogos até as 22h (horário de Brasília) de sábado (29). As apostas podem ser efetuadas presencialmente em qualquer unidade lotérica do país ou por canais eletrônicos, incluindo o site oficial das Loterias Caixa e o aplicativo da instituição.\n\nA aposta simples da Mega-Sena, na qual o jogador seleciona seis dezenas, custa R$ 6. O acúmulo do prêmio movimenta a expectativa dos apostadores em todo o território brasileiro.",
-    "categoria": "Economia",
-    "pais": "Brasil",
-    "publicado_em": "2026-08-28T06:23:13.358283+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-30-milhoes-confira-os-numeros-sorteados",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/34669146/pexels-photo-34669146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "@coldbeer",
-      "photographer_url": "https://www.pexels.com/@coldbeer-277046249",
-      "pexels_url": "https://www.pexels.com/photo/black-and-white-view-of-lottery-ticket-booth-34669146/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "El premio de la Mega-Sena se acumula y alcanza unos R$ 30 millones para el próximo sorteo",
-        "lead": "Ningún apostador acertó los seis números del concurso 3.050 de la Mega-Sena realizado el jueves, lo que provocó que el premio principal se acumulara hasta alcanzar los R$ 30 millones.",
-        "corpo": "El sorteo del concurso 3.050 de la Mega-Sena, celebrado este jueves (27), finalizó sin ganadores en la categoría principal de seis aciertos. Como consecuencia del resultado, el monto del premio se acumuló y la estimación para la próxima edición alcanzó la cifra de R$ 30 millones.\n\nLos números sorteados en el concurso fueron: 11 - 14 - 30 - 38 - 49 - 55. A pesar de que ningún boleto acertó las seis cifras, la premiación benefició a miles de participantes en las categorías secundarias. La quina registró 26 apuestas ganadoras, y cada una recibirá la cantidad de R$ 55.536,51. Por su parte, la quadra tuvo 1.682 apuestas premiadas, correspondiendo a cada ganador la suma de R$ 1.415,06.\n\nEl próximo sorteo de la lotería está programado para el domingo (30) a las 11:00 horas. Quienes deseen competir por el premio millonario podrán registrar sus jugadas hasta las 22:00 horas (hora de Brasilia) del sábado (29). Las apuestas se pueden realizar de manera presencial en cualquier local de lotería del país o mediante canales electrónicos, incluyendo el sitio web oficial de Loterias Caixa y la aplicación de la entidad.\n\nLa apuesta simple de la Mega-Sena, en la que el jugador elige seis números, tiene un costo de R$ 6. La acumulación del bote genera expectativa entre los apostadores en todo el territorio brasileño."
-      },
-      "en": {
-        "titulo": "Mega-Sena jackpot rolls over to an estimated R$ 30 million for the next draw",
-        "lead": "No player matched all six numbers in draw 3.050 of the Mega-Sena held on Thursday, causing the top prize to roll over to an estimated R$ 30 million.",
-        "corpo": "The drawing for contest 3.050 of the Mega-Sena, held this Thursday (27), ended with no winners for the main six-number tier. As a result, the prize amount accumulated, pushing the estimate for the next draw to R$ 30 million.\n\nThe numbers drawn were: 11 - 14 - 30 - 38 - 49 - 55. Although no ticket matched all six numbers, thousands of players won prizes in lower tiers. The five-number match (quina) registered 26 winning bets, each taking home R$ 55,536.51. Meanwhile, 1,682 bets matched four numbers (quadra), awarding R$ 1,415.06 to each winner.\n\nThe next lottery draw is scheduled for Sunday (30) at 11:00 a.m. Those who wish to compete for the jackpot can place their bets until 10:00 p.m. (Brasília time) on Saturday (29). Bets can be placed in person at authorized lottery shops across the country or through digital channels, including the official Loterias Caixa website and app.\n\nA single Mega-Sena bet, allowing players to select six numbers, costs R$ 6. The growing jackpot creates strong anticipation among lottery players throughout Brazil."
       }
     }
   }
