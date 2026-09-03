@@ -1,5 +1,39 @@
 [
   {
+    "id": "76157359-33ca-4f08-9f4a-ce12f4e59023",
+    "titulo": "Mercado financeiro do Peru acompanha abertura do dólar nesta quinta-feira, 3 de setembro",
+    "lead": "O mercado cambial peruano iniciou as operações nesta quinta-feira, 3 de setembro, sob a atenção de investidores e analistas que monitoram as flutuações do dólar frente ao sol local.",
+    "corpo": "A cotação da moeda norte-americana no Peru é um dos indicadores econômicos mais acompanhados no país, influenciando diretamente o comércio exterior, a inflação e as decisões de política monetária do Banco Central de Reserva do Peru (BCRP). A variação diária reflete tanto o cenário político e econômico interno quanto as pressões internacionais, como as decisões de juros nos Estados Unidos e a variação nos preços das commodities, especialmente do cobre, principal produto de exportação peruano.\n\nO acompanhamento diário da taxa de câmbio permite que empresas e cidadãos planejem suas transações financeiras em um contexto de integração econômica global. O BCRP costuma intervir no mercado cambial mediante a venda ou compra de dólares para evitar volatilidades bruscas que possam desestabilizar a moeda nacional, o sol.\n\nNesta quinta-feira, as atenções do mercado se voltam para o comportamento das bolsas globais e indicadores macroeconômicos que ditam o ritmo do fluxo de capitais na América Latina, afetando diretamente a taxa de câmbio na abertura dos negócios em Lima.",
+    "categoria": "Economia",
+    "pais": "Peru",
+    "publicado_em": "2026-09-03T07:15:36.946030+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://larepublica.pe/economia/precio-del-dolar/2026/09/03/precio-del-dolar-hoy-jueves-3-de-septiembre-en-peru-en-cuanto-abrio-el-tipo-de-cambio-186208",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/14936071/pexels-photo-14936071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Anthony Alban",
+      "photographer_url": "https://www.pexels.com/@anthony-alban-1527864",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/modern-architecture-in-downtown-14936071/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Mercado financiero de Perú sigue de cerca la apertura del dólar este jueves 3 de septiembre",
+        "lead": "El mercado cambiario peruano inició sus operaciones este jueves 3 de septiembre bajo la atención de inversores y analistas que monitorean las fluctuaciones del dólar frente al sol local.",
+        "corpo": "La cotización de la divisa estadounidense en Perú es uno de los indicadores económicos más seguidos en el país, influyendo directamente en el comercio exterior, la inflación y las decisiones de política monetaria del Banco Central de Reserva del Perú (BCRP). La variación diaria refleja tanto el escenario político y económico interno como las presiones internacionales, tales como las decisiones de tasas de interés en los Estados Unidos y la variación en los precios de las materias primas, especialmente el cobre, principal producto de exportación peruano.\n\nEl seguimiento diario del tipo de cambio permite a empresas y ciudadanos planificar sus transacciones financieras en un contexto de integración económica global. El BCRP suele intervenir en el mercado cambiario mediante la venta o compra de dólares para evitar volatilidades bruscas que puedan desestabilizar la moneda nacional, el sol.\n\nEste jueves, la atención del mercado se centra en el comportamiento de las bolsas globales y los indicadores macroeconómicos que dictan el rumbo del flujo de capitales en América Latina, afectando directamente el tipo de cambio al inicio de las operaciones en Lima."
+      },
+      "en": {
+        "titulo": "Peru's financial market monitors dollar opening this Thursday, September 3",
+        "lead": "Peru's foreign exchange market began operations this Thursday, September 3, under the close watch of investors and analysts monitoring the fluctuations of the dollar against the local sol.",
+        "corpo": "The valuation of the U.S. currency in Peru is one of the most closely followed economic indicators in the country, directly influencing foreign trade, inflation, and the monetary policy decisions of the Central Reserve Bank of Peru (BCRP). Daily fluctuations reflect both domestic political and economic scenarios as well as international pressures, such as interest rate decisions in the United States and volatility in commodity prices, particularly copper, Peru's main export.\n\nDaily monitoring of the exchange rate allows businesses and citizens to plan their financial transactions within a context of global economic integration. The BCRP frequently intervenes in the exchange market by buying or selling dollars to prevent sharp volatility that could destabilize the national currency, the sol.\n\nThis Thursday, market attention is focused on the behavior of global stock markets and macroeconomic indicators that dictate the flow of capital in Latin America, directly affecting the exchange rate at the opening of trading in Lima."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "32cbe4d8-37f4-4ed0-8d3f-2d2617bdf48b",
     "titulo": "Venezuela e Estados Unidos articulam plano conjunto voltado à recuperação do setor de energia",
     "lead": "Autoridades de Caracas e de Washington avançaram no entendimento para estruturar uma iniciativa ampla de reabilitação e desenvolvimento energético venezuelano.",
@@ -1914,26 +1948,6 @@
       "photographer": "Mak Cézar",
       "photographer_url": "https://www.pexels.com/@mak-cezar-2148024480",
       "pexels_url": "https://www.pexels.com/photo/vibrant-day-at-ipanema-beach-in-rio-29894761/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "pais": "Brasil"
-  },
-  {
-    "id": "384efbad-2d0a-4e5f-a4c1-acd834eec276",
-    "titulo": "Anvisa atualiza diretrizes de segurança sanitária para aviação civil e terminais aeroportuários",
-    "lead": "A Agência Nacional de Vigilância Sanitária (Anvisa) publicou uma nova resolução que substitui normas de 2002, estabelecendo exigências mais rigorosas para a qualidade da água, limpeza, gestão de resíduos e atendimento médico em aeroportos e aeronaves no Brasil.",
-    "corpo": "A Agência Nacional de Vigilância Sanitária (Anvisa) formalizou nesta quarta-feira (26) a atualização das diretrizes de controle sanitário aplicadas ao setor de transporte aéreo e à infraestrutura aeroportuária do país. A Resolução nº 1.038 substitui a regulamentação que vigorava desde 2002, com o objetivo de alinhar os procedimentos operacionais às demandas contemporâneas da vigilância em saúde pública. O texto entrará em vigor em um prazo de 150 dias.\n\nEntre as principais inovações regulatórias está a exigência de implantação de Sistemas de Gestão da Qualidade voltados especificamente à segurança sanitária. A determinação alcança aeroportos de maior porte, classificados nas categorias III e IV — a exemplo dos terminais de Guarulhos, Brasília e Galeão —, além das empresas de transporte regular de passageiros que operam aeronaves equipadas com banheiros ou sistemas hidráulicos.\n\nOs novos planos de gestão deverão contemplar políticas internas de segurança, programas de auditoria, controle documental, qualificação rigorosa de fornecedores e capacitação regular dos trabalhadores envolvidos. As organizações do setor disporão de um prazo total de 24 meses para a adaptação integral às exigências, sendo que as etapas de gestão de documentos e treinamento de pessoal devem estar estruturadas em até 12 meses.\n\nA normativa detalha obrigações específicas para aeroportos e companhias aéreas. Os terminais aeroportuários passam a responder formalmente pelo fornecimento contínuo de água potável, limpeza e desinfecção das instalações, gerenciamento de resíduos sólidos, controle rigoroso de vetores e pragas, manutenção de sistemas de climatização e oferta de serviços de saúde. Já as empresas aéreas ficam encarregadas de assegurar a qualidade da água a bordo, o controle sanitário dos alimentos servidos nos voos, a higienização das aeronaves e a prevenção contra a presença de insetos e roedores.\n\nAdemais, a regulação estabelece diretrizes claras para situações de emergência em saúde pública, determinando a adaptação imediata de protocolos em casos de eventos de relevância nacional ou internacional. Para aeroportos que pretendem inaugurar rotas internacionais, a Anvisa passa a exigir uma avaliação sanitária prévia rigorosa, condicionando a autorização ao cumprimento integral dos novos requisitos técnicos e estruturais.",
-    "categoria": "Sociedade",
-    "publicado_em": "2026-08-27T04:04:47.264951+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/anvisa-atualiza-regras-de-seguranca-sanitaria-para-avioes-e-aeroportos",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/11845909/pexels-photo-11845909.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Lennard  Schubert",
-      "photographer_url": "https://www.pexels.com/@lennard-schubert-154263185",
-      "pexels_url": "https://www.pexels.com/photo/airplanes-at-the-airport-seen-through-window-11845909/"
     },
     "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
     "pais": "Brasil"
