@@ -1,5 +1,39 @@
 [
   {
+    "id": "041398cf-2d1c-4a9f-b588-6c926e4320ac",
+    "titulo": "Petrobras eleva preço do querosene de aviação em 13,9% diante de tensões internacionais",
+    "lead": "A Petrobras anunciou um reajuste médio de 13,9% no preço do querosene de aviação (QAV) vendido às distribuidoras, em vigor a partir do início de setembro. A alta decorre das pressões sobre as cotações internacionais do petróleo provocadas por conflitos no Oriente Médio.",
+    "corpo": "O reajuste aplicado pela Petrobras representa um acréscimo médio de R$ 0,68 por litro de querosene de aviação (QAV). Com a alteração, o valor do combustível cobrado nas refinarias da estatal brasileira passa a oscilar entre R$ 5,44 e R$ 5,70 por litro, dependendo da praça de fornecimento.\n\nSegundo a companhia petrolífera, o encarecimento reflete a volatilidade e a elevação dos preços nos mercados externos, fortemente impactados por distúrbios logísticos e geopolíticos no Oriente Médio, em especial na rota do Estreito de Ormuz. No acumulado do ano, o QAV registra alta de 53,3% no Brasil, o que equivale a um aumento de R$ 1,94 por litro.\n\nO querosene de aviação é um dos principais componentes de custo do setor aéreo no Brasil, respondendo por cerca de 30% das despesas operacionais das companhias de aviação comercial, de acordo com estimativas da Agência Nacional de Aviação Civil (Anac). O preço às distribuidoras é reajustado mensalmente conforme fórmulas contratuais atreladas às cotações globais e ao câmbio.\n\nPara atenuar a pressão financeira imediata sobre as distribuidoras e os operadores aéreos, a Petrobras retomou um mecanismo que permite o parcelamento do valor do reajuste em até três vezes mensais. A empresa também garantiu o atendimento integral a todos os volumes de combustível demandados pelo mercado doméstico.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-03T02:20:10.284229+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-reajusta-preco-medio-do-querosene-de-aviacao-em-139",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/17291200/pexels-photo-17291200.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "K",
+      "photographer_url": "https://www.pexels.com/@kelly",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/plane-is-loading-at-airstrip-17291200/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Petrobras aumenta el precio del combustible de aviación un 13,9% ante tensiones internacionales",
+        "lead": "Petrobras anunció un ajuste promedio del 13,9% en el precio del queroseno de aviación vendido a las distribuidoras, vigente desde principios de septiembre. El incremento responde a las presiones sobre las cotizaciones internacionales del crudo generadas por conflictos en Medio Oriente.",
+        "corpo": "El reajuste aplicado por Petrobras representa un incremento promedio de R$ 0,68 por litro de queroseno de aviación (QAV). Con este cambio, el valor del combustible en las refinerías de la estatal brasileña oscilará entre R$ 5,44 y R$ 5,70 por litro, según la región de suministro.\n\nSegún la compañía petrolera, el encarecimiento refleja la volatilidad y el alza de precios en los mercados externos, fuertemente afectados por alteraciones logísticas y geopolíticas en Medio Oriente, en particular en la ruta del Estrecho de Ormuz. En el acumulado del año, el QAV registra un alza del 53,3% en Brasil, lo que equivale a un aumento de R$ 1,94 por litro.\n\nEl combustible de aviación constituye uno de los principales componentes de costo del sector aéreo en Brasil, representando cerca del 30% de los gastos operativos de las aerolíneas comerciales, según datos de la Agencia Nacional de Aviación Civil (Anac). El precio cobrado a las distribuidoras se ajusta mensualmente según fórmulas contractuales vinculadas a las cotizaciones globales y al tipo de cambio.\n\nPara mitigar la presión financiera inmediata sobre distribuidoras y operadores aéreos, Petrobras retomó un mecanismo que permite fraccionar el pago del aumento en hasta tres cuotas mensuales. La empresa también aseguró el suministro completo de los volúmenes de combustible demandados por el mercado nacional."
+      },
+      "en": {
+        "titulo": "Petrobras Raises Aviation Fuel Price by 13.9% Amid International Tensions",
+        "lead": "Petrobras announced an average increase of 13.9% in the price of aviation kerosene sold to distributors, effective from the beginning of September. The hike stems from global oil market pressures driven by ongoing conflicts in the Middle East.",
+        "corpo": "The price adjustment applied by Petrobras represents an average increase of R$ 0.68 per liter of aviation kerosene (QAV). Following the update, the fuel's refinery prices across the Brazilian state-owned company will range between R$ 5.44 and R$ 5.70 per liter, depending on the delivery region.\n\nAccording to the energy firm, the higher prices reflect international market volatility and rising costs driven by geopolitical and logistical disruptions in the Middle East, particularly around the Strait of Hormuz. Year-to-date, aviation fuel in Brazil has increased by 53.3%, representing an additional R$ 1.94 per liter.\n\nAviation fuel is a major cost driver for the airline industry in Brazil, accounting for approximately 30% of commercial airlines' operating expenses, according to the National Civil Aviation Agency (Anac). Wholesale prices to distributors are adjusted monthly based on contract formulas tied to global crude benchmarks and currency exchange rates.\n\nTo ease immediate financial pressure on fuel distributors and airline operators, Petrobras reinstated a payment plan allowing distributors to split the adjustment across three monthly installments. The company also confirmed that all requested domestic fuel supplies remain fully guaranteed."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "4708856c-87fb-4cf2-a98a-c76e54ac136e",
     "titulo": "Atualização: Ibovespa sobe 1,3% impulsionado pela disparada do petróleo e dólar recua para R$ 5,15",
     "lead": "O principal índice da bolsa de valores brasileira avançou 1,3% e atingiu o maior patamar em quase quatro meses, sustentado pela alta dos preços internacionais do petróleo em meio a tensões geopolíticas.",
@@ -1886,26 +1920,6 @@
       "photographer": "James Frid",
       "photographer_url": "https://www.pexels.com/@james-frid-81279",
       "pexels_url": "https://www.pexels.com/photo/withered-ground-1097016/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "pais": "Brasil"
-  },
-  {
-    "id": "93c54878-0fe5-496c-b6b3-aa0c133bc6e6",
-    "titulo": "Operação policial no Rio de Janeiro resulta em quatro prisões e bloqueios de vias com ônibus",
-    "lead": "Uma operação da Polícia Militar na Zona Norte do Rio de Janeiro gerou intensa movimentação nesta quarta-feira (26), com criminosos utilizando 18 ônibus para bloquear vias públicas em retaliação à ação nas comunidades do Campinho e do Fubá.",
-    "corpo": "A ação conjunta envolvendo o 9° e o 18° Batalhões da Polícia Militar teve como alvo as atividades de uma facção criminosa que atua nas regiões do Campinho, Fubá, Morro do 18, Praça Seca e Jacarepaguá. Durante o confronto, homens armados entraram em embate com as equipes de segurança e fugiram em direção a uma área de mata. O balanço oficial aponta a prisão de quatro suspeitos, além da apreensão de uma pistola, uma granada, um rádio comunicador, seis carregadores de fuzis, um carregador de pistola e entorpecentes.\n\nSegundo informações da Secretaria de Estado de Polícia Militar (SEPM), a utilização de coletivos como barricadas teve o intuito de dificultar e desmobilizar a atuação policial. De acordo com o Sindicato das Empresas de Ônibus da Cidade do Rio de Janeiro (Rio Ônibus), 18 veículos foram atravessados em pontos estratégicos dos bairros de Cascadura e nas proximidades da Avenida Dom Hélder Câmara, afetando o itinerário de 33 linhas de transporte urbano na região.\n\nA Secretaria informou ainda que um quinto suspeito foi baleado e encaminhado ao Hospital Estadual Carlos Chagas, enquanto um sexto indivíduo sofreu uma parada cardíaca durante os desdobramentos e não resistiu. Para conter os reflexos da ocorrência e reforçar a segurança na área, o comando policial deslocou unidades especializadas, incluindo o Batalhão de Operações Policiais Especiais (Bope), o Batalhão de Polícia de Choque (BPChq) e outras tropas táticas.\n\nNos setores de educação e saúde, os impactos foram monitorados pelas autoridades locais. A Secretaria de Estado de Educação apontou que nenhuma unidade estadual foi fechada devido aos confrontos, e as escolas municipais mantiveram o atendimento presencial. Na área da saúde, uma unidade de atenção primária suspendeu o início de suas atividades no período da manhã, enquanto outras mantiveram o atendimento interno com a suspensão temporária de visitas domiciliares.",
-    "categoria": "Segurança",
-    "publicado_em": "2026-08-27T03:25:42.489554+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/criminosos-usam-onibus-em-barricadas-contra-operacao-policial-no-rio",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/36845114/pexels-photo-36845114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Roy Serafin",
-      "photographer_url": "https://www.pexels.com/@roythephotographer",
-      "pexels_url": "https://www.pexels.com/photo/bustling-street-scene-in-rio-de-janeiro-brazil-36845114/"
     },
     "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
     "pais": "Brasil"
