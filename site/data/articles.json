@@ -1,5 +1,39 @@
 [
   {
+    "id": "b4547796-65db-46e9-9a1b-0abddd8c917d",
+    "titulo": "Banco Central amplia prazo de contestação contra fraudes no sistema Pix",
+    "lead": "O Banco Central do Brasil estendeu de 30 para 80 dias o prazo para contestar estornos indevidos realizados por meio do Mecanismo Especial de Devolução do Pix. A medida visa proteger comerciantes e prestadores de serviço contra golpes que exploram as próprias ferramentas de segurança do sistema.",
+    "corpo": "A nova diretriz estabelecida pela autoridade monetária busca corrigir uma vulnerabilidade explorada por criminosos contra estabelecimentos comerciais e pequenos negócios. No esquema comum, o golpista realiza uma compra legítima e em seguida solicita o estorno direto ao lojista alegando equívoco. Ao mesmo tempo, aciona o Mecanismo Especial de Devolução (MED) em sua instituição financeira sob alegação de fraude, fazendo com que o comerciante perca os recursos duas vezes caso devolva o valor manualmente por outra chave.\n\nCom a mudança, o vendedor ou recebedor que sofrer um débito indevido passa a ter até 80 dias, contados a partir da devolução efetuada pelo sistema, para recorrer e apresentar contestação. O período foi equalizado ao prazo já concedido às vítimas diretas de golpes para solicitar a ativação do mecanismo após o envio de uma transferência suspeita.\n\nA atualização integra a Instrução Normativa BCB 766, que adequou o manual operacional do Diretório de Identificadores de Contas Transacionais. O Banco Central reforça que o MED é restrito a situações de fraude comprovada, falhas operacionais graves ou crimes, não se aplicando a erros no preenchimento de dados, desacordos comerciais comuns ou arrependimento de compra.\n\nA alteração acompanha a expansão das medidas de segurança do meio de pagamento instantâneo brasileiro, incluindo o rastreamento ampliado de recursos que transitam entre diferentes contas bancárias para dificultar a dispersão de valores ilícitos. As autoridades bancárias orientam que qualquer devolução legítima seja feita exclusivamente pelo botão específico da transação original no aplicativo financeiro, além de recomendar a preservação de comprovantes e mensagens para comprovação perante os bancos.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-03T18:17:26.709864+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/nova-regra-do-pix-amplia-prazo-para-contestar-golpe",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/5198284/pexels-photo-5198284.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Tima Miroshnichenko",
+      "photographer_url": "https://www.pexels.com/@tima-miroshnichenko",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/person-holding-brown-credit-card-and-cellphone-5198284/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "El Banco Central de Brasil amplía el plazo para impugnar fraudes en el sistema Pix",
+        "lead": "El Banco Central de Brasil extendió de 30 a 80 días el plazo para apelar devoluciones indebidas realizadas a través del Mecanismo Especial de Devolución de Pix. La disposición busca resguardar a comerciantes y prestadores de servicios de estafas que manipulan las propias herramientas de protección del sistema.",
+        "corpo": "La nueva directiva establecida por la autoridad monetaria procura subsanar una vulnerabilidad aprovechada por estafadores contra comercios y pequeños negocios. En este tipo de maniobra, el delincuente efectúa una compra legítima y luego solicita el reembolso directo al comerciante alegando una equivocación. De forma simultánea, activa el Mecanismo Especial de Devolución (MED) en su entidad financiera aduciendo haber sido víctima de fraude, lo que expone al comerciante a perder el dinero por partida doble si realiza la devolución de forma manual hacia otra cuenta.\n\nCon esta modificación, el vendedor o receptor que sufra un débito indebido dispondrá de hasta 80 días, contados desde la reversión ejecutada por el sistema, para presentar su descargo y documentación. De este modo, se equipara la vigencia con el plazo que ya tenían los remitentes afectados por estafas para solicitar la intervención del mecanismo tras concretar una transferencia sospechosa.\n\nLa medida forma parte de la Instrucción Normativa BCB 766, que actualizó el manual operativo del directorio de cuentas transaccionales. El Banco Central recordó que el MED está reservado a situaciones de fraude comprobado, fallas operativas o delitos, y no cubre errores de digitación de datos, discrepancias comerciales cotidianas ni arrepentimiento de compras.\n\nEl ajuste se suma a las medidas de seguridad del ecosistema de pagos instantáneos en Brasil, que incluyen el rastreo del flujo de fondos a través de cuentas bancarias secundarias para frenar el desvío de dinero ilícito. Las autoridades financieras recomiendan efectuar cualquier reintegro exclusivamente mediante la opción de devolución vinculada a la transacción original dentro de las aplicaciones bancarias."
+      },
+      "en": {
+        "titulo": "Brazil's Central Bank extends dispute deadline for Pix payment fraud",
+        "lead": "The Central Bank of Brazil has extended the deadline to dispute improper refunds processed through the Pix Special Return Mechanism from 30 to 80 days. The rule aims to shield merchants and small businesses from schemes that exploit the payment platform's security tools.",
+        "corpo": "The monetary authority's new directive targets a vulnerability exploited by fraudsters against retailers and service providers. Under the common scheme, a scammer makes a legitimate payment and then requests a manual refund from the merchant, claiming an accidental transfer. Simultaneously, the perpetrator triggers the Special Return Mechanism (MED) with their bank, alleging fraud, leaving the business owner vulnerable to losing funds twice if they return the money manually to a different key.\n\nUnder the revised rules, any recipient hit by an improper reversal now has up to 80 days from the date of the system refund to challenge the decision. This adjustment aligns the defense timeline with the 80-day window already granted to original scam victims seeking to initiate recovery proceedings after an unauthorized transfer.\n\nThe update is outlined in BCB Normative Instruction 766, which modified the operational guidelines for transactional account identifiers. The Central Bank stressed that the MED procedure is strictly intended for confirmed fraud, operational glitches, or criminal acts, excluding personal input errors, standard commercial disputes, or purchase regret.\n\nThe regulatory shift complements broader security upgrades across Brazil's instant payment network, including tools designed to trace illicit fund flows across multi-tiered bank accounts. Banking authorities advise users to process any legitimate refund strictly through the designated return option attached to the original transaction within banking apps."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "2d587b38-9f28-46db-8a65-642007039003",
     "titulo": "Rio de Janeiro registra prejuízo de R$ 69 milhões com furtos de fiação de cobre em cinco anos",
     "lead": "As forças de segurança e a prefeitura do Rio de Janeiro iniciaram uma ofensiva contra ferros-velhos clandestinos após a cidade contabilizar um prejuízo superior a R$ 69 milhões provocado pelo furto de cabos elétricos entre 2021 e 2025.",
@@ -1960,39 +1994,6 @@
         "titulo": "Javiera Tapia Advocates for Projecting Atacama's Cultural Relevance Beyond Chile's Borders",
         "lead": "In statements reported by local media, Javiera Tapia expressed her wish for the Atacama Region to revitalize its cultural expression and achieve recognition beyond Chilean borders.",
         "corpo": "The Atacama Region, located in northern Chile and historically recognized for its mineral wealth and unique geographical landscapes, also possesses a rich historical and cultural identity seeking broader visibility. Javiera Tapia's statements highlight the importance of valuing local heritage and promoting initiatives that drive cultural development across the region.\n\nAccording to statements published by local outlet Diario Chañarcillo, the main objective is to ensure that Atacama's cultural heritage and production regain a prominent place on both the regional and international stages. Pursuing this vision involves strengthening local traditions, supporting artists and cultural workers, and promoting the region's historical memory.\n\nThe debate surrounding cultural decentralization in Chile has gained traction, with various figures arguing that regions outside the Santiago metropolitan hub should receive investment and focus to build their own artistic and tourism circuits. In this context, placing greater value on Atacama highlights the role of the country's regions in shaping both national and Latin American cultural identity."
-      }
-    }
-  },
-  {
-    "id": "b4bd8898-5bb3-4c52-bc27-de14ff1d75ec",
-    "titulo": "Candidatos à Presidência do Brasil intensificam agendas de campanha pelo país",
-    "lead": "Os postulantes ao Palácio do Planalto cumpriram agendas movimentadas nesta quinta-feira (27), com sabatinas na imprensa, visitas a infraestruturas e encontros com eleitores em diversos estados.",
-    "corpo": "A corrida eleitoral à Presidência da República no Brasil registrou um dia de intensa movimentação política pelas diferentes regiões do país. Os candidatos ao Poder Executivo concentraram suas atividades em entrevistas a veículos de comunicação, compromissos de rua e agendas voltadas à apresentação de propostas para setores estratégicos como infraestrutura, saúde e trabalho.\n\nDentre os principais destaques do dia, os postulantes abordaram temas de forte apelo socioeconômico. A política de valorização do salário mínimo e os direitos trabalhistas estiveram em pauta em discursos voltados à classe trabalhadora, enquanto propostas para o fortalecimento do agronegócio e a melhoria das vias de escoamento da produção agrícola foram defendidas em vistorias a obras de infraestrutura no interior do país.\n\nParalelamente, a área da saúde pública e a atenção primária também ganharam espaço nos compromissos de campanha, com visitas a unidades hospitalares e propostas voltadas ao aumento de repasses federais ao Sistema Único de Saúde (SUS). As participações em sabatinas na imprensa nacional e transmissões em plataformas digitais permitiram aos candidatos detalhar suas visões geopolíticas e suas plataformas de governo a potenciais eleitores.\n\nMobilizações de rua, como caminhadas, bandeiraços e encontros com movimentos sociais e categorias profissionais, marcaram a atuação de diversos concorrentes nas capitais e grandes centros urbanos. Com o avanço do calendário eleitoral, a diversificação das estratégias busca consolidar o diálogo com diferentes segmentos da sociedade e ampliar a presença territorial das candidaturas.",
-    "categoria": "Política",
-    "pais": "Brasil",
-    "publicado_em": "2026-08-28T06:31:08.476171+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-08/veja-como-foi-quinta-feira-27-dos-candidatos-presidente",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/7103129/pexels-photo-7103129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Edmond Dantès",
-      "photographer_url": "https://www.pexels.com/@edmond-dantes/",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/a-man-wearing-a-earpod-7103129/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Candidatos a la Presidencia de Brasil intensifican agendas de campaña en todo el país",
-        "lead": "Los aspirantes al Palacio de Planalto cumplieron intensas agendas este jueves (27), que incluyeron entrevistas con la prensa, visitas a obras de infraestructura y encuentros con electores en diversos estados.",
-        "corpo": "La carrera electoral hacia la Presidencia de la República en Brasil registró una jornada de intensa actividad política en diferentes regiones del país. Los candidatos al Poder Ejecutivo concentraron sus actividades en entrevistas para medios de comunicación, eventos públicos de calle y compromisos orientados a presentar propuestas para sectores estratégicos como infraestructura, salud y empleo.\n\nEntre los principales aspectos destacados del día, los postulantes abordaron temas de alto impacto socioeconómico. La política de ajuste del salario mínimo y los derechos laborales formaron parte de los discursos dirigidos a los trabajadores, mientras que las propuestas para fortalecer el sector agropecuario y mejorar las rutas de transporte de cosechas fueron defendidas durante inspecciones a obras en el interior del país.\n\nEn paralelo, el sector de la salud pública y la atención primaria también tuvieron protagonismo en las agendas de campaña, mediante visitas a centros hospitalarios y propuestas para aumentar la asignación de recursos federales al sistema público de salud. Las participaciones en entrevistas con medios nacionales y transmisiones en plataformas digitales permitieron a los candidatos exponer sus visiones geopolíticas y plataformas de gobierno.\n\nMovilizaciones callejeras, recorridos con simpatizantes y reuniones con organizaciones sociales y gremios profesionales marcaron la labor de diversos competidores en principales ciudades del país. A medida que avanza el calendario electoral, las candidaturas buscan diversificar sus estrategias para consolidar el diálogo con distintos sectores de la sociedad."
-      },
-      "en": {
-        "titulo": "Brazil Presidential Candidates Step Up Campaign Activities Across the Country",
-        "lead": "Candidates vying for the presidency carried out busy campaign schedules on Thursday (27), featuring media interviews, visits to infrastructure projects, and rallies with voters across several states.",
-        "corpo": "The presidential race in Brazil saw intense political activity across multiple regions of the country. Candidates focused their efforts on interviews with news outlets, public campaign events, and presentations detailing proposals for key sectors such as infrastructure, healthcare, and labor.\n\nAmong the key highlights of the day, candidates addressed issues of significant socioeconomic impact. Minimum wage policy and workers' rights were featured in speeches directed at labor groups, while proposals to strengthen agribusiness and improve crop transport routes were emphasized during visits to infrastructure projects in the country's interior.\n\nAt the same time, public health and primary care received attention on the campaign trail, with visits to hospital facilities and proposals to increase federal funding for the public healthcare system. Appearances in media interviews and live online broadcasts enabled candidates to outline their government platforms and foreign policy perspectives to potential voters.\n\nStreet rallies, walks, and meetings with social movements and professional sectors characterized the activities of several contenders in major urban centers. As the election calendar moves forward, candidates are expanding their strategies to engage diverse segments of society and strengthen their presence nationwide."
       }
     }
   }
