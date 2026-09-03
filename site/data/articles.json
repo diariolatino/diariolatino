@@ -1,5 +1,39 @@
 [
   {
+    "id": "39856e99-38af-44b5-891a-f84ae3c2ee3f",
+    "titulo": "Caixa lança funcionalidade de Pix parcelado em até 12 vezes para pessoas físicas",
+    "lead": "A Caixa Econômica Federal passou a oferecer a opção de parcelamento de transferências e pagamentos realizados via Pix para clientes pessoa física. A modalidade, operada como uma linha de crédito direto pelo aplicativo do banco estatal brasileiro, permite parcelar transações entre R$ 300 e R$ 50 mil.",
+    "corpo": "A nova funcionalidade permite que o valor contratado seja quitado em até 12 meses, com taxas de juros variáveis segundo o perfil e o relacionamento do cliente com a instituição financeira. Na prática, a operação funciona como um financiamento imediato: enquanto o recebedor do Pix obtém o montante total de forma instantânea, o pagador assume a dívida parcelada junto ao banco público.\n\nAntes de concluir a transação, o usuário pode visualizar todos os custos envolvidos no próprio aplicativo da Caixa, incluindo a taxa de juros aplicada, o valor das parcelas, o Custo Efetivo Total (CET) e o Imposto sobre Operações Financeiras (IOF). Para utilizar o serviço, o cliente precisa ter limite de crédito previamente aprovado em análise de risco da instituição.\n\nSegundo o banco estatal, a iniciativa visa expandir o portfólio de soluções financeiras digitais e oferecer mais flexibilidade no orçamento dos usuários. Os clientes que ainda não possuem a funcionalidade liberada foram orientados a manter seus dados cadastrais atualizados e utilizar os serviços do banco regularmente para futuras reavaliações de crédito.\n\nO parcelamento de transferências junta-se a outras modalidades do sistema de pagamentos instantâneos já disponibilizadas pela instituição, como o Agendamento Pix, o Pix Automático e o pagamento por aproximação via carteira digital.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-03T22:14:11.650289+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/caixa-passa-oferecer-modalidade-de-pix-parcelado",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/163069/mobile-phone-money-banknotes-us-dollars-163069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Pixabay",
+      "photographer_url": "https://www.pexels.com/@pixabay",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/persom-holding-black-android-smartphone-and-2-1-u-s-dollar-163069/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Caixa lanza opción de pago fraccionado mediante Pix en hasta 12 cuotas para personas físicas",
+        "lead": "Caixa Econômica Federal comenzó a ofrecer la opción de fraccionar transferencias y pagos realizados a través del sistema Pix para clientes personas físicas. La modalidad, operada como una línea de crédito directo mediante la aplicación del banco estatal brasileño, permite financiar transacciones de entre 300 y 50.000 reales.",
+        "corpo": "La nueva funcionalidad permite liquidar el monto contratado en hasta 12 meses, con tasas de interés variables según el perfil y la relación del cliente con la institución financiera. En la práctica, la operación funciona como un financiamiento inmediato: mientras el receptor del Pix recibe el importe total de forma instantánea, el pagador asume la deuda en cuotas con el banco público.\n\nAntes de finalizar la transacción, el usuario puede revisar todos los costos involucrados en la propia aplicación de Caixa, incluyendo la tasa de interés aplicada, el valor de las cuotas, el Costo Efectivo Total (CET) y el Impuesto sobre Operaciones Financieras (IOF). Para utilizar el servicio, el cliente debe contar con un límite de crédito previamente aprobado tras un análisis de riesgo.\n\nSegún la entidad estatal, la iniciativa busca ampliar el portafolio de soluciones financieras digitales y brindar mayor flexibilidad presupuestaria a los usuarios. Los clientes que aún no tienen habilitada la opción fueron orientados a mantener sus datos actualizados y utilizar los servicios regularmente para futuras reevaluaciones crediticias.\n\nEl fraccionamiento de transferencias se suma a otras modalidades del sistema de pagos instantáneos ya disponibles en el banco, como Pix Programado, Pix Automático y pagos por aproximación mediante billetera digital."
+      },
+      "en": {
+        "titulo": "Brazil's Caixa introduces installment option for Pix payments over up to 12 months",
+        "lead": "Caixa Econômica Federal has started offering individual clients the option to pay Pix transfers and payments in installments. Operated as a direct credit line via the Brazilian state bank's mobile app, the feature allows financing transactions between 300 and 50,000 reais.",
+        "corpo": "The new functionality enables users to pay off the contracted amount in up to 12 months, with interest rates varying based on the client's credit profile and relationship with the bank. In practice, the transaction acts as an immediate loan: while the Pix recipient gets the full amount instantly, the payer assumes the installment debt with the public bank.\n\nBefore finalizing the operation, users can review all associated costs within the Caixa app, including applicable interest rates, installment amounts, Total Effective Cost (CET), and the Financial Operations Tax (IOF). Access to the feature requires an approved credit limit following a risk assessment by the institution.\n\nAccording to the state bank, the initiative aims to expand its portfolio of digital financial solutions while offering greater budget flexibility to users. Clients who do not yet have the feature enabled were advised to keep their registration details updated and use bank services regularly for future credit re-evaluations.\n\nInstallment transfers join other instant payment modalities already offered by Caixa, such as Scheduled Pix, Automatic Pix, and contactless payments via digital wallets."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "2fba3b95-921b-40e5-8cad-bbe11acc5860",
     "titulo": "OMM prevê El Niño de alta intensidade com duração até fevereiro de 2027",
     "lead": "A Organização Meteorológica Mundial (OMM) alertou que o fenômeno El Niño atingiu consolidação plena e deve alcançar um nível \"muito forte\" nos próximos meses. Com probabilidade próxima a 100% de se manter ativo até fevereiro de 2027, o evento climático ameaça intensificar secas, inundações e ondas de calor em diversas regiões do planeta.",
@@ -1963,39 +1997,6 @@
         "titulo": "Radio Nacional FM de Brasília celebrates 50 years with special cultural programming",
         "lead": "Radio Nacional FM de Brasília marks half a century of broadcasting with special programming highlighting the memory and artistic production of Brazil's Federal District.",
         "corpo": "The public radio station has arranged a commemorative lineup to celebrate 50 years of continuous broadcasting in the Federal District. The anniversary spotlight falls on the cultural show \"Espaço Arte,\" hosted by Marcelo Ferreira and Mário Sartorello, bringing together established names and emerging talents from Brasília's music scene.\n\nGuests featured in this special edition include pianist and arranger Renato Vasconcellos, multi-instrumentalist and poet Renato Mattos, as well as singers Fernanda Jacob and Ane Êoketu, representing the new generation of local samba. The broadcast aims to highlight the station's historical role in promoting regional arts and shaping the cultural heritage of the federal capital.\n\nCelebrations extend into the afternoon with the show \"Tarde Nacional,\" airing from 3:00 p.m. to 6:00 p.m., featuring celebratory messages from artists across the country and reinforcing the station's deep connections with Brazil's creative community.\n\nOriginally launched in 2004 on the AM band and expanding to FM in 2016, \"Espaço Arte\" has established itself as a vital platform for artistic initiatives in the Federal District. Radio Nacional de Brasília is part of the public communication network managed by Empresa Brasil de Comunicação, reaching audiences across Brazil through terrestrial radio and digital platforms."
-      }
-    }
-  },
-  {
-    "id": "83f0bc80-ca2f-4089-9f55-6eabba3ec9d4",
-    "titulo": "Justiça brasileira revoga prisão preventiva de chileno acusado de racismo",
-    "lead": "A Justiça no Brasil revogou a prisão preventiva de um cidadão chileno detido sob a acusação de racismo, determinando que ele responda ao processo mediante o uso de tornozeleira eletrônica.",
-    "corpo": "As autoridades judiciais brasileiras concederam a revogação da prisão preventiva a um cidadão de nacionalidade chilena que havia sido detido no país sob a acusação da prática de racismo. A decisão substitui a detenção por medidas cautelares alternativas, permitindo que o acusado aguarde o prosseguimento das investigações e dos trâmites legais fora do sistema penitenciário.\n\nComo parte das exigências estipuladas para a concessão da liberdade provisória, o investigado terá que utilizar uma tornozeleira eletrônica. O dispositivo de monitoramento remoto permitirá ao Poder Judiciário acompanhar a localização e assegurar o cumprimento das restrições de circulação impostas durante a vigência da medida cautelar.\n\nNo Brasil, os crimes resultantes de preconceito de raça ou de cor são objeto de legislação específica e rigorosa. A alteração da medida cautelar não encerra a apuração dos fatos nem isenta o acusado de eventuais responsabilidades penais, mantendo-se a obrigatoriedade de observância estrita a todas as condicionantes judiciais estabelecidas.",
-    "categoria": "Segurança",
-    "pais": "Brasil",
-    "publicado_em": "2026-08-29T11:08:46.832967+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://www.t13.cl/noticia/mundo/revocan-prision-preventiva-para-chileno-detenido-por-racismo-brasil-tendra-usar-29-8-2026",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/7108356/pexels-photo-7108356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Pavel Danilyuk",
-      "photographer_url": "https://www.pexels.com/@pavel-danilyuk",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/a-person-wearing-white-socks-7108356/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Justicia brasileña revoca prisión preventiva a chileno detenido por racismo y ordena uso de tobillera electrónica",
-        "lead": "La Justicia de Brasil revocó la prisión preventiva de un ciudadano chileno detenido bajo la acusación de racismo, determinando que enfrente el proceso mediante el uso de una tobillera electrónica.",
-        "corpo": "Las autoridades judiciales brasileñas concedieron la revocación de la prisión preventiva a un ciudadano chileno que había sido detenido en el país por la presunta comisión del delito de racismo. La resolución judicial sustituye la privación de libertad por medidas cautelares alternativas, permitiendo que el acusado enfrente el desarrollo de las investigaciones fuera de un centro penitenciario.\n\nComo parte de los requisitos fijados para la concesión de la libertad provisional, el investigado deberá portar una tobillera electrónica de monitoreo continuo. El dispositivo permitirá a las autoridades judiciales dar seguimiento a su localización y garantizar el cumplimiento de las restricciones de movilidad impuestas mientras permanezca vigente la medida cautelar.\n\nEn Brasil, los delitos derivados del prejuicio racial están tipificados bajo un marco normativo severo. La modificación de la medida preventiva no implica el cierre de la causa penal ni la exoneración del acusado, quien deberá cumplir de forma estricta las condiciones fijadas por el tribunal correspondiente."
-      },
-      "en": {
-        "titulo": "Brazilian Court Revokes Preventive Detention of Chilean Arrested for Racism",
-        "lead": "A Brazilian court has revoked the preventive detention of a Chilean citizen arrested on racism charges, ordering that he be monitored via an electronic ankle bracelet while awaiting trial.",
-        "corpo": "Brazilian judicial authorities have granted the revocation of preventive detention for a Chilean national who was being held in the country on racism charges. The ruling replaces prison detention with alternative precautionary measures, allowing the accused to await the continuation of legal proceedings outside of custody.\n\nAs part of the conditions established for provisional release, the individual will be required to wear an electronic monitoring ankle bracelet. The device will enable judicial authorities to track his location and ensure compliance with spatial restrictions imposed during the duration of the court order.\n\nIn Brazil, offenses related to racial discrimination are subject to strict legal frameworks. The adjustment of the precautionary measure does not conclude the investigation or clear the accused of potential criminal liability, requiring strict adherence to all judicial conditions set forth by the court."
       }
     }
   }
