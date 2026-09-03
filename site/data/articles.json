@@ -1,5 +1,39 @@
 [
   {
+    "id": "32cbe4d8-37f4-4ed0-8d3f-2d2617bdf48b",
+    "titulo": "Venezuela e Estados Unidos articulam plano conjunto voltado à recuperação do setor de energia",
+    "lead": "Autoridades de Caracas e de Washington avançaram no entendimento para estruturar uma iniciativa ampla de reabilitação e desenvolvimento energético venezuelano.",
+    "corpo": "A Venezuela e os Estados Unidos alcançaram um acordo preliminar para a implementação de um plano de grande escala voltado ao resgate e à modernização da infraestrutura energética do país sul-americano. O alinhamento bilateral busca restabelecer capacidades produtivas estratégicas e promover maior estabilidade ao fornecimento e à comercialização de hidrocarbonetos.\n\nO setor energético venezuelano, historicamente dependente de suas vastas reservas de petróleo e de complexos sistemas de geração elétrica, tem sido o foco de intensos debates geopolíticos e econômicos nos últimos anos. A aproximação entre os governos sinaliza um esforço pragmático para lidar com gargalos de investimento, manutenção de refinarias e distribuição regional de energia.\n\nEmbora os termos técnicos e cronogramas específicos dependam do avanço das tratativas institucionais, a cooperação visa viabilizar fluxos comerciais e garantir a segurança do abastecimento. O movimento também reflete a busca por recomposição da atividade industrial do setor, essencial para a economia interna venezuelana e com impacto direto no mercado internacional de combustíveis.",
+    "categoria": "Economia",
+    "pais": "Venezuela",
+    "publicado_em": "2026-09-03T05:28:07.733861+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.quadratin.com.mx/internacionales/acuerda-venezuela-con-eu-megaplan-de-rescate-energetico/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/38601483/pexels-photo-38601483.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Nothing Ahead",
+      "photographer_url": "https://www.pexels.com/@ian-panelo",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/industrial-refinery-complex-by-the-water-38601483/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Venezuela y Estados Unidos acuerdan un plan conjunto orientado a la recuperación energética",
+        "lead": "Autoridades de Caracas y Washington avanzaron en un entendimiento para estructurar una amplia iniciativa de rehabilitación y desarrollo energético venezolano.",
+        "corpo": "Venezuela y Estados Unidos alcanzaron un acuerdo preliminar para la implementación de un plan a gran escala orientado al rescate y modernización de la infraestructura energética del país sudamericano. El alineamiento bilateral busca restablecer capacidades productivas estratégicas y fomentar una mayor estabilidad en el suministro y la comercialización de hidrocarburos.\n\nEl sector energético venezolano, históricamente dependiente de sus amplias reservas de petróleo y de complejos sistemas de generación eléctrica, ha sido objeto de intensos debates geopolíticos y económicos en los últimos años. El acercamiento entre ambos gobiernos refleja un esfuerzo pragmático por abordar las limitaciones de inversión, el mantenimiento de refinerías y la distribución regional de energía.\n\nA pesar de que los términos técnicos y cronogramas específicos dependen de la evolución de las negociaciones institucionales, la cooperación apunta a viabilizar flujos comerciales y fortalecer la seguridad del abastecimiento. La iniciativa refleja además el interés en reactivar la actividad industrial del sector, clave para la economía venezolana y con impacto directo en el mercado internacional de combustibles."
+      },
+      "en": {
+        "titulo": "Venezuela and United States Agree on Joint Plan for Energy Sector Recovery",
+        "lead": "Officials from Caracas and Washington have reached an understanding to structure a broad initiative aimed at rehabilitating and developing Venezuela's energy infrastructure.",
+        "corpo": "Venezuela and the United States have reached a preliminary agreement to implement a large-scale plan focused on the rescue and modernization of the South American nation's energy infrastructure. The bilateral alignment seeks to restore strategic production capacities and foster greater stability in the supply and marketing of hydrocarbons.\n\nVenezuela's energy sector, historically reliant on vast crude oil reserves and complex power generation networks, has been the center of intense geopolitical and economic negotiations in recent years. The rapprochement between both governments points to a pragmatic effort to address investment deficits, refinery maintenance challenges, and regional fuel distribution.\n\nWhile detailed operational terms and timelines depend on ongoing institutional discussions, the cooperation aims to facilitate commercial flows and reinforce supply security. The move also underscores efforts to rebuild the sector's industrial capacity, which remains vital for Venezuela's domestic economy and holds direct relevance for global energy markets."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "041398cf-2d1c-4a9f-b588-6c926e4320ac",
     "titulo": "Petrobras eleva preço do querosene de aviação em 13,9% diante de tensões internacionais",
     "lead": "A Petrobras anunciou um reajuste médio de 13,9% no preço do querosene de aviação (QAV) vendido às distribuidoras, em vigor a partir do início de setembro. A alta decorre das pressões sobre as cotações internacionais do petróleo provocadas por conflitos no Oriente Médio.",
@@ -1900,26 +1934,6 @@
       "photographer": "Lennard  Schubert",
       "photographer_url": "https://www.pexels.com/@lennard-schubert-154263185",
       "pexels_url": "https://www.pexels.com/photo/airplanes-at-the-airport-seen-through-window-11845909/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "pais": "Brasil"
-  },
-  {
-    "id": "a610efa0-fab6-4b19-8d74-25190d03e196",
-    "titulo": "Defesa Civil reconhece situação de emergência em sete municípios do Nordeste devido à estiagem",
-    "lead": "A Secretaria Nacional de Proteção e Defesa Civil oficializou o reconhecimento de emergência para sete cidades distribuídas entre Alagoas, Bahia e Paraíba, afetadas pelo período prolongado de seca.",
-    "corpo": "A medida, formalizada por meio de portaria publicada nesta quarta-feira (26), abrange um total de sete municípios na região Nordeste do Brasil. Foram contemplados pelo reconhecimento federal os municípios de Canapi (Alagoas), Gavião e Poções (Bahia), além de Brejo dos Santos, Frei Martinho, Monte Horebe e São José de Espinharas (Paraíba).\n\nO processo de homologação baseou-se nos decretos emitidos pelas administrações municipais e nas informações detalhadas nos Formulários de Informações do Desastre (Fide) submetidos ao longo do mês de agosto. Com a validação oficial por parte do governo federal, as prefeituras ganham o direito de apresentar planos de trabalho direcionados à Defesa Civil Nacional.\n\nA aprovação dessas propostas viabiliza o repasse de recursos da União destinados a ações de resposta ao desastre e assistência humanitária. Entre as medidas passíveis de financiamento estão o fornecimento de cestas básicas, a distribuição de kits de higiene, operações voltadas ao abastecimento regular de água e outras intervenções necessárias para mitigar os impactos sociais causados pela estiagem na rotina das populações locais.",
-    "categoria": "Ciência & Ambiente",
-    "publicado_em": "2026-08-27T04:04:40.896207+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/estiagem-defesa-civil-reconhece-emergencia-em-cidades-do-nordeste",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/1097016/pexels-photo-1097016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "James Frid",
-      "photographer_url": "https://www.pexels.com/@james-frid-81279",
-      "pexels_url": "https://www.pexels.com/photo/withered-ground-1097016/"
     },
     "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
     "pais": "Brasil"
