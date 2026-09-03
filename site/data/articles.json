@@ -1,5 +1,39 @@
 [
   {
+    "id": "560e5c8c-4893-405e-92ad-41c9a5f0add8",
+    "titulo": "México registra queda na pobreza laboral, mas informalidade ainda limita avanço econômico social",
+    "lead": "O México apresentou uma redução nos índices de pobreza laboral, mas a persistência do trabalho informal continua a limitar a consolidação de uma prosperidade compartilhada no país.",
+    "corpo": "De acordo com dados recentes sobre o mercado de trabalho mexicano, o país tem registrado avanços na redução da pobreza laboral — indicador que mede a parcela da população com rendimentos do trabalho inferiores ao custo da cesta básica de alimentos. Esse recuo aponta para uma melhora conjuntural na renda de parte dos trabalhadores.\n\nNo entanto, analistas apontam que o avanço social e econômico mais amplo enfrenta um obstáculo estrutural significativo: as altas taxas de informalidade. O emprego informal, caracterizado pela falta de acesso a benefícios sociais, segurança jurídica e estabilidade financeira, impede que os ganhos de produtividade e crescimento econômico sejam distribuídos de maneira equitativa por toda a sociedade.\n\nEspecialistas em economia do desenvolvimento ressaltam que, embora a criação de empregos e o aumento do salário mínimo tenham contribuído para mitigar a pobreza extrema baseada na renda do trabalho, a ausência de reformas estruturais que facilitem a formalização do mercado de trabalho limita o impacto de longo prazo dessas políticas. A informalidade restringe a arrecadação fiscal, reduz o acesso ao crédito e fragiliza a rede de proteção social, mantendo uma parcela expressiva da população vulnerável a choques econômicos.\n\nPara alcançar uma verdadeira prosperidade compartilhada, o governo mexicano enfrenta o desafio de desenhar políticas públicas que não apenas gerem postos de trabalho, mas que garantam a transição de milhões de trabalhadores informais para a economia formal.",
+    "categoria": "Economia",
+    "pais": "México",
+    "publicado_em": "2026-09-03T10:16:43.232140+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.globalmedia.mx/articles/pobreza_laboral_baja_pero_informalidad_frena_prosperidad_compartida_en_mexico",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/18627851/pexels-photo-18627851.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Andrea Román",
+      "photographer_url": "https://www.pexels.com/@andrea-roman-291935393",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/woman-in-apron-sitting-among-people-at-restaurant-18627851/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "México registra caída en la pobreza laboral, pero la informalidad aún limita el avance económico social",
+        "lead": "México presentó una reducción en los índices de pobreza laboral, pero la persistencia del trabajo informal continúa limitando la consolidación de una prosperidad compartida en el país.",
+        "corpo": "De acuerdo con datos recientes sobre el mercado laboral mexicano, el país ha registrado avances en la reducción de la pobreza laboral, indicador que mide la proporción de la población con ingresos laborales inferiores al costo de la canasta básica alimentaria. Este retroceso apunta a una mejora coyuntural en los ingresos de una parte de los trabajadores.\n\nSin embargo, analistas señalan que el avance social y económico más amplio enfrenta un obstáculo estructural significativo: las altas tasas de informalidad. El empleo informal, caracterizado por la falta de acceso a beneficios sociales, seguridad jurídica y estabilidad financiera, impide que los beneficios de la productividad y el crecimiento económico se distribuyan de manera equitativa en toda la sociedad.\n\nEspecialistas en economía del desarrollo destacan que, aunque la creación de empleo y el aumento del salario mínimo han contribuido a mitigar la pobreza extrema basada en los ingresos del trabajo, la ausencia de reformas estructurales que faciliten la formalización del mercado laboral limita el impacto a largo plazo de estas políticas. La informalidad restringe la recaudación fiscal, reduce el acceso al crédito y debilita la red de protección social, manteniendo a una parte importante de la población vulnerable a los choques económicos.\n\nPara lograr una verdadera prosperidad compartida, el gobierno mexicano enfrenta el desafío de diseñar políticas públicas que no solo generen empleos, sino que garanticen la transición de millones de trabajadores informales hacia la economía formal."
+      },
+      "en": {
+        "titulo": "Mexico records decline in labor poverty, but informality still limits social economic progress",
+        "lead": "Mexico has shown a reduction in labor poverty rates, but the persistence of informal work continues to limit the consolidation of shared prosperity in the country.",
+        "corpo": "According to recent data on the Mexican labor market, the country has made progress in reducing labor poverty—an indicator that measures the share of the population with labor income lower than the cost of the basic food basket. This decline points to a cyclical improvement in the income of a segment of workers.\n\nHowever, analysts point out that broader social and economic progress faces a significant structural obstacle: high rates of informality. Informal employment, characterized by a lack of access to social benefits, legal security, and financial stability, prevents the gains of productivity and economic growth from being equitably distributed across society.\n\nDevelopment economics specialists emphasize that although job creation and minimum wage increases have helped mitigate extreme poverty based on labor income, the absence of structural reforms to facilitate labor market formalization limits the long-term impact of these policies. Informality restricts tax collection, reduces access to credit, and weakens the social safety net, leaving a significant portion of the population vulnerable to economic shocks.\n\nTo achieve true shared prosperity, the Mexican government faces the challenge of designing public policies that not only generate jobs but also ensure the transition of millions of informal workers into the formal economy."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "dc342238-065b-4cdb-91ea-d5205d9ea321",
     "titulo": "Montevidéu arrecada US$ 760 mil com taxa de um dólar por noite cobrada de turistas estrangeiros",
     "lead": "A Intendência de Montevidéu contabilizou uma arrecadação de 760 mil dólares com a cobrança de taxa turística voltada a visitantes internacionais. A medida aplica um encargo de um dólar por cada diária de hospedagem na capital uruguaia.",
@@ -1942,26 +1976,6 @@
       "photographer": "Rodolfo Gaion",
       "photographer_url": "https://www.pexels.com/@gaion",
       "pexels_url": "https://www.pexels.com/photo/back-view-of-municiaplal-guard-on-street-in-city-at-night-18421319/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "pais": "Brasil"
-  },
-  {
-    "id": "4bec3bd2-dac3-4b05-b8b8-a1c799f40284",
-    "titulo": "Prêmio da Mega-Sena acumula e chega a R$ 25 milhões para o próximo sorteio",
-    "lead": "Nenhum apostador acertou as seis dezenas do Concurso 3.049 da Mega-Sena realizado nesta terça-feira (25), elevando o prêmio estimado para R$ 25 milhões.",
-    "corpo": "O concurso mais recente da Mega-Sena, realizado nesta terça-feira (25), não registrou ganhadores na faixa principal de premiação. Com isso, os valores acumularam, e a estimativa da Caixa Econômica Federal para o próximo sorteio é de R$ 25 milhões.\n\nAs dezenas sorteadas no Concurso 3.049 foram: 06, 13, 36, 43, 53 e 55. Embora ninguém tenha levado o prêmio máximo, dezenas de apostadores foram contemplados nas faixas secundárias. No total, 22 apostas acertaram cinco números, garantindo o prêmio individual de R$ 41.986,04. Além disso, 1.567 apostas acertaram quatro dezenas, com cada ganhador recebendo R$ 971,64.\n\nAs apostas para o próximo concurso já estão abertas e podem ser registradas até as 20h (horário de Brasília) da próxima quinta-feira (27). Os jogos podem ser realizados de forma presencial em qualquer casa lotérica credenciada no país ou por meio dos canais eletrônicos oficiais da Caixa, incluindo o portal de Loterias na internet e o aplicativo móvel dedicado.\n\nO valor da aposta simples, que consiste na marcação de seis dezenas no volante, é de R$ 6. As loterias federais movimentam milhões de apostadores em todo o território nacional semanalmente, oferecendo premiações expressivas em suas diversas modalidades.",
-    "categoria": "Economia",
-    "publicado_em": "2026-08-27T04:26:32.513061+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/mega-sena-acumula-para-r-25-milhoes-confira-os-numeros-sorteados",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/8266775/pexels-photo-8266775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Erik Mclean",
-      "photographer_url": "https://www.pexels.com/@introspectivedsgn",
-      "pexels_url": "https://www.pexels.com/photo/a-person-holding-lottery-tickets-8266775/"
     },
     "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
     "pais": "Brasil"
