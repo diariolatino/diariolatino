@@ -1,5 +1,39 @@
 [
   {
+    "id": "4708856c-87fb-4cf2-a98a-c76e54ac136e",
+    "titulo": "Atualização: Ibovespa sobe 1,3% impulsionado pela disparada do petróleo e dólar recua para R$ 5,15",
+    "lead": "O principal índice da bolsa de valores brasileira avançou 1,3% e atingiu o maior patamar em quase quatro meses, sustentado pela alta dos preços internacionais do petróleo em meio a tensões geopolíticas.",
+    "corpo": "O mercado financeiro brasileiro encerrou a sessão com ganhos expressivos no mercado acionário e valorização da moeda nacional. O Ibovespa avançou 1,3%, alcançando 179.722,48 pontos — nível mais alto registrado desde meados de maio —, enquanto o dólar comercial caiu 0,54%, cotado a R$ 5,153.\n\nA movimentação positiva foi impulsionada sobretudo pelo setor de energia. As ações preferenciais e ordinárias da Petrobras subiram mais de 4%, acompanhando a disparada do barril de petróleo no exterior. O Brent avançou 4,6%, para US$ 94,65, e o WTI registrou alta de 5,2%, aos US$ 90,22, após novos episódios de conflito entre Estados Unidos e Irã que elevaram o temor de interrupções no fornecimento global da commodity pelo Oriente Médio.\n\nNo cenário doméstico, os investidores assimilaram os dados do Produto Interno Bruto (PIB) do segundo trimestre, que apontou expansão de 0,5% em relação ao período anterior, indicando arrefecimento na atividade econômica após a alta de 1,1% registrada nos três primeiros meses do ano. O resultado reforçou apostas de futuros cortes na taxa básica de juros (Selic), atualmente em 14% ao ano.\n\nApesar da perda inicial de fôlego do real no início das negociações devido aos dados do PIB, o ingresso de divisas atrelado à valorização das commodities e o movimento conjunto de moedas emergentes garantiram o fechamento em baixa da moeda norte-americana.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-03T01:13:11.969507+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bolsa-sobe-13-e-atinge-maior-nivel-em-quase-quatro-meses",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/7947742/pexels-photo-7947742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "RDNE Stock project",
+      "photographer_url": "https://www.pexels.com/@rdne",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/close-up-shot-of-a-graph-7947742/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Actualización: El Ibovespa sube 1,3% impulsado por el alza del petróleo y el dólar retrocede a 5,15 reales",
+        "lead": "El principal índice de la bolsa de valores brasileña avanzó un 1,3% y alcanzó su mayor nivel en casi cuatro meses, respaldado por el aumento de los precios internacionales del petróleo ante las tensiones geopolíticas.",
+        "corpo": "El mercado financiero brasileño finalizó la jornada con sólidas ganancias en el sector bursátil y una apreciación de la moneda local. El índice Ibovespa subió un 1,3%, situándose en 179.722,48 puntos —su nivel más alto desde mediados de mayo—, mientras que el dólar comercial cayó un 0,54%, cotizándose a 5,153 reales.\n\nEl avance estuvo impulsado principalmente por el sector energético. Las acciones preferenciales y ordinarias de Petrobras ganaron más de un 4%, en línea con el fuerte repunte del barril de crudo en los mercados globales. El Brent subió un 4,6% hasta los 94,65 dólares y el WTI avanzó un 5,2% hasta los 90,22 dólares, luego de nuevos incidentes bélicos entre Estados Unidos e Irán que avivaron el temor a cortes en el suministro mundial de hidrocarburos en Oriente Medio.\n\nEn el plano interno, los agentes económicos evaluaron las cifras del Producto Interno Bruto (PIB) del segundo trimestre, que reflejó un crecimiento del 0,5% respecto al trimestre anterior, lo que evidencia una desaceleración de la actividad tras el avance del 1,1% visto en los primeros tres meses. Este dato reforzó las expectativas de próximos recortes en la tasa básica de interés (Selic), actualmente en el 14% anual.\n\nA pesar de la debilidad inicial del real tras los datos del PIB, el flujo vinculado al alza de las materias primas y el comportamiento favorable de las divisas emergentes aseguraron la caída final del billete estadounidense."
+      },
+      "en": {
+        "titulo": "Update: Brazil's Ibovespa rises 1.3% driven by oil surge as dollar drops to 5.15 reais",
+        "lead": "Brazil's benchmark stock index climbed 1.3% to reach its highest level in nearly four months, buoyed by rising global oil prices amid escalating geopolitical tensions.",
+        "corpo": "The Brazilian financial market concluded the trading session with solid gains in equities and a strengthening domestic currency. The Ibovespa index rose 1.3% to close at 179,722.48 points—its highest mark since mid-May—while the commercial dollar declined 0.54% to trade at 5.153 reais.\n\nThe rally was driven primarily by the energy sector. Petrobras preferred and common shares gained over 4%, tracking the sharp advance of crude oil in international markets. Brent crude jumped 4.6% to $94.65 per barrel, while WTI rose 5.2% to $90.22, following new military strikes between the United States and Iran that heightened concerns over Middle Eastern supply disruptions.\n\nOn the domestic front, investors processed the second-quarter Gross Domestic Product (GDP) figures, which showed an expansion of 0.5% compared to the previous quarter. The reading confirmed a cooling pace of economic activity following the 1.1% growth recorded in the first quarter, bolstering market expectations of upcoming interest rate cuts from the current 14% Selic level.\n\nDespite early volatility for the Brazilian real following the GDP release, foreign inflows linked to higher commodity prices and positive momentum across emerging market currencies secured the greenback's downturn by the close."
+      }
+    },
+    "atualizacao_de": "96b20e19-e869-4761-a866-046c99c888d2"
+  },
+  {
     "id": "96b20e19-e869-4761-a866-046c99c888d2",
     "titulo": "Bolsa brasileira dispara mais de 3% e atinge maior nível desde maio com recuo do dólar",
     "lead": "O principal índice da bolsa de valores brasileira, o Ibovespa, registrou uma expressiva alta de 3,05% nesta quarta-feira (2), impulsionado pelo cenário eleitoral doméstico e pelo retorno do fluxo de capital estrangeiro, enquanto o dólar recuou para R$ 5,106.",
@@ -1872,26 +1906,6 @@
       "photographer": "Roy Serafin",
       "photographer_url": "https://www.pexels.com/@roythephotographer",
       "pexels_url": "https://www.pexels.com/photo/bustling-street-scene-in-rio-de-janeiro-brazil-36845114/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "pais": "Brasil"
-  },
-  {
-    "id": "728bb68e-3c49-479d-a24e-3733badca1a9",
-    "titulo": "Eclipse parcial da Lua poderá ser observado em todo o território brasileiro nesta quinta-feira",
-    "lead": "O Brasil se prepara para acompanhar um eclipse parcial da Lua nesta quinta-feira (27), com visibilidade em todo o país e pico estimado para a madrugada de sexta-feira (28).",
-    "corpo": "Os amantes da astronomia em território brasileiro terão a oportunidade de contemplar um eclipse parcial da Lua a partir das 23h34 (horário de Brasília) desta quinta-feira. De acordo com informações repassadas pela astrônoma Josina Oliveira do Nascimento, do Observatório Nacional, o ponto máximo do fenômeno — momento em que o satélite natural atingirá seu maior grau de obscurecimento, alcançando 96,2% de cobertura pela umbra — ocorrerá à 01h13 da madrugada de sexta-feira (28). O término da fase parcial está programado para as 02h52.\n\nO fenômeno ocorre quando a Lua penetra na sombra projetada pela Terra, que se divide em penumbra (zona mais clara) e umbra (zona mais escura). Conforme explicou a especialista, a entrada na penumbra, iniciada horas antes, não altera visivelmente o brilho lunar a olho nu. Contudo, a partir do ingresso na umbra, o satélite passa a exibir uma aparência característica de ter sofrido uma mordida, podendo assumir uma tonalidade avermelhada pouco antes de deixar a sombra terrestre. A fase parcial do evento terá duração total de 3 horas e 18 minutos.\n\nDiferentemente dos eclipses solares, que demandam equipamentos e filtros de proteção específicos para evitar danos à visão, o eclipse lunar pode ser apreciado diretamente a olho nu, desde que as condições meteorológicas sejam favoráveis e não haja nebulosidade ou chuva. O evento astronômico integra o ciclo Saros 138, que regula recorrências de eclipses com padrões semelhantes a cada 18 anos.\n\nPara aqueles que desejam aprofundar o conhecimento ou acompanhar o evento de forma remota, o Observatório Nacional realizará uma transmissão ao vivo em seu canal oficial no YouTube a partir das 23h, integrada ao programa 'O Céu em sua Casa'. A live contará com cobertura detalhada de todas as fases do alinhamento entre Sol, Terra e Lua.",
-    "categoria": "Ciência & Ambiente",
-    "publicado_em": "2026-08-27T03:25:36.557500+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/eclipse-parcial-da-lua-nesta-quinta-feira-sera-visto-em-todo-o-brasil",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/28491144/pexels-photo-28491144.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Jozef Papp",
-      "photographer_url": "https://www.pexels.com/@jozef-papp-2504818",
-      "pexels_url": "https://www.pexels.com/photo/spectacular-lunar-eclipse-captured-in-detail-28491144/"
     },
     "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
     "pais": "Brasil"
