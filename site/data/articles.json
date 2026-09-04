@@ -1,5 +1,39 @@
 [
   {
+    "id": "86d89b5f-6376-4cf3-a8ab-80f22d50c910",
+    "titulo": "Brasil atinge 2 milhões de trabalhadores por aplicativos com jornadas maiores e menor remuneração por hora",
+    "lead": "Levantamento inédito do Instituto Brasileiro de Geografia e Estatística revela que quase dois milhões de brasileiros atuavam por meio de plataformas digitais em 2025, enfrentando alta informalidade e jornadas mais extensas que a média nacional.",
+    "corpo": "Cerca de 1,96 milhão de pessoas exerciam atividades remuneradas por meio de plataformas digitais no Brasil em 2025, o equivalente a 1,9% da população ocupada no país. Os dados integram uma edição temática da Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua, divulgada pelo Instituto Brasileiro de Geografia e Estatística (IBGE).\n\nO contingente de trabalhadores plataformizados concentra-se majoritariamente no transporte de passageiros, segmento que reúne 1,2 milhão de pessoas — das quais 1,1 milhão utilizam serviços de corrida individual e cerca de 232 mil atuam via táxis. Outros 376 mil atuam na entrega de mercadorias e alimentos, setor que registrou alta de 18,6% na comparação anual, enquanto 313 mil exercem serviços gerais ou profissionais, incluindo tecnologia e telemedicina. Quando considerados apenas os trabalhadores que têm nos aplicativos sua atividade principal, o grupo alcançou 1,8 milhão de pessoas, acumulando um avanço de 36,8% frente aos patamares de 2022.\n\nA pesquisa traçou o perfil socioeconômico dessa categoria, marcada pela predominância masculina (84,4%) e jovem, além da falta de alternativas no mercado tradicional como principal motivo para ingresso nas plataformas. O rendimento médio mensal dos trabalhadores por aplicativo ficou em R$ 3.147, em nível equivalente ao dos profissionais não plataformizados. Contudo, os prestadores de serviço digital cumpriram uma jornada semanal média de 44,7 horas, frente a 39,3 horas dos demais ocupados. Como reflexo, a remuneração média por hora trabalhada foi de R$ 16,20, valor 12% inferior aos R$ 18,40 pagos aos trabalhadores fora do ecossistema de aplicativos.\n\nO estudo aponta ainda forte vulnerabilidade social: 72,1% dos profissionais de plataformas estão na informalidade e apenas 34% contam com proteção previdenciária, ante 63% no restante do setor privado. Embora 86,8% se declarem autônomos, a ampla maioria relata dependência direta das empresas na definição de prazos, remunerações e regras de repasse.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-04T16:15:50.383766+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-tem-2-milhoes-de-pessoas-que-trabalham-por-meio-de-aplicativos",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/29218745/pexels-photo-29218745.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Alex Dos Santos",
+      "photographer_url": "https://www.pexels.com/@alex-dos-santos-305643819",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/dynamic-black-and-white-motorcycle-delivery-photo-29218745/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasil alcanza 2 millones de trabajadores por aplicaciones con jornadas más extensas y menor ingreso por hora",
+        "lead": "Un informe del Instituto Brasileño de Geografía y Estadística revela que cerca de dos millones de brasileños trabajaban mediante plataformas digitales en 2025, bajo alta informalidad y con jornadas superiores al promedio nacional.",
+        "corpo": "Cerca de 1,96 millones de personas realizaban labores remuneradas a través de plataformas digitales en Brasil durante 2025, lo que representa el 1,9% de la población ocupada del país. Los datos forman parte de una edición temática de la Encuesta Nacional Continua por Muestreo de Hogares (Pnad), difundida por el Instituto Brasileño de Geografía y Estadística (IBGE).\n\nEl grupo de trabajadores de plataformas se concentra principalmente en el transporte de pasajeros, actividad que reúne a 1,2 millones de personas —de las cuales 1,1 millones utilizan aplicaciones de transporte privado y 232.000 operan mediante taxis—. Otros 376.000 se desempeñan como repartidores de comida y mercancías, rubro que creció un 18,6% interanual, mientras que 313.000 prestan servicios profesionales y generales, como diseño o telemedicina. Entre quienes tienen en las aplicaciones su empleo principal, el total sumó 1,8 millones de personas, lo que refleja un aumento del 36,8% en comparación con 2022.\n\nEl estudio identificó una marcada presencia masculina (84,4%) y de adultos jóvenes, además de señalar la falta de opciones en el mercado laboral formal como la principal causa de ingreso a estas plataformas. El ingreso mensual promedio se ubicó en 3.147 reales, similar al de los ocupados fuera de aplicaciones. No obstante, los trabajadores de plataformas cumplieron semanas laborales promedio de 44,7 horas, frente a las 39,3 horas del resto de los empleados. En consecuencia, el ingreso por hora trabajada fue de 16,20 reales, un 12% inferior a los 18,40 reales registrados fuera de este ecosistema.\n\nLa investigación también evidenció una alta vulnerabilidad: el 72,1% de los trabajadores de aplicaciones opera en la informalidad y solo el 34% aporta a la seguridad social, frente al 63% en los demás sectores. Pese a que el 86,8% se declara trabajador por cuenta propia, la gran mayoría reconoce depender enteramente de los algoritmos y tarifas fijadas por las plataformas."
+      },
+      "en": {
+        "titulo": "Brazil reaches 2 million gig economy workers facing longer hours and lower hourly wages",
+        "lead": "A study by the Brazilian Institute of Geography and Statistics reveals that nearly two million Brazilians worked through digital platforms in 2025, confronting high informality and longer working hours than the national average.",
+        "corpo": "Approximately 1.96 million people performed paid work through digital platforms in Brazil in 2025, representing 1.9% of the country’s employed population. The data comes from a specialized edition of the Continuous National Household Sample Survey (Pnad), released by the Brazilian Institute of Geography and Statistics (IBGE).\n\nThe platform workforce is predominantly concentrated in passenger transport, which accounts for 1.2 million individuals — 1.1 million operating through ride-hailing services and roughly 232,000 using taxi apps. Another 376,000 workers were engaged in food and parcel delivery, a segment that grew 18.6% year-on-year, while 313,000 provided general or specialized professional services, including technology and telemedicine. Among those who relied on digital platforms as their primary occupation, the contingent reached 1.8 million people, reflecting a 36.8% increase compared to 2022.\n\nThe survey outlined a profile characterized by male predominance (84.4%) and younger age brackets, with the difficulty of finding conventional employment cited as the primary driver for entering the sector. While average monthly earnings stood at 3,147 reais, mirroring the earnings of workers outside platforms, gig workers logged an average of 44.7 hours per week compared to 39.3 hours for other private-sector workers. As a result, the average hourly pay for app workers was 16.20 reais, 12% below the 18.40 reais recorded in conventional roles.\n\nThe findings also underscored severe social vulnerability: 72.1% of platform workers operate informally, and merely 34% contribute to the public pension system, compared to 63% among non-platform workers. Although 86.8% identify as self-employed, most report direct dependence on platform algorithms to determine fees, deadlines, and operational conditions."
+      }
+    },
+    "atualizacao_de": "2238dbd4-a384-4556-af83-f3f1f2f6dec6"
+  },
+  {
     "id": "935f62a2-890b-4eec-86b8-3e25c83b5bf8",
     "titulo": "Apenas 19,4% dos motociclistas de aplicativo possuem cobertura previdenciária no Brasil, aponta IBGE",
     "lead": "Um levantamento do Instituto Brasileiro de Geografia e Estatística (IBGE) revelou que somente um em cada cinco motociclistas que trabalham por meio de aplicativos no Brasil conta com proteção previdenciária, em um cenário de forte expansão do setor.",
@@ -1976,39 +2010,6 @@
         "titulo": "Diplomatic deadlock at COP17 delays global agreement on drought management",
         "lead": "The 17th UN Desertification Conference in Mongolia is set to conclude without a binding international drought framework, postponing final decisions to 2028.",
         "corpo": "Negotiations at the 17th United Nations Conference of the Parties to Combat Desertification (COP17) in Ulaanbaatar, Mongolia, are expected to close without the establishment of a binding multilateral drought agreement. The lack of consensus among delegations will yield a purely procedural resolution, deferring comprehensive discussions to COP18, scheduled to take place in Egypt in 2028.\n\nOpposition to a mandatory regime was led by the United States and the European Union, joined by South American nations including Argentina, Chile, and Paraguay. These parties resisted mandatory financial commitments, advocating instead for voluntary initiatives. Conversely, African nations strongly pushed for an enforceable mechanism with dedicated international funding, warning that drought has evolved into a persistent systemic risk that extends far beyond general land degradation.\n\nBrazil worked alongside Saudi Arabia to broker an outcome that ensures the topic remains on the UN agenda, countering efforts by US negotiators to drop the matter entirely from the closing documents. While supportive of a formal global regime, Brazilian diplomats acknowledged the political impossibility of reaching a unified agreement during this summit.\n\nData from the United Nations Convention to Combat Desertification (UNCCD) indicates that the frequency, intensity, and geographical extent of droughts have surged by nearly 30% since 2000, severely disrupting international trade routes, food production, and logistics.\n\nDespite the stall on the formal treaty, the conference saw progress on parallel funding initiatives. Key developments included financial commitments through the Riyadh Global Drought Resilience Alliance, the launch of the catalytic Drought Resilience Investment Fund (DRIF), and the rollout of Phase 2 of the International Drought Resilience Observatory, designed to improve predictive risk management and response capabilities."
-      }
-    }
-  },
-  {
-    "id": "b3f555b1-ce56-4e3b-bab7-aa27469d0a88",
-    "titulo": "Turnê de León XIV na Argentina mobiliza expectativas sobre possíveis destinos",
-    "lead": "A possível passagem de León XIV pela Argentina durante sua turnê gera projeções sobre as cidades e locais que farão parte do itinerário no país sul-americano.",
-    "corpo": "A perspectiva de uma série de apresentações de León XIV na Argentina tem despertado atenção acerca dos locais e cidades que poderão integrar o roteiro oficial durante a visita. O país, tradicional polo cultural e de eventos de grande porte na América do Sul, desponta como um dos principais palcos a serem considerados no circuito regional.\n\nEmbora o cronograma completo e os detalhes logísticos de cada etapa dependam de confirmações oficiais por parte dos organizadores, analistas e o público local acompanham a definição dos possíveis palcos e centros urbanos com infraestrutura adequada para receber a passagem da turnê. A escolha de destinos costuma envolver praças com histórico de eventos de grande relevância nacional e internacional, a exemplo da capital e de centros urbanos estratégicos.\n\nMais informações sobre datas, locais definitivos e organização da agenda em território argentino deverão ser divulgadas conforme avançarem os anúncios das equipes responsáveis pelo planejamento da turnê.",
-    "categoria": "Sociedade",
-    "pais": "Argentina",
-    "publicado_em": "2026-08-31T00:11:45.273026+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://www.nuevodiarioweb.com.ar/el-pais/info-santiago-estero-leon-xiv-en-argentina-los-lugares-que-podria-visitar-durante-su-gira.htm",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/13230484/pexels-photo-13230484.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Lisa Fotios",
-      "photographer_url": "https://www.pexels.com/@fotios-photos",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/crowd-of-people-at-a-concert-13230484/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "La gira de León XIV en Argentina genera expectativas sobre los posibles destinos",
-        "lead": "El eventual paso de León XIV por Argentina durante su gira suscita proyecciones sobre las ciudades y recintos que formarán parte de su itinerario en el país sudamericano.",
-        "corpo": "La perspectiva de una serie de presentaciones de León XIV en Argentina ha despertado interés en torno a las locaciones y ciudades que podrían sumarse a la ruta oficial durante la visita. El país, tradicional polo cultural y de eventos de gran escala en América del Sur, figura como uno de los escenarios centrales a ser considerados en el circuito regional.\n\nSi bien el cronograma completo y los detalles logísticos de cada etapa dependen de las confirmaciones oficiales de los organizadores, el público local sigue de cerca la definición de los posibles recintos y centros urbanos dotados de la infraestructura requerida para acoger la gira. La selección de destinos suele considerar plazas con trayectoria en acontecimientos de alta trascendencia nacional e internacional, como la capital y otros puntos estratégicos.\n\nNuevos datos sobre fechas, sedes definitivas y la organización de la agenda en territorio argentino se darán a conocer a medida que avancen los anuncios oficiales a cargo del equipo de producción."
-      },
-      "en": {
-        "titulo": "León XIV's tour in Argentina raises expectations over potential venues",
-        "lead": "The anticipated visit of León XIV to Argentina as part of an upcoming tour has generated interest regarding the cities and venues that may be included in the itinerary.",
-        "corpo": "The prospect of a series of appearances by León XIV in Argentina has drawn attention to the specific cities and locations that could be included on the official schedule. The South American nation, a long-standing hub for major events and cultural gatherings in the region, stands out as a prime stop for regional circuits.\n\nWhile the full schedule and logistical arrangements for each leg remain subject to official confirmation from organizers, observers and the local audience are monitoring the potential selection of venues with the capacity and infrastructure required for such an event. Tour destinations typically focus on key metropolitan areas and major venues accustomed to hosting high-profile national and international engagements.\n\nFurther details regarding dates, confirmed venues, and organizational milestones across Argentina are expected to be announced as the tour's production team finalizes arrangements."
       }
     }
   }
