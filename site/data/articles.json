@@ -1,5 +1,39 @@
 [
   {
+    "id": "1b35d40a-d240-4c4e-859a-a8b1d76b07ba",
+    "titulo": "Ministério do Interior da Colômbia apresenta balanço da Cúpula de Governadores",
+    "lead": "O Ministério do Interior da Colômbia divulgou o balanço oficial dos trabalhos e deliberações da Cúpula de Governadores, ressaltando o alinhamento entre o governo nacional e as administrações regionais.",
+    "corpo": "O pronunciamento do Ministério do Interior colombiano (MinInterior) apresentou a prestação de contas e o resumo das atividades desenvolvidas durante a mais recente edição da Cúpula de Governadores. O encontro reuniu chefes dos Executivos departamentais e representantes do governo central para tratar da coordenação institucional, do avanço de projetos territoriais e do alinhamento de políticas públicas em todo o país.\n\nDe acordo com as informações divulgadas pelo ministério, as reuniões permitiram avaliar o andamento de compromissos previamente assumidos, além de estabelecer novas diretrizes de trabalho conjunto. Entre os tópicos centrais abordados estiveram a segurança pública nas regiões, o financiamento de obras de infraestrutura local, o fortalecimento da gestão descentralizada e a implementação de programas sociais voltados às populações vulneráveis nos territórios departamentais.\n\nA articulação entre a administração nacional e os governos regionais é considerada fundamental para a governabilidade e para a execução eficiente do orçamento público na Colômbia. A Cúpula de Governadores funciona como um espaço de diálogo direto, no qual as demandas locais são apresentadas ao Executivo federal para a busca de soluções concertadas.\n\nCom a apresentação do balanço oficial, o Ministério do Interior reafirmou o compromisso do governo central em manter canais abertos de negociação e acompanhamento com os departamentos. As autoridades ressaltaram que o monitoramento constante dos acordos firmados garantirá maior transparência e efetividade na aplicação dos recursos públicos destinados ao desenvolvimento regional.",
+    "categoria": "Política",
+    "pais": "Colômbia",
+    "publicado_em": "2026-09-04T23:13:55.449778+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.lafm.com.co/politica/colombia-marco-rubio-secretario-estado-mininterior-cumbre-gobernadores-estatuto-antiterrorista-409958",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/13613518/pexels-photo-13613518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Parcerografo",
+      "photographer_url": "https://www.pexels.com/@rafs",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-person-man-in-green-long-sleeve-shirt-walking-near-edificio-a-lopez-building-13613518/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Ministerio del Interior de Colombia presenta balance de la Cumbre de Gobernadores",
+        "lead": "El Ministerio del Interior de Colombia presentó el balance oficial de los trabajos y deliberaciones de la Cumbre de Gobernadores, destacando la articulación entre el gobierno nacional y las administraciones departamentales.",
+        "corpo": "El pronunciamiento del Ministerio del Interior colombiano (MinInterior) presentó la rendición de cuentas y el resumen de las actividades desarrolladas durante la más reciente edición de la Cumbre de Gobernadores. El encuentro reunió a jefes de los Ejecutivos departamentales y representantes del gobierno central para tratar la coordinación institucional, el avance de proyectos territoriales y la articulación de políticas públicas en todo el país.\n\nDe acuerdo con la información divulgada por el ministerio, las reuniones permitieron evaluar el avance de compromisos previamente asumidos, además de establecer nuevas directrices de trabajo conjunto. Entre los temas centrales abordados estuvieron la seguridad pública en las regiones, el financiamiento de obras de infraestructura local, el fortalecimiento de la gestión descentralizada y la implementación de programas sociales orientados a las poblaciones vulnerables en los territorios departamentales.\n\nLa articulación entre la administración nacional y los gobiernos regionales es considerada fundamental para la gobernabilidad y para la ejecución eficiente del presupuesto público en Colombia. La Cumbre de Gobernadores funciona como un espacio de diálogo directo, en el cual las demandas locales son presentadas al Ejecutivo federal para la búsqueda de soluciones concertadas.\n\nCon la presentación del balance oficial, el Ministerio del Interior reafirmó el compromiso del gobierno central de mantener canales abiertos de negociación y seguimiento con los departamentos. Las autoridades resaltaron que el monitoreo constante de los acuerdos firmados garantizará mayor transparencia y efectividad en la aplicación de los recursos públicos destinados al desarrollo regional."
+      },
+      "en": {
+        "titulo": "Colombia’s Ministry of Interior Presents Overview of Governors’ Summit",
+        "lead": "Colombia’s Ministry of the Interior released the official assessment of the deliberations held at the Governors’ Summit, emphasizing alignment between the national government and departmental administrations.",
+        "corpo": "The statement by the Colombian Ministry of the Interior (MinInterior) presented an account and summary of the activities carried out during the latest edition of the Governors’ Summit. The gathering brought together departmental executive leaders and central government representatives to address institutional coordination, the progress of territorial projects, and the alignment of public policies nationwide.\n\nAccording to the information released by the ministry, the sessions made it possible to review progress on previously established commitments, as well as set new guidelines for joint work. Key issues discussed included regional public safety, funding for local infrastructure projects, strengthening decentralized management, and implementing social programs aimed at vulnerable populations across departmental territories.\n\nCoordination between the national administration and regional governments is considered essential for governance and the efficient execution of the public budget in Colombia. The Governors’ Summit serves as a forum for direct dialogue, enabling local demands to be brought before the federal executive to seek concerted solutions.\n\nBy presenting the official summary, the Ministry of the Interior reaffirmed the central government's commitment to maintaining open channels of negotiation and follow-up with the departments. Officials stressed that ongoing monitoring of signed agreements will ensure greater transparency and effectiveness in allocating public funds for regional development."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "d2c01575-6d5a-44bb-aab1-0bf643255755",
     "titulo": "Governo federal e estado do Rio de Janeiro firmam acordos para combater o crime organizado e proteger corredores logísticos",
     "lead": "Dois acordos de cooperação técnica foram formalizados para intensificar a retomada de territórios dominados por facções e blindar vias estratégicas de transporte no Rio de Janeiro. A iniciativa une forças federais e estaduais com ênfase em inteligência, tecnologia e descapitalização patrimonial de grupos criminosos.",
@@ -1979,39 +2013,6 @@
         "titulo": "Inmet warns of storms and hail in southern Brazil while heat dominates other regions",
         "lead": "Brazil's National Meteorological Institute has issued weather alerts highlighting a sharp climatic contrast across the country, with severe storms in the South and intense heat elsewhere.",
         "corpo": "Brazil's National Meteorological Institute (Inmet) reported that the country's Southern Region faces a high risk of severe thunderstorms accompanied by hail and strong winds, while the remaining regions experience elevated temperatures and dry air.\n\nDue to the intense atmospheric instability, an orange danger warning was issued for storms covering the entire state of Santa Catarina, northern Rio Grande do Sul, and parts of western, central, and eastern Paraná, including the capital cities of Curitiba and Florianópolis. Other areas across the three southern states remain under a yellow potential danger alert. In Rio Grande do Sul, temperatures are expected to drop sharply, with highs staying below 19°C in Porto Alegre, whereas Curitiba could reach 35°C before the weather shifts.\n\nConversely, the central and northern parts of Brazil are experiencing a significant heatwave paired with low relative humidity. Forecasts indicate maximum temperatures reaching up to 41°C in cities such as Cuiabá and Porto Velho, alongside figures near 40°C in the Matopiba agricultural region (comprising Maranhão, Tocantins, Piauí, and Bahia). In São Paulo, temperatures may reach 36°C, while Brasília is expected to record around 33°C.\n\nInmet also reinforced yellow alerts for low afternoon air humidity across extensive sections of the Central-West, Northeast, and the southern Amazon basin, conditions that require vigilance regarding health precautions and wildfire prevention."
-      }
-    }
-  },
-  {
-    "id": "a8013861-9abf-4bb4-b15c-ef6f03ea5f6c",
-    "titulo": "Governo da Colômbia formaliza início do plano de reconstrução pós-terremoto",
-    "lead": "O governo da Colômbia anunciou o início oficial das operações de reconstrução e assistência nas regiões atingidas por um recente terremoto no país.",
-    "corpo": "O governo colombiano confirmou o lançamento do plano de reconstrução destinado a atender as áreas impactadas pelo sismo que atingiu o território nacional. A medida busca coordenar ações estatais para a recuperação de infraestruturas danificadas, restauração de serviços essenciais e prestação de auxílio direto às famílias afetadas pelo evento natural.\n\nAs diretrizes divulgadas estabelecem que órgãos federais e locais atuarão em conjunto no mapeamento dos estragos e na execução das obras prioritárias. As frentes de trabalho contemplam desde a desobstrução de vias e reparo de edifícios públicos até o apoio habitacional e social para a população em situação de vulnerabilidade após o tremor.\n\nA estratégia governamental prioriza a normalização das rotinas comunitárias e a segurança estrutural das zonas atingidas. Autoridades locais seguem realizando levantamentos técnicos para mensurar o impacto total do abalo e ajustar o cronograma de recursos necessários ao longo das etapas de reconstrução no país.",
-    "categoria": "Sociedade",
-    "pais": "Colômbia",
-    "publicado_em": "2026-08-31T04:09:07.001557+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://www.elespectador.com/politica/gobierno-anuncia-el-inicio-de-la-reconstruccion-tras-el-terremoto-en-colombia/",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/14000727/pexels-photo-14000727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Franklin Peña Gutierrez",
-      "photographer_url": "https://www.pexels.com/@franklin-pena-gutierrez-337911674",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/demolished-residential-buildings-14000727/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Gobierno de Colombia formaliza el inicio del plan de reconstrucción tras terremoto",
-        "lead": "El gobierno de Colombia anunció el inicio oficial de las operaciones de reconstrucción y asistencia en las regiones afectadas por un reciente terremoto en el país.",
-        "corpo": "El gobierno colombiano confirmó el lanzamiento del plan de reconstrucción destinado a atender las áreas impactadas por el sismo que afectó al territorio nacional. La medida busca coordinar acciones estatales para la recuperación de infraestructuras dañadas, la restauración de servicios esenciales y la prestación de ayuda directa a las familias afectadas por el evento natural.\n\nLas directrices divulgadas establecen que organismos federales y locales actuarán de manera conjunta en el mapeo de los daños y en la ejecución de las obras prioritarias. Las frentes de trabajo contemplan desde la remoción de escombros y reparación de edificios públicos hasta el apoyo habitacional y social para la población en situación de vulnerabilidad tras el temblor.\n\nLa estrategia gubernamental prioriza la normalización de las rutinas comunitarias y la seguridad estructural de las zonas afectadas. Las autoridades locales continúan realizando evaluaciones técnicas para medir el impacto total del sismo y ajustar el cronograma de recursos necesarios a lo largo de las etapas de reconstrucción en el país."
-      },
-      "en": {
-        "titulo": "Colombian Government Formally Begins Post-Earthquake Reconstruction Plan",
-        "lead": "The Colombian government has announced the official start of reconstruction and relief operations in the regions affected by a recent earthquake in the country.",
-        "corpo": "The Colombian government confirmed the launch of a reconstruction plan designed to address the areas impacted by the earthquake that struck the national territory. The measure aims to coordinate state actions for repairing damaged infrastructure, restoring essential services, and providing direct assistance to families affected by the natural event.\n\nThe guidelines released state that federal and local agencies will work jointly to assess damages and execute priority reconstruction projects. The operational fronts range from clearing roadways and repairing public buildings to offering housing and social support for vulnerable populations following the tremor.\n\nThe government's strategy prioritizes restoring community routines and ensuring the structural safety of the affected zones. Local authorities continue to conduct technical evaluations to measure the overall impact of the earthquake and adjust the resource schedule throughout the reconstruction phases in the country."
       }
     }
   }
