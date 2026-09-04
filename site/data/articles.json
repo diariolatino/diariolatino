@@ -1,5 +1,39 @@
 [
   {
+    "id": "e7e1b024-cb83-41d6-8b23-c2e726fdcaca",
+    "titulo": "Sporting Cristal se pronuncia após agressão a Julio César Uribe perto de estádio no Peru",
+    "lead": "O clube peruano Sporting Cristal emitiu um pronunciamento oficial após o ex-jogador e ídolo esportivo Julio César Uribe sofrer uma agressão nas imediações do Estádio Alberto Gallardo, em Lima.",
+    "corpo": "O Sporting Cristal manifestou-se publicamente após o ex-atleta e treinador Julio César Uribe ser vítima de uma agressão física nas proximidades do Estádio Alberto Gallardo, na capital peruana. O incidente, registrado em vídeo por testemunhas, causou forte repercussão e indignação na comunidade esportiva do país.\n\nEm comunicado oficial, a diretoria do clube expressou solidariedade a Uribe, que é considerado uma das grandes figuras da história do futebol peruano e do próprio Sporting Cristal. A instituição condenou veementemente o ato de violência e cobrou maior segurança nos arredores das praças esportivas para proteger torcedores, profissionais e cidadãos.\n\nAs circunstâncias do ataque e a identidade dos agressores ainda não foram detalhadas pelas autoridades locais. O caso continua sob investigação, enquanto torcedores e figuras públicas exigem a identificação e punição dos responsáveis com base nas imagens divulgadas.",
+    "categoria": "Segurança",
+    "pais": "Peru",
+    "publicado_em": "2026-09-04T02:15:59.003254+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.cronicaviva.com.pe/agreden-a-julio-cesar-uribe-cerca-del-gallardo-y-cristal-emite-pronunciamiento/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/13708160/pexels-photo-13708160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Qingju Wen",
+      "photographer_url": "https://www.pexels.com/@wenn",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/concrete-buildings-in-the-city-13708160/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Sporting Cristal se pronuncia tras agresión a Julio César Uribe cerca de estadio en Perú",
+        "lead": "El club peruano Sporting Cristal emitió un pronunciamiento oficial tras la agresión sufrida por el histórico exfutbolista Julio César Uribe en las inmediaciones del Estadio Alberto Gallardo, en Lima.",
+        "corpo": "El Sporting Cristal se manifestó públicamente luego de que el exatleta y entrenador Julio César Uribe fuera víctima de una agresión física en las cercanías del Estadio Alberto Gallardo, en la capital peruana. El incidente, registrado en video por testigos, causó una fuerte repercusión e indignación en la comunidad deportiva del país.\n\nEn un comunicado oficial, la directiva del club expresó su solidaridad con Uribe, quien es considerado una de las grandes figuras de la historia del fútbol peruano y del propio Sporting Cristal. La institución condenó enérgicamente el acto de violencia y exigió mayor seguridad en los alrededores de los recintos deportivos para proteger a aficionados, profesionales y ciudadanos.\n\nLas circunstancias del ataque y la identidad de los agresores aún no han sido detalladas por las autoridades locales. El caso continúa bajo investigación, mientras que aficionados y figuras públicas exigen la identificación y sanción de los responsables con base en las imágenes difundidas."
+      },
+      "en": {
+        "titulo": "Sporting Cristal Issues Statement After Assault on Julio César Uribe Near Stadium in Peru",
+        "lead": "Peruvian club Sporting Cristal issued an official statement following the assault of historic former footballer Julio César Uribe near the Alberto Gallardo Stadium in Lima.",
+        "corpo": "Sporting Cristal spoke out publicly after former athlete and coach Julio César Uribe was the victim of a physical assault near the Alberto Gallardo Stadium in the Peruvian capital. The incident, captured on video by witnesses, caused widespread backlash and outrage within the country's sports community.\n\nIn an official statement, the club's board expressed solidarity with Uribe, who is considered one of the greatest figures in the history of Peruvian football and of Sporting Cristal itself. The institution strongly condemned the act of violence and called for increased security around sports venues to protect fans, professionals, and citizens.\n\nThe circumstances of the attack and the identities of the aggressors have not yet been detailed by local authorities. The case remains under investigation, while fans and public figures demand the identification and punishment of those responsible based on the footage released."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "27b37bf2-3426-48f0-9eb4-6766de0dcb25",
     "titulo": "Banco Central proíbe anúncios e links em comprovantes do Pix a partir de 2027",
     "lead": "O Banco Central do Brasil estabeleceu novas diretrizes que vedam a inclusão de publicidade, ofertas comerciais e hiperlinks nos comprovantes de pagamento emitidos pelo sistema Pix.",
@@ -1966,39 +2000,6 @@
         "titulo": "Impasse at COP17 Postpones Creation of Global Drought Agreement to 2028",
         "lead": "The 17th United Nations Conference to Combat Desertification (COP17), held in Mongolia, is concluding without reaching a consensus on creating a binding international drought framework. Facing sharp divisions among country blocs, the decision on the matter has been postponed to the summit's next edition, planned for 2028.",
         "corpo": "Negotiations in Ulaanbaatar ran into severe financial and geopolitical disagreements. On one side, African nations pushed for the approval of a multilateral mechanism backed by mandatory funding for mitigation and preventive responses to extreme weather events. On the other side, powers such as the United States and the European Union, joined by South American countries including Argentina, Chile, and Paraguay, rejected binding targets and new international financial commitments, advocating instead for voluntary action.\n\nBrazil and Saudi Arabia stepped in to mediate and prevent the issue from being completely dropped from the summit's official documents. The negotiated outcome establishes a procedural decision that moves the framework's review to COP18, scheduled to take place in Egypt. Brazilian diplomacy defended keeping drought resilience on the multilateral agenda, while acknowledging that immediate consensus was unattainable at this gathering.\n\nData presented during the summit indicates that the frequency and severity of droughts have increased by nearly 30% since the turn of the century, impacting crucial sectors such as agricultural production, water supply, and waterway transport along major global trade routes.\n\nAlongside the diplomatic deadlock on the main agreement, the meeting in Mongolia saw announcements of complementary financial and technological initiatives. Notable among these were the initial investments from the Riyadh Global Drought Resilience Partnership and the launch of the second phase of the International Drought Resilience Observatory, a platform designed to monitor territorial vulnerabilities using artificial intelligence."
-      }
-    }
-  },
-  {
-    "id": "468ca601-1e76-4394-be44-e6a7ed9bbfd5",
-    "titulo": "Empasse entre apresentadoras Magaly Medina e Gisela Valcárcel segue sem acordo para encontro",
-    "lead": "As duas figuras de destaque da televisão peruana mantêm posições divergentes sobre as condições para realizar uma reunião presencial. A falta de consenso quanto aos termos impede a concretização do diálogo.",
-    "corpo": "A relação de rivalidade e desentendimentos entre Magaly Medina e Gisela Valcárcel, duas das figuras mais conhecidas da televisão e do entretenimento no Peru, registra a manutenção de um impasse quanto às exigências estabelecidas por cada uma para a realização de um eventual encontro.\n\nAs divergências envolvem os termos, formatos e pré-requisitos exigidos por ambas as partes para aceitar a realização da reunião. Diante da ausência de um acordo mútuo sobre essas condições prévias, a possibilidade de um diálogo direto, seja público ou privado, permanece estagnada.\n\nO histórico de controvérsias entre as comunicadoras remonta a anos de concorrência por audiência na televisão peruana. O debate sobre as condições para uma aproximação reflete o interesse constante que as divergências entre as duas personalidades despertam no cenário da mídia do país.",
-    "categoria": "Sociedade",
-    "pais": "Peru",
-    "publicado_em": "2026-08-29T14:08:18.199250+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://rpp.pe/capital/espectaculos/magaly-medina-y-gisela-valcarcel-mantienen-su-impasse-por-un-encuentro-en-sus-condiciones-noticias-1704417",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/7865064/pexels-photo-7865064.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "SHAHBAZ ZAMAN",
-      "photographer_url": "https://www.pexels.com/@shahbazzaman",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/photo-of-a-studio-set-up-7865064/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Impasse entre las conductoras Magaly Medina y Gisela Valcárcel continúa sin acuerdo para un encuentro",
-        "lead": "Las dos reconocidas figuras de la televisión peruana mantienen posiciones encontradas sobre las condiciones necesarias para concretar una reunión presencial. La falta de consenso sobre los términos impide la concreción del diálogo.",
-        "corpo": "La relación de rivalidad y desencuentros entre Magaly Medina y Gisela Valcárcel, dos de las figuras más conocidas de la televisión y el entretenimiento en el Perú, registra la persistencia de un impasse respecto a las exigencias establecidas por cada una para llevar a cabo un eventual encuentro.\n\nLas discrepancias giran en torno a los términos, formatos y requisitos previos exigidos por ambas partes para aceptar la realización de la reunión. Ante la ausencia de un acuerdo mutuo sobre estas condiciones previas, la posibilidad de un diálogo directo, ya sea público o privado, permanece estancada.\n\nEl historial de controversias entre las comunicadoras abarca varios años de competencia por la audiencia en la televisión peruana. El debate continuo sobre las condiciones para una aproximación refleja el interés constante que sus diferencias generan en el ámbito mediático del país."
-      },
-      "en": {
-        "titulo": "Standoff Between TV Hosts Magaly Medina and Gisela Valcárcel Continues Without Agreement on Meeting Terms",
-        "lead": "Two of Peru's most prominent television figures remain at odds over the conditions required to hold an in-person meeting. The lack of consensus regarding the terms has stalled potential direct dialogue.",
-        "corpo": "The long-standing rivalry and public disagreements between Magaly Medina and Gisela Valcárcel, two of the most recognized personalities in Peruvian television and entertainment, remain at an impasse due to conflicting demands set by each host for a potential meeting.\n\nThe disagreements center on the terms, formats, and prerequisites required by both parties before agreeing to meet. In the absence of mutual consensus on these preliminary conditions, any prospect of direct dialogue, whether public or private, remains suspended.\n\nThe history of friction between the two broadcasters spans years of rating competition on Peruvian television. The ongoing debate over the prerequisites for a meeting underscores the persistent media attention surrounding their public relationship in the country."
       }
     }
   }
