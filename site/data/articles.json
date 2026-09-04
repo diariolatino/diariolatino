@@ -1,5 +1,39 @@
 [
   {
+    "id": "db07e96b-a065-4cd9-96cc-147c7c58626c",
+    "titulo": "Agências bancárias fecham em todo o Brasil no feriado da Independência",
+    "lead": "As agências bancárias de todo o território brasileiro suspenderão o atendimento presencial na segunda-feira, 7 de setembro, em decorrência do feriado da Independência. Os serviços presenciais serão normalizados na terça-feira seguinte onde não houver feriados locais.",
+    "corpo": "A Federação Brasileira de Bancos (Febraban) comunicou que a rede de atendimento físico dos bancos não funcionará no feriado nacional de 7 de setembro. O atendimento presencial ao público será retomado na terça-feira (8), respeitando eventuais pontos facultativos ou feriados de caráter municipal e estadual em cada localidade.\n\nDurante a data, transferências eletrônicas como a TED e outros procedimentos que dependem de compensação bancária não serão processados. Por outro lado, as transferências instantâneas via Pix continuam operando normalmente, mantendo a disponibilidade ininterrupta durante todo o dia. As salas de autoatendimento equipadas com caixas eletrônicos poderão operar conforme determinação específica de cada instituição financeira.\n\nA Febraban orienta que a população utilize os canais digitais, como aplicativos móveis e serviços de internet banking, para a realização de consultas, transferências e pagamentos. Contas de consumo básico, a exemplo de água, energia elétrica e telefone, além de boletos de cobrança convencionais com vencimento previsto para 7 de setembro, poderão ser liquidadas no primeiro dia útil subsequente sem incidência de juros ou multas. No entanto, tributos e impostos cujo vencimento coincida com datas sem expediente bancário requerem pagamento antecipado para evitar encargos adicionais.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-04T12:19:56.914191+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bancos-nao-terao-atendimento-presencial-no-feriado-da-independencia",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/37201873/pexels-photo-37201873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Matheus Natan",
+      "photographer_url": "https://www.pexels.com/@matheusnatan",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/banco-exterior-with-reflective-glass-facade-in-brasilia-37201873/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Las agencias bancarias cerrarán en todo Brasil por el feriado de la Independencia",
+        "lead": "Las sucursales bancarias de todo el territorio brasileño suspenderán la atención presencial el lunes 7 de septiembre con motivo del feriado de la Independencia. Las actividades presenciales se normalizarán el martes siguiente donde no rijan festivos locales.",
+        "corpo": "La Federación Brasileña de Bancos (Febraban) informó que la red de atención física de las entidades financieras no operará durante el feriado nacional del 7 de septiembre. La atención presencial al público se reanudará el martes 8, sujeta a eventuales asuetos o feriados de alcance municipal y estadual en cada localidad.\n\nDurante dicha jornada, las transferencias electrónicas tradicionales y las operaciones que dependen de compensación bancaria no serán procesadas. En contraste, las transferencias instantáneas a través del sistema Pix funcionarán con normalidad, manteniendo su disponibilidad ininterrumpida las 24 horas. Las áreas de cajeros automáticos podrían permanecer habilitadas según el criterio particular de cada banco.\n\nFebraban recomienda a los usuarios recurrir a las plataformas digitales, tales como aplicaciones móviles y banca en línea, para realizar consultas, pagos y transferencias. Las facturas de servicios públicos básicos —como agua, electricidad y telefonía— y los recibos de cobro con vencimiento fijado para el 7 de septiembre podrán abonarse el día hábil siguiente sin recargos ni multas. Por el contrario, los tributos e impuestos que venzan en fechas sin liquidación bancaria deben pagarse de forma anticipada para evitar penalizaciones."
+      },
+      "en": {
+        "titulo": "Bank branches to close across Brazil for Independence Day holiday",
+        "lead": "Bank branches throughout Brazil will suspend in-person services on Monday, September 7, due to the national Independence Day holiday. Standard in-person operations will resume the following Tuesday where local holidays do not apply.",
+        "corpo": "The Brazilian Federation of Banks (Febraban) announced that physical branch networks will remain closed on the national holiday of September 7. Face-to-face customer service will resume on Tuesday, September 8, except in jurisdictions observing municipal or state holidays and optional administrative days off.\n\nThroughout the holiday, financial settlements and traditional electronic interbank transfers will not be cleared. Conversely, the instant payment platform Pix will operate normally, maintaining its round-the-clock availability. Self-service ATM areas may be accessible depending on the operational policies of individual banking institutions.\n\nFebraban advises customers to prioritize digital channels, including mobile applications and online banking platforms, for transactions, bill payments, and consultations. Utility bills—such as water, electricity, and telecommunications—alongside standard collection slips due on September 7 may be settled on the next business day without interest or penalties. However, taxes and public levies due on days without financial clearing must be settled in advance to avoid late fees."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "fc68a0e4-1872-409e-8aa2-1be1f147c032",
     "titulo": "Brasil registra quinto maior crescimento do PIB global no segundo trimestre de 2026",
     "lead": "Com avanço de 0,5% na comparação trimestral, a economia brasileira superou a média do G7 e ultrapassou o ritmo de expansão de potências como Estados Unidos e China.",
@@ -1973,39 +2007,6 @@
         "titulo": "Kicillof orchestrates national launch of political movement with federal plenary",
         "lead": "The governor of Buenos Aires province, Axel Kicillof, is organizing a federal plenary session to formalize the national launch of the Right to the Future Movement.",
         "corpo": "The governor of Buenos Aires province, Axel Kicillof, is preparing to expand his political base across Argentina with the official national launch of the Right to the Future Movement. The central event of this effort will be a federal plenary session aimed at bringing together leaders, activists, and representatives from various provinces.\n\nThe initiative marks a stage of consolidation and national projection for Kicillof's leadership in Argentine politics. Previously focused primarily on governing the country's largest electoral district, the political movement led by the governor now seeks to build a nationwide support network and structure core programmatic guidelines.\n\nThe federal plenary session is expected to gather social, trade union, and political sectors aligned with the group's agenda. The strategy comes during a period of reorganization among political forces in Argentina, aiming to elevate discussions on public policy, economic development, and social rights at a national level."
-      }
-    }
-  },
-  {
-    "id": "f00f1b41-dd49-4851-a60d-b6d2a0fea65f",
-    "titulo": "Bombeiros resgatam grupo de 20 pessoas à deriva no mar no Rio de Janeiro",
-    "lead": "Um grupo de esportistas que realizada uma travessia aquática na zona oeste do Rio de Janeiro foi resgatado pelo Corpo de Bombeiros após ser arrastado por fortes ventos neste domingo (30).",
-    "corpo": "O Corpo de Bombeiros do Rio de Janeiro realizou, neste domingo (30), o resgate de 20 pessoas que ficaram à deriva no mar na altura da Barra da Tijuca, zona oeste da capital fluminense. O grupo, composto por pessoas com idades variando entre 20 e 67 anos, acabou surpreendido por uma mudança repentina no padrão dos ventos durante a realização de uma atividade no oceano.\n\nA travessia tinha como destino planejado as Ilhas Tijucas, ponto frequente de prática de esportes aquáticos na região. Contudo, parte dos esportistas utilizava pranchas de stand up paddle — no total de cinco equipamentos —, enquanto outros realizavam o trajeto a nado. Durante o percurso, a força dos ventos empurrou o grupo para além do itinerário previsto, deslocando-os na direção do bairro de São Conrado, o que inviabilizou o regresso por meios próprios.\n\nDiante do afastamento progressivo da faixa de areia, um dos integrantes do grupo entrou em contato com o serviço de emergência da corporação por meio da central de atendimento telefônico 193. As equipes de resgate do Corpo de Bombeiros responderam ao chamado empregando motos aquáticas para alcançar e recolher as vítimas em alto-mar.\n\nApós serem trazidas em segurança para a praia, todas as 20 pessoas submeteram-se a avaliações médicas promovidas pelas equipes de socorro. A corporação informou que os resgatados encontravam-se em bom estado geral de saúde, sem registro de ferimentos graves ou necessidade de remoção para hospitais.\n\nO episódio coincidiu com alterações nas condições atmosféricas observadas na cidade do Rio de Janeiro. De acordo com informações fornecidas pelo sistema Alerta Rio da Prefeitura Municipal, a capital registrou ventos fortes e moderados em diferentes postos de medição no início do dia, antecedendo a aproximação de uma frente fria prevista para modificar o tempo ao longo da semana.",
-    "categoria": "Sociedade",
-    "pais": "Brasil",
-    "publicado_em": "2026-08-30T21:09:50.905289+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/grupo-de-20-pessoas-fica-deriva-no-rio-e-e-resgatado-pelos-bombeiros",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/16533141/pexels-photo-16533141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Rcastro creative",
-      "photographer_url": "https://www.pexels.com/@rcastro-creative-530099892",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/bay-on-sea-shore-in-town-16533141/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Bomberos rescatan a un grupo de 20 personas a la deriva en el mar en Río de Janeiro",
-        "lead": "Un grupo de deportistas que realizaba una travesía acuática en la zona oeste de Río de Janeiro fue rescatado por el Cuerpo de Bomberos tras ser arrastrado por fuertes vientos este domingo (30).",
-        "corpo": "El Cuerpo de Bomberos de Río de Janeiro realizó, este domingo (30), el rescate de 20 personas que quedaron a la deriva en el mar a la altura de Barra da Tijuca, zona oeste de la capital carioca. El grupo, integrado por personas de entre 20 y 67 años, fue sorprendido por un cambio repentino en el patrón de los vientos durante la realización de una actividad en el océano.\n\nLa travesía tenía como destino planificado las Islas Tijucas, punto habitual para la práctica de deportes acuáticos en la región. Sin embargo, parte de los deportistas utilizaba tablas de stand up paddle —un total de cinco equipos—, mientras que otros realizaban el trayecto nadando. Durante el recorrido, la fuerza de los vientos empujó al grupo más allá del itinerario previsto, desplazándolo hacia el barrio de São Conrado, lo que imposibilitó el regreso por sus propios medios.\n\nAnte el alejamiento progresivo de la franja de arena, uno de los integrantes del grupo se comunicó con el servicio de emergencia de la corporación a través de la central telefónica 193. Los equipos de rescate del Cuerpo de Bomberos respondieron a la llamada utilizando motos acuáticas para alcanzar y recoger a las víctimas en alta mar.\n\nTras ser llevadas a salvo a la playa, las 20 personas se sometieron a evaluaciones médicas realizadas por los equipos de socorro. La corporación informó que los rescatados se encontraban en buen estado general de salud, sin registro de lesiones graves ni necesidad de traslado a hospitales.\n\nEl episodio coincidió con alteraciones en las condiciones atmosféricas observadas en la ciudad de Río de Janeiro. De acuerdo con información brindada por el sistema Alerta Rio de la Alcaldía, la capital registró vientos fuertes y moderados en diferentes estaciones de medición a primera hora del día, antes de la llegada de un frente frío previsto para modificar el tiempo durante la semana."
-      },
-      "en": {
-        "titulo": "Firefighters rescue group of 20 people adrift at sea in Rio de Janeiro",
-        "lead": "A group of sports enthusiasts undertaking a water crossing in western Rio de Janeiro was rescued by firefighters after being swept away by strong winds on Sunday (30).",
-        "corpo": "The Rio de Janeiro Fire Department carried out a rescue operation on Sunday (30) for 20 people left adrift at sea off Barra da Tijuca, in the West Zone of the state capital. The group, aged between 20 and 67, was caught off guard by a sudden shift in wind patterns during an ocean activity.\n\nThe group's planned destination was the Tijucas Islands, a popular spot for water sports in the area. However, while some members were on stand-up paddleboards—five boards in total—others were swimming the route. Along the way, gusting winds pushed the group off course toward the neighboring district of São Conrado, making a self-assisted return to the beach impossible.\n\nAs they drifted further from shore, one group member dialed the fire department's 193 emergency line. Rescue teams responded swiftly using personal watercraft (jet skis) to reach and recover the stranded individuals in open water.\n\nAfter being brought safely back to land, all 20 individuals underwent medical evaluations by first responders. The fire department reported that everyone was in good overall health, with no serious injuries or need for hospitalization.\n\nThe incident coincided with weather shifts across the city of Rio de Janeiro. According to the municipality's Alerta Rio weather monitoring system, moderate to strong winds were recorded at various monitoring stations early in the morning, ahead of an incoming cold front expected to change weather conditions throughout the week."
       }
     }
   }
