@@ -1,5 +1,39 @@
 [
   {
+    "id": "d5245d2a-f243-4b1d-bc52-1c2200a7e88a",
+    "titulo": "Assembleia Geral da ONU aprova nova projeção cartográfica para corrigir dimensões da América do Sul e África",
+    "lead": "A Assembleia Geral das Nações Unidas aprovou uma resolução que recomenda a adoção de um novo mapa-múndi para corrigir distorções históricas no tamanho da América do Sul, da África e do Sul da Ásia.",
+    "corpo": "A medida foi aprovada por 164 países favoráveis, registrando apenas um voto contrário, dos Estados Unidos, e seis abstenções. Batizada de \"Corrija o mapa\", a proposta foi apresentada pelo Togo com o apoio da União Africana, visando combater vieses geográficos e educacionais consolidados desde o século XVI.\n\nHistoricamente, o modelo amplamente utilizado em livros escolares e mapas digitais baseia-se na projeção criada pelo cartógrafo Gerardus Mercator em 1569. Projetado originalmente para facilitar a navegação marítima, esse sistema amplia desproporcionalmente as regiões localizadas em latitudes mais elevadas, reduzindo visualmente o território de continentes situados próximos à linha do Equador, como a América do Sul e a África.\n\nA nova diretriz da ONU incentiva governos, instituições de ensino e organismos internacionais a adotarem o modelo \"Terra Igual\" (Equal Earth). Essa projeção preserva a proporção real das áreas continentais sem comprometer a clareza estética da representação cartográfica mundial.\n\nDurante os debates na sede do organismo multilateral, representantes diplomáticos enfatizaram que a mudança possui alcance simbólico e cultural além do aspecto científico. A alteração busca promover equidade de representação e reparar visões geopolíticas desequilibradas acumuladas ao longo de séculos, em alinhamento com compromissos internacionais para a eliminação de desigualdades estruturais.",
+    "categoria": "Mundo",
+    "pais": "América Latina",
+    "publicado_em": "2026-09-05T16:13:58.852467+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/novo-mapa-mundi-corrige-tamanho-da-africa-america-do-sul-e-asia",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Hugo Magalhaes",
+      "photographer_url": "https://www.pexels.com/@tiohugo",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/the-allee-des-nations-with-the-flags-of-member-countries-at-united-nations-office-geneva-switzerland-16146279/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "La Asamblea General de la ONU aprueba un nuevo mapa mundial para corregir el tamaño de América del Sur y África",
+        "lead": "La Asamblea General de las Naciones Unidas aprobó una resolución que recomienda la adopción de un nuevo mapa mundial para corregir distorsiones históricas en las dimensiones de América del Sur, África y el sur de Asia.",
+        "corpo": "La medida fue aprobada con 164 votos a favor, un voto en contra —emitido por Estados Unidos— y seis abstenciones. Denominada \"Corrige el mapa\", la propuesta fue impulsada por Togo con el respaldo de la Unión Africana, con el objetivo de combatir sesgos geográficos y educativos consolidados desde el siglo XVI.\n\nHistóricamente, el modelo predominante en materiales escolares y plataformas digitales se ha basado en la proyección creada por el cartógrafo Gerardus Mercator en 1569. Concebido originalmente para facilitar la navegación marítima, este sistema amplía de forma desproporcionada las regiones situadas en latitudes más altas, mientras empequeñece visualmente los territorios ubicados cerca de la línea ecuatorial, como América del Sur y África.\n\nLa nueva directriz de la ONU anima a gobiernos, instituciones educativas y organismos internacionales a adoptar el modelo \"Tierra Igual\" (Equal Earth). Esta proyección preserva la proporción real de las áreas continentales sin comprometer la claridad estética de la representación cartográfica global.\n\nDurante las deliberaciones en la sede del organismo multilateral, los representantes diplomáticos subrayaron que la decisión posee un alcance simbólico y cultural que va más allá del aspecto científico. El cambio busca promover la equidad en la representación gráfica global y reparar visiones geopolíticas desequilibradas acumuladas durante siglos, en alineación con los compromisos internacionales para eliminar desigualdades estructurales."
+      },
+      "en": {
+        "titulo": "UN General Assembly approves new world map projection correcting size of South America and Africa",
+        "lead": "The United Nations General Assembly has approved a resolution recommending the adoption of a new world map to correct historical distortions in the sizes of South America, Africa, and South Asia.",
+        "corpo": "The measure passed with 164 votes in favor, one against—cast by the United States—and six abstentions. Titled \"Correct the Map,\" the proposal was spearheaded by Togo with the support of the African Union to address geographical and educational biases entrenched since the 16th century.\n\nHistorically, the predominant model in textbooks and digital cartography relies on the projection created by cartographer Gerardus Mercator in 1569. Originally designed for maritime navigation, that system disproportionately inflates landmasses at higher latitudes while visually shrinking territories near the Equator, including South America and Africa.\n\nThe new UN guideline encourages governments, educational institutions, and international organizations to adopt the \"Equal Earth\" projection model. This layout preserves the true area proportions of continents without compromising cartographic clarity.\n\nDuring deliberations at the multilateral body's headquarters, diplomatic representatives highlighted that the change carries symbolic and cultural weight beyond its scientific accuracy. The decision seeks to promote equitable representation and address unbalanced geopolitical perspectives built up over centuries, in line with international commitments to eradicate structural inequalities."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "7b417f2d-e4b3-441f-9282-3e886b9286ba",
     "titulo": "Fórum empresarial em Rosario debate investimentos comerciais e atração de novos projetos",
     "lead": "Encontros de negócios na cidade argentina de Rosario colocam em pauta o desempenho do setor comercial e a perspectiva de novos investimentos privados.",
@@ -1990,39 +2024,6 @@
         "titulo": "EBC launches Innovation and Research Center focused on artificial intelligence and new digital technologies",
         "lead": "Empresa Brasil de Comunicação announced the creation of the Center for Innovation and Research in Public Communication, an initiative aimed at technological, academic, and methodological development in the public communication sector.",
         "corpo": "The new center will coordinate science, technology, and innovation projects, addressing core areas of digital transformation such as artificial intelligence, the implementation of TV 3.0, and the platformization of public media. The initiative seeks to consolidate the state company's role as a Scientific and Technological Institution, establishing bridges between communication management and national academic research.\n\nOn the institutional engagement front, the unit has already initiated talks and cooperation with various federal government bodies and public universities, such as the Ministry of Science, Technology and Innovation, the Oswaldo Cruz Foundation, and the Federal University of Rio de Janeiro. These partnerships aim to apply scientific discoveries toward modernizing the operations of the National Public Communication Network.\n\nAmong the initial projects, the creation of the Public Communication Research Repository stands out. The platform will serve as a centralized digital archive for academic publications and technical reports by researchers, providing broad visibility to studies dedicated to enhancing the state communication sector.\n\nConcurrently, the center launched an internal pitching call aimed at company employees, encouraging the submission of innovative solutions to improve operational workflows. The initiative represents the practical implementation of the company's Innovation Policy, a set of guidelines approved in the first half of the year by the executive board."
-      }
-    }
-  },
-  {
-    "id": "a858054e-d08d-439b-a8e8-49f2bf49abfe",
-    "titulo": "Morre aos 77 anos o jornalista Carlos Monforte, referência do telejornalismo brasileiro",
-    "lead": "O jornalista Carlos Monforte morreu aos 77 anos, em Brasília, onde realizava tratamento contra um câncer. Com uma trajetória de décadas marcada pela cobertura política e pela ancoragem de grandes telejornais, o comunicador deixa um importante legado para a imprensa brasileira.",
-    "corpo": "Nascido em Santos, no litoral paulista, em julho de 1949, Monforte iniciou sua carreira profissional na imprensa escrita, atuando no jornal local A Tribuna e, posteriormente, como repórter especial no Estado de S. Paulo. Sua projeção no telejornalismo começou em 1978, quando passou a integrar a equipe da TV Globo.\n\nAo longo de sua carreira na televisão, o jornalista cobriu os bastidores políticos do país para programas de grande repercussão, como o Jornal Nacional e o Fantástico. Em 1982, assumiu a apresentação do Bom Dia São Paulo e, no ano seguinte, tornou-se editor-chefe e âncora do Bom Dia Brasil, função que desempenhou ao longo de quase uma década.\n\nMonforte também atuou como repórter especial do Jornal da Globo e comandou o Jornal das Dez, na GloboNews, emissora na qual trabalhou até encerrar seu ciclo no grupo de comunicação em 2016.\n\nA notícia de seu falecimento gerou manifestações de pesar na categoria. O Sindicato dos Jornalistas Profissionais do Distrito Federal destacou, em nota oficial, a conduta ética, a competência técnica e a dedicação do profissional, apontando sua trajetória como uma referência inspiradora para as novas gerações de comunicadores no país.",
-    "categoria": "Sociedade",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-01T00:23:05.015985+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/jornalista-carlos-monforte-morre-aos-77-anos",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/7865064/pexels-photo-7865064.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "SHAHBAZ ZAMAN",
-      "photographer_url": "https://www.pexels.com/@shahbazzaman",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/photo-of-a-studio-set-up-7865064/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Muere a los 77 años el periodista Carlos Monforte, referente de la televisión brasileña",
-        "lead": "El periodista Carlos Monforte falleció a los 77 años en Brasilia, donde recibía tratamiento contra el cáncer. Con una trayectoria de décadas marcada por la cobertura política y la conducción de importantes noticieros, el comunicador deja un notable legado en la prensa brasileña.",
-        "corpo": "Nacido en Santos, en el litoral paulista, en julio de 1949, Monforte inició su carrera profesional en la prensa escrita, trabajando en el periódico local A Tribuna y, posteriormente, como reportero especial en O Estado de S. Paulo. Su proyección en la televisión cobró impulso en 1978, cuando se incorporó al equipo de TV Globo.\n\nA lo largo de su carrera en la pantalla, el periodista cubrió los acontecimientos políticos del país para programas de amplia audiencia como Jornal Nacional y Fantástico. En 1982 asumió la conducción de Bom Dia São Paulo y, al año siguiente, pasó a ser editor general y presentador de Bom Dia Brasil, función que desempeñó durante casi una década.\n\nMonforte también trabajó como reportero especial de Jornal da Globo y condujo Jornal das Dez en la señal de noticias GloboNews, donde permaneció hasta concluir su ciclo en el grupo de medios en 2016.\n\nLa noticia de su fallecimiento motivó expresiones de pesar en el gremio periodístico. El Sindicato de Periodistas del Distrito Federal destacó en un comunicado la ética, solvencia profesional y dedicación del periodista, señalando su trayectoria como un referente para las nuevas generaciones de comunicadores en Brasil."
-      },
-      "en": {
-        "titulo": "Brazilian television journalist Carlos Monforte dies at 77",
-        "lead": "Journalist Carlos Monforte has died at the age of 77 in Brasília, where he was undergoing treatment for cancer. With a career spanning decades across political reporting and news anchoring, he leaves a significant mark on Brazilian broadcast media.",
-        "corpo": "Born in the coastal city of Santos in July 1949, Monforte began his career in print media, working for local newspaper A Tribuna and later as a special reporter for O Estado de S. Paulo. His rise in television journalism took off in 1978, when he joined TV Globo.\n\nThroughout his broadcasting career, Monforte covered key political developments in Brasília for high-profile news programs such as Jornal Nacional and Fantástico. In 1982, he began hosting Bom Dia São Paulo, and the following year became editor-in-chief and anchor of the national morning broadcast Bom Dia Brasil, a position he held for nearly a decade.\n\nHe also served as a special correspondent for Jornal da Globo and anchored Jornal das Dez on cable news network GloboNews, remaining with the organization until 2016.\n\nHis passing drew tributes from media colleagues and industry organizations. The Federal District Journalists' Union released a statement praising Monforte's professional ethics, competence, and dedication, highlighting his career as an enduring benchmark for Brazilian journalism."
       }
     }
   }
