@@ -1,5 +1,39 @@
 [
   {
+    "id": "fe1f8aa2-e5b9-46be-ab6d-7d06d63f3d7c",
+    "titulo": "Brasília implementa esquema especial de trânsito para o desfile de 7 de Setembro e evento aéreo",
+    "lead": "As vias centrais da capital federal passam por bloqueios e reforço na segurança para a realização dos eventos cívicos e militares da Independência.",
+    "corpo": "O trânsito no centro de Brasília passa por amplas modificações em razão dos preparativos e da realização do Desfile Cívico de 7 de Setembro na Esplanada dos Ministérios, além do festival aéreo promovido pela Força Aérea Brasileira (FAB). O esquema operacional elaborado pelas autoridades do Distrito Federal busca assegurar a mobilidade dos pedestres e a segurança das milhares de pessoas esperadas para as comemorações.\n\nAs interdições na Esplanada dos Ministérios têm início prévio para a organização do espaço e a instalação de barreiras físicas e sinalizações de desvio ao longo do Eixo Monumental. Painéis eletrônicos foram distribuídos em pontos estratégicos para orientar os motoristas sobre a restrição de veículos particulares e a prioridade conferida ao transporte coletivo nas imediações da Rodoviária do Plano Piloto. Durante o feriado, agentes de trânsito atuarão diretamente nas travessias de pedestres e no controle rigoroso de acesso às vias auxiliares, com suporte de guinchos e equipes de fiscalização para coibir estacionamentos irregulares.\n\nParalelamente às celebrações na região central, a Base Aérea de Brasília sedia o evento \"Brasília Air Show\", com demonstrações aéreas e exposições voltadas ao setor de aviação. Para atender à demanda de público estimada em dezenas de milhares de visitantes, rotas de acesso nas imediações do aeroporto e rodovias distritais também contam com faixas exclusivas, bloqueios pontuais e sinalização reforçada para disciplinar o fluxo de veículos.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-05T17:13:16.978295+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/veja-alteracoes-no-transito-de-brasilia-para-desfile-do-7-de-setembro",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/1040873/pexels-photo-1040873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "MESSALA CIULLA",
+      "photographer_url": "https://www.pexels.com/@messalaciulla",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/body-of-water-underneath-golden-hour-1040873/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasilia implementa operativo especial de tránsito por el desfile del 7 de Septiembre y show aéreo",
+        "lead": "Las principales avenidas de la capital brasileña registran cortes y refuerzo de seguridad ante los eventos cívicos y militares por el Día de la Independencia.",
+        "corpo": "El tránsito en el centro de Brasilia experimenta amplias modificaciones debido a los preparativos y el desarrollo del Desfile Cívico del 7 de Septiembre en la Explanada de los Ministerios, además de un festival aéreo organizado por la Fuerza Aérea Brasileña (FAB). El esquema operativo dispuesto por las autoridades del Distrito Federal tiene como objetivo garantizar la movilidad peatonal y la seguridad de las miles de personas que asistirán a las conmemoraciones.\n\nLos cortes en la Explanada de los Ministerios comenzaron de forma anticipada para la organización del espacio y la instalación de barreras físicas y señalizaciones de desvío a lo largo del Eje Monumental. Paneles electrónicos fueron ubicados en puntos estratégicos para informar a los conductores sobre las restricciones para vehículos particulares y la prioridad otorgada al transporte público en las inmediaciones de la terminal central de autobuses. Durante la jornada festiva, agentes de tránsito coordinarán los cruces peatonales y el control estricto de acceso a las vías auxiliares, apoyados por grúas y personal de fiscalización.\n\nEn paralelo a las celebraciones en la zona central, la Base Aérea de Brasilia alberga el evento \"Brasília Air Show\", con demostraciones aéreas y muestras de tecnología aeronáutica. Con el fin de gestionar la afluencia de decenas de miles de visitantes, las rutas de acceso cercanas al aeropuerto y las carreteras distritales cuentan con carriles exclusivos, bloqueos puntuales y señalización reforzada para ordenar la circulación vehicular."
+      },
+      "en": {
+        "titulo": "Brasília implements special traffic scheme for Independence Day parade and air show",
+        "lead": "Main avenues in the federal capital face closures and heightened security for Independence Day civic and military events.",
+        "corpo": "Traffic in central Brasília is undergoing extensive modifications due to preparations and operations for the September 7th Independence Day Civic Parade along the Esplanade of Ministries, alongside an air show organized by the Brazilian Air Force (FAB). The operational scheme set up by Federal District authorities aims to ensure pedestrian mobility and the safety of the thousands of attendees expected for the commemorations.\n\nRoad closures along the Esplanade of Ministries began early to accommodate site preparation, physical barriers, and detour signage along the Monumental Axis. Electronic message boards were placed at strategic locations to alert drivers about private vehicle restrictions and the priority granted to public transit near the central bus terminal. Throughout the holiday, traffic officers will manage pedestrian crossings and enforce strict access controls on surrounding avenues, supported by tow trucks and monitoring teams.\n\nIn addition to the central festivities, the Brasília Air Force Base is hosting the \"Brasília Air Show\", featuring aerial demonstrations and aerospace exhibitions. To accommodate an expected crowd of tens of thousands of visitors, access routes near the airport and district highways have been equipped with dedicated lanes, temporary closures, and reinforced signage to streamline traffic flow."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "d5245d2a-f243-4b1d-bc52-1c2200a7e88a",
     "titulo": "Assembleia Geral da ONU aprova nova projeção cartográfica para corrigir dimensões da América do Sul e África",
     "lead": "A Assembleia Geral das Nações Unidas aprovou uma resolução que recomenda a adoção de um novo mapa-múndi para corrigir distorções históricas no tamanho da América do Sul, da África e do Sul da Ásia.",
@@ -1991,39 +2025,6 @@
         "titulo": "Unemployment in Colombia drops to 8.1% in July, official DANE data reveals",
         "lead": "Colombia's unemployment rate decreased to 8.1% in July, according to the report released by the National Administrative Department of Statistics (DANE). The figure reflects national labor market dynamics during the period.",
         "corpo": "Colombia's National Administrative Department of Statistics (DANE) published its latest labor market report, revealing that the unemployment rate fell to 8.1% in July. The indicator serves as the primary official benchmark for economic occupation and workforce absorption across Colombian territory.\n\nThe periodic data released by DANE provides the statistical baseline used by analysts, policymakers, and economic actors to evaluate the pace of national productive activity. Employment performance is closely monitored by the country's monetary and fiscal authorities, as well as by multilateral organizations tracking Latin American economic developments.\n\nHistorically, fluctuations in Colombian unemployment figures are tied to the performance of key sectors such as commerce, services, agriculture, construction, and manufacturing, as well as informality levels that traditionally affect the regional labor market. The consolidated figures from the state statistical agency offer an overview of hiring trends and labor force participation across major urban areas and rural regions.\n\nFollowing the release of the official July data, the government and private sector bodies gain updated references to project macroeconomic indicators, household consumption, and policy measures aimed at fostering formal employment in the coming months."
-      }
-    }
-  },
-  {
-    "id": "6fea8643-9f88-4ecd-a197-41851084c156",
-    "titulo": "EBC lança Centro de Inovação e Pesquisa focado em inteligência artificial e novas tecnologias digitais",
-    "lead": "A Empresa Brasil de Comunicação anunciou a criação do Centro de Inovação e Pesquisa em Comunicação Pública, iniciativa voltada ao desenvolvimento tecnológico, acadêmico e de novas metodologias no setor público de comunicação.",
-    "corpo": "O novo centro atuará na coordenação de projetos de ciência, tecnologia e inovação, abordando áreas centrais da transformação digital, tais como inteligência artificial, a implantação da TV 3.0 e a plataformização das mídias públicas. A iniciativa busca consolidar a atuação da estatal como uma Instituição Científica e Tecnológica, estabelecendo pontes entre a gestão de comunicação e a produção acadêmica nacional.\n\nNas frentes de articulação institucional, o órgão já iniciou tratativas e cooperação com diversos órgãos do governo federal e universidades públicas, a exemplo do Ministério da Ciência, Tecnologia e Inovação, da Fundação Oswaldo Cruz e da Universidade Federal do Rio de Janeiro. As parcerias visam aplicar descobertas científicas na modernização das operações da Rede Nacional de Comunicação Pública.\n\nDentre as iniciativas de largada, destaca-se a criação do Repositório de Pesquisa em Comunicação Pública. O repositório funcionará como um acervo digital centralizado para produções acadêmicas e relatórios técnicos de pesquisadores brasileiros e estrangeiros, dando ampla visibilidade a estudos voltados ao aprimoramento do setor de comunicação estatal.\n\nParalelamente, o centro lançou um edital de pitching interno direcionado aos empregados da empresa pública, estimulando a apresentação de soluções inovadoras para a melhoria dos fluxos operacionais. A iniciativa representa a operacionalização prática da Política de Inovação da instituição, conjunto de diretrizes aprovado no primeiro semestre pela diretoria executiva do conglomerado.",
-    "categoria": "Ciência & Ambiente",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-01T02:14:27.883945+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/ebc-lanca-centro-de-inovacao-e-pesquisa-em-comunicacao-publica",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/33925166/pexels-photo-33925166.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Tahir Xəlfəquliyev",
-      "photographer_url": "https://www.pexels.com/@tahir",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/inside-a-television-broadcast-control-room-33925166/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "EBC lanza Centro de Innovación e Investigación enfocado en inteligencia artificial y nuevas tecnologías digitales",
-        "lead": "La Empresa Brasil de Comunicación anunció la creación del Centro de Innovación e Investigación en Comunicación Pública, una iniciativa orientada al desarrollo tecnológico, académico y de nuevas metodologías en el sector público de comunicación.",
-        "corpo": "El nuevo centro actuará en la coordinación de proyectos de ciencia, tecnología e innovación, abordando áreas centrales de la transformación digital, tales como la inteligencia artificial, la implementación de la TV 3.0 y la plataforma digitalización de los medios públicos. La iniciativa busca consolidar la actuación de la estatal como una Institución Científica y Tecnológica, estableciendo puentes entre la gestión de comunicación y la producción académica nacional.\n\nEn el frente de articulación institucional, el organismo ya inició conversaciones y cooperación con diversos órganos del gobierno federal y universidades públicas, como el Ministerio de Ciencia, Tecnología e Innovación, la Fundación Oswaldo Cruz y la Universidad Federal de Río de Janeiro. Las alianzas buscan aplicar descubrimientos científicos en la modernización de las operaciones de la Red Nacional de Comunicación Pública.\n\nEntre las iniciativas iniciales, destaca la creación del Repositorio de Investigación en Comunicación Pública. La plataforma funcionará como un archivo digital centralizado para producciones académicas y informes técnicos de investigadores, otorgando amplia visibilidad a estudios orientados al perfeccionamiento del sector de comunicación estatal.\n\nParalelamente, el centro lanzó una convocatoria interna de pitching dirigida a los empleados de la empresa pública, estimulando la presentación de soluciones innovadoras para la mejora de los flujos operacionales. La iniciativa representa la aplicación práctica de la Política de Innovación de la institución, un conjunto de directrices aprobado en el primer semestre por la directiva ejecutiva del conglomerado."
-      },
-      "en": {
-        "titulo": "EBC launches Innovation and Research Center focused on artificial intelligence and new digital technologies",
-        "lead": "Empresa Brasil de Comunicação announced the creation of the Center for Innovation and Research in Public Communication, an initiative aimed at technological, academic, and methodological development in the public communication sector.",
-        "corpo": "The new center will coordinate science, technology, and innovation projects, addressing core areas of digital transformation such as artificial intelligence, the implementation of TV 3.0, and the platformization of public media. The initiative seeks to consolidate the state company's role as a Scientific and Technological Institution, establishing bridges between communication management and national academic research.\n\nOn the institutional engagement front, the unit has already initiated talks and cooperation with various federal government bodies and public universities, such as the Ministry of Science, Technology and Innovation, the Oswaldo Cruz Foundation, and the Federal University of Rio de Janeiro. These partnerships aim to apply scientific discoveries toward modernizing the operations of the National Public Communication Network.\n\nAmong the initial projects, the creation of the Public Communication Research Repository stands out. The platform will serve as a centralized digital archive for academic publications and technical reports by researchers, providing broad visibility to studies dedicated to enhancing the state communication sector.\n\nConcurrently, the center launched an internal pitching call aimed at company employees, encouraging the submission of innovative solutions to improve operational workflows. The initiative represents the practical implementation of the company's Innovation Policy, a set of guidelines approved in the first half of the year by the executive board."
       }
     }
   }
