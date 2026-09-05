@@ -1,5 +1,39 @@
 [
   {
+    "id": "0ac45d9e-79de-4520-b1c6-6ea0a33dec0b",
+    "titulo": "Ministério da Fazenda autoriza empréstimo de US$ 1 bilhão do BID para o Eco Invest Brasil",
+    "lead": "O governo brasileiro formalizou a autorização para a contratação de até US$ 1 bilhão em crédito externo junto ao Banco Interamericano de Desenvolvimento (BID), recurso que será destinado ao fortalecimento das ações do programa Eco Invest Brasil.",
+    "corpo": "A medida foi chancelada pelo Ministério da Fazenda após aval da Secretaria do Tesouro Nacional e da Procuradoria-Geral da Fazenda Nacional (PGFN). Amparada pela Lei de Responsabilidade Fiscal e por diretrizes aprovadas pelo Senado Federal, a decisão libera a União para concluir a formalização da operação com a instituição financeira multilateral.\n\nO Eco Invest Brasil é uma iniciativa coordenada conjuntamente pelo Ministério da Fazenda e pelo Ministério do Meio Ambiente e Mudança do Clima, integrando o Plano de Transformação Ecológica do país. O foco central da proposta é ampliar a atração de capital privado internacional para projetos sustentáveis no país, empregando mecanismos de financiamento misto (blended finance) e instrumentos de proteção cambial (hedge) para mitigar riscos de mercado para investidores estrangeiros.\n\nOs recursos obtidos junto ao BID têm como objetivo alavancar aportes em diversas frentes de transição ecológica e adaptação. No segmento de economia circular, as ações previstas visam impactar mais de dois milhões de pessoas nas regiões Nordeste, Sudeste e Sul. No setor de energia limpa, os projetos abrangem a construção de uma biorrefinaria na Bahia voltada à produção de combustível sustentável de aviação (SAF) e diesel renovável.\n\nAlém disso, o programa direcionará investimentos para a resiliência infraestrutural frente às mudanças climáticas, incluindo obras de modernização e aterramento de redes elétricas em estados como São Paulo, Bahia e Mato Grosso do Sul para prevenir interrupções de energia provocadas por tempestades e eventos meteorológicos extremos.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-05T07:13:54.737210+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-autoriza-credito-de-us-1-bilhao-do-bid-para-eco-invest-brasil",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/37201870/pexels-photo-37201870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Matheus Natan",
+      "photographer_url": "https://www.pexels.com/@matheusnatan",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/banco-de-brasilia-building-in-distrito-federal-37201870/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Ministerio de Hacienda de Brasil autoriza crédito de US$ 1.000 millones del BID para Eco Invest Brasil",
+        "lead": "El gobierno brasileño formalizó la autorización para contratar un crédito externo de hasta US$ 1.000 millones con el Banco Interamericano de Desarrollo (BID), recursos que se destinarán a fortalecer el programa Eco Invest Brasil.",
+        "corpo": "La medida fue respaldada por el Ministerio de Hacienda tras la aprobación de la Secretaría del Tesoro Nacional y de la Procuraduría General de la Hacienda Nacional. Amparada en la Ley de Responsabilidad Fiscal y en resoluciones del Senado Federal, la decisión permite al Estado brasileño formalizar la operación con la entidad financiera multilateral.\n\nEco Invest Brasil es una iniciativa coordinada conjuntamente por el Ministerio de Hacienda y el Ministerio del Medio Ambiente y Cambio Climático, enmarcada en el Plan de Transformación Ecológica del país. Su objetivo principal es atraer capital privado internacional para proyectos sostenibles mediante el uso de financiamiento mixto (blended finance) y herramientas de protección cambiaria (hedge), reduciendo los riesgos de mercado para los inversionistas extranjeros.\n\nLos fondos obtenidos con el BID permitirán impulsar proyectos en diversas áreas de transición ecológica y adaptación ambiental. En el ámbito de la economía circular, se prevé beneficiar a más de dos millones de personas en las regiones Noreste, Sureste y Sur. En cuanto a la transición energética, los proyectos incluyen la construcción de una biorrefinería en el estado de Bahía destinada a la producción de combustible sostenible de aviación (SAF) y diésel renovable.\n\nAsimismo, el programa destinará inversiones a la infraestructura de adaptación climática, como la modernización y el sotterramiento de redes eléctricas en estados como San Pablo, Bahía y Mato Grosso del Sur, con el fin de prevenir cortes de energía provocados por fenómenos meteorológicos extremos."
+      },
+      "en": {
+        "titulo": "Brazilian Ministry of Finance approves $1 billion IDB loan for Eco Invest Brazil",
+        "lead": "The Brazilian government has authorized the contraction of up to $1 billion in external credit from the Inter-American Development Bank (IDB), with funds set to expand the Eco Invest Brazil program.",
+        "corpo": "The decision was issued by the Ministry of Finance following approval from the National Treasury Secretariat and the Office of the Attorney General of the National Treasury. Grounded in the Fiscal Responsibility Law and Senate resolutions, the move allows the federal government to finalize the credit agreement with the multilateral lender.\n\nEco Invest Brazil is a joint initiative led by the Ministry of Finance and the Ministry of Environment and Climate Change, operating under the country's Ecological Transformation Plan. The program aims to attract foreign private investment into sustainable projects by leveraging blended finance structures and currency hedging mechanisms designed to mitigate market risks for international investors.\n\nThe financing from the IDB will support projects across multiple environmental and adaptation fronts. Circular economy initiatives are expected to impact over two million people across the Northeast, Southeast, and South regions. In the energy sector, planned efforts include constructing a biorefinery in Bahia to produce sustainable aviation fuel (SAF) and renewable diesel.\n\nIn addition, the funds will target climate adaptation infrastructure, including undergrounding power lines in states such as São Paulo, Bahia, and Mato Grosso do Sul to protect the electrical grid from disruptions caused by extreme weather events."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "ee3ca9f1-249f-4e8d-9db1-444fb4ce5a88",
     "titulo": "CMN amplia renegociação de dívidas de produtores rurais afetados pelo clima",
     "lead": "O Conselho Monetário Nacional aprovou uma flexibilização nas regras para refinanciamento de débitos do setor agropecuário brasileiro. A decisão contempla produtores e cooperativas que enfrentaram perdas produtivas causadas por eventos climáticos extremos.",
@@ -1985,39 +2019,6 @@
         "titulo": "Radio Nacional FM de Brasília celebrates 50 years with special programming and focus on public communication",
         "lead": "Radio Nacional FM de Brasília commemorates five decades of history with a special broadcast this Friday (28th), highlighting the role of public communication in promoting the culture of Brazil's Federal District.",
         "corpo": "The celebration of the public broadcaster's 50th anniversary will feature special editions of its traditional programs. The highlight is the show Espaço Arte, airing at 1:00 PM, hosted by Marcelo Ferreira and Mário Sartorello. The program will gather artists from different generations who helped shape the cultural identity of the Brazilian capital, including pianist and composer Renato Vasconcellos, multi-instrumentalist Renato Mattos, and samba singers Fernanda Jacob and Ane Êoketu.\n\nCreated in 2004, originally on Radio Nacional AM, Espaço Arte has established itself as a major showcase for artistic production in the Federal District, expanding to FM in 2016. Additionally, the Tarde Nacional show will feature testimonials and tributes from various artists to the station's legacy throughout the afternoon.\n\nRadio Nacional is a cornerstone of public communication in Brazil, managed by the Empresa Brasil de Comunicação (EBC). Currently, the network operates eight proprietary stations across the country, covering metropolitan areas like Rio de Janeiro and São Paulo, as well as reaching remote regions through Radio Nacional da Amazônia and Radio Nacional do Alto Solimões.\n\nThe celebration reinforces the historical importance of public radio stations in national integration and the promotion of Brazilian cultural diversity, cementing Nacional FM de Brasília as a benchmark for artistic dissemination in the Central Highlands."
-      }
-    }
-  },
-  {
-    "id": "e9016fc8-ebe8-4d19-aabd-6b1a6bc0b1c3",
-    "titulo": "Argentina adia aumento de combustíveis planejado para setembro para conter inflação",
-    "lead": "O governo da Argentina decidiu postergar um reajuste tarifário crucial nos combustíveis que estava previsto para entrar em vigor no mês de setembro.",
-    "corpo": "A medida visa conter o impacto direto sobre o índice de inflação, que continua sendo um dos principais desafios da gestão macroeconômica do país. O termo \"combustível pisado\" reflete a estratégia governamental de moderar ou atrasar os reajustes de preços e impostos que incidem sobre a gasolina e o diesel, evitando um efeito cascata na economia.\n\nOriginalmente, o cronograma previa a atualização de impostos federais sobre os combustíveis líquidos para o início de setembro, uma ação alinhada com as metas de arrecadação e ajuste fiscal do Estado. No entanto, o temor de que o repasse imediato aos postos de abastecimento pudesse acelerar a alta de preços em setores sensíveis, como o de transporte de cargas e a distribuição de alimentos, pesou na decisão de adiar o aumento.\n\nA decisão expõe o dilema enfrentado pela administração pública entre cumprir as metas de equilíbrio fiscal e mitigar o desgaste social decorrente da perda do poder de compra da população. O controle temporário dos preços na bomba funciona como um amortecedor de curto prazo, embora analistas do setor de energia alertem que a medida acumula uma pressão represada para os meses seguintes.\n\nCom essa postergação, o governo tenta garantir uma estabilização temporária nos índices de preços ao consumidor, enquanto avalia o cenário financeiro global e o comportamento do mercado de petróleo bruto, fatores que também influenciam a formulação das tarifas locais.",
-    "categoria": "Economia",
-    "pais": "Argentina",
-    "publicado_em": "2026-08-31T13:09:34.156701+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://urgente24.com/dinero/combustible-pisado-el-gobierno-postergo-un-aumento-clave-septiembre-n631711",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/34636185/pexels-photo-34636185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "ddlogg",
-      "photographer_url": "https://www.pexels.com/@ddlogg-2150483267",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/modern-urban-gas-station-with-fuel-pumps-34636185/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Argentina posterga aumento de combustibles planificado para septiembre para contener la inflación",
-        "lead": "El gobierno de Argentina decidió aplazar un ajuste tarifario clave en los combustibles que estaba previsto para entrar en vigor en el mes de septiembre.",
-        "corpo": "La medida busca contener el impacto directo sobre el índice de inflación, que sigue siendo uno de los principales desafíos de la gestión macroeconómica del país. El término \"combustible pisado\" refleja la estrategia gubernamental de moderar o retrasar los reajustes de precios e impuestos que gravan la gasolina y el diésel, evitando un efecto cascada en la economía.\n\nOriginalmente, el cronograma preveía la actualización de impuestos federales sobre los combustibles líquidos para principios de septiembre, una acción alineada con las metas de recaudación y ajuste fiscal del Estado. Sin embargo, el temor a que el traslado inmediato a las estaciones de servicio pudiera acelerar la inflación en sectores sensibles, como el transporte de cargas y la distribución de alimentos, pesó en la decisión de posponer el incremento.\n\nLa decisión expone el dilema que enfrenta la administración pública entre cumplir con las metas de equilibrio fiscal y mitigar el desgaste social derivado de la pérdida del poder adquisitivo de la población. El control temporal de los precios en el surtidor funciona como un amortiguador de corto plazo, aunque analistas del sector energético advierten que la medida acumula una presión reprimida para los meses siguientes.\n\nCon esta postergación, el gobierno intenta garantizar una estabilización de los índices de precios al consumidor, mientras evalúa el escenario financiero global y el comportamiento del mercado de petróleo crudo, factores que también influyen en la formulación de las tarifas locales."
-      },
-      "en": {
-        "titulo": "Argentina Postpones Key Fuel Price Increase Planned for September to Curb Inflation",
-        "lead": "The Argentine government has decided to postpone a crucial fuel price adjustment that was scheduled to take effect in September.",
-        "corpo": "The measure aims to curb the direct impact on the inflation rate, which remains one of the main challenges of the country's macroeconomic management. The term \"combustible pisado\" (repressed fuel) reflects the government's strategy to moderate or delay price and tax adjustments on gasoline and diesel, preventing a cascade effect on the economy.\n\nOriginally, the schedule called for updating federal taxes on liquid fuels at the beginning of September, an action aligned with the State's revenue and fiscal adjustment goals. However, fears that the immediate pass-through to gas stations could accelerate price hikes in sensitive sectors, such as cargo transport and food distribution, weighed heavily on the decision to postpone the increase.\n\nThis decision highlights the dilemma faced by the public administration between meeting fiscal balance targets and mitigating the social impact resulting from the population's loss of purchasing power. The temporary control of pump prices acts as a short-term buffer, although energy sector analysts warn that the measure builds up repressed pressure for the following months.\n\nWith this postponement, the government attempts to ensure a temporary stabilization of consumer price indices while evaluating the global financial scenario and the behavior of the crude oil market, factors that also influence the formulation of local tariffs."
       }
     }
   }
