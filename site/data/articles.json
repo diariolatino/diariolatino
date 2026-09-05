@@ -1,5 +1,39 @@
 [
   {
+    "id": "660d00ef-e523-4498-8784-d5f239012ea3",
+    "titulo": "Atualização: Mega-Sena sorteia prêmio acumulado de R$ 48 milhões neste domingo",
+    "lead": "O concurso 3.054 da Mega-Sena oferece uma premiação estimada em R$ 48 milhões neste domingo, após acumular novamente no sorteio anterior. O sorteio das seis dezenas será realizado na cidade de São Paulo.",
+    "corpo": "A extração dos números do concurso 3.054 da principal modalidade lotérica do Brasil está programada para as 11h, no horário de Brasília, diretamente do Espaço da Sorte, situado na capital paulista. O valor acumulado reflete a ausência de ganhadores que tenham acertado a sena na rodada anterior.\n\nOs interessados em concorrer ao montante milionário precisam registrar seus palpites até as 22h de sábado, pelo horário de Brasília. As apostas podem ser efetuadas presencialmente em qualquer unidade lotérica credenciada pela Caixa Econômica Federal distribuída pelo território brasileiro, ou por meio dos canais digitais oficiais da instituição financeira, via portal na internet. O bilhete simples, que permite a escolha de seis dezenas entre as sessenta disponíveis no volante, tem o custo de R$ 6.\n\nNo último concurso realizado, o globo sorteou as dezenas 01, 13, 25, 35, 39 e 51. Como nenhum bilhete registrou a combinação exata de seis números, a premiação máxima permaneceu retida, elevando a estimativa para o montante de R$ 48 milhões a ser distribuído no evento dominical. As demais faixas de premiação contemplam apostadores que acertam quatro ou cinco números entre os sorteados.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-05T18:15:48.604123+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-sorteia-premio-acumulado-de-r-48-milhoes-neste-domingo",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/37201909/pexels-photo-37201909.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Matheus Natan",
+      "photographer_url": "https://www.pexels.com/@matheusnatan",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/modern-bank-building-entrance-in-brasilia-37201909/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Actualización: La Mega-Sena de Brasil sortea un premio acumulado de 48 millones de reales este domingo",
+        "lead": "El concurso 3.054 de la Mega-Sena ofrece este domingo un pozo estimado en 48 millones de reales, tras quedar vacante en la ronda anterior. El sorteo de las seis cifras se llevará a cabo en la ciudad de São Paulo.",
+        "corpo": "La extracción de los números del concurso 3.054 de la principal lotería de Brasil está programada para las 11:00 horas, en el horario de Brasilia, desde el Espacio de la Suerte en la capital paulista. El monto acumulado responde a la ausencia de ganadores que hayan acertado los seis números en el sorteo previo.\n\nLos interesados en participar por este premio millonario deben registrar sus apuestas antes de las 22:00 horas del sábado, según el huso horario de Brasilia. Las jugadas pueden realizarse de manera presencial en las agencias de lotería autorizadas por la Caixa Econômica Federal en todo el país, así como a través de los canales digitales oficiales de la entidad bancaria en internet. La jugada simple, que permite elegir seis números entre los sesenta habilitados, tiene un valor de 6 reales.\n\nEn la edición anterior, los números sorteados fueron 01, 13, 25, 35, 39 y 51. Dado que ninguna boleta coincidió con la combinación completa, el premio mayor continuó acumulándose hasta alcanzar la cifra estimada de 48 millones de reales para la jornada dominical. Los otros niveles de premios reconocen a los participantes que logran cuatro o cinco aciertos."
+      },
+      "en": {
+        "titulo": "Update: Brazil's Mega-Sena to draw jackpot of 48 million reais this Sunday",
+        "lead": "Mega-Sena contest 3,054 offers an estimated jackpot of 48 million reais this Sunday, following an accumulation in the previous round. The drawing of the six winning numbers will take place in the city of São Paulo.",
+        "corpo": "The number drawing for contest 3,054 of Brazil's primary lottery is scheduled for 11:00 a.m. Brasília time, held at the Espaço da Sorte venue in São Paulo. The rollover jackpot reflects the absence of tickets matching all six drawn numbers during the previous session.\n\nPlayers aiming for the multi-million prize must register their tickets by 10:00 p.m. Brasília time on Saturday. Bets can be placed in person at lottery retailers authorized by Caixa Econômica Federal throughout Brazil or via the bank's official online platform. A single standard bet, which includes six selections out of sixty available numbers, costs 6 reais.\n\nIn the preceding draw, the balls picked were 01, 13, 25, 35, 39, and 51. Because no participant correctly selected all six digits, the top prize carried over, reaching the 48 million reais estimate set for Sunday's event. Lower prize tiers remain available for players who match four or five of the drawn numbers."
+      }
+    },
+    "atualizacao_de": "b5001bf0-48ba-4f4a-a9e9-ed6265a9a554"
+  },
+  {
     "id": "fe1f8aa2-e5b9-46be-ab6d-7d06d63f3d7c",
     "titulo": "Brasília implementa esquema especial de trânsito para o desfile de 7 de Setembro e evento aéreo",
     "lead": "As vias centrais da capital federal passam por bloqueios e reforço na segurança para a realização dos eventos cívicos e militares da Independência.",
@@ -1992,39 +2026,6 @@
         "titulo": "Analysis on Argentina's future shapes regional debate in the media",
         "lead": "Reflections on the country's socioeconomic and institutional trajectory gain prominence in the public debate published by Argentine newspaper El Litoral.",
         "corpo": "The ongoing discussion regarding the short- and medium-term future of Argentina and the broader South American region continues to engage analysts, commentators, and media outlets. In a recent article, the Argentine newspaper El Litoral presented reflections on expected transformations and scenarios for the near future, emphasizing the need for strategic planning amid global and local uncertainties.\n\nThe discussions encompass key issues for Argentine development, including economic challenges, the evolution of public policies, the role of innovation, and the impact of global shifts on local dynamics. Observers note that decisions made in the current transitional context will be crucial in defining the ability of the country's institutions to respond to social demands and regional integration commitments.\n\nBeyond the national scope, debates over future projections connect with broader Latin American priorities, where the pursuit of stability, sustainable growth, and the strengthening of productive structures remains central. The coverage of these assessments by regional media underscores the ongoing necessity of dialogue among diverse social and economic actors to address the challenges of the coming decade."
-      }
-    }
-  },
-  {
-    "id": "1cbd1719-9471-4229-b11f-ef7ca75801cf",
-    "titulo": "Desemprego na Colômbia recua para 8,1% em julho, apontam dados oficiais do DANE",
-    "lead": "A taxa de desocupação na Colômbia registrou queda e atingiu 8,1% em julho, de acordo com o levantamento divulgado pelo Departamento Administrativo Nacional de Estatística (DANE). O resultado reflete a dinâmica do mercado de trabalho nacional no período.",
-    "corpo": "O Departamento Administrativo Nacional de Estatística (DANE) da Colômbia divulgou o mais recente balanço sobre o mercado de trabalho no país, revelando que a taxa de desemprego caiu para 8,1% no mês de julho. O indicador é o principal termômetro oficial da ocupação econômica e da absorção de mão de obra em território colombiano.\n\nA divulgação periódica do DANE compõe a base estatística utilizada por analistas, formuladores de políticas públicas e agentes econômicos para avaliar o ritmo da atividade produtiva nacional. O desempenho do emprego é acompanhado de perto tanto pelas autoridades monetárias e fiscais do país quanto por organismos multilaterais que monitoram a evolução econômica da América Latina.\n\nHistoricamente, as oscilações nos índices de desocupação na Colômbia estão vinculadas ao comportamento de setores estruturais como comércio, serviços, agricultura, construção civil e indústria, além dos níveis de informalidade que tradicionalmente afetam o mercado de trabalho regional. Os números consolidados pelo órgão governamental oferecem um panorama das tendências de contratação e participação da força de trabalho nas principais áreas urbanas e zonas rurais.\n\nCom a publicação dos dados oficiais de julho, o governo e as entidades do setor produtivo passam a dispor de novas referências para a projeção de indicadores macroeconômicos, consumo das famílias e medidas de estímulo ao emprego formal para os meses subsequentes.",
-    "categoria": "Economia",
-    "pais": "Colômbia",
-    "publicado_em": "2026-09-01T04:14:59.712235+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://cronicadelquindio.com/actualidad/economia/desempleo-en-colombia-bajo-a-81-en-julio-de-2026-revela-el-dane/",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/7008378/pexels-photo-7008378.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Carlos Escobar",
-      "photographer_url": "https://www.pexels.com/@carlos-escobar-32250122",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/an-aerial-photography-of-city-buildings-7008378/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "El desempleo en Colombia cayó al 8,1 % en julio, según datos oficiales del DANE",
-        "lead": "La tasa de desocupación en Colombia registró una disminución y se ubicó en el 8,1 % en julio, según el informe publicado por el Departamento Administrativo Nacional de Estadística (DANE). El resultado refleja la dinámica del mercado laboral nacional durante dicho período.",
-        "corpo": "El Departamento Administrativo Nacional de Estadística (DANE) de Colombia presentó su más reciente balance sobre el mercado laboral del país, revelando que la tasa de desempleo bajó al 8,1 % en el mes de julio. Este indicador constituye el principal termómetro oficial sobre la ocupación económica y la absorción de mano de obra en el territorio colombiano.\n\nLa publicación periódica del DANE conforma la base estadística empleada por analistas, formuladores de políticas públicas y actores económicos para evaluar el ritmo de la actividad productiva nacional. El desempeño del empleo es seguido de cerca tanto por las autoridades monetarias y fiscales del país como por organismos multilaterales que monitorean la evolución económica de América Latina.\n\nHistóricamente, las variaciones en las cifras de desocupación en Colombia se vinculan al comportamiento de sectores clave como el comercio, los servicios, la agricultura, la construcción y la manufactura, así como a los niveles de informalidad que habitualmente inciden en el mercado de trabajo regional. Las cifras consolidadas por la entidad gubernamental ofrecen un panorama de las tendencias de contratación y participación de la fuerza laboral tanto en las principales áreas urbanas como en las zonas rurales.\n\nCon la divulgación de los datos oficiales de julio, el gobierno y las entidades del sector productivo cuentan con nuevas referencias para proyectar indicadores macroeconómicos, el consumo de los hogares y estrategias de impulso al empleo formal en los meses venideros."
-      },
-      "en": {
-        "titulo": "Unemployment in Colombia drops to 8.1% in July, official DANE data reveals",
-        "lead": "Colombia's unemployment rate decreased to 8.1% in July, according to the report released by the National Administrative Department of Statistics (DANE). The figure reflects national labor market dynamics during the period.",
-        "corpo": "Colombia's National Administrative Department of Statistics (DANE) published its latest labor market report, revealing that the unemployment rate fell to 8.1% in July. The indicator serves as the primary official benchmark for economic occupation and workforce absorption across Colombian territory.\n\nThe periodic data released by DANE provides the statistical baseline used by analysts, policymakers, and economic actors to evaluate the pace of national productive activity. Employment performance is closely monitored by the country's monetary and fiscal authorities, as well as by multilateral organizations tracking Latin American economic developments.\n\nHistorically, fluctuations in Colombian unemployment figures are tied to the performance of key sectors such as commerce, services, agriculture, construction, and manufacturing, as well as informality levels that traditionally affect the regional labor market. The consolidated figures from the state statistical agency offer an overview of hiring trends and labor force participation across major urban areas and rural regions.\n\nFollowing the release of the official July data, the government and private sector bodies gain updated references to project macroeconomic indicators, household consumption, and policy measures aimed at fostering formal employment in the coming months."
       }
     }
   }
