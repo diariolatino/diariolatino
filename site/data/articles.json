@@ -1,5 +1,39 @@
 [
   {
+    "id": "794d5ab9-2a78-4522-9751-688e51450469",
+    "titulo": "Teto de cota na China desacelera exportações de carne bovina do Brasil em agosto",
+    "lead": "As exportações brasileiras de carne bovina registraram uma retração de 27,1% em volume durante o mês de agosto, impulsionadas pela proximidade do limite da cota de importação imposta pelo mercado chinês.",
+    "corpo": "Dados do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic) divulgados nesta sexta-feira apontam que o faturamento com os embarques da proteína totalizou US$ 1,2 bilhão no período, representando um recuo de 19,7% em relação ao mesmo mês do ano anterior.\n\nA desaceleração reflete diretamente a política comercial da China, que estipulou uma cota anual de 1,106 milhão de toneladas para a compra de carne bovina sem a cobrança de tarifa adicional. Volumes praticados acima desse teto ficam sujeitos a uma alíquota extra de 55%. Em 10 de agosto, Pequim notificou as autoridades brasileiras de que o contingente já havia atingido 90% de utilização.\n\nDe acordo com a avaliação do Mdic, a retração dos embarques era antecipada, uma vez que os produtores e exportadores buscam mitigar riscos financeiros associados à cobrança do imposto elevado. O reflexo foi sentido no desempenho geral das vendas brasileiras para o continente asiático, que amargaram uma queda de 19,2% no volume embarcado em agosto.\n\nApesar do recuo mensal, o saldo da pecuária de corte brasileira no ano permanece em patamar positivo. No acumulado entre janeiro e agosto, o volume de carne bovina resfriada e congelada enviado ao exterior cresceu 4,7%, enquanto a receita em dólares avançou 22,3% na comparação com igual período do ano passado.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-05T10:14:01.879699+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/cota-chinesa-faz-exportacao-de-carne-bovina-recuar-271-em-agosto",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/19500300/pexels-photo-19500300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Fabrizio Zini",
+      "photographer_url": "https://www.pexels.com/@fabrizio-zini-606841368",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/harbor-on-an-peninsula-19500300/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Techo de cuota china frena las exportaciones de carne vacuna de Brasil en agosto",
+        "lead": "Las exportaciones brasileñas de carne vacuna registraron una disminución del 27,1% en volumen durante el mes de agosto, impulsadas por la cercanía al límite de la cuota de importación impuesta por el mercado chino.",
+        "corpo": "Los datos del Ministerio de Desarrollo, Industria, Comercio y Servicios (Mdic) dados a conocer este viernes señalan que los ingresos por los envíos de esta proteína sumaron 1.200 millones de dólares en el período, lo que representa una caída del 19,7% en comparación con el mismo mes del año anterior.\n\nLa desaceleración refleja directamente la política comercial de China, que estableció una cuota anual de 1,106 millones de toneladas para la compra de carne vacuna sin el cobro de aranceles adicionales. Los volúmenes comercializados por encima de este tope quedan sujetos a una tasa extra del 55%. El 10 de agosto, Pekín notificó a las autoridades brasileñas que la cuota ya había alcanzado el 90% de su uso.\n\nSegún el análisis del Mdic, la reducción de los embarques era esperada, ya que los productores y exportadores buscan mitigar los riesgos financieros asociados al cobro del elevado impuesto. El impacto se sintió en el desempeño general de las ventas brasileñas hacia el continente asiático, que sufrieron una baja del 19,2% en el volumen exportado durante agosto.\n\nA pesar de la caída mensual, el balance de la ganadería de corte brasileña en lo que va del año se mantiene en terreno positivo. En el acumulado entre enero y agosto, el volumen de carne vacuna enfriada y congelada enviado al exterior creció un 4,7%, mientras que los ingresos en dólares avanzaron un 22,3% en comparación con el mismo período del año pasado."
+      },
+      "en": {
+        "titulo": "Chinese quota ceiling slows Brazil's beef exports in August",
+        "lead": "Brazilian beef exports experienced a 27.1% drop in volume during August, driven by proximity to the import quota limit set by the Chinese market.",
+        "corpo": "Data released on Friday by the Ministry of Development, Industry, Commerce and Services (Mdic) indicates that revenue from protein shipments totaled US$ 1.2 billion for the month, representing a 19.7% decline compared to the same period last year.\n\nThe slowdown directly reflects China's commercial policy, which established an annual quota of 1.106 million tons for beef imports without additional tariffs. Volumes entering beyond this threshold are subject to an extra 55% duty. On August 10, Beijing notified Brazilian authorities that 90% of the quota had already been utilized.\n\nAccording to Mdic's analysis, the decrease in shipments was anticipated, as producers and exporters seek to minimize financial risks associated with the high tariff burden. The effect impacted Brazil's broader export performance to Asia, which saw a 19.2% decrease in shipped volume in August.\n\nDespite the monthly drop, the overall balance for Brazilian beef exports this year remains positive. Cumulative figures from January to August show that chilled and frozen beef volumes sent abroad grew by 4.7%, while dollar revenues rose 22.3% compared to the same period last year."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "0ac45d9e-79de-4520-b1c6-6ea0a33dec0b",
     "titulo": "Ministério da Fazenda autoriza empréstimo de US$ 1 bilhão do BID para o Eco Invest Brasil",
     "lead": "O governo brasileiro formalizou a autorização para a contratação de até US$ 1 bilhão em crédito externo junto ao Banco Interamericano de Desenvolvimento (BID), recurso que será destinado ao fortalecimento das ações do programa Eco Invest Brasil.",
@@ -1986,39 +2020,6 @@
         "titulo": "Rio de Janeiro establishes official helpline and reporting service for autism support",
         "lead": "The state government of Rio de Janeiro has officially established Disque Autismo, a helpline dedicated to receiving reports of rights violations against individuals with Autism Spectrum Disorder (ASD) and guiding families on accessing public health services.",
         "corpo": "The initiative came into effect following the signing of Law No. 11,297 by acting state governor, Judge Ricardo Couto. Published in the State Official Gazette on Thursday (27), the legislation sets up a direct channel to log cases of mistreatment and disrespect toward the rights of the autistic population in the state of Rio de Janeiro.\n\nIn addition to taking reports, which can be made anonymously to protect the identity of whistleblowers, the new service will provide guidance and information to families. Staff will advise callers on how to navigate the public healthcare system and gain access to specialized programs and services tailored for individuals with ASD.\n\nLogged complaints will be forwarded to the appropriate authorities for necessary legal and administrative action. Beyond dedicated phone lines, support will also be offered through digital platforms, including mobile applications and official websites.\n\nThe final telephone number for Disque Autismo and the state secretariat overseeing its management will be announced once staffing and administrative assignments are completed. The hotline number will be widely publicized across health centers, public and private schools, and official state portals."
-      }
-    }
-  },
-  {
-    "id": "c2924172-9d2f-45c4-9101-385b7d06ca81",
-    "titulo": "Rádio Nacional FM de Brasília celebra 50 anos com programação especial e foco na comunicação pública",
-    "lead": "A Rádio Nacional FM de Brasília comemora cinco décadas de história com uma programação especial nesta sexta-feira (28), destacando o papel da comunicação pública na valorização da cultura do Distrito Federal.",
-    "corpo": "A celebração dos 50 anos da emissora pública será marcada por edições especiais de seus programas tradicionais. O destaque fica por conta do Espaço Arte, que vai ao ar a partir das 13h sob a condução de Marcelo Ferreira e Mário Sartorello. O programa reunirá artistas de diferentes gerações que ajudaram a construir a identidade cultural da capital brasileira, incluindo o pianista e compositor Renato Vasconcellos, o multi-instrumentista Renato Mattos, e as cantoras de samba Fernanda Jacob e Ane Êoketu.\n\nCriado em 2004, originalmente na Rádio Nacional AM, o Espaço Arte consolidou-se como uma das principais vitrines para a produção artística do Distrito Federal, migrando também para a FM em 2016. Além dele, o programa Tarde Nacional apresentará depoimentos e homenagens de diversos artistas à trajetória da rádio ao longo da tarde.\n\nA Rádio Nacional é um dos pilares da comunicação pública no Brasil, gerida pela Empresa Brasil de Comunicação (EBC). Atualmente, a rede conta com oito emissoras próprias espalhadas pelo território nacional, cobrindo regiões metropolitanas como Rio de Janeiro e São Paulo, além de alcançar áreas remotas por meio da Rádio Nacional da Amazônia e da Rádio Nacional do Alto Solimões.\n\nA comemoração reforça a importância histórica das rádios públicas na integração nacional e na difusão da diversidade cultural brasileira, consolidando a Nacional FM de Brasília como uma referência na difusão artística do Planalto Central.",
-    "categoria": "Sociedade",
-    "pais": "Brasil",
-    "publicado_em": "2026-08-31T15:09:48.442281+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/programa-espaco-arte-celebra-50-anos-da-nacional-fm-brasilia",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/9387374/pexels-photo-9387374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "alexandre saraiva carniato",
-      "photographer_url": "https://www.pexels.com/@alexandre-saraiva-carniato-583650",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/singer-in-a-recording-studio-9387374/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Radio Nacional FM de Brasilia celebra 50 años con programación especial y foco en la comunicación pública",
-        "lead": "Radio Nacional FM de Brasilia conmemora cinco décadas de historia con una programación especial este viernes (28), destacando el papel de la comunicación pública en la valorización de la cultura del Distrito Federal.",
-        "corpo": "La celebración de los 50 años de la emisora pública estará marcada por ediciones especiales de sus programas tradicionales. El punto destacado será el programa Espaço Arte, que se transmitirá a partir de las 13:00 horas bajo la conducción de Marcelo Ferreira y Mário Sartorello. El espacio reunirá a artistas de diferentes generaciones que ayudaron a construir la identidad cultural de la capital brasileña, incluyendo al pianista y compositor Renato Vasconcellos, el multiinstrumentista Renato Mattos y las cantantes de samba Fernanda Jacob y Ane Êoketu.\n\nCreado en 2004, originalmente en Radio Nacional AM, Espaço Arte se consolidó como una de las principales vitrinas para la producción artística del Distrito Federal, migrando también a la FM en 2016. Además, el programa Tarde Nacional presentará testimonios y homenajes de diversos artistas a la trayectoria de la radio a lo largo de la tarde.\n\nRadio Nacional es uno de los pilares de la comunicación pública en Brasil, gestionada por la Empresa Brasil de Comunicação (EBC). Actualmente, la red cuenta con ocho emisoras propias distribuidas por el territorio nacional, cubriendo regiones metropolitanas como Río de Janeiro y São Paulo, además de llegar a zonas remotas a través de Radio Nacional de la Amazonía y Radio Nacional del Alto Solimões.\n\nLa conmemoración refuerza la importancia histórica de las radios públicas en la integración nacional y en la difusión de la diversidad cultural brasileña, consolidando a Nacional FM de Brasilia como un referente en la difusión artística del Planalto Central."
-      },
-      "en": {
-        "titulo": "Radio Nacional FM de Brasília celebrates 50 years with special programming and focus on public communication",
-        "lead": "Radio Nacional FM de Brasília commemorates five decades of history with a special broadcast this Friday (28th), highlighting the role of public communication in promoting the culture of Brazil's Federal District.",
-        "corpo": "The celebration of the public broadcaster's 50th anniversary will feature special editions of its traditional programs. The highlight is the show Espaço Arte, airing at 1:00 PM, hosted by Marcelo Ferreira and Mário Sartorello. The program will gather artists from different generations who helped shape the cultural identity of the Brazilian capital, including pianist and composer Renato Vasconcellos, multi-instrumentalist Renato Mattos, and samba singers Fernanda Jacob and Ane Êoketu.\n\nCreated in 2004, originally on Radio Nacional AM, Espaço Arte has established itself as a major showcase for artistic production in the Federal District, expanding to FM in 2016. Additionally, the Tarde Nacional show will feature testimonials and tributes from various artists to the station's legacy throughout the afternoon.\n\nRadio Nacional is a cornerstone of public communication in Brazil, managed by the Empresa Brasil de Comunicação (EBC). Currently, the network operates eight proprietary stations across the country, covering metropolitan areas like Rio de Janeiro and São Paulo, as well as reaching remote regions through Radio Nacional da Amazônia and Radio Nacional do Alto Solimões.\n\nThe celebration reinforces the historical importance of public radio stations in national integration and the promotion of Brazilian cultural diversity, cementing Nacional FM de Brasília as a benchmark for artistic dissemination in the Central Highlands."
       }
     }
   }
