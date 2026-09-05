@@ -1,5 +1,39 @@
 [
   {
+    "id": "1ad7e4db-47e0-4527-b0ce-e4b1269b1bfa",
+    "titulo": "Justiça Eleitoral do Brasil amplia recursos de acessibilidade e transporte para eleitores com deficiência",
+    "lead": "Medidas adotadas pelo Tribunal Superior Eleitoral visam garantir a plena participação de quase 2 milhões de votantes cadastrados com deficiência ou mobilidade reduzida nas eleições.",
+    "corpo": "A Justiça Eleitoral brasileira estruturou um conjunto de iniciativas de acessibilidade para assegurar o direito ao voto a pessoas com deficiência e mobilidade reduzida. As ações respondem a um expressivo crescimento desse segmento no cadastro eleitoral: dados do Tribunal Superior Eleitoral (TSE) apontam que o número de eleitores com deficiência saltou de aproximadamente 141 mil em 2010 para quase 2 milhões atualmente, um aumento superior a 1.200% em dezesseis anos.\n\nEntre as principais medidas operacionais está o programa \"Seu Voto Importa\", regulamentado pelo TSE para fornecer transporte especial gratuito no dia do pleito. O serviço, viabilizado por meio de acordos de cooperação técnica conduzidos pelos Tribunais Regionais Eleitorais (TREs), contempla pessoas com limitações motoras severas, idosos, gestantes e lactantes. O atendimento requer solicitação prévia nos cartórios eleitorais ou canais digitais, acompanhada de comprovação documental ou autodeclaração.\n\nNo aspecto tecnológico, os terminais de votação receberam aprimoramentos para facilitar o uso individual. As urnas eletrônicas passam a contar com a tipografia Atkinson Hyperlegible, desenvolvida especificamente para facilitar a leitura por pessoas com baixa visão, além de uma barra de progresso na tela indicando as etapas sucessivas da votação. O recurso de tradução em Língua Brasileira de Sinais (Libras) na tela também foi ampliado para cobrir orientações de votos em branco, nulos e de legenda.\n\nO plano de inclusão abrange ainda diretrizes de infraestrutura e atendimento nas seções, como a autorização expressa para a entrada e permanência de cães-guia e o treinamento de mesários com ênfase no acolhimento de pessoas com Transtorno do Espectro Autista (TEA).",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-05T20:13:46.888434+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/justica-eleitoral-garante-transporte-e-urnas-adaptadas-para-pcd",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/5205504/pexels-photo-5205504.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Markus Winkler",
+      "photographer_url": "https://www.pexels.com/@markus-winkler-1430818",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-paper-printout-in-a-vintage-typewriter-5205504/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "La Justicia Electoral de Brasil amplía recursos de accesibilidad y transporte para votantes con discapacidad",
+        "lead": "Las medidas adoptadas por el Tribunal Superior Electoral buscan garantizar la plena participación de casi 2 millones de electores registrados con discapacidad o movilidad reducida.",
+        "corpo": "La Justicia Electoral brasileña implementó un conjunto de iniciativas de accesibilidad destinadas a garantizar el derecho al sufragio para personas con discapacidad y movilidad reducida. Las acciones responden a un notable incremento de este sector en el padrón electoral: cifras del Tribunal Superior Electoral (TSE) revelan que el número de votantes con discapacidad pasó de unos 141 mil en 2010 a casi 2 millones en la actualidad, lo que representa un aumento superior al 1.200% en dieciséis años.\n\nEntre las principales disposiciones operativas destaca el programa \"Seu Voto Importa\", reglamentado por el TSE para proporcionar transporte especial gratuito durante la jornada electoral. El servicio, articulado mediante acuerdos de cooperación técnica a cargo de los Tribunales Regionales Electorales (TRE), beneficia a personas con limitaciones motrices severas, adultos mayores, mujeres embarazadas y madres lactantes. El acceso requiere una solicitud previa ante los juzgados electorales o plataformas digitales, junto con la acreditación correspondiente o autodeclaración.\n\nEn el ámbito tecnológico, los dispositivos de votación incorporaron mejoras para facilitar su manejo independiente. Las urnas electrónicas contarán con la tipografía Atkinson Hyperlegible, concebida para mejorar la legibilidad en personas con baja visión, así como con una barra de progreso que señala las fases del sufragio. Asimismo, se ampliaron los videos con intérpretes de lengua de señas en pantalla para detallar opciones como votos en blanco, nulos y por lista partidaria.\n\nEl esquema de inclusión contempla igualmente directrices de infraestructura y atención presencial, tales como el libre ingreso de perros guía a los centros de votación y la capacitación de las autoridades de mesa en la atención prioritaria a personas dentro del espectro autista."
+      },
+      "en": {
+        "titulo": "Brazil's Electoral Justice expands accessibility features and transit for voters with disabilities",
+        "lead": "Measures implemented by the Superior Electoral Court aim to ensure full participation for nearly 2 million registered voters with disabilities or reduced mobility.",
+        "corpo": "Brazil's Electoral Justice has established a set of accessibility initiatives to safeguard voting rights for citizens with disabilities and reduced mobility. The measures follow a substantial increase in this demographic within voter records: data from the Superior Electoral Court (TSE) indicate that registered voters with disabilities rose from approximately 141,000 in 2010 to nearly 2 million today, an increase of more than 1,200% over sixteen years.\n\nAmong the key operational steps is the \"Seu Voto Importa\" program, established by the TSE to provide free specialized transportation on election day. Administered through technical cooperation agreements managed by Regional Electoral Courts (TREs), the service assists individuals with severe mobility challenges, elderly citizens, pregnant women, and nursing mothers. Utilization requires advance registration at electoral registry offices or digital portals, supported by documentation or self-declaration.\n\nOn the technical side, electronic voting machines have received interface upgrades to improve usability. The machines will incorporate the Atkinson Hyperlegible typeface, designed specifically to aid voters with low vision, along with an onscreen progress bar detailing the voting stages. Additionally, embedded sign language interpretation on machine screens has been expanded to cover instructions for blank, null, and party-list votes.\n\nThe accessibility framework also includes polling station logistics, guaranteeing access for service guide dogs and delivering dedicated training to poll workers to assist neurodivergent voters, including individuals on the autism spectrum."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "61be99d6-9e09-4a10-be03-d31b009d5152",
     "titulo": "Brasil realiza testes com plataforma recuperável para pesquisas em microgravidade",
     "lead": "A Operação Potiguar 2 avalia o sistema de recuperação da Plataforma Suborbital de Microgravidade Recuperável a partir do Centro de Lançamento da Barreira do Inferno, no Rio Grande do Norte.",
@@ -1994,39 +2028,6 @@
         "titulo": "Damián Herrera opens up about the reality of immigrant life in Brazil",
         "lead": "Uruguayan broadcaster Damián Herrera shared reflections on the emotional challenges of living in Brazil, debunking the idea that residing near the beach is synonymous with constant happiness.",
         "corpo": "Moving to a new country is often associated with achievements and leisure, but the reality for immigrants frequently conceals deep challenges. Recently, Uruguayan journalist and broadcaster Damián Herrera, who currently resides in Brazil, opened up about the more difficult aspects of his routine abroad, emphasizing that being close to paradise-like landscapes does not erase daily difficulties and loneliness.\n\nIn his statements, Herrera stressed that \"being on the beach is not all happiness,\" drawing attention to the complexity of cultural adaptation, distance from family and friends, and building a new life from scratch. The broadcaster's account echoes the experience of thousands of South Americans who migrate within the region in search of new opportunities but face significant emotional barriers.\n\nHerrera's public remarks generated resonance among his followers and sparked discussions about the mental health of migrants and the romanticization of life abroad. Experts point out that the process of acculturation and the lack of a local support network are factors that weigh heavily on the experience of those who decide to leave their country of origin, regardless of how beautiful their chosen destination is."
-      }
-    }
-  },
-  {
-    "id": "617b8545-80b6-43e3-a9cb-5ba2cda3f7b0",
-    "titulo": "Exército do Uruguai realiza testes técnicos nos canhões dos tanques M-41C",
-    "lead": "O Exército do Uruguai submeteu os canhões de sua frota de tanques M-41C a ensaios não destrutivos como parte de suas rotinas de manutenção e avaliação de material bélico.",
-    "corpo": "As Forças Armadas do Uruguai iniciaram procedimentos de inspeção especializada nos tubos de armamento principal dos blindados M-41C pertencentes à sua cavalaria blindada. Os testes utilizam métodos não destrutivos, permitindo verificar a integridade estrutural do aço dos canhões sem causar danos às peças avaliadas.\n\nEssas avaliações técnicas são fundamentais para identificar eventuais fadigas de material, fissuras internas ou desgastes causados pelo uso e pelo tempo de serviço. O emprego de tecnologias de ensaio não destrutivo é uma prática padrão na gestão militar moderna, garantindo a segurança das tripulações durante exercícios de tiro real e preservando a capacidade operacional dos equipamentos.\n\nO modelo M-41C integra o inventário de veículos blindados de combate do país sul-americano há várias décadas. As ações de verificação visam prolongar a vida útil operacional desses blindados e assegurar a prontidão defensiva das unidades do Exército uruguayo. O processo reflete o compromisso com a manutenção preventiva e com rigorosos padrões de segurança operacional na gestão dos recursos militares terrestres da nação.",
-    "categoria": "Segurança",
-    "pais": "Uruguai",
-    "publicado_em": "2026-09-01T11:16:54.215259+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://www.infodefensa.com/texto-diario/mostrar/5997750/ejercito-uruguay-realiza-ensayos-no-destructivos-canones-m-41c",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/30129085/pexels-photo-30129085.png?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Samir Smier",
-      "photographer_url": "https://www.pexels.com/@samir-smier-314916757",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/aerial-view-of-military-tank-on-terrain-30129085/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "El Ejército de Uruguay realiza ensayos técnicos en los cañones de sus tanques M-41C",
-        "lead": "El Ejército de Uruguay sometió los cañones de su flota de tanques M-41C a ensayos no destructivos como parte de sus rutinas de mantenimiento y evaluación de material bélico.",
-        "corpo": "Las Fuerzas Armadas de Uruguay iniciaron procedimientos de inspección especializada en los cañones del armamento principal de los blindados M-41C pertenecientes a su caballería blindada. Las pruebas utilizan métodos no destructivos, lo que permite verificar la integridad estructural del acero de los cañones sin causar daños a las piezas evaluadas.\n\nEstas evaluaciones técnicas son fundamentales para identificar eventuales fatigas de material, fisuras internas o desgastes causados por el uso y el tiempo de servicio. El empleo de tecnologías de ensayo no destructivo es una práctica estándar en la gestión militar moderna, garantizando la seguridad de las tripulaciones durante ejercicios de tiro real y preservando la capacidad operacional de los equipos.\n\nEl modelo M-41C integra el inventario de vehículos blindados de combate del país sudamericano desde hace varias décadas. Las acciones de verificación buscan prolongar la vida útil operacional de estos blindados y asegurar la preparación defensiva de las unidades del Ejército uruguayo. El proceso refleja el compromiso con el mantenimiento preventivo y con rigurosos estándares de seguridad operacional en la gestión de los recursos militares terrestres de la nación."
-      },
-      "en": {
-        "titulo": "Uruguayan Army conducts technical testing on M-41C tank cannons",
-        "lead": "The Uruguayan Army has subjected the cannons of its M-41C tank fleet to non-destructive testing as part of its ordnance maintenance and evaluation routines.",
-        "corpo": "The Armed Forces of Uruguay have initiated specialized inspection procedures on the main armament barrels of the M-41C armored vehicles belonging to its armored cavalry. The tests employ non-destructive methods, allowing technicians to verify the structural integrity of the steel cannons without damaging the evaluated components.\n\nThese technical evaluations are essential for identifying potential material fatigue, internal cracks, or wear caused by operational use and age. The use of non-destructive testing technology is a standard practice in modern military management, ensuring crew safety during live-fire exercises and preserving the operational capability of the equipment.\n\nThe M-41C model has been part of the South American nation's inventory of armored fighting vehicles for several decades. The verification actions aim to extend the operational service life of these armored units and ensure the defense readiness of the Uruguayan Army units. The process reflects a commitment to preventive maintenance and strict operational safety standards in managing the country's land military assets."
       }
     }
   }
