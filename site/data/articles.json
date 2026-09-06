@@ -1,5 +1,39 @@
 [
   {
+    "id": "9b22d136-d40d-4dff-909c-b37592859415",
+    "titulo": "Senado aprova isenção de imposto para compras internacionais de até 50 dólares",
+    "lead": "O plenário do Senado Federal aprovou a medida provisória que elimina a tributação federal de importação sobre compras internacionais de pequeno valor. A proposta agora segue para sanção presidencial.",
+    "corpo": "O Senado Federal aprovou em votação simbólica a medida provisória que zera a alíquota federal de 20% aplicada sobre compras internacionais feitas pela internet no valor de até US$ 50 via remessas postais. Após tramitar pela Câmara dos Deputados e pelo Senado, o projeto de lei de conversão segue agora para a análise e sanção do presidente da República.\n\nO parecer aprovado incluiu alterações introduzidas pela relatora, senadora Leila do Vôlei. Entre os acréscimos ao texto está a isenção do imposto de importação para medicamentos estrangeiros que não possuam versão equivalente fabricada no território brasileiro. A legislação também fixou a redução de 60% para 30% na alíquota cobrada sobre remessas postais internacionais com valores entre US$ 50 e US$ 3 mil.\n\nPara avaliar o impacto da política tributária, o Ministério da Fazenda realizará análises periódicas sobre os reflexos da desoneração nos níveis de emprego, renda, preços e desempenho da indústria nacional. A primeira revisão ocorrerá em três meses, seguida de levantamentos semestrais e um relatório consolidado anual.\n\nA matéria também estabelece regras mais rígidas de conformidade para plataformas de comércio eletrônico e operadoras logísticas. O texto prevê a obrigatoriedade de rastreamento dos vendedores, monitoramento de operações suspeitas e cooperação ativa com a Receita Federal para coibir práticas de subfaturamento, fracionamento artificial de encomendas e omissão de dados de remetentes. Durante os debates, parlamentares de oposição manifestaram preocupação com os impactos da renúncia fiscal na competitividade das empresas instaladas no país.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-06T04:14:23.877265+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-aprova-mp-da-taxa-das-blusinhas-e-isencao-se-torna-definitiva",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/30179028/pexels-photo-30179028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "João  Pavese",
+      "photographer_url": "https://www.pexels.com/@bangalo",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/brazilian-national-congress-architecture-30179028/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Senado brasileño aprueba exención tributaria para compras internacionales de hasta 50 dólares",
+        "lead": "El pleno del Senado de Brasil aprobó una medida provisional que elimina los impuestos federales de importación para compras por internet de bajo valor. La iniciativa pasa ahora a sanción presidencial.",
+        "corpo": "El Senado Federal de Brasil aprobó mediante votación simbólica la medida provisional que fija en cero el arancel federal de importación del 20% aplicado a compras internacionales de hasta 50 dólares realizadas por internet mediante envíos postales. Tras su paso por la Cámara de Diputados y el Senado, el texto pasa ahora a sanción del Poder Ejecutivo.\n\nEl dictamen incorpora modificaciones formuladas por la ponente, la senadora Leila do Vôlei. Entre los principales cambios figura la exención de aranceles de importación para medicamentos que no cuenten con un equivalente en el mercado brasileño. Asimismo, la normativa reduce del 60% al 30% la alícuota sobre envíos postales internacionales cuyo valor se sitúe entre 50 y 3.000 dólares.\n\nEl Ministerio de Hacienda llevará a cabo evaluaciones periódicas para medir las repercusiones económicas de esta política sobre el empleo, el ingreso, los precios y la industria local. La primera revisión tendrá lugar a los tres meses, complementada por análisis semestrales y un informe anual integral.\n\nLa normativa también impone mayores exigencias de cumplimiento a plataformas digitales y operadores logísticos. El marco legal obliga a garantizar la trazabilidad de los vendedores, monitorear transacciones sospechosas y colaborar con las autoridades tributarias para prevenir la subfacturación, la división artificial de paquetes y la ocultación de remitentes. Legisladores de la oposición advirtieron sobre el impacto de la medida en la competitividad de las empresas brasileñas."
+      },
+      "en": {
+        "titulo": "Brazilian Senate Approves Tax Exemption on Cross-Border Purchases up to $50",
+        "lead": "Brazil's Federal Senate has approved a provisional measure eliminating federal import tariffs on small-value international online purchases. The legislation now awaits presidential approval.",
+        "corpo": "Brazil's Federal Senate approved through a voice vote a provisional measure that eliminates the 20% federal import tax on cross-border e-commerce purchases of up to $50 sent via postal shipments. Following approvals in both the Chamber of Deputies and the Senate, the bill now advances to the presidency for final enactment.\n\nThe approved text includes amendments introduced by the reporting senator, Leila do Vôlei. Among the additions is a full tariff exemption on imported medicines that do not have manufactured equivalents in Brazil. The legislation also lowers the import tariff on postal shipments valued between $50 and $3,000 from 60% to 30%.\n\nTo gauge the economic repercussions of the policy, Brazil's Ministry of Finance will conduct regular assessments on domestic employment, wages, consumer prices, and local manufacturing. The initial evaluation will take place within three months, followed by semi-annual reviews and an annual consolidated assessment.\n\nThe measure also introduces stricter compliance obligations for digital retail platforms and postal carriers. It mandates vendor traceability, the tracking of suspicious transactions, and active cooperation with tax authorities to prevent customs fraud, package splitting, and sender concealment. Opposition lawmakers raised concerns during the debate regarding the potential impact of the tax relief on the competitiveness of domestic manufacturers."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "7673cf93-72e3-4975-ba8d-7d18763b0094",
     "titulo": "Atualização: Senado votará fim da escala 6x1 apenas após as eleições, confirma Alcolumbre",
     "lead": "O presidente do Senado Federal, Davi Alcolumbre, confirmou que a Proposta de Emenda à Constituição que prevê o fim da jornada 6x1 e a redução da carga semanal para 40 horas será votada no plenário apenas após o período eleitoral.",
@@ -2004,38 +2038,5 @@
       }
     },
     "atualizacao_de": null
-  },
-  {
-    "id": "9f08c431-8b24-471b-a3a6-d802a0ac934f",
-    "titulo": "Árbol Rojo celebra nono aniversário com foco no fortalecimento do cinema no sul do México",
-    "lead": "A associação cultural Árbol Rojo iniciou um novo ciclo de atividades em comemoração ao seu nono aniversário, consolidando seu compromisso de impulsionar e difundir a produção cinematográfica na região sul do México.",
-    "corpo": "O projeto, que se destaca como uma plataforma fundamental para a descentralização cultural no país, busca ampliar o acesso ao cinema e fortalecer a formação de novos realizadores nas comunidades do sul mexicano. Ao completar nove anos de trajetória, a iniciativa reafirma seu papel na promoção da diversidade audiovisual, conectando realizadores locais com novos públicos e mercados.\n\nO novo ciclo de atividades prevê a realização de exibições, oficinas e debates que visam descentralizar a oferta cultural, historicamente concentrada na região central do México. A valorização das narrativas do sul do país é vista como um passo essencial para a preservação da identidade cultural local e para a inclusão de vozes historicamente sub-representadas na indústria cinematográfica nacional.\n\nCom este novo ciclo, a Árbol Rojo projeta expandir seu alcance territorial e consolidar alianças estratégicas com agentes culturais da América Latina, reforçando o papel da arte como ferramenta de transformação social e integração regional.",
-    "categoria": "Sociedade",
-    "pais": "México",
-    "publicado_em": "2026-09-02T06:23:21.979800+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://nuevaprensa.web.ve/arbol-rojo-inicia-un-nuevo-ciclo-en-su-noveno-aniversario-con-impulso-al-cine-del-sur-de-mexico/",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Tima Miroshnichenko",
-      "photographer_url": "https://www.pexels.com/@tima-miroshnichenko",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/cartoon-movie-showing-on-theater-screen-7991579/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Árbol Rojo celebra noveno aniversario con enfoque en el fortalecimiento del cine en el sur de México",
-        "lead": "La asociación cultural Árbol Rojo inició un nuevo ciclo de actividades en conmemoración de su noveno aniversario, consolidando su compromiso de impulsar y difundir la producción cinematográfica en la región sur de México.",
-        "corpo": "El proyecto, que se destaca como una plataforma fundamental para la descentralización cultural en el país, busca ampliar el acceso al cine y fortalecer la formación de nuevos realizadores en las comunidades del sur mexicano. Al cumplir nueve años de trayectoria, la iniciativa reafirma su papel en la promoción de la diversidad audiovisual, conectando a realizadores locales con nuevos públicos y mercados.\n\nEl nuevo ciclo de actividades prevé la realización de exhibiciones, talleres y debates que apuntan a descentralizar la oferta cultural, históricamente concentrada en la región central de México. La valorización de las narrativas del sur del país es vista como un paso esencial para la preservación de la identidad cultural local y para la inclusión de voces históricamente subrepresentadas en la industria cinematográfica nacional.\n\nCon este nuevo ciclo, Árbol Rojo proyecta expandir su alcance territorial y consolidar alianzas estratégicas con agentes culturales de América Latina, reforzando el papel del arte como herramienta de transformación social e integración regional."
-      },
-      "en": {
-        "titulo": "Árbol Rojo Celebrates Ninth Anniversary with Focus on Strengthening Cinema in Southern Mexico",
-        "lead": "The cultural association Árbol Rojo has launched a new cycle of activities to commemorate its ninth anniversary, consolidating its commitment to promoting and distributing film production in the southern region of Mexico.",
-        "corpo": "The project, which stands out as a key platform for cultural decentralization in the country, aims to expand access to cinema and strengthen the training of new filmmakers in southern Mexican communities. As it marks nine years of history, the initiative reaffirms its role in promoting audiovisual diversity, connecting local filmmakers with new audiences and markets.\n\nThe new cycle of activities includes screenings, workshops, and debates designed to decentralize cultural offerings, which have historically been concentrated in central Mexico. Promoting narratives from the southern part of the country is seen as an essential step toward preserving local cultural identity and including historically underrepresented voices in the national film industry.\n\nWith this new cycle, Árbol Rojo plans to expand its territorial reach and consolidate strategic alliances with cultural agents across Latin America, reinforcing the role of art as a tool for social transformation and regional integration."
-      }
-    }
   }
 ]
