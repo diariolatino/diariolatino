@@ -1,5 +1,39 @@
 [
   {
+    "id": "f1e88316-e1e5-4b82-8d5f-55d28c78a991",
+    "titulo": "Colômbia amplia operações de segurança contra o ELN e organizações armadas",
+    "lead": "As forças de segurança da Colômbia intensificaram as ações operacionais e estratégicas de combate ao Exército de Libertação Nacional (ELN) e a outros grupos armados ilegais que atuam no território nacional.",
+    "corpo": "O governo da Colômbia determinou o fortalecimento das operações militares e policiais direcionadas a conter o avanço do Exército de Libertação Nacional (ELN) e de diferentes estruturas armadas ilegais presentes no país. A medida reflete o esforço do Estado em restabelecer o controle territorial em regiões historicamente afetadas por confrontos armados e pela atuação do crime organizado.\n\nA intensificação das ofensivas busca desarticular as cadeias logísticas e financeiras dessas organizações, frequentemente associadas a atividades ilícitas como o narcotráfico, a mineração ilegal e a extorsão. As ações envolvem o reforço do desdobramento de tropas em áreas rurais e de fronteira, onde a presença de facções armadas costuma gerar graves impactos para as populações locais, incluindo deslocamentos forçados e restrições de mobilidade.\n\nO cenário de segurança na Colômbia permanece complexo diante da multiplicidade de atores armados que disputam rotas estratégicas e territórios. Ao priorizar ações integradas entre as Forças Militares e a Polícia Nacional, as autoridades buscam reduzir os índices de violência armada e proteger comunidades vulneráveis.\n\nCom essa postura operacional reforçada, o país tenta mitigar os riscos à estabilidade interna e garantir a presença institucional em zonas de alta conflitividade, mantendo a resposta de segurança como um dos eixos centrais de sua estratégia nacional.",
+    "categoria": "Segurança",
+    "pais": "Colômbia",
+    "publicado_em": "2026-09-06T06:16:51.561212+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.eldiario.ec/mundo/colombia-redobla-la-ofensiva-contra-el-eln-y-otros-grupos-armados-en-el-catatumbo-05092026/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/14015956/pexels-photo-14015956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Franklin Peña Gutierrez",
+      "photographer_url": "https://www.pexels.com/@franklin-pena-gutierrez-337911674",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/soldier-with-machine-gun-and-paper-bird-in-jungle-14015956/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Colombia amplía operativos de seguridad contra el ELN y organizaciones armadas",
+        "lead": "Las fuerzas de seguridad de Colombia intensificaron las acciones operativas y estratégicas de combate contra el Ejército de Liberación Nacional (ELN) y otros grupos armados ilegales que operan en el territorio nacional.",
+        "corpo": "El gobierno de Colombia determinó el fortalecimiento de las operaciones militares y policiales dirigidas a contener el avance del Ejército de Liberación Nacional (ELN) y de distintas estructuras armadas ilegales presentes en el país. La medida refleja el esfuerzo del Estado por restablecer el control territorial en regiones históricamente afectadas por confrontaciones armadas y por el accionar del crimen organizado.\n\nLa intensificación de las ofensivas busca desarticular las cadenas logísticas y financieras de estas organizaciones, frecuentemente vinculadas a actividades ilícitas como el narcotráfico, la minería ilegal y la extorsión. Las acciones involucran el refuerzo del despliegue de tropas en áreas rurales y fronterizas, donde la presencia de facciones armadas suele generar graves impactos en las poblaciones locales, incluyendo desplazamientos forzados y restricciones a la movilidad.\n\nEl escenario de seguridad en Colombia continúa siendo complejo ante la multiplicidad de actores armados que disputan rutas estratégicas y territorios. Al priorizar acciones integradas entre las Fuerzas Militares y la Policía Nacional, las autoridades buscan reducir los índices de violencia armada y proteger a las comunidades vulnerables.\n\nCon esta postura operativa reforzada, el país intenta mitigar los riesgos para la estabilidad interna y garantizar la presencia institucional en zonas de alta conflictividad, manteniendo la respuesta de seguridad como uno de los ejes centrales de su estrategia nacional."
+      },
+      "en": {
+        "titulo": "Colombia expands security operations against ELN and armed organizations",
+        "lead": "Colombian security forces have intensified operational and strategic efforts to combat the National Liberation Army (ELN) and other illegal armed groups operating across the national territory.",
+        "corpo": "The government of Colombia has ordered the reinforcement of military and police operations aimed at containing the advance of the National Liberation Army (ELN) and various illegal armed factions active in the country. The measure reflects state efforts to re-establish territorial control in regions historically affected by armed confrontations and organized crime.\n\nThe heightened offensive aims to dismantle the logistical and financial networks of these groups, which are frequently linked to illicit activities such as drug trafficking, illegal mining, and extortion. Operations include enhanced troop deployments in rural and border areas, where the presence of armed factions often inflicts severe harm on local populations, including forced displacement and restrictions on freedom of movement.\n\nColombia's security landscape remains challenging due to the multiplicity of armed actors competing for strategic routes and territories. By prioritizing integrated efforts between the Military Forces and the National Police, authorities seek to curb armed violence rates and safeguard vulnerable communities.\n\nThrough this reinforced operational stance, the country seeks to mitigate risks to internal stability and ensure institutional presence in high-conflict zones, maintaining a robust security response as a central pillar of its national strategy."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "9178a123-49ab-4eb2-b38c-299e8c26faf1",
     "titulo": "Representante da República Dominicana, Joheirry Mola conquista a coroa do Miss Mundo 2026",
     "lead": "A modelo dominicana Joheirry Mola foi coroada vencedora do Miss Mundo 2026, garantindo um importante título internacional para o país caribenho.",
@@ -2001,40 +2035,6 @@
         "titulo": "Brazil Labels US Trade Tariffs Discriminatory While Agreeing to Continue Bilateral Talks",
         "lead": "During a high-level bilateral meeting, Brazilian officials asserted that tariff surcharges imposed by Washington are unjustified and violate international trade norms.",
         "corpo": "The Brazilian government formally voiced its dissatisfaction with the trade tariffs imposed by the United States, calling the measures discriminatory and incompatible with multilateral trade rules. The stance was delivered during a virtual meeting between Foreign Minister Mauro Vieira, Minister of Development, Industry, Commerce, and Services Márcio Elias Rosa, and United States Trade Representative Jamieson Greer.\n\nIn a joint statement, the Brazilian ministries maintained that the findings of US investigations conducted under Section 301 of the Trade Act do not reflect actual economic practices in the South American country. Brazilian exports are currently subject to an additional 25% tariff, alongside a separate 12.5% surcharge justified by Washington over labor condition concerns—allegations that Brasília firmly disputes.\n\nThe commercial dispute encompasses US complaints regarding sectors such as the Pix instant payment system and ethanol market access. The ministerial dialogue follows a phone conversation on August 21 between Presidents Luiz Inácio Lula da Silva and Donald Trump, during which both leaders agreed to reopen discussions over the tariff burdens.\n\nDespite the ongoing friction and Brazil's strong contestation of the US arguments, both sides agreed to keep negotiations open. Technical rounds are scheduled to take place in the coming weeks, followed by a subsequent ministerial gathering to assess progress. The Brazilian government reiterated its commitment to pursuing a balanced agreement centered on mutual benefit and national sovereignty."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "1ff0a0d8-c217-43a5-919c-6c11769d9939",
-    "titulo": "Acordo concede a empresa ligada ao Pentágono o controle de 21% do petróleo venezuelano",
-    "lead": "A Casa Branca anunciou os termos de um acordo que transfere a gestão de 65 bilhões de barris de petróleo da Venezuela por até 100 anos a uma companhia privada ligada ao Departamento de Defesa norte-americano.",
-    "corpo": "O governo dos Estados Unidos divulgou detalhes de uma ampla cooperação energética firmada com a Venezuela que entrega a operação de 17 campos petrolíferos à North American Blue Energy Partners (Nabep). A empresa privada tem 35% de seu controle acionário vinculado ao Escritório de Capital Estratégico do Pentágono. O volume abrangido corresponde a 21% de todas as reservas provadas do país sul-americano, estimadas em 303 bilhões de barris.\n\nPelos termos divulgados pela presidência norte-americana, Washington garantiu o direito de comprar 20% de toda a extração a preço de custo, além de assegurar preferência na aquisição dos 80% remanescentes e poder de veto na composição da diretoria da operadora. A Casa Branca enquadrou o pacto na retomada da Doutrina Monroe, apontando o objetivo de afastar concorrentes geopolíticos da região em meio à pressão sobre o abastecimento global de combustíveis.\n\nAs condições publicadas expuseram divergências com as declarações da presidente interina venezuelana, Delcy Rodríguez, que havia informado anteriormente que os contratos teriam vigência de 25 anos. Segundo o governo interino de Caracas, a meta da iniciativa é dobrar a capacidade de extração nacional para 1,5 milhão de barris diários, com previsão de US$ 100 bilhões em investimentos externos e US$ 209 bilhões em tributos.\n\nA negociação despertou intensas críticas internas e externas. Analistas do setor destacaram que o formato dispensa concorrência pública e estipula prazos sem precedentes históricos no país, com repasses fiscais calculados em patamares muito inferiores às médias tradicionais do setor. Politicamente, a medida também aprofundou divisões no campo chavista: enquanto organizações sociais e coletivos populares condenaram a entrega de recursos nacionais, a cúpula do Partido Socialista Unido da Venezuela defendeu a urgência do aporte de capital para reabilitar a infraestrutura energética.",
-    "categoria": "Economia",
-    "pais": "Venezuela",
-    "publicado_em": "2026-09-02T16:15:11.553254+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/empresa-ligada-ao-pentagono-controlara-21-do-petroleo-da-venezuela",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/11347815/pexels-photo-11347815.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Picas Joe",
-      "photographer_url": "https://www.pexels.com/@picasjoe",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/oil-refinery-near-water-11347815/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Acuerdo otorga a empresa vinculada al Pentágono el control del 21% del petróleo venezolano",
-        "lead": "La Casa Blanca anunció los términos de un acuerdo que transfiere la gestión de 65.000 millones de barriles de crudo de Venezuela por hasta 100 años a una compañía privada vinculada al Departamento de Defensa estadounidense.",
-        "corpo": "El gobierno de Estados Unidos difundió detalles de un amplio convenio energético alcanzado con Venezuela que entrega la operación de 17 campos petroleros a la empresa North American Blue Energy Partners (Nabep). La compañía privada tiene un 35% de su paquete accionario bajo control de la Oficina de Capital Estratégico del Pentágono. Dicho volumen representa el 21% del total de reservas probadas de la nación sudamericana, estimadas en 303.000 millones de barriles.\n\nSegún los términos detallados por la presidencia estadounidense, Washington obtuvo el derecho a comprar el 20% de toda la extracción a costo de producción, además de asegurarse la prioridad en la compra del 80% restante y poder de veto en la junta directiva de la operadora. La Casa Blanca enmarcó la transacción en la reactivación de la Doctrina Monroe, subrayando el propósito de desplazar a rivales geopolíticos de la región en un contexto de tensiones en la oferta global de energía.\n\nLas cláusulas divulgadas entraron en contradicción con las afirmaciones previas de la presidenta interina venezolana, Delcy Rodríguez, quien había señalado una duración de 25 años. Desde Caracas, el gobierno interino defendió que el pacto busca duplicar la extracción local a 1,5 millones de barriles diarios mediante 100.000 millones de dólares en inversiones y 209.000 millones en ingresos fiscales.\n\nEl acuerdo desató fuertes cuestionamientos en el plano técnico y político. Especialistas del área petrolera advirtieron sobre la adjudicación sin licitación previa, la extensión temporal inédita y un rendimiento fiscal por barril sustancialmente inferior a las tasas históricas. En el plano local, la medida profundizó las fracturas dentro del chavismo, enfrentando el rechazo de movimientos populares de base y el respaldo de la cúpula del Partido Socialista Unido de Venezuela."
-      },
-      "en": {
-        "titulo": "Pentagon-linked firm to control 21% of Venezuelan oil under new deal",
-        "lead": "The White House unveiled the terms of an agreement transferring the management of 65 billion barrels of Venezuelan oil to a private firm tied to the U.S. Department of Defense for up to 100 years.",
-        "corpo": "The United States government revealed details of a major energy agreement with Venezuela that grants operating rights over 17 oil fields to North American Blue Energy Partners (Nabep). The private enterprise has 35% of its shares under the oversight of the Pentagon’s Office of Strategic Capital. The assets involved represent 21% of the South American nation's proven crude reserves, estimated at 303 billion barrels.\n\nUnder the framework published by the U.S. executive, Washington obtained the right to purchase 20% of output at production cost, alongside the right of first refusal over the remaining 80% and veto authority over corporate board appointments. The White House explicitly linked the initiative to the reassertion of the Monroe Doctrine, aiming to curtail competing geopolitical influence in the hemisphere amid tightening global energy supplies.\n\nThe newly released terms contradict prior public statements by Venezuela's interim president, Delcy Rodríguez, who had asserted that the arrangement would span 25 years. Caracas stated that the deal aims to more than double national output to 1.5 million barrels per day, anticipating $100 billion in private investments and $209 billion in tax revenues over the concession period.\n\nThe transaction sparked sharp criticism across technical and political spheres. Industry observers questioned the absence of competitive bidding procedures and pointed out that projected fiscal returns per barrel fall well below historical standards for Venezuelan concessions. Politically, the move deepened fractures within the Chavista movement, drawing vocal condemnation from grassroots anti-imperialist groups while receiving backing from senior leadership in the United Socialist Party of Venezuela."
       }
     },
     "atualizacao_de": null
