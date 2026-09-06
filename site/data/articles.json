@@ -1,5 +1,39 @@
 [
   {
+    "id": "9178a123-49ab-4eb2-b38c-299e8c26faf1",
+    "titulo": "Representante da República Dominicana, Joheirry Mola conquista a coroa do Miss Mundo 2026",
+    "lead": "A modelo dominicana Joheirry Mola foi coroada vencedora do Miss Mundo 2026, garantindo um importante título internacional para o país caribenho.",
+    "corpo": "A República Dominicana alcançou uma vitória de destaque no cenário internacional com a coroação de Joheirry Mola como Miss Mundo 2026. A representante dominicana superou concorrentes de dezenas de nações ao longo das diferentes etapas avaliativas do tradicional concurso de beleza, garantindo a cobiçada coroa.\n\nO resultado projeta o nome do país caribenho em escala global e celebra o talento, a preparação e a presença de palco da nova titular do concurso. Eventos dessa magnitude internacional tradicionalmente mobilizam a atenção pública e movimentam setores ligados à cultura, moda e entretenimento, destacando a projeção cultural e turística das nações representadas pelas participantes.\n\nCom o título, Joheirry Mola assumirá uma agenda de compromissos humanitários, sociais e de representação institucional ao redor do mundo, alinhada às iniciativas promovidas pela organização do Miss Mundo ao longo de seu período de reinado.",
+    "categoria": "Sociedade",
+    "pais": "República Dominicana",
+    "publicado_em": "2026-09-06T05:12:55.237125+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.expreso.ec/entretenimiento/miss-mundo-2026-joheirry-mola-republica-dominicana-gana-corona-294736.html",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/31719611/pexels-photo-31719611.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Samuel Nuñez",
+      "photographer_url": "https://www.pexels.com/@estudio37rd",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/elegant-quinceanera-portrait-in-puerto-plata-31719611/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "La dominicana Joheirry Mola gana la corona de Miss Mundo 2026",
+        "lead": "La modelo dominicana Joheirry Mola fue coronada ganadora de Miss Mundo 2026, logrando un importante título internacional para el país caribeño.",
+        "corpo": "República Dominicana alcanzó una victoria destacada en el escenario internacional con la coronación de Joheirry Mola como Miss Mundo 2026. La representante dominicana superó a competidoras de decenas de naciones a lo largo de las distintas etapas de evaluación del tradicional certamen de belleza, asegurando la codiciada corona.\n\nEl resultado proyecta el nombre del país caribeño a escala global y celebra el talento, la preparación y el desenvolvimiento de la nueva soberana del certamen. Eventos de esta magnitud internacional movilizan tradicionalmente la atención pública y dinamizan sectores vinculados a la cultura, la moda y el entretenimiento, resaltando la proyección cultural y turística de las naciones representadas por las participantes.\n\nCon este título, Joheirry Mola asumirá una agenda de compromisos humanitarios, sociales y de representación institucional en todo el mundo, en línea con las iniciativas impulsadas por la organización de Miss Mundo a lo largo de su año de reinado."
+      },
+      "en": {
+        "titulo": "Dominican Republic's Joheirry Mola wins the Miss World 2026 crown",
+        "lead": "Dominican model Joheirry Mola was crowned winner of Miss World 2026, securing a major international title for the Caribbean nation.",
+        "corpo": "The Dominican Republic achieved a major milestone on the international stage with the crowning of Joheirry Mola as Miss World 2026. The Dominican representative outperformed contestants from dozens of nations across the various evaluation rounds of the traditional pageant to claim the coveted crown.\n\nThe victory elevates the Caribbean country on the global stage, highlighting the talent, preparation, and stage presence of the newly crowned titleholder. Events of this magnitude traditionally draw widespread public interest and engage industries linked to culture, fashion, and entertainment, reinforcing the cultural and tourism profile of the participating nations.\n\nFollowing her win, Joheirry Mola will undertake a comprehensive schedule of humanitarian, social, and promotional engagements worldwide, in line with the initiatives led by the Miss World organization throughout her reign."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "9b22d136-d40d-4dff-909c-b37592859415",
     "titulo": "Senado aprova isenção de imposto para compras internacionais de até 50 dólares",
     "lead": "O plenário do Senado Federal aprovou a medida provisória que elimina a tributação federal de importação sobre compras internacionais de pequeno valor. A proposta agora segue para sanção presidencial.",
@@ -2001,40 +2035,6 @@
         "titulo": "Pentagon-linked firm to control 21% of Venezuelan oil under new deal",
         "lead": "The White House unveiled the terms of an agreement transferring the management of 65 billion barrels of Venezuelan oil to a private firm tied to the U.S. Department of Defense for up to 100 years.",
         "corpo": "The United States government revealed details of a major energy agreement with Venezuela that grants operating rights over 17 oil fields to North American Blue Energy Partners (Nabep). The private enterprise has 35% of its shares under the oversight of the Pentagon’s Office of Strategic Capital. The assets involved represent 21% of the South American nation's proven crude reserves, estimated at 303 billion barrels.\n\nUnder the framework published by the U.S. executive, Washington obtained the right to purchase 20% of output at production cost, alongside the right of first refusal over the remaining 80% and veto authority over corporate board appointments. The White House explicitly linked the initiative to the reassertion of the Monroe Doctrine, aiming to curtail competing geopolitical influence in the hemisphere amid tightening global energy supplies.\n\nThe newly released terms contradict prior public statements by Venezuela's interim president, Delcy Rodríguez, who had asserted that the arrangement would span 25 years. Caracas stated that the deal aims to more than double national output to 1.5 million barrels per day, anticipating $100 billion in private investments and $209 billion in tax revenues over the concession period.\n\nThe transaction sparked sharp criticism across technical and political spheres. Industry observers questioned the absence of competitive bidding procedures and pointed out that projected fiscal returns per barrel fall well below historical standards for Venezuelan concessions. Politically, the move deepened fractures within the Chavista movement, drawing vocal condemnation from grassroots anti-imperialist groups while receiving backing from senior leadership in the United Socialist Party of Venezuela."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "9bc5757c-8c95-4747-a790-79496bc69552",
-    "titulo": "Petroleira dos EUA prevê investimento bilionário para duplicar extração de petróleo na Venezuela",
-    "lead": "Uma companhia petrolífera norte-americana planeja destinar cerca de R$ 36 bilhões para expandir suas operações na Venezuela. O aporte financeiro visa dobrar os volumes atuais de extração de óleo cru no país sul-americano.",
-    "corpo": "O setor de energia na Venezuela prepara-se para receber um dos maiores volumes recentes de capital estrangeiro, com o anúncio do planejamento de uma petroleira dos Estados Unidos para aportar aproximadamente R$ 36 bilhões em projetos locais. O objetivo central dessa iniciativa é duplicar a extração de petróleo cru em áreas sob concessão e cooperação com o setor público venezuelano.\n\nA movimentação comercial acontece em um contexto estratégico para o abastecimento energético internacional e sinaliza uma reaproximação operacional pontual no setor de hidrocarbonetos. As reservas comprovadas da Venezuela estão entre as maiores do planeta, mas a produção nacional enfrentou declínios substanciais nas últimas décadas devido a sanções internacionais, falta de manutenção da infraestrutura de exploração e desafios operacionais internos.\n\nCom o novo plano de aportes financeiros, as instalações de refino, bombeamento e exploração de petróleo bruto devem receber atualizações técnicas e melhorias operacionais. A meta de elevar a produção pela metade do tempo previsto dependerá da modernização dos campos petrolíferos já existentes e da recomposição da capacidade logística voltada à exportação.\n\nAnalistas de mercado avaliam que investimentos dessa magnitude reforçam o papel da América Latina como um centro relevante de fornecimento de petróleo e derivados para os mercados globais. Além do impacto financeiro direto na indústria petrolífera do país, o ingresso desses recursos pode repercutir na arrecadação estatal e no dinamismo econômico venezuelano nos próximos ciclos.",
-    "categoria": "Economia",
-    "pais": "Venezuela",
-    "publicado_em": "2026-09-02T15:20:54.627153+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://veja.abril.com.br/mundo/a-petroleira-americana-que-vai-investir-r-36-bi-para-dobrar-producao-de-petroleo-na-venezuela/",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/13129752/pexels-photo-13129752.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Ashraf Tanzin",
-      "photographer_url": "https://www.pexels.com/@ashraf-tanzin-288171397",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/lift-in-refinery-13129752/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Petrolera estadounidense prevé millonaria inversión para duplicar producción de crudo en Venezuela",
-        "lead": "Una compañía petrolera estadounidense planea destinar alrededor de 36 mil millones de reales para expandir sus operaciones en Venezuela. El objetivo del desembolso es duplicar los volúmenes de extracción de crudo en el país sudamericano.",
-        "corpo": "El sector energético en Venezuela se prepara para recibir uno de los mayores montos recientes de capital extranjero, tras el anuncio de un plan de inversión de una petrolera de Estados Unidos por cerca de 36 mil millones de reales en proyectos locales. El propósito central de la iniciativa consiste en duplicar la extracción de petróleo crudo en áreas bajo concesión y esquemas de cooperación con el sector público venezolano.\n\nEl despliegue comercial se produce en un escenario estratégico para el suministro energético global y marca un acercamiento operativo en el sector de los hidrocarburos. Si bien Venezuela cuenta con algunas de las mayores reservas probadas del planeta, su producción nacional experimentó fuertes contracciones en las últimas décadas debido a sanciones internacionales, rezago en el mantenimiento de infraestructuras y dificultades operativas internas.\n\nCon este nuevo programa de financiamiento, las instalaciones de refinación, bombeo y exploración de crudo recibirán adecuaciones técnicas y mejoras operativas. El cumplimiento de la meta de elevar la capacidad productiva dependerá de la modernización de los campos ya activos y del fortalecimiento de las redes logísticas destinadas a la exportación.\n\nAnalistas económicos señalan que inversiones de esta magnitud ratifican el papel de América Latina como un proveedor relevante de hidrocarburos para los mercados internacionales. Más allá del impacto directo en la industria petrolera, el flujo de estos recursos podría dinamizar la recaudación fiscal y la actividad económica venezolana en los próximos periodos."
-      },
-      "en": {
-        "titulo": "US oil company plans multi-billion investment to double petroleum output in Venezuela",
-        "lead": "A US-based oil corporation plans to allocate roughly 36 billion reais to expand its operations in Venezuela. The financial commitment aims to double the current crude production volumes in the South American nation.",
-        "corpo": "The Venezuelan energy industry is set to receive one of its largest recent foreign capital injections, following plans by a US oil corporation to invest approximately 36 billion reais into local operations. The primary objective of this capital program is to double crude oil output across operational joint ventures and concessions.\n\nThis commercial move comes amid strategic shifts in international energy security and reflects operational engagement within the regional hydrocarbons sector. Although Venezuela holds some of the largest proven oil reserves globally, domestic production has suffered severe contractions over past decades due to international sanctions, aging infrastructure, and domestic logistical hurdles.\n\nThrough these planned capital allocations, facilities dedicated to refining, pumping, and extraction are expected to undergo structural updates and technical overhauls. Achieving the goal of doubling output will hinge on the rehabilitation of existing active fields and the enhancement of export logistics chains.\n\nMarket analysts note that investments of this scale highlight Latin America's continued role as an essential energy supplier for global markets. Beyond the immediate impact on the petroleum sector, the inflow of these resources may influence national revenue and economic activity across Venezuela in the coming cycles."
       }
     },
     "atualizacao_de": null
