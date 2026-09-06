@@ -1,5 +1,39 @@
 [
   {
+    "id": "c74e3942-3659-4f82-9652-dccd6a718124",
+    "titulo": "Criminosos usam inteligência artificial e comparação facial no \"golpe do sósia\" no Brasil",
+    "lead": "Uma nova modalidade de fraude de identidade, batizada de \"golpe do sósia\", utiliza tecnologia de comparação facial para identificar vítimas fisicamente semelhantes aos próprios criminosos, visando burlar sistemas de biometria.",
+    "corpo": "A estratégia foi mapeada pela Serasa Experian na edição do estudo Mapa da Fraude referente ao primeiro semestre de 2026. Ao contrário do método tradicional — em que o fraudador escolhe uma vítima específica e tenta forjar seus documentos —, no golpe do sósia o criminoso parte do próprio rosto e emprega motores de comparação de imagens em bases de dados para encontrar cidadãos com traços fisionômicos parecidos.\n\nCom a identificação de um indivíduo de forte semelhança visual, o golpista utiliza a identidade dessa pessoa para tentar abrir contas bancárias, realizar cadastros ou obter crédito. O objetivo é passar despercebido por mecanismos automatizados de reconhecimento facial durante processos de validação digital.\n\nSegundo dados da Serasa Experian, a utilização de sistemas antifraude barrou 2,86 milhões de tentativas de falsificação de identidade no país nos primeiros seis meses de 2026, volume 32,9% superior ao registrado no mesmo período do ano anterior. Essas interrupções evitaram um prejuízo estimado em R$ 3,77 bilhões no sistema financeiro e comercial.\n\nEspecialistas da instituição alertam que o recurso isolado da biometria facial já não é suficiente para conter o avanço das táticas cibernéticas. A recomendação para empresas é adotar defesas em múltiplas camadas, combinando verificação de documentos, prova de vida, análise do dispositivo utilizado e checagem cruzada de dados cadastrais para identificar inconsistências operacionais.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-06T18:16:19.617960+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/golpe-do-sosia-usa-tecnologia-para-tentar-burlar-biometria",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/8090140/pexels-photo-8090140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "cottonbro studio",
+      "photographer_url": "https://www.pexels.com/@cottonbro",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/close-up-photo-of-man-being-examined-8090140/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Criminales usan tecnología de comparación facial para ejecutar el \"fraude del doble\" en Brasil",
+        "lead": "Una nueva modalidad de fraude de identidad, denominada el \"fraude del doble\", utiliza tecnología de comparación facial para localizar víctimas físicamente parecidas a los propios delincuentes y burlar sistemas de biometría.",
+        "corpo": "La estrategia fue detectada por la empresa Serasa Experian en la edición de su estudio Mapa del Fraude correspondiente al primer semestre de 2026. A diferencia del método tradicional —en el cual el estafador elige a una víctima e intenta falsificar sus documentos—, en esta variante el delincuente parte de su propio rostro e invoca motores de comparación de imágenes en bases de datos para hallar personas con rasgos fisonómicos similares.\n\nUna vez identificado un individuo con un elevado grado de semejanza física, el estafador suplanta su identidad para intentar abrir cuentas bancarias, solicitar créditos o realizar registros comerciales. La meta es superar los controles automatizados de reconocimiento facial durante la validación digital.\n\nDe acuerdo con datos de Serasa Experian, los sistemas de prevención bloquearon 2,86 millones de intentos de suplantación de identidad en el país durante los primeros seis meses de 2026, lo que representa un aumento del 32,9% en comparación con el mismo periodo del año anterior. Estas intervenciones evitaron pérdidas estimadas en 3.770 millones de reales.\n\nEspecialistas de la firma advierten que el uso aislado de la biometría facial resulta insuficiente para frenar las nuevas tácticas delictivas. La recomendación para las empresas es implementar esquemas de seguridad multicapa que combinen verificación documental, prueba de vida, análisis del dispositivo utilizado y cruce de datos para detectar irregularidades operativas."
+      },
+      "en": {
+        "titulo": "Fraudsters use facial comparison technology for \"lookalike scam\" in Brazil",
+        "lead": "A new form of identity fraud, dubbed the \"lookalike scam,\" utilizes facial comparison technology to identify victims who physically resemble the criminals themselves in an effort to bypass biometric systems.",
+        "corpo": "The strategy was mapped by Serasa Experian in its Fraud Map report for the first half of 2026. Unlike traditional methods — where a fraudster targets a specific victim and attempts to forge their credentials —, in the lookalike scam, the criminal starts with their own face and employs image search engines across database records to find individuals with matching physical traits.\n\nOnce a highly similar individual is identified, the fraudster uses that victim's identity to attempt opening bank accounts, applying for credit, or completing registrations. The goal is to pass automated facial recognition checks during digital validation processes.\n\nAccording to Serasa Experian data, anti-fraud systems blocked 2.86 million identity theft attempts in Brazil during the first six months of 2026, marking a 32.9% increase compared to the same period in the previous year. These interventions prevented estimated losses of 3.77 billion reais.\n\nExperts from the organization warn that relying solely on facial biometrics is no longer sufficient to stop evolving cybercrime tactics. Companies are advised to implement multi-layered security measures, combining document verification, liveness checks, device analysis, and cross-referencing registration data to catch operational inconsistencies."
+      }
+    },
+    "atualizacao_de": "9eb6fdef-5c92-420c-87d9-b79c02fffd41"
+  },
+  {
     "id": "a4e315ab-26a9-49c5-8dc2-de94af06699d",
     "titulo": "Incêndio destrói 320 boxes em pavilhão de frutas da Ceagesp em São Paulo",
     "lead": "Um incêndio de grandes proporções atingiu o pavilhão de frutas da Companhia de Entrepostos e Armazéns Gerais de São Paulo (Ceagesp) na noite de sábado, destruindo cerca de 320 boxes comerciais sem deixar vítimas.",
@@ -2001,40 +2035,6 @@
         "titulo": "Boca Juniors and Velez Sarsfield Clash in Cordoba for a Spot in Copa Argentina Quarterfinals",
         "lead": "Boca Juniors and Velez Sarsfield face each other in the province of Cordoba seeking a place in the quarterfinals of the Copa Argentina.",
         "corpo": "Argentine football turns its focus to the province of Cordoba, where Boca Juniors and Velez Sarsfield meet in a knockout match for the Copa Argentina. The fixture pits two of the country's most prominent clubs against each other in a direct battle to advance in the national competition.\n\nThe Copa Argentina, played in a single-elimination format across neutral venues throughout Argentina, awards the champion a direct berth in the group stage of the upcoming Copa Libertadores. Given this competitive incentive and the prestige of the title, the match carries significant weight for both sides' seasonal objectives.\n\nFor Boca Juniors, the tournament offers a crucial route toward domestic silverware and international qualification. Meanwhile, Velez Sarsfield aims to progress further in the bracket to maintain its competitive momentum and challenge for domestic honors.\n\nHosting the clash in Cordoba highlights the decentralized nature of the tournament, bringing high-stakes encounters to fans outside the Buenos Aires metropolitan area. With the tie decided in a single game, both teams require maximum focus to secure their place in the tournament's final eight."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "9eb6fdef-5c92-420c-87d9-b79c02fffd41",
-    "titulo": "Banco do Brasil adota autenticação digital para identificar chamadas oficiais a clientes",
-    "lead": "O Banco do Brasil começou a utilizar um sistema de origem verificada para autenticar ligações telefônicas institucionais e proteger correntistas contra golpes e chamadas fraudulentas.",
-    "corpo": "O Banco do Brasil (BB) implementou a tecnologia de origem verificada em suas ligações ativas direcionadas a clientes, com o objetivo de frear tentativas de fraude e chamadas automatizadas indevidas. O recurso, validado pela Agência Nacional de Telecomunicações (Anatel) e operadoras de telefonia, permite que a tela do celular do usuário exiba uma identificação confirmando a autenticidade do contato realizado pela instituição financeira.\n\nA ferramenta opera por meio de uma assinatura digital associada ao número 4003-3001, utilizado por agências, escritórios de negócios e áreas de atendimento e suporte do banco. Antes que a ligação seja completada, as operadoras verificam essa chave de segurança em tempo real. Com a validação bem-sucedida, o smartphone exibe o nome e a logomarca do banco, reduzindo as chances de sucesso de criminosos que simulam contatos institucionais para aplicar golpes.\n\nSegundo dados divulgados pelo banco estatal, a instituição realizou uma média mensal de 1,5 milhão de chamadas ativas aos seus clientes no último ano, além de registrar 2,3 milhões de chamadas receptivas. Em testes preliminares, a identificação visual proporcionou um aumento de cerca de 30% na taxa de atendimento das ligações legítimas.\n\nO serviço é gratuito para os correntistas e não requer download de aplicativos adicionais, embora a instituição recomende conexão a redes 4G ou 5G para pleno funcionamento do protocolo. O BB reforça ainda que, mesmo em ligações identificadas, nunca solicita senhas, códigos de segurança de uso único, instalação de programas nem transferências financeiras.",
-    "categoria": "Economia",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-02T22:14:27.153021+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/bb-passa-usar-tecnologia-de-origem-verificada-em-ligacoes",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/259103/pexels-photo-259103.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Pixabay",
-      "photographer_url": "https://www.pexels.com/@pixabay",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/assorted-banknotes-259103/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Banco do Brasil adopta autenticación digital para identificar llamadas oficiales a clientes",
-        "lead": "Banco do Brasil comenzó a utilizar un sistema de origen verificado para autenticar llamadas telefónicas institucionales y proteger a los usuarios contra fraudes telefónicos.",
-        "corpo": "Banco do Brasil (BB) implementó la tecnología de origen verificado en sus llamadas salientes hacia clientes, con el propósito de frenar intentos de estafa y llamadas automatizadas no deseadas. La herramienta, validada por la Agencia Nacional de Telecomunicaciones (Anatel) y las empresas de telecomunicaciones, permite que la pantalla del teléfono móvil muestre una identificación que confirma la autenticidad del contacto efectuado por la entidad financiera.\n\nEl sistema funciona mediante una firma digital asociada a la línea 4003-3001, utilizada por sucursales, oficinas comerciales y centros de atención al cliente del banco. Antes de que la llamada sea entregada al receptor, las operadoras verifican dicha clave de seguridad en tiempo real. Al completarse la validación, el dispositivo muestra el nombre institucional, reduciendo la efectividad de ciberdelincuentes que usurpan la identidad del banco para concretar fraudes.\n\nDe acuerdo con datos provistos por la entidad estatal, la institución realizó un promedio mensual de 1,5 millones de llamadas salientes durante el último año, además de gestionar 2,3 millones de comunicaciones entrantes. Durante las pruebas preliminares, la identificación visual generó un aumento cercano al 30% en la tasa de respuesta a llamadas legítimas.\n\nEl servicio es gratuito para los usuarios y no requiere la instalación de aplicaciones adicionales, aunque se recomienda conexión a redes 4G o 5G para su correcto funcionamiento. El BB recordó que, incluso en comunicaciones autenticadas, jamás solicita contraseñas, códigos de verificación temporal, instalación de software ni transferencias de dinero."
-      },
-      "en": {
-        "titulo": "Banco do Brasil adopts digital authentication to identify official customer calls",
-        "lead": "Banco do Brasil has begun utilizing verified caller ID technology to authenticate official phone calls and protect account holders from telephone fraud and scams.",
-        "corpo": "Banco do Brasil (BB) has rolled out verified calling technology on outbound calls to its customers, aiming to curb phone-based scams and unsolicited robocalls. Developed with validation from Brazil's National Telecommunications Agency (Anatel) and telecom carriers, the feature displays an authenticated caller ID on mobile screens, confirming that the call originated from the financial institution.\n\nThe system operates using a digital signature linked to the number 4003-3001, which is used across branches, business offices, and customer service departments. Telecom operators verify this digital signature in real time before the call connects. Once authenticated, the smartphone screen displays the bank's identification, significantly reducing the success rate of scammers impersonating the institution.\n\nAccording to figures released by the state-owned lender, the bank averaged 1.5 million outbound customer calls monthly over the past year, alongside 2.3 million incoming calls. During preliminary testing phases, verified caller identification drove an approximate 30% increase in answered legitimate calls.\n\nThe security feature is free of charge and requires no third-party applications, though users are advised to stay connected to 4G or 5G networks for full compatibility. BB emphasized that even during authenticated calls, it never requests passwords, one-time security codes, software downloads, or fund transfers."
       }
     },
     "atualizacao_de": null
