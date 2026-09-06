@@ -1,5 +1,39 @@
 [
   {
+    "id": "582ae289-1406-48d0-8bb2-075130b36cfc",
+    "titulo": "Atualização: Mega-Sena acumula e prêmio estimado sobe para R$ 70 milhões",
+    "lead": "Nenhum apostador acertou as seis dezenas do concurso 3.054 da Mega-Sena, realizado em São Paulo, elevando o prêmio estimado da faixa principal para R$ 70 milhões no próximo sorteio.",
+    "corpo": "O concurso 3.054 da Mega-Sena, sorteado na sede da Caixa Econômica Federal na cidade de São Paulo, terminou sem vencedores na faixa máxima. Os números sorteados foram 08, 17, 24, 43, 47 e 58.\n\nCom a ausência de apostas contempladas com seis acertos, o valor acumulado para o próximo concurso, programado para terça-feira (8), alcançou a marca estimada de R$ 70 milhões.\n\nNas faixas secundárias de premiação, 78 apostas registraram cinco acertos e garantiram o prêmio de R$ 30.145,38 cada uma. Além disso, 5.268 jogos acertaram quatro números e receberão a quantia de R$ 735,73 por aposta vencedora.\n\nOs jogos para o próximo sorteio podem ser registrados em casas lotéricas credenciadas pela Caixa em todo o território nacional ou pelos canais digitais oficiais do banco. O valor da aposta simples, que permite a escolha de seis dezenas, é de R$ 6.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-06T23:13:49.562962+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-e-proximo-sorteio-tera-premio-de-r-70-milhoes",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/37981319/pexels-photo-37981319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Duong Nguyen",
+      "photographer_url": "https://www.pexels.com/@duongngth",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/street-scene-of-vietnamese-lottery-and-social-gathering-37981319/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Actualización: Mega-Sena se acumula y el premio estimado sube a 70 millones de reales",
+        "lead": "Ningún apostador acertó las seis decenas del sorteo 3.054 de la Mega-Sena, realizado en São Paulo, elevando el premio estimado a 70 millones de reales para el próximo concurso.",
+        "corpo": "El sorteo 3.054 de la Mega-Sena, realizado en la sede de la Caixa Econômica Federal en São Paulo, finalizó sin ganadores en la categoría principal. Los números sorteados fueron 08, 17, 24, 43, 47 y 58.\n\nAnte la ausencia de boletos con seis aciertos, el monto acumulado para el próximo sorteo, programado para el martes (8), alcanzó un valor estimado de 70 millones de reales.\n\nEn las categorías secundarias, 78 apuestas lograron cinco aciertos y recibirán 30.145,38 reales cada una. Asimismo, 5.268 boletos acertaron cuatro números y cobrarán 735,73 reales cada uno.\n\nLas apuestas para el siguiente sorteo pueden realizarse en agencias de lotería autorizadas por la Caixa en todo Brasil o a través de las plataformas digitales oficiales de la entidad bancaria. La jugada simple, que contempla la selección de seis números, tiene un costo de 6 reales."
+      },
+      "en": {
+        "titulo": "Update: Mega-Sena rolls over and estimated jackpot reaches 70 million reais",
+        "lead": "No ticket matched all six numbers in draw 3,054 of the Mega-Sena lottery in São Paulo, pushing the estimated jackpot to 70 million reais for the next drawing.",
+        "corpo": "Draw 3,054 of the Mega-Sena lottery, held at the Caixa Econômica Federal headquarters in São Paulo, ended without a top-prize winner. The drawn numbers were 08, 17, 24, 43, 47, and 58.\n\nBecause no bet matched all six numbers, the accumulated jackpot for the next draw, scheduled for Tuesday (8), is now estimated at 70 million reais.\n\nIn the lower tiers, 78 tickets matched five numbers, each earning 30,145.38 reais. Additionally, 5,268 bets matched four numbers and will receive 735.73 reais each.\n\nBets for the upcoming draw can be placed at authorized Caixa lottery outlets across the country or through the bank's official digital channels. A standard six-number bet costs 6 reais."
+      }
+    },
+    "atualizacao_de": "29219b6e-9063-43c0-91ae-102ae4e63a9a"
+  },
+  {
     "id": "3c93e9ce-6a54-4919-9205-0615d49ebbe0",
     "titulo": "Consulado no México realiza capacitação para aprimorar atendimento a migrantes",
     "lead": "Equipes consulares no México passam por treinamentos focados na melhoria dos serviços de assistência prestados a cidadãos migrantes no país.",
@@ -2004,39 +2038,5 @@
       }
     },
     "atualizacao_de": null
-  },
-  {
-    "id": "4708856c-87fb-4cf2-a98a-c76e54ac136e",
-    "titulo": "Atualização: Ibovespa sobe 1,3% impulsionado pela disparada do petróleo e dólar recua para R$ 5,15",
-    "lead": "O principal índice da bolsa de valores brasileira avançou 1,3% e atingiu o maior patamar em quase quatro meses, sustentado pela alta dos preços internacionais do petróleo em meio a tensões geopolíticas.",
-    "corpo": "O mercado financeiro brasileiro encerrou a sessão com ganhos expressivos no mercado acionário e valorização da moeda nacional. O Ibovespa avançou 1,3%, alcançando 179.722,48 pontos — nível mais alto registrado desde meados de maio —, enquanto o dólar comercial caiu 0,54%, cotado a R$ 5,153.\n\nA movimentação positiva foi impulsionada sobretudo pelo setor de energia. As ações preferenciais e ordinárias da Petrobras subiram mais de 4%, acompanhando a disparada do barril de petróleo no exterior. O Brent avançou 4,6%, para US$ 94,65, e o WTI registrou alta de 5,2%, aos US$ 90,22, após novos episódios de conflito entre Estados Unidos e Irã que elevaram o temor de interrupções no fornecimento global da commodity pelo Oriente Médio.\n\nNo cenário doméstico, os investidores assimilaram os dados do Produto Interno Bruto (PIB) do segundo trimestre, que apontou expansão de 0,5% em relação ao período anterior, indicando arrefecimento na atividade econômica após a alta de 1,1% registrada nos três primeiros meses do ano. O resultado reforçou apostas de futuros cortes na taxa básica de juros (Selic), atualmente em 14% ao ano.\n\nApesar da perda inicial de fôlego do real no início das negociações devido aos dados do PIB, o ingresso de divisas atrelado à valorização das commodities e o movimento conjunto de moedas emergentes garantiram o fechamento em baixa da moeda norte-americana.",
-    "categoria": "Economia",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-03T01:13:11.969507+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bolsa-sobe-13-e-atinge-maior-nivel-em-quase-quatro-meses",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/7947742/pexels-photo-7947742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "RDNE Stock project",
-      "photographer_url": "https://www.pexels.com/@rdne",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/close-up-shot-of-a-graph-7947742/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Actualización: El Ibovespa sube 1,3% impulsado por el alza del petróleo y el dólar retrocede a 5,15 reales",
-        "lead": "El principal índice de la bolsa de valores brasileña avanzó un 1,3% y alcanzó su mayor nivel en casi cuatro meses, respaldado por el aumento de los precios internacionales del petróleo ante las tensiones geopolíticas.",
-        "corpo": "El mercado financiero brasileño finalizó la jornada con sólidas ganancias en el sector bursátil y una apreciación de la moneda local. El índice Ibovespa subió un 1,3%, situándose en 179.722,48 puntos —su nivel más alto desde mediados de mayo—, mientras que el dólar comercial cayó un 0,54%, cotizándose a 5,153 reales.\n\nEl avance estuvo impulsado principalmente por el sector energético. Las acciones preferenciales y ordinarias de Petrobras ganaron más de un 4%, en línea con el fuerte repunte del barril de crudo en los mercados globales. El Brent subió un 4,6% hasta los 94,65 dólares y el WTI avanzó un 5,2% hasta los 90,22 dólares, luego de nuevos incidentes bélicos entre Estados Unidos e Irán que avivaron el temor a cortes en el suministro mundial de hidrocarburos en Oriente Medio.\n\nEn el plano interno, los agentes económicos evaluaron las cifras del Producto Interno Bruto (PIB) del segundo trimestre, que reflejó un crecimiento del 0,5% respecto al trimestre anterior, lo que evidencia una desaceleración de la actividad tras el avance del 1,1% visto en los primeros tres meses. Este dato reforzó las expectativas de próximos recortes en la tasa básica de interés (Selic), actualmente en el 14% anual.\n\nA pesar de la debilidad inicial del real tras los datos del PIB, el flujo vinculado al alza de las materias primas y el comportamiento favorable de las divisas emergentes aseguraron la caída final del billete estadounidense."
-      },
-      "en": {
-        "titulo": "Update: Brazil's Ibovespa rises 1.3% driven by oil surge as dollar drops to 5.15 reais",
-        "lead": "Brazil's benchmark stock index climbed 1.3% to reach its highest level in nearly four months, buoyed by rising global oil prices amid escalating geopolitical tensions.",
-        "corpo": "The Brazilian financial market concluded the trading session with solid gains in equities and a strengthening domestic currency. The Ibovespa index rose 1.3% to close at 179,722.48 points—its highest mark since mid-May—while the commercial dollar declined 0.54% to trade at 5.153 reais.\n\nThe rally was driven primarily by the energy sector. Petrobras preferred and common shares gained over 4%, tracking the sharp advance of crude oil in international markets. Brent crude jumped 4.6% to $94.65 per barrel, while WTI rose 5.2% to $90.22, following new military strikes between the United States and Iran that heightened concerns over Middle Eastern supply disruptions.\n\nOn the domestic front, investors processed the second-quarter Gross Domestic Product (GDP) figures, which showed an expansion of 0.5% compared to the previous quarter. The reading confirmed a cooling pace of economic activity following the 1.1% growth recorded in the first quarter, bolstering market expectations of upcoming interest rate cuts from the current 14% Selic level.\n\nDespite early volatility for the Brazilian real following the GDP release, foreign inflows linked to higher commodity prices and positive momentum across emerging market currencies secured the greenback's downturn by the close."
-      }
-    },
-    "atualizacao_de": "96b20e19-e869-4761-a866-046c99c888d2"
   }
 ]
