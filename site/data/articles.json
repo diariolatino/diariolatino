@@ -1,5 +1,39 @@
 [
   {
+    "id": "7673cf93-72e3-4975-ba8d-7d18763b0094",
+    "titulo": "Atualização: Senado votará fim da escala 6x1 apenas após as eleições, confirma Alcolumbre",
+    "lead": "O presidente do Senado Federal, Davi Alcolumbre, confirmou que a Proposta de Emenda à Constituição que prevê o fim da jornada 6x1 e a redução da carga semanal para 40 horas será votada no plenário apenas após o período eleitoral.",
+    "corpo": "A declaração de Alcolumbre foi feita durante sessão deliberativa no plenário da Casa, em resposta a um apelo direto do senador Paulo Paim (PT-RS). Em seu último mandato parlamentar antes da aposentadoria, Paim discursou na tribuna relembrando sua atuação na Assembleia Constituinte de 1988 — quando defendeu a redução da jornada de 48 para 44 horas semanais — e pediu aos colegas a aprovação da nova proposta antes de deixar o Congresso.\n\nA definição da pauta ocorre após a base governista recuar da tentativa de pautar a matéria de forma imediata. Embora o texto tenha sido aprovado na Comissão de Constituição e Justiça (CCJ), a oposição promoveu uma articulação de obstrução, e os apoiadores da medida avaliaram que não havia garantia dos 49 votos favoráveis necessários para a aprovação de uma PEC em dois turnos no plenário.\n\nDiante do impasse regimental e da falta de quórum assegurado, a apreciação do texto ficou postergada para o esforço concentrado de votações do Senado, previsto para ocorrer na segunda semana de outubro, após a realização do primeiro turno das eleições.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-06T03:14:46.369013+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/alcolumbre-diz-que-senado-vota-fim-da-escala-6x1-apos-eleicoes",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/17291209/pexels-photo-17291209.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "K",
+      "photographer_url": "https://www.pexels.com/@kelly",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/residential-area-in-brasilia-17291209/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Actualización: El Senado votará el fin de la jornada 6x1 solo después de las elecciones, confirma Alcolumbre",
+        "lead": "El presidente del Senado Federal, Davi Alcolumbre, confirmó que la Propuesta de Enmienda Constitucional que prevé el fin de la jornada laboral 6x1 y la reducción de la carga semanal a 40 horas se votará en el pleno solo después del periodo electoral.",
+        "corpo": "La declaración de Alcolumbre se realizó durante una sesión deliberativa en el pleno de la Cámara Alta, en respuesta a un llamado directo del senador Paulo Paim. En su último mandato parlamentario antes de su retiro, Paim pronunció un discurso en la tribuna recordando su participación en la Asamblea Constituyente de 1988 —cuando defendió la reducción de la jornada de 48 a 44 horas semanales— y pidió a sus colegas la aprobación de la nueva propuesta antes de dejar el Congreso.\n\nLa fijación del calendario ocurre después de que el bloque oficialista se retirara del intento de someter el tema a votación de forma inmediata. Aunque el texto fue aprobado en la Comisión de Constitución y Justicia (CCJ), la oposición promovió una estrategia de obstrucción, y los defensores de la medida evaluaron que no contaban con la garantía de los 49 votos favorables necesarios para aprobar una enmienda constitucional en dos rondas en el pleno.\n\nAnte el estancamiento reglamentario y la falta de cuórum asegurado, la consideración del texto quedó pospuesta para el esfuerzo concentrado de votaciones del Senado, programado para la segunda semana de octubre, tras la celebración de la primera vuelta electoral."
+      },
+      "en": {
+        "titulo": "Update: Senate to vote on ending 6x1 workweek only after elections, Alcolumbre confirms",
+        "lead": "The President of the Federal Senate, Davi Alcolumbre, confirmed that the Constitutional Amendment Proposal ending the 6x1 work schedule and reducing weekly hours to 40 will be voted on in the plenary only after the elections.",
+        "corpo": "Alcolumbre's statement was made during a deliberative session in the Senate floor in response to a direct appeal by Senator Paulo Paim. Serving his final parliamentary term before retiring, Paim delivered a speech recalling his role in the 1988 Constituent Assembly — when he advocated reducing the workweek from 48 to 44 hours — and urged colleagues to pass the new proposal before he leaves Congress.\n\nThe timeline confirmation comes after government-aligned lawmakers backed down from attempting an immediate floor vote. Although the text passed the Constitution and Justice Committee (CCJ), opposition members staged an obstruction, leading supporters to assess that they lacked the guaranteed 49 favorable votes required to pass a constitutional amendment in two plenary rounds.\n\nGiven the procedural gridlock and lack of secured quorum, consideration of the proposal has been postponed to the Senate's concentrated voting session scheduled for the second week of October, following the first round of elections."
+      }
+    },
+    "atualizacao_de": "4186405d-ee07-4f05-b0b9-1f36a6dd29f3"
+  },
+  {
     "id": "359d1786-34f5-490a-93f5-a404fe21d366",
     "titulo": "Candidatos à Presidência cumprem agenda de campanha com comícios, caminhadas e entrevistas pelo país",
     "lead": "Os postulantes à Presidência da República cumprem nesta sexta-feira (4) uma série de compromissos de campanha, com atividades que incluem comícios, caminhadas e sabatinas em diversos estados brasileiros e no exterior.",
@@ -2001,39 +2035,6 @@
         "titulo": "Árbol Rojo Celebrates Ninth Anniversary with Focus on Strengthening Cinema in Southern Mexico",
         "lead": "The cultural association Árbol Rojo has launched a new cycle of activities to commemorate its ninth anniversary, consolidating its commitment to promoting and distributing film production in the southern region of Mexico.",
         "corpo": "The project, which stands out as a key platform for cultural decentralization in the country, aims to expand access to cinema and strengthen the training of new filmmakers in southern Mexican communities. As it marks nine years of history, the initiative reaffirms its role in promoting audiovisual diversity, connecting local filmmakers with new audiences and markets.\n\nThe new cycle of activities includes screenings, workshops, and debates designed to decentralize cultural offerings, which have historically been concentrated in central Mexico. Promoting narratives from the southern part of the country is seen as an essential step toward preserving local cultural identity and including historically underrepresented voices in the national film industry.\n\nWith this new cycle, Árbol Rojo plans to expand its territorial reach and consolidate strategic alliances with cultural agents across Latin America, reinforcing the role of art as a tool for social transformation and regional integration."
-      }
-    }
-  },
-  {
-    "id": "b5001bf0-48ba-4f4a-a9e9-ed6265a9a554",
-    "titulo": "Mega-Sena acumula e prêmio principal chega a R$ 41 milhões",
-    "lead": "Nenhum participante acertou as seis dezenas do concurso 3.052 da Mega-Sena, realizado nesta terça-feira. Com o resultado, o prêmio principal acumulou e está estimado em R$ 41 milhões para a próxima rodada.",
-    "corpo": "Os números sorteados no concurso 3.052 foram 16, 30, 40, 47, 48 e 60. Sem vencedores na faixa principal de premiação, o valor segue acumulado para o próximo sorteio da loteria brasileira.\n\nNas faixas secundárias, a Caixa Econômica Federal informou que 21 apostas conseguiram acertar cinco dezenas e levarão o prêmio individual de R$ 80.825,85. Já na quadra, que contempla quatro acertos, foram registradas 1.699 apostas ganhadoras em todo o território nacional, cabendo a cada uma o valor de R$ 1.646,74.\n\nO próximo concurso ocorrerá na quinta-feira (3). Os interessados em concorrer ao prêmio acumulado de R$ 41 milhões podem registrar seus jogos até as 20h (horário de Brasília) do dia do sorteio. As apostas são aceitas em casas lotéricas credenciadas em todo o país ou por meio dos canais digitais oficiais da Caixa, incluindo o portal na internet e o aplicativo de loterias.\n\nO valor de uma aposta mínima, que permite a escolha de seis dezenas entre as 60 disponíveis no volante, é de R$ 6.",
-    "categoria": "Sociedade",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-02T04:16:32.724708+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-41-milhoes-confira-os-numeros-sorteados",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/5550130/pexels-photo-5550130.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Waldemar Brandt",
-      "photographer_url": "https://www.pexels.com/@wb2008",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/close-up-photo-of-lottery-ticket-5550130/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "La lotería Mega-Sena de Brasil se acumula y el premio mayor alcanza 41 millones de reales",
-        "lead": "Ningún participante acertó los seis números del sorteo 3.052 de la Mega-Sena, celebrado este martes. Con este resultado, el premio principal quedó acumulado y se estima en 41 millones de reales para la próxima jugada.",
-        "corpo": "Los números sorteados en el concurso 3.052 fueron 16, 30, 40, 47, 48 y 60. Al no registrarse ganadores en la categoría principal, el pozo continuará acumulándose para la siguiente edición de la lotería brasileña.\n\nEn las categorías secundarias, la Caixa Econômica Federal informó que 21 apuestas acertaron cinco números y recibirán un premio individual de 80.825,85 reales. En tanto, 1.699 boletos acertaron cuatro números en todo el país, obteniendo cada uno 1.646,74 reales.\n\nEl próximo sorteo se llevará a cabo el jueves (3). Quienes deseen participar por el premio acumulado de 41 millones de reales podrán registrar sus jugadas hasta las 20:00 (hora de Brasilia) del mismo día. Las apuestas pueden realizarse en agencias de lotería oficiales de todo Brasil o a través de las plataformas digitales de la Caixa, incluyendo su sitio web y su aplicación móvil.\n\nEl costo de una apuesta simple, que incluye la selección de seis números entre los 60 disponibles, es de 6 reales."
-      },
-      "en": {
-        "titulo": "Brazil's Mega-Sena lottery rolls over with jackpot reaching R$ 41 million",
-        "lead": "No ticket matched all six numbers in draw 3,052 of the Mega-Sena lottery on Tuesday. As a result, the top jackpot rolled over and is estimated at R$ 41 million for the upcoming draw.",
-        "corpo": "The numbers drawn in contest 3,052 were 16, 30, 40, 47, 48, and 60. With no winner matching all six digits, the prize pool rolled over for the next edition of Brazil's main lottery.\n\nIn the secondary tiers, Caixa Econômica Federal reported that 21 tickets matched five numbers, each earning R$ 80,825.85. Additionally, 1,699 tickets matched four numbers nationwide, receiving R$ 1,646.74 each.\n\nThe next draw is scheduled for Thursday (3). Players looking to compete for the R$ 41 million jackpot can place their bets until 8:00 p.m. (Brasília time) on the day of the draw. Bets can be made at licensed lottery retailers across Brazil or through Caixa's official digital channels, including its website and mobile app.\n\nA standard single bet, allowing players to select six numbers out of 60, costs R$ 6."
       }
     }
   }
