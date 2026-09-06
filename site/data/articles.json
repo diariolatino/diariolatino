@@ -1,5 +1,39 @@
 [
   {
+    "id": "263093d8-7a39-4352-b200-e2f2600c6b61",
+    "titulo": "Mercado financeiro acompanha cotação do dólar no Peru",
+    "lead": "Agentes econômicos e o mercado cambial monitoram o valor de fechamento do dólar frente ao sol peruano, em meio à dinâmica das finanças no país andino.",
+    "corpo": "A cotação da moeda norte-americana no Peru segue como um dos principais termômetros da economia local. O acompanhamento diário da taxa de câmbio reflete as oscilações do mercado financeiro e as expectativas de investidores, empresas e consumidores em relação ao sol peruano.\n\nHistoricamente, o Banco Central de Reserva do Peru (BCRP) adota políticas de intervenção cambial pontual com o objetivo de conter volatilidades excessivas e preservar a estabilidade macroeconômica. As movimentações do dólar influenciam diretamente setores estratégicos, como o comércio exterior, o custo de importações de bens essenciais e as operações do sistema financeiro nacional.\n\nAlém dos fatores internos, o comportamento do câmbio no país é sensível ao cenário internacional, incluindo decisões de política monetária nos Estados Unidos, variações nos preços das commodities minerais — fundamentais para a pauta exportadora peruana — e o fluxo de capitais na região latino-americana.",
+    "categoria": "Economia",
+    "pais": "Peru",
+    "publicado_em": "2026-09-06T09:14:21.803125+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://larepublica.pe:443/economia/precio-del-dolar/2026/09/06/precio-del-dolar-hoy-domingo-6-de-septiembre-en-peru-a-cuanto-cerro-el-tipo-de-cambio-183295",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/35861250/pexels-photo-35861250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Renan Braz",
+      "photographer_url": "https://www.pexels.com/@renan-braz-1732586",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/various-international-banknotes-and-coins-on-table-35861250/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "El mercado financiero sigue de cerca la cotización del dólar en Perú",
+        "lead": "Agentes económicos y el mercado cambiario monitorean el valor de cierre del dólar frente al sol peruano, en medio de la dinámica financiera del país andino.",
+        "corpo": "La cotización de la divisa estadounidense en Perú continúa siendo uno de los principales termómetros de la economía local. El seguimiento diario del tipo de cambio refleja las fluctuaciones del mercado financiero y las expectativas de inversionistas, empresas y consumidores respecto al sol peruano.\n\nHistóricamente, el Banco Central de Reserva del Perú (BCRP) implementa políticas de intervención cambiaria puntual con el propósito de mitigar volatilidades excesivas y preservar la estabilidad macroeconómica. Los movimientos del dólar inciden directamente en sectores estratégicos como el comercio exterior, el costo de importación de bienes esenciales y las operaciones del sistema bancario nacional.\n\nAsimismo, el comportamiento cambiario en el país responde a factores internacionales, entre ellos las decisiones de política monetaria en Estados Unidos, las variaciones en las cotizaciones de los minerales —clave en la canasta exportadora peruana— y los flujos de capital hacia la región latinoamericana."
+      },
+      "en": {
+        "titulo": "Financial markets monitor dollar exchange rate in Peru",
+        "lead": "Economic agents and the foreign exchange market are tracking the closing value of the US dollar against the Peruvian sol, reflecting the country's broader financial trends.",
+        "corpo": "The value of the US dollar in Peru remains a key indicator of the domestic economy. Daily tracking of the exchange rate captures fluctuations across financial markets as well as the outlook of investors, businesses, and consumers regarding the Peruvian sol.\n\nHistorically, the Central Reserve Bank of Peru (BCRP) uses targeted exchange market interventions to curb excessive volatility and uphold macroeconomic stability. Currency shifts directly affect critical areas such as foreign trade, import costs for essential goods, and the domestic financial system.\n\nBeyond domestic conditions, the country's exchange rate is shaped by global developments, including monetary policy decisions in the United States, global price movements for key mineral exports, and broader capital flows across Latin America."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "dead976c-7d79-4874-9b9e-100591bff20b",
     "titulo": "Candidatos à Presidência do Brasil cumprem agendas com foco em entrevistas, segurança e encontros setoriais",
     "lead": "Os postulantes ao Palácio do Planalto intensificaram compromissos de campanha nesta quinta-feira (3), dividindo-se entre sabatinas na imprensa, encontros religiosos e anúncios de propostas para áreas como meio ambiente, combate ao crime e estrutura governamental.",
@@ -2001,40 +2035,6 @@
         "titulo": "Brazil's ANPD launches public consultation to set data protection regulatory agenda",
         "lead": "Brazil's National Data Protection Authority opened a public consultation period on Tuesday to collect contributions for its 2027-2028 regulatory agenda. The participatory initiative will also guide regulatory impact assessments through 2030.",
         "corpo": "Brazil's National Data Protection Authority (ANPD) launched a public consultation process on Tuesday (1) to draft its regulatory agenda for the 2027-2028 biennium. Submissions from civil society, academic researchers, private enterprises, and public entities will also inform the agency's Regulatory Outcome Evaluation Agenda for the 2027-2030 timeframe.\n\nInterested stakeholders can submit proposals through October 16 via the government's Brasil Participativo digital platform. Viewed as the agency's core strategic planning mechanism, the regulatory agenda establishes priority areas, technical guidelines, enforcement targets, and procedural timelines for regulatory projects across the country.\n\nFor the upcoming period, the ANPD prioritized digital ecosystem safety, focusing on safeguards for children, adolescents, and women. Proposed thematic tracks include parental supervision tools, safe-by-design standards across platforms, risks associated with minors using artificial intelligence, tech platform transparency, and measures against illegal content produced by generative AI systems. Data privacy enforcement and personal data governance also remain central components.\n\nAlongside general personal data protection oversight, the authority monitors enforcement of the national Child and Adolescent Digital Statute. Under its regulatory evaluation pillar, the agency plans to measure the real-world performance of existing frameworks, including rules on international data transfers and compliance guidelines for age-verification mechanisms on digital services. Under current administrative provisions, the final regulatory agenda must be formally ratified by February 2027."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "b9ef3567-14f8-4f38-ab62-b3968150bdbb",
-    "titulo": "Campanhas de setembro mobilizam debates sobre saúde mental, inclusão e direitos sociais no Brasil",
-    "lead": "O mês de setembro concentra mobilizações nacionais no Brasil voltadas à conscientização sobre saúde mental, garantia de direitos para pessoas com deficiência e proteção aos direitos sociais. Entre os eixos centrais do período estão as iniciativas do Setembro Amarelo e do Setembro Verde.",
-    "corpo": "A agenda de conscientização tem como um dos principais pilares o Setembro Amarelo, campanha dedicada à preservação da vida e à prevenção ao suicídio. Especialistas e entidades do setor público apontam que as ações informativas ampliam a busca por canais de apoio psicológico e serviços de acolhimento emocional, a exemplo do Centro de Valorização da Vida (CVV), que opera pelo telefone 188. O debate também incorpora reflexões sobre os desafios contemporâneos na saúde mental, incluindo as relações entre dependência do ambiente digital e vulnerabilidades psicológicas.\n\nParalelamente, a mobilização do Setembro Verde direciona o foco para a inclusão social e a acessibilidade da população com deficiência, tendo como data emblemática o dia 21 de setembro, Dia Nacional de Luta da Pessoa com Deficiência. De acordo com dados do Instituto Brasileiro de Geografia e Estatística (IBGE), o país contabiliza mais de 14 milhões de cidadãos com algum tipo de deficiência, contingente que representa aproximadamente 7,3% da população com dois anos ou mais de idade. Especialistas ressaltam a necessidade de avanços nas políticas educacionais e profissionais, considerando que apenas um em cada quatro indivíduos desse grupo completa a educação básica no Brasil.\n\nO calendário social do mês também marca os desdobramentos de marcos regulatórios recentes, como a vigência do Estatuto da Criança e do Adolescente Digital (ECA Digital). A legislação estabeleceu instrumentos mais rígidos para combater abusos e violações contra crianças e jovens em redes sociais, aplicativos e plataformas digitais. O período abrange ainda reflexões em torno da doação de órgãos, dos direitos femininos e do enfrentamento ao tráfico e à exploração de pessoas.",
-    "categoria": "Sociedade",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-02T19:13:46.464173+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-08/hoje-e-dia-datas-fatos-e-feriados-de-setembro-de-2026",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/8384514/pexels-photo-8384514.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Tara Winstead",
-      "photographer_url": "https://www.pexels.com/@tara-winstead",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/protect-yourself-text-on-brown-surface-8384514/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Campañas de septiembre movilizan debates sobre salud mental, inclusión y derechos sociales en Brasil",
-        "lead": "El mes de septiembre concentra movilizaciones nacionales en Brasil dirigidas a la concientización sobre la salud mental, la garantía de derechos para personas con discapacidad y la protección de los derechos sociales. Entre los ejes centrales destacan las iniciativas de Septiembre Amarillo y Septiembre Verde.",
-        "corpo": "La agenda de concientización tiene como uno de sus pilares fundamentales el Septiembre Amarillo, una campaña dedicada a la preservación de la vida y a la prevención del suicidio. Especialistas y entidades del sector público señalan que las acciones informativas incrementan la búsqueda de canales de apoyo psicológico y servicios de asistencia emocional, tales como el Centro de Valoración de la Vida (CVV), accesible a través de la línea telefónica 188. El debate también incorpora reflexiones sobre desafíos contemporáneos en salud mental, incluyendo la relación entre la adicción a entornos digitales y la vulnerabilidad psicológica.\n\nParalelamente, la movilización de Septiembre Verde enfoca la atención en la inclusión social y la accesibilidad para la población con discapacidad, teniendo como punto de referencia el 21 de septiembre, Día Nacional de Lucha de la Persona con Discapacidad. Según datos del Instituto Brasileño de Geografía y Estadística (IBGE), el país cuenta con más de 14 millones de ciudadanos en esta condición, cifra que representa cerca del 7,3% de la población a partir de los dos años de edad. Diversos análisis subrayan la urgencia de fortalecer las políticas educativas y laborales, dado que apenas una de cada cuatro personas con discapacidad completa la educación básica en territorio brasileño.\n\nEl calendario social del mes abarca igualmente la aplicación de marcos normativos recientes, como la implementación del Estatuto del Niño y del Adolescente Digital (ECA Digital). Esta normativa endurece las sanciones contra vulneraciones en redes sociales, plataformas y videojuegos frecuentados por menores. La agenda de septiembre integra además jornadas dedicadas a la donación de órganos, los derechos de las mujeres y el combate a la trata y explotación de personas."
-      },
-      "en": {
-        "titulo": "September Campaigns Mobilize Debates on Mental Health, Inclusion, and Social Rights in Brazil",
-        "lead": "The month of September focuses national awareness campaigns in Brazil on mental health, the rights of persons with disabilities, and broader social protection. Core initiatives include the Yellow September and Green September mobilizations.",
-        "corpo": "The civic and social calendar is anchored by Yellow September, a nationwide campaign dedicated to suicide prevention and mental health awareness. Public health specialists highlight that information campaigns significantly boost demand for psychological support networks and free counseling services, such as the Center for the Valorization of Life (CVV), reachable via hotline 188. Contemporary discussions also address growing concerns over digital dependency and its psychological impact on younger demographics.\n\nSimultaneously, Green September concentrates efforts on fostering social inclusion and accessibility for people with disabilities, culminating on September 21, Brazil's National Day of Struggle for Persons with Disabilities. According to the Brazilian Institute of Geography and Statistics (IBGE), more than 14 million Brazilians—roughly 7.3% of the population aged two and older—live with a disability. Advocates emphasize the need for systemic educational and workplace reforms, pointing out that only one in four people with disabilities completes basic education in the country.\n\nThe month's agenda also highlights ongoing enforcement of recent legal frameworks, notably the Digital Child and Adolescent Statute (ECA Digital), designed to penalize abuses against minors across social media, gaming environments, and digital platforms. Additionally, September brings civic attention to organ donation campaigns, women's rights protections, and the combat against human trafficking and sexual exploitation."
       }
     },
     "atualizacao_de": null
