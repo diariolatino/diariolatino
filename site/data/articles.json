@@ -1,5 +1,39 @@
 [
   {
+    "id": "2a8abbe9-3acb-4d8a-9c27-8dd517e98f6d",
+    "titulo": "Brasil celebra Dia da Independência com desfile focado em soberania e direitos sociais em Brasília",
+    "lead": "O tradicional desfile cívico-militar de 7 de Setembro teve início na manhã desta segunda-feira na Esplanada dos Ministérios, em Brasília, reunindo as principais autoridades do país sob eixos temáticos voltados à soberania e a pautas sociais.",
+    "corpo": "A cerimônia oficial começou pouco depois das 9h, após a execução do Hino Nacional e a autorização formal concedida pelo general de divisão João Felipe Dias Alves. O evento deste ano foi estruturado em torno de três eixos temáticos definidos pelo governo federal: a soberania nacional — tema que ganhou relevância recente em meio a debates sobre tarifas aplicadas a produtos brasileiros no exterior —, o enfrentamento à violência contra as mulheres e a celebração da Copa do Mundo Feminina de 2027, incluindo uma homenagem às pioneiras do futebol feminino nacional.\n\nA tribuna de honra contou com ampla representação institucional. Estiveram presentes o presidente Luiz Inácio Lula da Silva, o vice-presidente Geraldo Alckmin, o presidente da Câmara dos Deputados, Hugo Motta, o presidente do Senado Federal, Davi Alcolumbre, e o presidente do Supremo Tribunal Federal (STF), Edson Fachin. Diversos ministros de Estado também acompanharam a solenidade, entre eles os titulares das pastas da Educação, Turismo, Mulheres, Previdência e Fazenda, além do advogado-geral da União.\n\nO público começou a ocupar as arquibancadas da Esplanada dos Ministérios antes das 6h30 para acompanhar os preparativos. O clima ameno e o céu nublado na capital federal favoreceram a permanência de milhares de pessoas que compareceram para assistir às apresentações, que têm encerramento previsto para o final da manhã.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-07T14:15:37.240466+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/comeca-o-desfile-civico-militar-do-dia-da-independencia-em-brasilia",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/796481/pexels-photo-796481.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "MESSALA CIULLA",
+      "photographer_url": "https://www.pexels.com/@messalaciulla",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/photo-of-fighter-helicopter-796481/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasil celebra el Día de la Independencia con un desfile centrado en la soberanía y los derechos sociales en Brasilia",
+        "lead": "El tradicional desfile cívico-militar del 7 de septiembre comenzó este lunes por la mañana en la Explanada de los Ministerios, en Brasilia, reuniendo a las principales autoridades del país bajo ejes temáticos orientados a la soberanía y la agenda social.",
+        "corpo": "La ceremonia oficial comenzó poco después de las 9:00 horas, tras la entonación del Himno Nacional y la autorización formal concedida por el general de división João Felipe Dias Alves. El evento de este año se estructuró en torno a tres ejes temáticos definidos por el gobierno federal: la soberanía nacional —tema que cobró relevancia reciente en medio de debates sobre aranceles aplicados a productos brasileños en el exterior—, el combate a la violencia contra las mujeres y la celebración de la Copa Mundial Femenina de 2027, incluyendo un homenaje a las pioneras del fútbol femenino nacional.\n\nLa tribuna de honor contó con una amplia representación institucional. Estuvieron presentes el presidente Luiz Inácio Lula da Silva, el vicepresidente Geraldo Alckmin, el presidente de la Cámara de Diputados, Hugo Motta, el presidente del Senado Federal, Davi Alcolumbre, y el presidente del Supremo Tribunal Federal (STF), Edson Fachin. Varios ministros de Estado también asistieron a la solemnidad, entre ellos los titulares de las carteras de Educación, Turismo, Mujeres, Previsión Social y Hacienda, además del abogado general de la Unión.\n\nEl público comenzó a ocupar las gradas de la Explanada de los Ministerios antes de las 6:30 horas para seguir los preparativos. El clima templado y el cielo nublado en la capital federal favorecieron la permanencia de miles de personas que asistieron a presenciar las presentaciones, cuyo cierre está previsto para el final de la mañana."
+      },
+      "en": {
+        "titulo": "Brazil celebrates Independence Day with parade focused on sovereignty and social rights in Brasilia",
+        "lead": "The traditional September 7th civic-military parade began this Monday morning at the Esplanade of Ministries in Brasilia, gathering the country's top officials under thematic pillars focused on sovereignty and social issues.",
+        "corpo": "The official ceremony began shortly after 9:00 a.m., following the national anthem and the formal authorization granted by Division General João Felipe Dias Alves. This year's event was structured around three thematic pillars defined by the federal government: national sovereignty —a topic that recently gained relevance amid debates over tariffs applied to Brazilian products abroad—, combating violence against women, and celebrating the 2027 Women's World Cup, including a tribute to the pioneers of national women's football.\n\nThe honorary grandstand featured broad institutional representation. In attendance were President Luiz Inácio Lula da Silva, Vice President Geraldo Alckmin, Chamber of Deputies President Hugo Motta, Senate President Davi Alcolumbre, and Supreme Federal Court (STF) President Edson Fachin. Several cabinet ministers also attended the ceremony, including the heads of Education, Tourism, Women, Social Security, and Finance, alongside the Attorney General of the Union.\n\nThe public began filling the stands at the Esplanade of Ministries before 6:30 a.m. to watch the preparations. Mild weather and overcast skies in the federal capital favored the attendance of thousands of people who gathered to watch the presentations, which are scheduled to conclude by the end of the morning."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "38683c6b-f97f-4ee4-9e01-3a23656c3599",
     "titulo": "Candidatos à Presidência cumprem agendas de campanha no feriado de 7 de Setembro",
     "lead": "Os postulantes à Presidência da República definiram suas atividades para esta segunda-feira, 7 de setembro, aproveitando o feriado da Independência do Brasil para realizar atos políticos, conceder entrevistas e participar de manifestações.",
@@ -2001,40 +2035,6 @@
         "titulo": "Brazil's Central Bank extends dispute deadline for Pix payment fraud",
         "lead": "The Central Bank of Brazil has extended the deadline to dispute improper refunds processed through the Pix Special Return Mechanism from 30 to 80 days. The rule aims to shield merchants and small businesses from schemes that exploit the payment platform's security tools.",
         "corpo": "The monetary authority's new directive targets a vulnerability exploited by fraudsters against retailers and service providers. Under the common scheme, a scammer makes a legitimate payment and then requests a manual refund from the merchant, claiming an accidental transfer. Simultaneously, the perpetrator triggers the Special Return Mechanism (MED) with their bank, alleging fraud, leaving the business owner vulnerable to losing funds twice if they return the money manually to a different key.\n\nUnder the revised rules, any recipient hit by an improper reversal now has up to 80 days from the date of the system refund to challenge the decision. This adjustment aligns the defense timeline with the 80-day window already granted to original scam victims seeking to initiate recovery proceedings after an unauthorized transfer.\n\nThe update is outlined in BCB Normative Instruction 766, which modified the operational guidelines for transactional account identifiers. The Central Bank stressed that the MED procedure is strictly intended for confirmed fraud, operational glitches, or criminal acts, excluding personal input errors, standard commercial disputes, or purchase regret.\n\nThe regulatory shift complements broader security upgrades across Brazil's instant payment network, including tools designed to trace illicit fund flows across multi-tiered bank accounts. Banking authorities advise users to process any legitimate refund strictly through the designated return option attached to the original transaction within banking apps."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "2d587b38-9f28-46db-8a65-642007039003",
-    "titulo": "Rio de Janeiro registra prejuízo de R$ 69 milhões com furtos de fiação de cobre em cinco anos",
-    "lead": "As forças de segurança e a prefeitura do Rio de Janeiro iniciaram uma ofensiva contra ferros-velhos clandestinos após a cidade contabilizar um prejuízo superior a R$ 69 milhões provocado pelo furto de cabos elétricos entre 2021 e 2025.",
-    "corpo": "O impacto financeiro atinge diretamente serviços essenciais da capital fluminense. Segundo levantamento das autoridades locais, a Companhia de Engenharia de Tráfego (CET-Rio) teve uma perda estimada em R$ 27 milhões devido à subtração de quase 500 quilômetros de fiação de semáforos. Já a RioLuz, estatal responsável pela iluminação pública da cidade, contabilizou danos na ordem de R$ 42 milhões com o roubo de mais de 1,8 quilômetro de cabos da rede elétrica.\n\nA primeira intervenção do recém-criado Núcleo Integrado de Combate a Furtos e Receptação de Cabos e Fiação de Cobre ocorreu nesta quarta-feira na zona norte do Rio de Janeiro. A ação concentrou-se no bairro do Sampaio, na região do Grande Méier, onde agentes públicos desapropriaram dois estabelecimentos que funcionavam como ferros-velhos e demoliram uma estrutura irregular usada na receptação de materiais roubados.\n\nDe acordo com a Secretaria Municipal de Ordem Pública, a estratégia busca desarticular a cadeia logística do crime ao alvejar os receptadores do material. As autoridades ressaltam que as sucessivas manutenções na rede de trânsito e iluminação tornam-se ineficazes enquanto houver pontos ilegais de compra de cobre em operação na cidade. As áreas desapropriadas na zona norte serão readequadas pelo planejamento urbano municipal para a implantação de projetos públicos e regularização ambiental.",
-    "categoria": "Segurança",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-03T14:16:20.983703+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/em-5-anos-furto-de-fios-de-cobre-no-rio-deu-prejuizo-de-r-69-milhoes",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/5194042/pexels-photo-5194042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Maira  Matsui",
-      "photographer_url": "https://www.pexels.com/@maira-matsui-3440407",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/photo-of-a-landscape-and-a-cable-car-5194042/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Río de Janeiro registra pérdidas de R$ 69 millones por robo de cableado de cobre en cinco años",
-        "lead": "Las fuerzas de seguridad y la alcaldía de Río de Janeiro iniciaron una ofensiva contra chatarrerías clandestinas tras contabilizar pérdidas superiores a R$ 69 millones provocadas por el robo de cables eléctricos entre 2021 y 2025.",
-        "corpo": "El impacto financiero afecta directamente a servicios esenciales de la capital carioca. Según balances de las autoridades locales, la Compañía de Ingeniería de Tráfico (CET-Rio) sufrió pérdidas estimadas en R$ 27 millones debido a la sustracción de casi 500 kilómetros de cableado de semáforos. Por su parte, RioLuz, empresa pública responsable del alumbrado municipal, registró daños por cerca de R$ 42 millones tras el robo de más de 1,8 kilómetros de cables de la red eléctrica.\n\nLa primera intervención del recién creado Núcleo Integrado de Combate al Robo y Recepción de Cables ocurrió este miércoles en la zona norte de Río de Janeiro. La acción se concentró en el barrio de Sampaio, en la región de Grande Méier, donde los agentes públicos expropiaron dos establecimientos que funcionaban como chatarrerías y demolieron una estructura irregular utilizada para la recepción de materiales robados.\n\nSegún la Secretaría Municipal de Orden Público, la estrategia busca desarticular la cadena logística del crimen atacando a los receptores del material. Las autoridades destacan que los continuos trabajos de mantenimiento en la red de tráfico y alumbrado resultan ineficaces mientras permanezcan operativos puntos ilegales de compra de cobre. Los predios expropiados en la zona norte serán readecuados por el departamento de planeación urbana para la implementación de proyectos públicos y regularización ambiental."
-      },
-      "en": {
-        "titulo": "Rio de Janeiro Reports R$ 69 Million Loss From Copper Wire Theft Over Five Years",
-        "lead": "Security forces and Rio de Janeiro municipal authorities launched a crackdown on illegal scrapyards after revealing over R$ 69 million in public losses caused by copper cable theft between 2021 and 2025.",
-        "corpo": "The financial toll directly impacts essential public services across the city. According to official figures, the Traffic Engineering Company (CET-Rio) sustained losses estimated at R$ 27 million following the theft of nearly 500 kilometers of traffic light wiring. Meanwhile, RioLuz, the public company responsible for municipal street lighting, reported damages of R$ 42 million due to the theft of over 1.8 kilometers of electrical network cables.\n\nThe first operation conducted by the newly established Integrated Unit Against Cable Theft and Fencing took place on Wednesday in Rio de Janeiro's North Zone. Operations focused on the Sampaio neighborhood in the Grande Méier area, where public agents expropriated two illegal scrapyards and demolished an unauthorized structure used to receive stolen goods.\n\nAccording to the Municipal Secretariat of Public Order, the strategy aims to dismantle the criminal logistics chain by targeting receivers of stolen materials. Officials stressed that ongoing maintenance on traffic and lighting infrastructure remains futile as long as illicit copper buyers operate in the city. The expropriated sites in the North Zone will be repurposed under municipal urban planning for public projects and environmental compliance."
       }
     },
     "atualizacao_de": null
