@@ -1,5 +1,39 @@
 [
   {
+    "id": "efd84db2-20f1-4144-8883-f604073ad3c9",
+    "titulo": "Censo de Economia Criativa posiciona Cochabamba como polo cultural na Bolívia",
+    "lead": "O mapeamento das indústrias criativas em Cochabamba revelou dados estratégicos sobre a força do setor cultural e consolidou o departamento no mapa da chamada Economia Laranja boliviana.",
+    "corpo": "O levantamento sobre a Economia Laranja em Cochabamba apresentou um diagnóstico detalhado sobre o alcance das atividades artísticas, culturais e de inovação na região central da Bolívia. O levantamento estatístico reuniu informações sobre agentes culturais, modelos de negócios, geração de empregos e o impacto financeiro de setores que vão desde a produção audiovisual e gastronômica até o design e a tecnologia.\n\nHistoricamente reconhecida por sua relevância agrícola e culinária no vale boliviano, Cochabamba vem fortalecendo iniciativas que integram patrimônio tradicional e indústrias modernas. Os dados do censo indicam que o ecossistema criativo local possui uma base diversificada de empreendedores e profissionais autônomos, apontando caminhos para a formulação de políticas públicas voltadas ao financiamento, infraestrutura e capacitação técnica.\n\nA consolidação de dados setoriais é vista por analistas locais como um passo decisivo para atrair investimentos e formalizar empreendimentos que antes operavam sem métricas oficiais de desempenho. No contexto do Cone Sul e da região andina, a medição do valor gerado pela Economia Laranja acompanha uma tendência mais ampla de diversificação produtiva e estímulo a modelos econômicos baseados no conhecimento e na identidade cultural.",
+    "categoria": "Economia",
+    "pais": "Bolívia",
+    "publicado_em": "2026-09-07T18:16:52.196215+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.opinion.com.bo/articulo/innovacion-educativa/censo-economia-naranja-datos-que-pusieron-cochabamba-mapa-creativo-bolivia/20260907095359995818.html",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/38453285/pexels-photo-38453285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Shiwa Yachachin",
+      "photographer_url": "https://www.pexels.com/@shiwa",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/lightning-storm-over-cochabamba-cityscape-at-night-38453285/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Censo de Economía Naranja posiciona a Cochabamba como polo creativo en Bolivia",
+        "lead": "El relevamiento de las industrias creativas en Cochabamba aportó datos estratégicos sobre el dinamismo del sector cultural y consolidó al departamento en el mapa de la Economía Naranja de Bolivia.",
+        "corpo": "El censo sobre la Economía Naranja en Cochabamba presentó un diagnóstico detallado sobre el alcance de las actividades artísticas, culturales y de innovación en la región central de Bolivia. El estudio estadístico recopiló información sobre actores culturales, modelos de negocio, generación de empleo y el impacto financiero de rubros que abarcan desde la producción audiovisual y la gastronomía hasta el diseño y la tecnología.\n\nReconocida históricamente por su relevancia agrícola y culinaria en los valles bolivianos, Cochabamba ha venido fortaleciendo iniciativas que integran el patrimonio tradicional con las industrias contemporáneas. Los datos del censo reflejan que el ecosistema creativo local cuenta con una base diversa de emprendedores y profesionales independientes, marcando el camino para el diseño de políticas públicas orientadas al financiamiento, la infraestructura y la formación técnica.\n\nLa consolidación de estadísticas sectoriales es considerada por analistas locales como un paso decisivo para atraer inversiones y formalizar proyectos que anteriormente carecían de métricas oficiales de desempeño. En el contexto de la región andina y el Cono Sur, la medición del valor generado por la Economía Naranja acompaña una tendencia regional orientada a la diversificación productiva y el impulso a sectores basados en el conocimiento y la identidad cultural."
+      },
+      "en": {
+        "titulo": "Orange Economy census positions Cochabamba as a creative hub in Bolivia",
+        "lead": "A comprehensive survey of creative industries in Cochabamba has delivered strategic insights into the local cultural sector, placing the department firmly on Bolivia's Orange Economy map.",
+        "corpo": "The recent Orange Economy census in Cochabamba provided a detailed diagnosis of the scope of artistic, cultural, and innovation-driven activities in central Bolivia. The statistical effort gathered data on cultural practitioners, business models, job creation, and the financial footprint of sectors ranging from audiovisual production and gastronomy to design and digital technology.\n\nHistorically recognized for its agricultural and culinary prominence in the Bolivian valleys, Cochabamba has increasingly fostered initiatives that bridge traditional heritage with modern creative enterprises. The census findings show a diverse base of entrepreneurs and independent workers, providing key guidance for public policies focused on financing, infrastructure, and technical training.\n\nLocal analysts regard the development of sector-specific metrics as a crucial step toward attracting investment and formalizing creative businesses that previously operated without official performance tracking. Across the Andean region and South America, quantifying the value generated by the Orange Economy reflects a broader trend toward economic diversification driven by knowledge, technology, and cultural identity."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "5cf822c1-bdb9-48bc-901d-b018d58225b4",
     "titulo": "Comércio informal mobiliza trabalhadores durante celebrações do 7 de Setembro em Brasília",
     "lead": "Trabalhadores autônomos e informais recorreram à grande concentração de público na Esplanada dos Ministérios para buscar renda extra e garantir o sustento familiar durante o feriado da Independência.",
@@ -2001,40 +2035,6 @@
         "titulo": "Brazil's Caixa introduces installment option for Pix payments over up to 12 months",
         "lead": "Caixa Econômica Federal has started offering individual clients the option to pay Pix transfers and payments in installments. Operated as a direct credit line via the Brazilian state bank's mobile app, the feature allows financing transactions between 300 and 50,000 reais.",
         "corpo": "The new functionality enables users to pay off the contracted amount in up to 12 months, with interest rates varying based on the client's credit profile and relationship with the bank. In practice, the transaction acts as an immediate loan: while the Pix recipient gets the full amount instantly, the payer assumes the installment debt with the public bank.\n\nBefore finalizing the operation, users can review all associated costs within the Caixa app, including applicable interest rates, installment amounts, Total Effective Cost (CET), and the Financial Operations Tax (IOF). Access to the feature requires an approved credit limit following a risk assessment by the institution.\n\nAccording to the state bank, the initiative aims to expand its portfolio of digital financial solutions while offering greater budget flexibility to users. Clients who do not yet have the feature enabled were advised to keep their registration details updated and use bank services regularly for future credit re-evaluations.\n\nInstallment transfers join other instant payment modalities already offered by Caixa, such as Scheduled Pix, Automatic Pix, and contactless payments via digital wallets."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "2fba3b95-921b-40e5-8cad-bbe11acc5860",
-    "titulo": "OMM prevê El Niño de alta intensidade com duração até fevereiro de 2027",
-    "lead": "A Organização Meteorológica Mundial (OMM) alertou que o fenômeno El Niño atingiu consolidação plena e deve alcançar um nível \"muito forte\" nos próximos meses. Com probabilidade próxima a 100% de se manter ativo até fevereiro de 2027, o evento climático ameaça intensificar secas, inundações e ondas de calor em diversas regiões do planeta.",
-    "corpo": "De acordo com novo boletim divulgado pela agência meteorológica da ONU, as temperaturas da superfície do mar no Pacífico equatorial central e oriental continuam em elevação acentuada. Medições apontam que os registros térmicos na região ficaram entre 1,5°C e 2,6°C acima da média histórica nos últimos meses, sinalizando um fortalecimento contínuo do fenômeno.\n\nO secretário-geral das Nações Unidas, António Guterres, destacou que o aquecimento acelerado dos oceanos coloca o planeta em uma situação de elevado risco. O dirigente ressaltou a urgência de respostas e medidas de mitigação diante do aumento na frequência e na gravidade de eventos climáticos extremos.\n\nHistoricamente, episódios intensos de El Niño alteram os padrões globais de precipitação e vento. Na América Latina, os efeitos costumam se traduzir em riscos severos de seca e incêndios em áreas como a Amazônia e a América Central, além de chuvas volumosas em outros trechos do continente. Para o período entre setembro e novembro deste ano, a OMM projeta temperaturas acima do normal na maioria das áreas continentais.\n\nEspecialistas alertam ainda que a liberação do calor acumulado nos oceanos para a atmosfera nos períodos subsequentes pode impactar as temperaturas globais nos anos seguintes. A combinação do fenômeno natural com as mudanças climáticas decorrentes da atividade humana agrava o cenário de emergência climática global.",
-    "categoria": "Ciência & Ambiente",
-    "pais": "América Latina",
-    "publicado_em": "2026-09-03T21:16:40.447887+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/onu-preve-el-nino-muito-forte-com-duracao-ate-fevereiro-de-2027",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/30596216/pexels-photo-30596216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Zelch Csaba",
-      "photographer_url": "https://www.pexels.com/@zelch",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/satellite-view-of-earth-highlighting-south-america-30596216/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "La OMM prevé un fenómeno de El Niño \"muy fuerte\" que se extenderá hasta febrero de 2027",
-        "lead": "La Organización Meteorológica Mundial (OMM) advirtió que el fenómeno de El Niño está plenamente consolidado y alcanzará una intensidad \"muy fuerte\" en los próximos meses. Con una probabilidad cercana al 100% de mantenerse activo hasta febrero de 2027, el evento climático amenaza con intensificar sequías, inundaciones y olas de calor en diversas regiones del planeta.",
-        "corpo": "De acuerdo con un nuevo boletín publicado por la agencia meteorológica de la ONU, las temperaturas de la superficie del mar en el Pacífico ecuatorial central y oriental continúan registrando aumentos significativos. Las mediciones indican que los registros térmicos en la región se situaron entre 1,5 °C y 2,6 °C por encima del promedio histórico en los últimos meses, lo que evidencia un fortalecimiento continuo del fenómeno.\n\nEl secretario general de las Naciones Unidas, António Guterres, destacó que el acelerado calentamiento de los océanos sitúa al planeta en una condición de alto riesgo. El funcionario enfatizó la urgencia de adoptar medidas de preparación y mitigación ante la creciente frecuencia y gravedad de los eventos meteorológicos extremos.\n\nHistóricamente, los episodios intensos de El Niño alteran los patrones globales de viento y precipitación. En América Latina, los efectos suelen traducirse en severos riesgos de sequía e incendios en zonas como la Amazonía y América Central, así como en lluvias torrenciales en otras áreas del continente. Para el periodo entre septiembre y noviembre de este año, la OMM prevé temperaturas superiores a lo normal en la mayoría de las masas terrestres.\n\nLos especialistas advierten además que la liberación a la atmósfera del calor acumulado en el océano durante los periodos posteriores puede elevar las temperaturas globales en los años siguientes. La interacción entre este fenómeno natural y el cambio climático de origen humano exacerba el escenario de emergencia ambiental a escala global."
-      },
-      "en": {
-        "titulo": "WMO forecasts 'very strong' El Niño lasting through February 2027",
-        "lead": "The World Meteorological Organization (WMO) warned that El Niño is firmly established and expected to reach \"very strong\" intensity in the coming months. With an almost 100% probability of persisting until February 2027, the climate event threatens to exacerbate droughts, floods, and heatwaves globally.",
-        "corpo": "According to a new update released by the UN weather agency, sea surface temperatures in the central and eastern equatorial Pacific continue to rise sharply. Recent measurements show that thermal readings in the area ranged from 1.5°C to 2.6°C above historical averages over recent months, pointing to an ongoing intensification of the phenomenon.\n\nUN Secretary-General António Guterres stressed that rapid ocean warming places the planet in a high-risk situation. The head of the organization emphasized the urgent need for preparedness and response measures as extreme weather events become increasingly frequent and severe.\n\nHistorically, intense El Niño events disrupt global wind and precipitation patterns. In Latin America, the impacts typically manifest as severe drought and fire risks in regions such as the Amazon and Central America, alongside heavy rainfall in other parts of the continent. For the period between September and November this year, the WMO projects above-normal temperatures across nearly all landmasses.\n\nExperts also warn that the heat stored in the ocean released into the atmosphere in subsequent periods could drive global temperatures higher in the following years. The combination of this natural climate pattern with human-induced climate change is worsening the global environmental emergency."
       }
     },
     "atualizacao_de": null
