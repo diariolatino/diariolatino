@@ -1,5 +1,39 @@
 [
   {
+    "id": "9f9e1877-7bc2-4788-a445-6fed64a7a055",
+    "titulo": "Desfile do 7 de Setembro em Brasília destaca soberania nacional, combate ao feminicídio e Copa Feminina de 2027",
+    "lead": "O tradicional desfile cívico-militar do Dia da Independência na Esplanada dos Ministérios terá como eixos a soberania do país, o enfrentamento à violência de gênero e a realização do Mundial Feminino.",
+    "corpo": "O governo federal estabeleceu três eixos temáticos centrais para as celebrações do 7 de Setembro deste ano em Brasília: a defesa da soberania nacional, o combate à violência contra as mulheres e a promoção da Copa do Mundo Feminina de Futebol de 2027. O evento cívico-militar na Esplanada dos Ministérios conta com a presença do presidente Luiz Inácio Lula da Silva, de ministros de Estado e com apresentações de tropas do Exército, da Marinha e da Força Aérea Brasileira.\n\nA ênfase na soberania nacional reflete o debate público recente sobre autonomia econômica e comercial, marcado por tensões geradas por tarifas unilaterais e discussões em torno de sistemas estratégicos nacionais, como a proteção ao sistema de pagamentos Pix. No campo social e de direitos, o desfile reforça os esforços de combate ao feminicídio, pauta que reuniu os Três Poderes em pactos e medidas legislativas para coibir a violência de gênero e aprimorar o cadastro de criminosos foragidos.\n\nPor fim, a celebração também projeta internacionalmente a imagem do Brasil como sede da próxima Copa do Mundo Feminina de 2027. O torneio, oficializado pela Fifa após votação internacional, reunirá partidas em oito cidades brasileiras entre junho e julho de 2027. A estrutura do desfile na capital contou com esquema especial de trânsito, controle de acesso e regras de segurança para o público presente nas arquibancadas.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-07T15:16:18.090210+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/sete-de-setembro-soberania-copa-e-combate-ao-feminicidio-serao-temas",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/925705/pexels-photo-925705.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "MESSALA CIULLA",
+      "photographer_url": "https://www.pexels.com/@messalaciulla",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/blue-propeller-plane-925705/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Desfile del 7 de Septiembre en Brasilia destaca soberanía nacional, lucha contra el feminicidio y Mundial Femenino de 2027",
+        "lead": "El tradicional desfile cívico-militar del Día de la Independencia en la Explanada de los Ministerios tiene como ejes la soberanía del país, el combate a la violencia de género y la organización del Mundial Femenino.",
+        "corpo": "El gobierno federal estableció tres ejes temáticos centrales para las celebraciones del 7 de Septiembre de este año en Brasilia: la defensa de la soberanía nacional, la lucha contra la violencia hacia las mujeres y la promoción de la Copa Mundial Femenina de la FIFA 2027. El acto cívico-militar en la Explanada de los Ministerios cuenta con la presencia del presidente Luiz Inácio Lula da Silva, ministros de Estado y desfiles de tropas del Ejército, la Marina y la Fuerza Aérea Brasileña.\n\nEl énfasis en la soberanía nacional refleja el debate público reciente sobre autonomía económica y comercial, enmarcado en tensiones derivadas de aranceles unilaterales y discusiones en torno a sistemas estratégicos como la protección al sistema local de pagos Pix. En el área social y de derechos humanos, la ceremonia refuerza los esfuerzos gubernamentales para frenar el feminicidio, agenda que unió a los Tres Poderes en pactos institucionales y normativas destinadas a prevenir la violencia de género y localizar agresores prófugos.\n\nAsimismo, la celebración proyecta la imagen internacional de Brasil como anfitrión del Mundial Femenino de 2027. El certamen, confirmado por la FIFA tras una elección global, se disputará en ocho ciudades del país entre junio y julio de 2027. La organización del desfile en la capital federal implementó operativos de tránsito y protocolos de seguridad específicos para el acceso a las tribunas."
+      },
+      "en": {
+        "titulo": "September 7 Parade in Brasília Highlights National Sovereignty, Anti-Femicide Efforts, and 2027 Women's World Cup",
+        "lead": "Brazil's traditional Independence Day civic-military parade on the Esplanada dos Ministérios centers on national sovereignty, combating gender violence, and hosting the 2027 Women's World Cup.",
+        "corpo": "The federal government established three primary themes for this year's September 7 Independence Day celebrations in Brasília: defending national sovereignty, combating violence against women, and highlighting the 2027 FIFA Women's World Cup. The civic-military event on the Esplanada dos Ministérios was attended by President Luiz Inácio Lula da Silva, cabinet ministers, and units from the Brazilian Army, Navy, and Air Force.\n\nThe emphasis on national sovereignty reflects recent public discussions concerning economic and commercial autonomy, particularly in response to unilateral trade tariffs and the protection of strategic national systems such as the domestic Pix payment infrastructure. In the social and human rights sphere, the parade underlined state commitments to tackling femicide, a priority that recently mobilized the Three Branches of government to launch national pacts and legislative measures aimed at curbing gender violence and tracking fugitives.\n\nAdditionally, the commemorations spotlighted Brazil's upcoming role as host of the 2027 Women's World Cup. The tournament, awarded by FIFA following a competitive global ballot, will feature matches across eight Brazilian host cities between June and July 2027. Organization for the capital's parade included traffic adjustments and strict security screening for attendees entering public grandstands."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "2a8abbe9-3acb-4d8a-9c27-8dd517e98f6d",
     "titulo": "Brasil celebra Dia da Independência com desfile focado em soberania e direitos sociais em Brasília",
     "lead": "O tradicional desfile cívico-militar de 7 de Setembro teve início na manhã desta segunda-feira na Esplanada dos Ministérios, em Brasília, reunindo as principais autoridades do país sob eixos temáticos voltados à soberania e a pautas sociais.",
@@ -2001,40 +2035,6 @@
         "titulo": "Milei admits his administration's policies pushed one million people into poverty this year",
         "lead": "Argentine President Javier Milei publicly stated that the economic measures and austerity program carried out under his administration left around one million citizens in poverty this year.",
         "corpo": "Argentine President Javier Milei acknowledged that the outcomes of his administration's policy decisions led to approximately one million people falling into poverty across the country during the current year. The remarks came during recent public appearances captured on video, where the head of state addressed the social costs tied to his ongoing reform agenda.\n\nSince taking office in December 2023, Milei has applied aggressive fiscal austerity measures, severe reductions in state spending, the phasing out of public utility subsidies, and broad deregulation. The government's stated objective has been to restore budgetary balance and curb high inflation rates that have long weighed on the Argentine economy.\n\nHowever, the immediate fallout has placed substantial strain on real incomes for wage earners, pensioners, and vulnerable segments of the population. Rising costs for public transit, utilities, and essential food items, coupled with weakened domestic demand, have exacerbated poverty indicators monitored by statistical agencies and research institutions.\n\nThe president's remarks triggered immediate reactions across the nation's political landscape. Opposition figures, labor unions, and grassroots organizations intensified their criticism of the Casa Rosada's economic trajectory, pointing to the absence of sufficient social safety nets. Conversely, supporters of the administration maintain that current hardships are an unavoidable transitional phase to stabilize public finances and ensure long-term monetary viability."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "b4547796-65db-46e9-9a1b-0abddd8c917d",
-    "titulo": "Banco Central amplia prazo de contestação contra fraudes no sistema Pix",
-    "lead": "O Banco Central do Brasil estendeu de 30 para 80 dias o prazo para contestar estornos indevidos realizados por meio do Mecanismo Especial de Devolução do Pix. A medida visa proteger comerciantes e prestadores de serviço contra golpes que exploram as próprias ferramentas de segurança do sistema.",
-    "corpo": "A nova diretriz estabelecida pela autoridade monetária busca corrigir uma vulnerabilidade explorada por criminosos contra estabelecimentos comerciais e pequenos negócios. No esquema comum, o golpista realiza uma compra legítima e em seguida solicita o estorno direto ao lojista alegando equívoco. Ao mesmo tempo, aciona o Mecanismo Especial de Devolução (MED) em sua instituição financeira sob alegação de fraude, fazendo com que o comerciante perca os recursos duas vezes caso devolva o valor manualmente por outra chave.\n\nCom a mudança, o vendedor ou recebedor que sofrer um débito indevido passa a ter até 80 dias, contados a partir da devolução efetuada pelo sistema, para recorrer e apresentar contestação. O período foi equalizado ao prazo já concedido às vítimas diretas de golpes para solicitar a ativação do mecanismo após o envio de uma transferência suspeita.\n\nA atualização integra a Instrução Normativa BCB 766, que adequou o manual operacional do Diretório de Identificadores de Contas Transacionais. O Banco Central reforça que o MED é restrito a situações de fraude comprovada, falhas operacionais graves ou crimes, não se aplicando a erros no preenchimento de dados, desacordos comerciais comuns ou arrependimento de compra.\n\nA alteração acompanha a expansão das medidas de segurança do meio de pagamento instantâneo brasileiro, incluindo o rastreamento ampliado de recursos que transitam entre diferentes contas bancárias para dificultar a dispersão de valores ilícitos. As autoridades bancárias orientam que qualquer devolução legítima seja feita exclusivamente pelo botão específico da transação original no aplicativo financeiro, além de recomendar a preservação de comprovantes e mensagens para comprovação perante os bancos.",
-    "categoria": "Economia",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-03T18:17:26.709864+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/nova-regra-do-pix-amplia-prazo-para-contestar-golpe",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/5198284/pexels-photo-5198284.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Tima Miroshnichenko",
-      "photographer_url": "https://www.pexels.com/@tima-miroshnichenko",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/person-holding-brown-credit-card-and-cellphone-5198284/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "El Banco Central de Brasil amplía el plazo para impugnar fraudes en el sistema Pix",
-        "lead": "El Banco Central de Brasil extendió de 30 a 80 días el plazo para apelar devoluciones indebidas realizadas a través del Mecanismo Especial de Devolución de Pix. La disposición busca resguardar a comerciantes y prestadores de servicios de estafas que manipulan las propias herramientas de protección del sistema.",
-        "corpo": "La nueva directiva establecida por la autoridad monetaria procura subsanar una vulnerabilidad aprovechada por estafadores contra comercios y pequeños negocios. En este tipo de maniobra, el delincuente efectúa una compra legítima y luego solicita el reembolso directo al comerciante alegando una equivocación. De forma simultánea, activa el Mecanismo Especial de Devolución (MED) en su entidad financiera aduciendo haber sido víctima de fraude, lo que expone al comerciante a perder el dinero por partida doble si realiza la devolución de forma manual hacia otra cuenta.\n\nCon esta modificación, el vendedor o receptor que sufra un débito indebido dispondrá de hasta 80 días, contados desde la reversión ejecutada por el sistema, para presentar su descargo y documentación. De este modo, se equipara la vigencia con el plazo que ya tenían los remitentes afectados por estafas para solicitar la intervención del mecanismo tras concretar una transferencia sospechosa.\n\nLa medida forma parte de la Instrucción Normativa BCB 766, que actualizó el manual operativo del directorio de cuentas transaccionales. El Banco Central recordó que el MED está reservado a situaciones de fraude comprobado, fallas operativas o delitos, y no cubre errores de digitación de datos, discrepancias comerciales cotidianas ni arrepentimiento de compras.\n\nEl ajuste se suma a las medidas de seguridad del ecosistema de pagos instantáneos en Brasil, que incluyen el rastreo del flujo de fondos a través de cuentas bancarias secundarias para frenar el desvío de dinero ilícito. Las autoridades financieras recomiendan efectuar cualquier reintegro exclusivamente mediante la opción de devolución vinculada a la transacción original dentro de las aplicaciones bancarias."
-      },
-      "en": {
-        "titulo": "Brazil's Central Bank extends dispute deadline for Pix payment fraud",
-        "lead": "The Central Bank of Brazil has extended the deadline to dispute improper refunds processed through the Pix Special Return Mechanism from 30 to 80 days. The rule aims to shield merchants and small businesses from schemes that exploit the payment platform's security tools.",
-        "corpo": "The monetary authority's new directive targets a vulnerability exploited by fraudsters against retailers and service providers. Under the common scheme, a scammer makes a legitimate payment and then requests a manual refund from the merchant, claiming an accidental transfer. Simultaneously, the perpetrator triggers the Special Return Mechanism (MED) with their bank, alleging fraud, leaving the business owner vulnerable to losing funds twice if they return the money manually to a different key.\n\nUnder the revised rules, any recipient hit by an improper reversal now has up to 80 days from the date of the system refund to challenge the decision. This adjustment aligns the defense timeline with the 80-day window already granted to original scam victims seeking to initiate recovery proceedings after an unauthorized transfer.\n\nThe update is outlined in BCB Normative Instruction 766, which modified the operational guidelines for transactional account identifiers. The Central Bank stressed that the MED procedure is strictly intended for confirmed fraud, operational glitches, or criminal acts, excluding personal input errors, standard commercial disputes, or purchase regret.\n\nThe regulatory shift complements broader security upgrades across Brazil's instant payment network, including tools designed to trace illicit fund flows across multi-tiered bank accounts. Banking authorities advise users to process any legitimate refund strictly through the designated return option attached to the original transaction within banking apps."
       }
     },
     "atualizacao_de": null
