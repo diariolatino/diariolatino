@@ -1,5 +1,39 @@
 [
   {
+    "id": "92a1d59d-55a0-41ca-91d6-4c28d1e82e98",
+    "titulo": "Trump divulga mapa onde bandeira dos Estados Unidos sobrepõe México, Caribe e Canadá",
+    "lead": "Uma publicação compartilhada pelo ex-presidente norte-americano Donald Trump gerou forte repercussão regional ao exibir a bandeira dos Estados Unidos cobrindo a totalidade dos territórios do México, do Canadá e de ilhas do Caribe.",
+    "corpo": "A divulgação de uma imagem na qual a bandeira norte-americana aparece sobreposta aos mapas de países vizinhos provocou debates sobre a retórica geopolítica de Donald Trump em relação aos seus parceiros continentais. A representação gráfica estende os símbolos nacionais dos Estados Unidos sobre áreas soberanas do México, de nações caribenhas e do Canadá.\n\nA peça visual reforça o tom nacionalista frequentemente adotado pelo líder político em discussões sobre comércio, segurança fronteiriça e relações diplomáticas nas Américas. No contexto latino-americano, o gesto repercute de forma sensível, visto que a soberania territorial e o respeito mútuo entre as nações do hemisfério são temas centrais nas discussões diplomáticas com Washington.\n\nEspecialistas em relações internacionais apontam que manifestações desse tipo tendem a alimentar tensões políticas e gerar preocupações sobre as futuras diretrizes da política externa norte-americana em relação aos vizinhos do Norte e do Sul Global. O episódio soma-se a um histórico de declarações polêmicas envolvendo as fronteiras e a autonomia dos países da região.",
+    "categoria": "Mundo",
+    "pais": "México",
+    "publicado_em": "2026-09-07T22:14:44.671697+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://acento.com.do/internacional/trump-publica-un-mapa-en-el-que-la-bandera-estadounidense-cubre-mexico-el-caribe-y-canada-9749383.html",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/6172597/pexels-photo-6172597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "RDNE Stock project",
+      "photographer_url": "https://www.pexels.com/@rdne",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/woman-in-black-blazer-standing-behind-a-podium-6172597/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Trump difunde mapa donde la bandera de Estados Unidos cubre México, el Caribe y Canadá",
+        "lead": "Una publicación compartida por el expresidente estadounidense Donald Trump generó fuerte repercusión regional al mostrar la bandera de Estados Unidos cubriendo por completo los territorios de México, Canadá e islas del Caribe.",
+        "corpo": "La difusión de una imagen en la que la bandera estadounidense aparece superpuesta a los mapas de países vecinos provocó debates sobre la retórica geopolítica de Donald Trump en relación con sus socios continentales. La representación gráfica extiende los símbolos nacionales de Estados Unidos sobre áreas soberanas de México, naciones caribeñas y Canadá.\n\nLa pieza visual refuerza el tono nacionalista que suele adoptar el líder político en debates sobre comercio, seguridad fronteriza y relaciones diplomáticas en las Américas. En el contexto latinoamericano, el gesto resuena de manera sensible, dado que la soberanía territorial y el respeto mutuo entre las naciones del hemisferio son temas centrales en los intercambios diplomáticos con Washington.\n\nEspecialistas en relaciones internacionales señalan que manifestaciones de este tipo tienden a alimentar tensiones políticas y suscitar inquietudes sobre las futuras directrices de la política exterior estadounidense hacia los países vecinos del Norte y del Sur Global. El episodio se suma a un historial de declaraciones controvertidas en torno a las fronteras y la autonomía de las naciones de la región."
+      },
+      "en": {
+        "titulo": "Trump Shares Map Showing US Flag Covering Mexico, the Caribbean, and Canada",
+        "lead": "A post shared by former US President Donald Trump has sparked strong regional reactions by displaying the United States flag covering the entire territories of Mexico, Canada, and Caribbean islands.",
+        "corpo": "The circulation of an image in which the US flag is superimposed over maps of neighboring countries has reignited discussions surrounding Donald Trump's geopolitical rhetoric toward continental partners. The graphic representation extends United States national symbols over sovereign territories of Mexico, Caribbean nations, and Canada.\n\nThe visual post reinforces the nationalistic tone frequently adopted by the political figure regarding trade, border security, and diplomatic relations across the Americas. Within Latin America, the gesture carries sensitive implications, as territorial sovereignty and mutual respect among hemispheric nations remain central pillars of diplomacy with Washington.\n\nInternational relations analysts note that such gestures tend to heighten political friction and raise concerns over the future direction of US foreign policy toward its neighbors in the Global South and North. The incident adds to a broader record of contentious rhetoric regarding national borders and regional autonomy."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "de4fd25b-70d4-4c2f-a86b-31192ab588d0",
     "titulo": "Rio de Janeiro reúne milhares de pessoas em tradicional desfile da Independência",
     "lead": "Mesmo sob chuva, milhares de espectadores acompanharam o cortejo cívico-militar na Avenida Presidente Vargas em celebração ao 7 de Setembro.",
@@ -2004,39 +2038,5 @@
       }
     },
     "atualizacao_de": null
-  },
-  {
-    "id": "27b37bf2-3426-48f0-9eb4-6766de0dcb25",
-    "titulo": "Banco Central proíbe anúncios e links em comprovantes do Pix a partir de 2027",
-    "lead": "O Banco Central do Brasil estabeleceu novas diretrizes que vedam a inclusão de publicidade, ofertas comerciais e hiperlinks nos comprovantes de pagamento emitidos pelo sistema Pix.",
-    "corpo": "A autoridade monetária brasileira anunciou uma atualização nas normas de segurança e experiência do usuário para o Pix. A partir de 1º de março de 2027, as instituições financeiras participantes do sistema estarão proibidas de inserir propagandas, mensagens publicitárias, ofertas de produtos ou serviços, links externos e qualquer conteúdo alheio à operação nos comprovantes de transferência.\n\nSegundo o Banco Central, a determinação busca assegurar que os comprovantes mantenham exclusivamente a finalidade de demonstrar e atestar a transação efetuada. A remoção de elementos comerciais e hiperlinks visa prevenir que o documento oficial de pagamento seja utilizado como vetor para direcionar correntistas a páginas fraudulentas ou viabilizar golpes digitais.\n\nO pacote regulatório também traz aprimoramentos no Mecanismo Especial de Devolução (MED), ferramenta voltada para a contestação de fraudes e golpes. As interfaces bancárias deverão apresentar uma linguagem mais acessível para a descrição das ocorrências e permitir a inclusão de documentos e comprovantes que facilitem a apuração das queixas tanto pelo banco de origem quanto pela instituição de destino. O prazo geral para que a vítima registre a contestação permanece em até 80 dias após a operação suspeita.\n\nAlém disso, o BC definiu novos critérios para a função de contatos favoritos no Pix. As instituições financeiras terão de armazenar a chave Pix utilizada e emitir alertas aos clientes caso haja modificação na identificação do titular associado àquela chave salva. As instituições financeiras terão até março de 2027 para realizar as adequações técnicas necessárias em suas plataformas operacionais.",
-    "categoria": "Economia",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-04T00:21:11.593768+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bc-proibe-publicidade-em-comprovantes-do-pix-partir-de-marco-de-2027",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/37201917/pexels-photo-37201917.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Matheus Natan",
-      "photographer_url": "https://www.pexels.com/@matheusnatan",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/banco-de-brasilia-building-under-clear-sky-37201917/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Banco Central prohíbe publicidad y enlaces en comprobantes de Pix a partir de 2027",
-        "lead": "El Banco Central de Brasil estableció nuevas directrices que prohíben la inclusión de publicidad, ofertas comerciales e hipervínculos en los comprobantes de pago emitidos por el sistema Pix.",
-        "corpo": "La autoridad monetaria brasileña anunció una actualización en las normas de seguridad y experiencia de usuario para el sistema Pix. A partir del 1 de marzo de 2027, las instituciones financieras participantes tendrán prohibido insertar anuncios, mensajes publicitarios, ofertas de productos o servicios, enlaces externos y cualquier contenido ajeno a la operación en los comprobantes de transferencia.\n\nSegún el Banco Central, la medida busca garantizar que los comprobantes mantengan exclusivamente el propósito de demostrar y certificar la transacción realizada. La eliminación de elementos comerciales e hipervínculos tiene como objetivo evitar que el documento oficial de pago sea utilizado como un medio para dirigir a los usuarios hacia páginas fraudulentas o facilitar estafas digitales.\n\nEl paquete normativo también introduce mejoras en el Mecanismo Especial de Devolución (MED), herramienta destinada a disputar fraudes y estafas. Las interfaces bancarias deberán presentar un lenguaje más accesible para la descripción de los incidentes y permitir la inclusión de documentos y pruebas que faciliten el análisis de los reclamos tanto por el banco emisor como por la entidad receptora. El plazo general para que la víctima registre el reclamo se mantiene en hasta 80 días tras la operación sospechosa.\n\nAsimismo, el Banco Central definió nuevos criterios para la función de contactos favoritos en Pix. Las entidades deberán almacenar la clave Pix utilizada y emitir alertas a los clientes si se modifica la identificación del titular asociado a dicha clave guardada. Las instituciones financieras dispondrán hasta marzo de 2027 para implementar las adecuaciones técnicas necesarias en sus plataformas."
-      },
-      "en": {
-        "titulo": "Central Bank bans ads and links on Pix payment receipts starting in 2027",
-        "lead": "The Central Bank of Brazil has established new guidelines prohibiting advertising, commercial offers, and hyperlinks on payment receipts issued through the Pix instant payment system.",
-        "corpo": "The Brazilian monetary authority announced an update to the security and user experience regulations for Pix. Starting on March 1, 2027, participating financial institutions will be barred from including advertisements, promotional messages, commercial offers, external links, or any content unrelated to the transaction on transfer receipts.\n\nAccording to the Central Bank, the measure aims to ensure that receipts exclusively fulfill the role of recording and confirming the completed transaction. Removing commercial elements and hyperlinks is intended to prevent official payment documents from being exploited to direct users to fraudulent web pages or facilitate digital scams.\n\nThe regulatory package also introduces updates to the Special Return Mechanism (MED), the system used to dispute fraud and scams. Banking interfaces will be required to adopt clearer language to describe scam scenarios and allow users to attach documents and evidence to support the investigation by both the sending and receiving institutions. The general deadline for victims to file a dispute remains up to 80 days from the date of the suspicious transaction.\n\nAdditionally, the Central Bank set new criteria for the favorite contacts feature in Pix. Financial institutions must store the Pix key used and alert customers if the account holder information linked to that saved key changes. Banks and payment providers will have until March 2027 to implement the necessary technical adjustments across their platforms."
-      }
-    },
-    "atualizacao_de": "2fba3b95-921b-40e5-8cad-bbe11acc5860"
   }
 ]
