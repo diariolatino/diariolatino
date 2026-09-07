@@ -1,5 +1,39 @@
 [
   {
+    "id": "5cf822c1-bdb9-48bc-901d-b018d58225b4",
+    "titulo": "Comércio informal mobiliza trabalhadores durante celebrações do 7 de Setembro em Brasília",
+    "lead": "Trabalhadores autônomos e informais recorreram à grande concentração de público na Esplanada dos Ministérios para buscar renda extra e garantir o sustento familiar durante o feriado da Independência.",
+    "corpo": "Enquanto milhares de pessoas acompanhavam as celebrações cívicas do 7 de Setembro na Esplanada dos Ministérios, em Brasília, centenas de vendedores ambulantes percorreram o perímetro do evento em busca de oportunidades comerciais. A data festiva representa um momento estratégico no calendário desses trabalhadores para ampliar ganhos por meio da venda de alimentos, bebidas, brinquedos e artigos de vestuário.\n\nGrande parte desses vendedores reside em regiões administrativas periféricas do Distrito Federal e municípios do entorno, enfrentando longos deslocamentos e rotinas que começam de madrugada. Para muitos, a atuação no comércio de rua é combinada com empregos formais na escala de serviços — como portaria e transporte coletivo —, atuando como complemento orçamentário indispensável diante das demandas do custo de vida.\n\nEntre os produtos mais comercializados durante a festividade estavam itens tradicionais de consumo rápido, como algodão-doce, churros, água mineral, água de coco e chapéus de proteção solar. As vendas diretas ao público que assiste aos desfiles dependem da circulação constante a pé, transportando mercadorias sob condições climáticas exigentes.\n\nO fluxo de comerciantes informais em grandes eventos públicos na capital reflete uma dinâmica recorrente no mercado de trabalho brasileiro, onde celebrações cívicas e feriados prolongados concentram picos de atividade econômica de subsistência para trabalhadores de baixa renda.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-07T17:13:30.908125+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/ambulantes-desfilam-no-7-de-setembro-em-busca-de-sustento",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/37347201/pexels-photo-37347201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Renata Moraes",
+      "photographer_url": "https://www.pexels.com/@moraesrenata",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/street-food-vendor-stall-in-campinas-brazil-37347201/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "El comercio informal moviliza a trabajadores durante las celebraciones del 7 de Septiembre en Brasilia",
+        "lead": "Trabajadores autónomos e informales aprovecharon la gran afluencia de público en la Explanada de los Ministerios para obtener ingresos extra y asegurar el sustento familiar durante el feriado de la Independencia.",
+        "corpo": "Mientras miles de personas presenciaban las celebraciones cívicas del 7 de Septiembre en la Explanada de los Ministerios, en Brasilia, cientos de vendedores ambulantes recorrieron el perímetro del evento en busca de oportunidades comerciales. La fecha festiva representa un momento estratégico en el calendario de estos trabajadores para incrementar sus ingresos mediante la venta de alimentos, bebidas, juguetes y prendas de vestir.\n\nGran parte de estos vendedores reside en regiones periféricas del Distrito Federal y municipios aledaños, afrontando largos traslados y jornadas que inician de madrugada. Para muchos, la actividad en el comercio callejero se combina con empleos formales en el sector servicios —como conserjería o transporte público—, funcionando como un complemento presupuestario indispensable ante las exigencias del costo de vida.\n\nEntre los productos más demandados durante la jornada figuraron artículos de consumo rápido como algodón de azúcar, churros, agua embotellada, agua de coco y sombreros para protegerse del sol. Las ventas directas a los asistentes a los desfiles exigen un desplazamiento continuo a pie, cargando mercancías bajo exigentes condiciones climáticas.\n\nLa afluencia de comerciantes informales en eventos masivos de la capital refleja una dinámica recurrente en el mercado laboral brasileño, donde los feriados y actos cívicos concentran picos de actividad económica de subsistencia para sectores de bajos ingresos."
+      },
+      "en": {
+        "titulo": "Informal vendors mobilize during Independence Day celebrations in Brasília",
+        "lead": "Street vendors and informal workers capitalized on large crowds at the Esplanade of Ministries to secure extra income and provide for their families during the Independence Day holiday.",
+        "corpo": "While thousands of attendees gathered for the September 7 civic celebrations at the Esplanade of Ministries in Brasília, hundreds of street vendors worked across the event perimeter seeking commercial opportunities. The national holiday marks a strategic occasion for informal workers aiming to boost their earnings by selling food, beverages, toys, and apparel.\n\nA significant share of these vendors lives in peripheral administrative regions of the Federal District and neighboring municipalities, enduring long commutes and starting their routines in the early morning hours. For many, street vending supplements formal jobs in the service sector—such as building security or public transit—acting as an essential financial buffer against living costs.\n\nAmong the most widely sold goods were fast-consumption items such as cotton candy, churros, bottled water, coconut water, and sun hats. Direct sales to parade spectators require continuous walking while carrying heavy loads under demanding weather conditions.\n\nThe presence of informal traders at major public events in the capital underscores a widespread dynamic in the Brazilian labor market, where national holidays and large gatherings provide critical subsistence income for lower-income workers."
+      }
+    },
+    "atualizacao_de": "fe1f8aa2-e5b9-46be-ab6d-7d06d63f3d7c"
+  },
+  {
     "id": "9f9e1877-7bc2-4788-a445-6fed64a7a055",
     "titulo": "Desfile do 7 de Setembro em Brasília destaca soberania nacional, combate ao feminicídio e Copa Feminina de 2027",
     "lead": "O tradicional desfile cívico-militar do Dia da Independência na Esplanada dos Ministérios terá como eixos a soberania do país, o enfrentamento à violência de gênero e a realização do Mundial Feminino.",
@@ -2001,40 +2035,6 @@
         "titulo": "WMO forecasts 'very strong' El Niño lasting through February 2027",
         "lead": "The World Meteorological Organization (WMO) warned that El Niño is firmly established and expected to reach \"very strong\" intensity in the coming months. With an almost 100% probability of persisting until February 2027, the climate event threatens to exacerbate droughts, floods, and heatwaves globally.",
         "corpo": "According to a new update released by the UN weather agency, sea surface temperatures in the central and eastern equatorial Pacific continue to rise sharply. Recent measurements show that thermal readings in the area ranged from 1.5°C to 2.6°C above historical averages over recent months, pointing to an ongoing intensification of the phenomenon.\n\nUN Secretary-General António Guterres stressed that rapid ocean warming places the planet in a high-risk situation. The head of the organization emphasized the urgent need for preparedness and response measures as extreme weather events become increasingly frequent and severe.\n\nHistorically, intense El Niño events disrupt global wind and precipitation patterns. In Latin America, the impacts typically manifest as severe drought and fire risks in regions such as the Amazon and Central America, alongside heavy rainfall in other parts of the continent. For the period between September and November this year, the WMO projects above-normal temperatures across nearly all landmasses.\n\nExperts also warn that the heat stored in the ocean released into the atmosphere in subsequent periods could drive global temperatures higher in the following years. The combination of this natural climate pattern with human-induced climate change is worsening the global environmental emergency."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "99c0e06c-e2df-4b40-a022-f69ee5ccd7f5",
-    "titulo": "Milei admite que políticas de sua gestão levaram um milhão de pessoas à pobreza neste ano",
-    "lead": "O presidente da Argentina, Javier Milei, declarou publicamente que as medidas econômicas e o plano de ajuste implementados sob sua gestão deixaram cerca de um milhão de cidadãos abaixo da linha de pobreza durante este ano.",
-    "corpo": "O presidente argentino Javier Milei reconheceu que os desdobramentos de suas decisões de governo resultaram no empobrecimento de aproximadamente um milhão de pessoas no país ao longo do ano corrente. A constatação ocorreu durante manifestações públicas recentes, registradas em vídeo, nas quais o mandatário abordou os custos sociais das reformas em andamento.\n\nDesde que assumiu a presidência da Argentina em dezembro de 2023, Milei colocou em prática uma ampla política de austeridade fiscal, corte expressivo de gastos públicos, eliminação de subsídios a serviços básicos e desregulamentação setorial. O objetivo declarado do Executivo tem sido alcançar o equilíbrio orçamentário e desacelerar os índices de inflação, que figuram historicamente entre os mais altos da América Latina.\n\nContudo, o impacto imediato das medidas gerou forte pressão sobre a renda dos trabalhadores assalariados, aposentados e setores mais vulneráveis da população argentina. O salto nos preços de transporte, energia e alimentos, combinado com a contenção salarial e a redução da atividade econômica interna, agravou as taxas de vulnerabilidade social medidas por órgãos oficiais e instituições acadêmicas.\n\nA declaração do chefe de Estado repercutiu de forma imediata no debate público e político do país. Setores da oposição parlamentar, organizações sindicais e movimentos sociais intensificaram as críticas ao modelo econômico da Casa Rosada, apontando a insuficiência de mecanismos de proteção aos cidadãos mais fragilizados. Por outro lado, defensores da administração sustentam que a contração econômica atual faz parte de uma transição necessária para estabilizar a moeda e restaurar a solvência financeira nacional a médio prazo.",
-    "categoria": "Economia",
-    "pais": "Argentina",
-    "publicado_em": "2026-09-03T20:14:03.597459+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://www.agencianova.com/nota.asp?n=2026_9_3&id=172076&id_tiponota=4",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/33126437/pexels-photo-33126437.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Valentina  Rodriguez",
-      "photographer_url": "https://www.pexels.com/@mavarodi",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/casa-rosada-in-buenos-aires-cityscape-33126437/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Milei admite que políticas de su gestión llevaron a un millón de personas a la pobreza este año",
-        "lead": "El presidente de Argentina, Javier Milei, reconoció públicamente que las medidas económicas y el plan de ajuste implementados por su gobierno dejaron a cerca de un millón de ciudadanos bajo la línea de pobreza durante este año.",
-        "corpo": "El mandatario argentino Javier Milei admitió que las consecuencias de sus decisiones de gobierno derivaron en el empobrecimiento de aproximadamente un millón de personas en el país a lo largo del año en curso. La afirmación tuvo lugar durante declaraciones públicas recientes, registradas en video, en las que el jefe de Estado abordó los costos sociales de las reformas en marcha.\n\nDesde su asunción en diciembre de 2023, Milei implementó una estricta política de austeridad fiscal, una profunda reducción del gasto público, el recorte de subsidios a los servicios esenciales y la desregulación sectorial. La meta fijada por el Ejecutivo ha sido consolidar el equilibrio fiscal y contener los índices de inflación, históricamente elevados en la región.\n\nNo obstante, el impacto inmediato de este programa ejerció una fuerte presión sobre los ingresos reales de trabajadores, jubilados y sectores vulnerables. El incremento en las tarifas de transporte, energía y alimentos, sumado a la contracción del consumo interno, profundizó los niveles de vulnerabilidad relevados por organismos oficiales y centros de estudios.\n\nLas palabras del mandatario generaron inmediatas reacciones en el ámbito político y social del país. Dirigentes opositores, organizaciones sindicales y movimientos sociales renovaron sus cuestionamientos a la orientación socioeconómica de la Casa Rosada, advirtiendo sobre la falta de contención social. En contraste, sectores afines al oficialismo argumentan que el ajuste responde a una etapa de transición indispensable para estabilizar la macroeconomía y recuperar la solvencia nacional."
-      },
-      "en": {
-        "titulo": "Milei admits his administration's policies pushed one million people into poverty this year",
-        "lead": "Argentine President Javier Milei publicly stated that the economic measures and austerity program carried out under his administration left around one million citizens in poverty this year.",
-        "corpo": "Argentine President Javier Milei acknowledged that the outcomes of his administration's policy decisions led to approximately one million people falling into poverty across the country during the current year. The remarks came during recent public appearances captured on video, where the head of state addressed the social costs tied to his ongoing reform agenda.\n\nSince taking office in December 2023, Milei has applied aggressive fiscal austerity measures, severe reductions in state spending, the phasing out of public utility subsidies, and broad deregulation. The government's stated objective has been to restore budgetary balance and curb high inflation rates that have long weighed on the Argentine economy.\n\nHowever, the immediate fallout has placed substantial strain on real incomes for wage earners, pensioners, and vulnerable segments of the population. Rising costs for public transit, utilities, and essential food items, coupled with weakened domestic demand, have exacerbated poverty indicators monitored by statistical agencies and research institutions.\n\nThe president's remarks triggered immediate reactions across the nation's political landscape. Opposition figures, labor unions, and grassroots organizations intensified their criticism of the Casa Rosada's economic trajectory, pointing to the absence of sufficient social safety nets. Conversely, supporters of the administration maintain that current hardships are an unavoidable transitional phase to stabilize public finances and ensure long-term monetary viability."
       }
     },
     "atualizacao_de": null
