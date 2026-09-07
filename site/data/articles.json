@@ -1,5 +1,39 @@
 [
   {
+    "id": "20eee842-be21-457f-a43d-4608e487ecc6",
+    "titulo": "IBGE disponibiliza novos mapas-múndi após aprovação de representação proporcional na ONU",
+    "lead": "O Instituto Brasileiro de Geografia e Estatística (IBGE) lança, a partir de 7 de setembro, o acesso a versões atualizadas do mapa-múndi em sua loja virtual, acompanhando a recente decisão da Assembleia Geral da ONU de adotar uma projeção cartográfica mais proporcional para os continentes do Sul Global.",
+    "corpo": "A nova cartografia busca corrigir distorções históricas consolidadas pela projeção de Mercator, criada no século XVI. No modelo tradicional, territórios do Norte Global, como a América do Norte e a Groenlândia, aparecem em dimensões amplificadas, enquanto regiões como a América do Sul e o continente africano são retratadas de forma reduzida em relação ao seu tamanho real.\n\nA mudança reflete a aprovação pela Assembleia Geral das Nações Unidas da projeção cartográfica Equal Earth. Em votação recente na ONU, a proposta — impulsionada originalmente pela União Africana — recebeu o apoio de 164 países. Os Estados Unidos votaram contra a medida, enquanto seis nações se absteram. A aprovação reforça demandas antigas por maior equilíbrio simbólico e geopolítico na representação do planeta.\n\nSegundo Maria do Carmo Bueno, diretora de Geociências do IBGE, a adoção da projeção alinha o órgão às inovações cartográficas contemporâneas e às exigências sociais por justiça espacial. Os mapas produzidos pelo instituto entre 2024 e 2026 estarão disponíveis para o público no portal oficial do IBGE.",
+    "categoria": "Ciência & Ambiente",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-07T00:23:08.969166+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/ibge-disponibiliza-partir-de-amanha-mapas-mundi-recentes",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/15031956/pexels-photo-15031956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Levy Marchetto",
+      "photographer_url": "https://www.pexels.com/@leewee",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/hand-pointing-amapa-state-on-map-15031956/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "El IBGE disponibiliza nuevos mapas del mundo tras la aprobación de una representación proporcional en la ONU",
+        "lead": "El Instituto Brasileño de Geografía y Estadística (IBGE) ofrecerá, a partir del 7 de septiembre, acceso a versiones actualizadas del mapa del mundo en su tienda virtual, tras la reciente decisión de la Asamblea General de la ONU de adoptar una proyección cartográfica más proporcional para los continentes del Sur Global.",
+        "corpo": "La nueva cartografía busca corregir distorsiones históricas consolidadas por la proyección de Mercator, creada en el siglo XVI. En el modelo tradicional, los territorios del Norte Global, como América del Norte y Groenlandia, aparecen con dimensiones amplificadas, mientras que regiones como América del Sur y el continente africano son retratadas de manera reducida en comparación con su tamaño real.\n\nEl cambio refleja la aprobación por parte de la Asamblea General de las Naciones Unidas de la proyección cartográfica Equal Earth. En una votación reciente en la ONU, la propuesta —impulsada originalmente por la Unión Africana— contó con el apoyo de 164 países. Estados Unidos votó en contra de la medida, mientras que seis naciones se abstuvieron. La aprobación refuerza antiguas demandas de mayor equilibrio simbólico y geopolítico en la representación del planeta.\n\nSegún Maria do Carmo Bueno, directora de Geociencias del IBGE, la adopción de esta proyección alinea al organismo con las innovaciones cartográficas contemporáneas y con las exigencias sociales de justicia espacial. Los mapas elaborados por el instituto entre 2024 y 2026 estarán disponibles para el público general en el portal oficial del IBGE."
+      },
+      "en": {
+        "titulo": "IBGE releases new world maps following UN approval of proportional map projection",
+        "lead": "Brazil's Institute of Geography and Statistics (IBGE) will make updated world map versions available on its online store starting September 7, aligning with a recent UN General Assembly decision to adopt a more proportional cartographic projection for the Global South.",
+        "corpo": "The new cartography aims to correct historical distortions established by the 16th-century Mercator projection. Under the traditional model, territories in the Global North, such as North America and Greenland, appear enlarged, while regions like South America and the African continent are depicted as smaller than their actual size.\n\nThe update follows the United Nations General Assembly's approval of the Equal Earth cartographic projection. In a recent vote at the UN, the proposal—originally championed by the African Union—received support from 164 countries. The United States voted against the measure, while six nations abstained. The resolution reinforces long-standing demands for greater symbolic and geopolitical balance in mapping the planet.\n\nAccording to Maria do Carmo Bueno, Geosciences Director at IBGE, adopting this projection aligns the institute with modern cartographic innovations and social demands for spatial justice. The world maps produced by IBGE between 2024 and 2026 will be accessible to the public on the agency's official website."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "582ae289-1406-48d0-8bb2-075130b36cfc",
     "titulo": "Atualização: Mega-Sena acumula e prêmio estimado sobe para R$ 70 milhões",
     "lead": "Nenhum apostador acertou as seis dezenas do concurso 3.054 da Mega-Sena, realizado em São Paulo, elevando o prêmio estimado da faixa principal para R$ 70 milhões no próximo sorteio.",
@@ -2001,40 +2035,6 @@
         "titulo": "Venezuela and United States Agree on Joint Plan for Energy Sector Recovery",
         "lead": "Officials from Caracas and Washington have reached an understanding to structure a broad initiative aimed at rehabilitating and developing Venezuela's energy infrastructure.",
         "corpo": "Venezuela and the United States have reached a preliminary agreement to implement a large-scale plan focused on the rescue and modernization of the South American nation's energy infrastructure. The bilateral alignment seeks to restore strategic production capacities and foster greater stability in the supply and marketing of hydrocarbons.\n\nVenezuela's energy sector, historically reliant on vast crude oil reserves and complex power generation networks, has been the center of intense geopolitical and economic negotiations in recent years. The rapprochement between both governments points to a pragmatic effort to address investment deficits, refinery maintenance challenges, and regional fuel distribution.\n\nWhile detailed operational terms and timelines depend on ongoing institutional discussions, the cooperation aims to facilitate commercial flows and reinforce supply security. The move also underscores efforts to rebuild the sector's industrial capacity, which remains vital for Venezuela's domestic economy and holds direct relevance for global energy markets."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "041398cf-2d1c-4a9f-b588-6c926e4320ac",
-    "titulo": "Petrobras eleva preço do querosene de aviação em 13,9% diante de tensões internacionais",
-    "lead": "A Petrobras anunciou um reajuste médio de 13,9% no preço do querosene de aviação (QAV) vendido às distribuidoras, em vigor a partir do início de setembro. A alta decorre das pressões sobre as cotações internacionais do petróleo provocadas por conflitos no Oriente Médio.",
-    "corpo": "O reajuste aplicado pela Petrobras representa um acréscimo médio de R$ 0,68 por litro de querosene de aviação (QAV). Com a alteração, o valor do combustível cobrado nas refinarias da estatal brasileira passa a oscilar entre R$ 5,44 e R$ 5,70 por litro, dependendo da praça de fornecimento.\n\nSegundo a companhia petrolífera, o encarecimento reflete a volatilidade e a elevação dos preços nos mercados externos, fortemente impactados por distúrbios logísticos e geopolíticos no Oriente Médio, em especial na rota do Estreito de Ormuz. No acumulado do ano, o QAV registra alta de 53,3% no Brasil, o que equivale a um aumento de R$ 1,94 por litro.\n\nO querosene de aviação é um dos principais componentes de custo do setor aéreo no Brasil, respondendo por cerca de 30% das despesas operacionais das companhias de aviação comercial, de acordo com estimativas da Agência Nacional de Aviação Civil (Anac). O preço às distribuidoras é reajustado mensalmente conforme fórmulas contratuais atreladas às cotações globais e ao câmbio.\n\nPara atenuar a pressão financeira imediata sobre as distribuidoras e os operadores aéreos, a Petrobras retomou um mecanismo que permite o parcelamento do valor do reajuste em até três vezes mensais. A empresa também garantiu o atendimento integral a todos os volumes de combustível demandados pelo mercado doméstico.",
-    "categoria": "Economia",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-03T02:20:10.284229+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/petrobras-reajusta-preco-medio-do-querosene-de-aviacao-em-139",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/17291200/pexels-photo-17291200.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "K",
-      "photographer_url": "https://www.pexels.com/@kelly",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/plane-is-loading-at-airstrip-17291200/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Petrobras aumenta el precio del combustible de aviación un 13,9% ante tensiones internacionales",
-        "lead": "Petrobras anunció un ajuste promedio del 13,9% en el precio del queroseno de aviación vendido a las distribuidoras, vigente desde principios de septiembre. El incremento responde a las presiones sobre las cotizaciones internacionales del crudo generadas por conflictos en Medio Oriente.",
-        "corpo": "El reajuste aplicado por Petrobras representa un incremento promedio de R$ 0,68 por litro de queroseno de aviación (QAV). Con este cambio, el valor del combustible en las refinerías de la estatal brasileña oscilará entre R$ 5,44 y R$ 5,70 por litro, según la región de suministro.\n\nSegún la compañía petrolera, el encarecimiento refleja la volatilidad y el alza de precios en los mercados externos, fuertemente afectados por alteraciones logísticas y geopolíticas en Medio Oriente, en particular en la ruta del Estrecho de Ormuz. En el acumulado del año, el QAV registra un alza del 53,3% en Brasil, lo que equivale a un aumento de R$ 1,94 por litro.\n\nEl combustible de aviación constituye uno de los principales componentes de costo del sector aéreo en Brasil, representando cerca del 30% de los gastos operativos de las aerolíneas comerciales, según datos de la Agencia Nacional de Aviación Civil (Anac). El precio cobrado a las distribuidoras se ajusta mensualmente según fórmulas contractuales vinculadas a las cotizaciones globales y al tipo de cambio.\n\nPara mitigar la presión financiera inmediata sobre distribuidoras y operadores aéreos, Petrobras retomó un mecanismo que permite fraccionar el pago del aumento en hasta tres cuotas mensuales. La empresa también aseguró el suministro completo de los volúmenes de combustible demandados por el mercado nacional."
-      },
-      "en": {
-        "titulo": "Petrobras Raises Aviation Fuel Price by 13.9% Amid International Tensions",
-        "lead": "Petrobras announced an average increase of 13.9% in the price of aviation kerosene sold to distributors, effective from the beginning of September. The hike stems from global oil market pressures driven by ongoing conflicts in the Middle East.",
-        "corpo": "The price adjustment applied by Petrobras represents an average increase of R$ 0.68 per liter of aviation kerosene (QAV). Following the update, the fuel's refinery prices across the Brazilian state-owned company will range between R$ 5.44 and R$ 5.70 per liter, depending on the delivery region.\n\nAccording to the energy firm, the higher prices reflect international market volatility and rising costs driven by geopolitical and logistical disruptions in the Middle East, particularly around the Strait of Hormuz. Year-to-date, aviation fuel in Brazil has increased by 53.3%, representing an additional R$ 1.94 per liter.\n\nAviation fuel is a major cost driver for the airline industry in Brazil, accounting for approximately 30% of commercial airlines' operating expenses, according to the National Civil Aviation Agency (Anac). Wholesale prices to distributors are adjusted monthly based on contract formulas tied to global crude benchmarks and currency exchange rates.\n\nTo ease immediate financial pressure on fuel distributors and airline operators, Petrobras reinstated a payment plan allowing distributors to split the adjustment across three monthly installments. The company also confirmed that all requested domestic fuel supplies remain fully guaranteed."
       }
     },
     "atualizacao_de": null
