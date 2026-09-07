@@ -1,5 +1,39 @@
 [
   {
+    "id": "474c0d5a-1514-4a2c-82c7-a76219c30af8",
+    "titulo": "Grito dos Excluídos mobiliza dezenas de cidades no Brasil por moradia e direitos sociais",
+    "lead": "Movimentos populares e organizações da sociedade civil foram às ruas no Dia da Independência para cobrar moradia digna, reformas sociais e medidas contra a violência.",
+    "corpo": "A 32ª edição do Grito dos Excluídos reuniu milhares de manifestantes em mais de 50 municípios brasileiros neste 7 de setembro. Tradicional contraponto popular aos desfiles cívico-militares da data nacional, o evento deste ano teve como lema central a defesa da terra, da paz, da moradia e da soberania, com ênfase na proteção às mulheres e no combate a todas as formas de violência.\n\nNas principais capitais do país, os protestos articularam pautas históricas dos movimentos urbanos e rurais. Em São Paulo, os participantes percorreram o centro histórico em direção à Catedral da Sé, onde destacaram a situação das pessoas em situação de rua e protestaram contra a violência policial. No Rio de Janeiro, intervenções de teatro popular ocuparam a Avenida Presidente Vargas após o desfile oficial, denunciando a especulação imobiliária e defendendo propostas trabalhistas, como o fim da jornada 6x1.\n\nEm Brasília, ativistas entregaram propostas focadas em justiça climática e ecologia integral, exigindo o compromisso dos agentes públicos com a conservação das bacias hidrográficas e a transição ambiental. As manifestações também integraram cobranças por reforma agrária, fortalecimento da educação pública, defesa do Sistema Único de Saúde (SUS) e medidas estruturais de combate ao racismo e à LGBTfobia em todo o território nacional.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-07T19:13:17.483189+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/grito-dos-excluidos-tem-atos-em-defesa-por-moradia-e-contra-violencia",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/8530327/pexels-photo-8530327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "michelle guimarães",
+      "photographer_url": "https://www.pexels.com/@guimaraesm",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-man-in-a-face-mask-holding-a-cardboard-sign-8530327/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "El Grito de los Excluidos moviliza decenas de ciudades en Brasil por vivienda y derechos sociales",
+        "lead": "Movimientos populares y organizaciones de la sociedad civil salieron a las calles en el Día de la Independencia para exigir vivienda digna, reformas sociales y medidas contra la violencia.",
+        "corpo": "La 32ª edición del Grito de los Excluidos reunió a miles de manifestantes en más de 50 municipios brasileños este 7 de septiembre. Tradicional contrapunto popular a los desfiles cívico-militares de la fiesta patria, la jornada de este año tuvo como lema central la defensa de la tierra, la paz, la vivienda y la soberanía, con énfasis en la protección de las mujeres y la erradicación de todas las formas de violencia.\n\nEn las principales capitales del país, las protestas articularon demandas históricas de los movimientos urbanos y rurales. En São Paulo, los participantes recorrieron el centro histórico hacia la Catedral da Sé, donde visibilizaron la situación de las personas en situación de calle y denunciaron la violencia policial. En Río de Janeiro, intervenciones de teatro popular ocuparon la céntrica Avenida Presidente Vargas tras el desfile oficial, denunciando la especulación inmobiliaria y respaldando iniciativas laborales como el fin de la jornada 6x1.\n\nEn Brasilia, activistas presentaron propuestas centradas en la justicia climática y la ecología integral, exigiendo el compromiso de las autoridades con la preservación de cuencas hidrográficas y la transición ambiental. Las movilizaciones también sumaron reclamos por la reforma agraria, el fortalecimiento de la educación pública, la defensa de la salud pública y acciones estructurales contra el racismo y la discriminación en todo el territorio nacional."
+      },
+      "en": {
+        "titulo": "Cry of the Excluded mobilizes dozens of Brazilian cities for housing and social rights",
+        "lead": "Grassroots movements and civil society organizations took to the streets on Independence Day to demand decent housing, social reforms, and measures against violence.",
+        "corpo": "The 32nd edition of the Cry of the Excluded brought together thousands of demonstrators across more than 50 Brazilian cities this September 7. Serving as a traditional grassroots counterpoint to official military parades, this year's mobilization centered on defending land, peace, housing, and national sovereignty, with a focus on women's safety and ending all forms of violence.\n\nIn major state capitals, demonstrations addressed long-standing demands from urban and rural organizations. In São Paulo, marchers moved through the historic downtown area toward the Sé Cathedral, highlighting the struggles of the unhoused population and protesting police violence. In Rio de Janeiro, popular theater performances took over Presidente Vargas Avenue following the official parade, protesting real estate speculation and backing labor proposals such as ending the 6x1 workweek schedule.\n\nIn Brasília, activists delivered policy proposals focused on climate justice and integral ecology, calling on political candidates to commit to watershed conservation and environmental protection. Nationwide demonstrations also incorporated demands for agrarian reform, stronger public education, protection of the Unified Health System (SUS), and structural efforts to combat racism and discrimination."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "efd84db2-20f1-4144-8883-f604073ad3c9",
     "titulo": "Censo de Economia Criativa posiciona Cochabamba como polo cultural na Bolívia",
     "lead": "O mapeamento das indústrias criativas em Cochabamba revelou dados estratégicos sobre a força do setor cultural e consolidou o departamento no mapa da chamada Economia Laranja boliviana.",
@@ -2001,40 +2035,6 @@
         "titulo": "US Dollar drops in Colombia and closes at 3,142 pesos on September 3",
         "lead": "The US currency ended trading in the Colombian market with a decline during this September 3 session, reaching the level of 3,142 pesos.",
         "corpo": "Colombia's foreign exchange market recorded a depreciation of the US dollar against the Colombian peso throughout trading on September 3. At the close of financial business, the US currency settled at a value of 3,142 pesos.\n\nThe fluctuation reflects the daily dynamics of exchange rates traded within the country, closely monitored by investors and local financial market participants. The movement of the foreign currency relative to the national currency directly impacts foreign trade indicators, the cost of imported goods, and the country's overall economic balance.\n\nTracking daily dollar rates remains a key element in analyzing macroeconomic dynamics and capital flows in Colombia, one of South America's major economies."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "39856e99-38af-44b5-891a-f84ae3c2ee3f",
-    "titulo": "Caixa lança funcionalidade de Pix parcelado em até 12 vezes para pessoas físicas",
-    "lead": "A Caixa Econômica Federal passou a oferecer a opção de parcelamento de transferências e pagamentos realizados via Pix para clientes pessoa física. A modalidade, operada como uma linha de crédito direto pelo aplicativo do banco estatal brasileiro, permite parcelar transações entre R$ 300 e R$ 50 mil.",
-    "corpo": "A nova funcionalidade permite que o valor contratado seja quitado em até 12 meses, com taxas de juros variáveis segundo o perfil e o relacionamento do cliente com a instituição financeira. Na prática, a operação funciona como um financiamento imediato: enquanto o recebedor do Pix obtém o montante total de forma instantânea, o pagador assume a dívida parcelada junto ao banco público.\n\nAntes de concluir a transação, o usuário pode visualizar todos os custos envolvidos no próprio aplicativo da Caixa, incluindo a taxa de juros aplicada, o valor das parcelas, o Custo Efetivo Total (CET) e o Imposto sobre Operações Financeiras (IOF). Para utilizar o serviço, o cliente precisa ter limite de crédito previamente aprovado em análise de risco da instituição.\n\nSegundo o banco estatal, a iniciativa visa expandir o portfólio de soluções financeiras digitais e oferecer mais flexibilidade no orçamento dos usuários. Os clientes que ainda não possuem a funcionalidade liberada foram orientados a manter seus dados cadastrais atualizados e utilizar os serviços do banco regularmente para futuras reavaliações de crédito.\n\nO parcelamento de transferências junta-se a outras modalidades do sistema de pagamentos instantâneos já disponibilizadas pela instituição, como o Agendamento Pix, o Pix Automático e o pagamento por aproximação via carteira digital.",
-    "categoria": "Economia",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-03T22:14:11.650289+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/caixa-passa-oferecer-modalidade-de-pix-parcelado",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/163069/mobile-phone-money-banknotes-us-dollars-163069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Pixabay",
-      "photographer_url": "https://www.pexels.com/@pixabay",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/persom-holding-black-android-smartphone-and-2-1-u-s-dollar-163069/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Caixa lanza opción de pago fraccionado mediante Pix en hasta 12 cuotas para personas físicas",
-        "lead": "Caixa Econômica Federal comenzó a ofrecer la opción de fraccionar transferencias y pagos realizados a través del sistema Pix para clientes personas físicas. La modalidad, operada como una línea de crédito directo mediante la aplicación del banco estatal brasileño, permite financiar transacciones de entre 300 y 50.000 reales.",
-        "corpo": "La nueva funcionalidad permite liquidar el monto contratado en hasta 12 meses, con tasas de interés variables según el perfil y la relación del cliente con la institución financiera. En la práctica, la operación funciona como un financiamiento inmediato: mientras el receptor del Pix recibe el importe total de forma instantánea, el pagador asume la deuda en cuotas con el banco público.\n\nAntes de finalizar la transacción, el usuario puede revisar todos los costos involucrados en la propia aplicación de Caixa, incluyendo la tasa de interés aplicada, el valor de las cuotas, el Costo Efectivo Total (CET) y el Impuesto sobre Operaciones Financieras (IOF). Para utilizar el servicio, el cliente debe contar con un límite de crédito previamente aprobado tras un análisis de riesgo.\n\nSegún la entidad estatal, la iniciativa busca ampliar el portafolio de soluciones financieras digitales y brindar mayor flexibilidad presupuestaria a los usuarios. Los clientes que aún no tienen habilitada la opción fueron orientados a mantener sus datos actualizados y utilizar los servicios regularmente para futuras reevaluaciones crediticias.\n\nEl fraccionamiento de transferencias se suma a otras modalidades del sistema de pagos instantáneos ya disponibles en el banco, como Pix Programado, Pix Automático y pagos por aproximación mediante billetera digital."
-      },
-      "en": {
-        "titulo": "Brazil's Caixa introduces installment option for Pix payments over up to 12 months",
-        "lead": "Caixa Econômica Federal has started offering individual clients the option to pay Pix transfers and payments in installments. Operated as a direct credit line via the Brazilian state bank's mobile app, the feature allows financing transactions between 300 and 50,000 reais.",
-        "corpo": "The new functionality enables users to pay off the contracted amount in up to 12 months, with interest rates varying based on the client's credit profile and relationship with the bank. In practice, the transaction acts as an immediate loan: while the Pix recipient gets the full amount instantly, the payer assumes the installment debt with the public bank.\n\nBefore finalizing the operation, users can review all associated costs within the Caixa app, including applicable interest rates, installment amounts, Total Effective Cost (CET), and the Financial Operations Tax (IOF). Access to the feature requires an approved credit limit following a risk assessment by the institution.\n\nAccording to the state bank, the initiative aims to expand its portfolio of digital financial solutions while offering greater budget flexibility to users. Clients who do not yet have the feature enabled were advised to keep their registration details updated and use bank services regularly for future credit re-evaluations.\n\nInstallment transfers join other instant payment modalities already offered by Caixa, such as Scheduled Pix, Automatic Pix, and contactless payments via digital wallets."
       }
     },
     "atualizacao_de": null
