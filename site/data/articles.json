@@ -1,5 +1,39 @@
 [
   {
+    "id": "fef164b1-1f0c-447f-b482-c50412f52fe2",
+    "titulo": "População e visitantes madrugam na Esplanada dos Ministérios para desfile do 7 de Setembro",
+    "lead": "Cidadãos vindo de diferentes partes do país e de regiões administrativas do Distrito Federal se reuniram nas primeiras horas da manhã na Esplanada dos Ministérios, em Brasília, para acompanhar os desfiles comemorativos da Independência do Brasil.",
+    "corpo": "O centro da capital federal registrou grande movimentação de público antes mesmo do amanhecer para a realização do tradicional desfile de 7 de Setembro. A Esplanada dos Ministérios reuniu tanto moradores de regiões periféricas do Distrito Federal quanto visitantes vindos de outros estados brasileiros, que realizaram longas viagens para acompanhar de perto as celebrações cívicas da data nacional.\n\nAs motivações do público presente envolvem desde a busca por fortalecer laços comunitários e familiares até a emoção de vivenciar o evento oficial. Famílias inteiras se organizaram para chegar cedo ao local, enfrentando percursos de dezenas de quilômetros e transporte público na madrugada com o objetivo de assegurar um bom posicionamento ao longo da via onde ocorrem as apresentações civis e militares.\n\nO evento também mobilizou grupos representativos da sociedade civil, incluindo atletas com deficiência associados a entidades de apoio e inclusão social, que participaram da programação do desfile. Para muitos dos presentes, a oportunidade de estar na capital durante o feriado nacional representa a construção de memórias afetivas e a demonstração de patriotismo e pertencimento social.\n\nA presença massiva de espectadores na Esplanada dos Ministérios consolida o desfile de 7 de Setembro como um dos principais eventos públicos do calendário cívico do país, atraindo anualmente milhares de pessoas a Brasília para acompanhar a cerimônia oficial promovida pelo governo federal.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-07T12:19:29.224249+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/publico-madruga-para-assistir-ao-desfile-na-esplanada-dos-ministerios",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/914403/pexels-photo-914403.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "MESSALA CIULLA",
+      "photographer_url": "https://www.pexels.com/@messalaciulla",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/gray-fighter-jet-on-airstrip-914403/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Ciudadanos y visitantes madrugan en la Esplanada dos Ministérios para el desfile del 7 de Septiembre",
+        "lead": "Ciudadanos provenientes de diferentes partes del país y de zonas periféricas del Distrito Federal se congregaron en las primeras horas de la mañana en la Esplanada dos Ministérios, en Brasilia, para presenciar los desfiles conmemorativos de la Independencia de Brasil.",
+        "corpo": "El centro de la capital federal registró una gran afluencia de público incluso antes del amanecer para la realización del tradicional desfile del 7 de Septiembre. La Esplanada dos Ministérios reunió tanto a residentes de zonas periféricas del Distrito Federal como a visitantes llegados de otros estados brasileños, quienes realizaron largos trayectos para presenciar de cerca las celebraciones cívicas de la fecha nacional.\n\nLas motivaciones del público asistente abarcan desde el deseo de fortalecer lazos comunitarios y familiares hasta la emoción de vivir el evento oficial. Familias enteras se organizaron para llegar temprano al lugar, enfrentando recorridos de decenas de kilómetros y transporte público de madrugada con el objetivo de asegurar una buena ubicación a lo largo de la avenida donde se realizan las presentaciones civiles y militares.\n\nEl evento también movilizó a grupos representativos de la sociedad civil, incluidos atletas con discapacidad vinculados a entidades de apoyo e inclusión social, quienes participaron en la programación del desfile. Para muchos de los presentes, la oportunidad de estar en la capital durante el feriado nacional representa la construcción de memorias afectivas y la manifestación de patriotismo y pertenencia social.\n\nLa presencia masiva de espectadores en la Esplanada dos Ministérios consolida el desfile del 7 de Septiembre como uno de los principales eventos públicos del calendario cívico del país, atraendo anualmente a miles de personas a Brasilia para presenciar la ceremonia oficial promovida por el gobierno federal."
+      },
+      "en": {
+        "titulo": "Public gathers at dawn on Esplanada dos Ministérios for Brazil's Independence Day parade",
+        "lead": "Citizens from various parts of the country and outer districts of the Federal District gathered in the early hours of the morning at the Esplanada dos Ministérios in Brasília to watch the Independence Day parade.",
+        "corpo": "The center of the federal capital saw a large turnout of spectators even before dawn for the traditional September 7 Independence Day parade. The Esplanada dos Ministérios brought together residents from peripheral regions of the Federal District as well as visitors from other Brazilian states, who traveled long distances to closely follow the national civic celebrations.\n\nThe audience's motivations range from fostering family and community bonds to the excitement of experiencing the official event in person. Entire families organized to arrive early at the site, navigating journeys of dozens of kilometers and early-morning public transportation to secure good spots along the avenue where civil and military processions take place.\n\nThe event also engaged representative civil society groups, including athletes with disabilities associated with support and social inclusion organizations, who participated in the parade's program. For many in attendance, being in the capital during the national holiday represents building lasting memories and displaying a sense of patriotism and social belonging.\n\nThe massive turnout at the Esplanada dos Ministérios underscores the September 7 parade as one of the main public events on the country's civic calendar, annually drawing thousands of people to Brasília to watch the official ceremony organized by the federal government."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "173d322c-c98a-4282-b266-d67cc42310d5",
     "titulo": "Turismo de aventura impulsiona caminhadas sobre glaciares e trilhas em El Calafate",
     "lead": "A região de El Calafate, na Patagônia argentina, atrai visitantes com opções de turismo de natureza que incluem caminhadas sobre glaciares, percursos por florestas e passeios a cascatas congeladas.",
@@ -2004,39 +2038,5 @@
       }
     },
     "atualizacao_de": "10a9aa8d-428a-4f21-87db-75e5dbdaf0eb"
-  },
-  {
-    "id": "560e5c8c-4893-405e-92ad-41c9a5f0add8",
-    "titulo": "México registra queda na pobreza laboral, mas informalidade ainda limita avanço econômico social",
-    "lead": "O México apresentou uma redução nos índices de pobreza laboral, mas a persistência do trabalho informal continua a limitar a consolidação de uma prosperidade compartilhada no país.",
-    "corpo": "De acordo com dados recentes sobre o mercado de trabalho mexicano, o país tem registrado avanços na redução da pobreza laboral — indicador que mede a parcela da população com rendimentos do trabalho inferiores ao custo da cesta básica de alimentos. Esse recuo aponta para uma melhora conjuntural na renda de parte dos trabalhadores.\n\nNo entanto, analistas apontam que o avanço social e econômico mais amplo enfrenta um obstáculo estrutural significativo: as altas taxas de informalidade. O emprego informal, caracterizado pela falta de acesso a benefícios sociais, segurança jurídica e estabilidade financeira, impede que os ganhos de produtividade e crescimento econômico sejam distribuídos de maneira equitativa por toda a sociedade.\n\nEspecialistas em economia do desenvolvimento ressaltam que, embora a criação de empregos e o aumento do salário mínimo tenham contribuído para mitigar a pobreza extrema baseada na renda do trabalho, a ausência de reformas estruturais que facilitem a formalização do mercado de trabalho limita o impacto de longo prazo dessas políticas. A informalidade restringe a arrecadação fiscal, reduz o acesso ao crédito e fragiliza a rede de proteção social, mantendo uma parcela expressiva da população vulnerável a choques econômicos.\n\nPara alcançar uma verdadeira prosperidade compartilhada, o governo mexicano enfrenta o desafio de desenhar políticas públicas que não apenas gerem postos de trabalho, mas que garantam a transição de milhões de trabalhadores informais para a economia formal.",
-    "categoria": "Economia",
-    "pais": "México",
-    "publicado_em": "2026-09-03T10:16:43.232140+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://www.globalmedia.mx/articles/pobreza_laboral_baja_pero_informalidad_frena_prosperidad_compartida_en_mexico",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/18627851/pexels-photo-18627851.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Andrea Román",
-      "photographer_url": "https://www.pexels.com/@andrea-roman-291935393",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/woman-in-apron-sitting-among-people-at-restaurant-18627851/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "México registra caída en la pobreza laboral, pero la informalidad aún limita el avance económico social",
-        "lead": "México presentó una reducción en los índices de pobreza laboral, pero la persistencia del trabajo informal continúa limitando la consolidación de una prosperidad compartida en el país.",
-        "corpo": "De acuerdo con datos recientes sobre el mercado laboral mexicano, el país ha registrado avances en la reducción de la pobreza laboral, indicador que mide la proporción de la población con ingresos laborales inferiores al costo de la canasta básica alimentaria. Este retroceso apunta a una mejora coyuntural en los ingresos de una parte de los trabajadores.\n\nSin embargo, analistas señalan que el avance social y económico más amplio enfrenta un obstáculo estructural significativo: las altas tasas de informalidad. El empleo informal, caracterizado por la falta de acceso a beneficios sociales, seguridad jurídica y estabilidad financiera, impide que los beneficios de la productividad y el crecimiento económico se distribuyan de manera equitativa en toda la sociedad.\n\nEspecialistas en economía del desarrollo destacan que, aunque la creación de empleo y el aumento del salario mínimo han contribuido a mitigar la pobreza extrema basada en los ingresos del trabajo, la ausencia de reformas estructurales que faciliten la formalización del mercado laboral limita el impacto a largo plazo de estas políticas. La informalidad restringe la recaudación fiscal, reduce el acceso al crédito y debilita la red de protección social, manteniendo a una parte importante de la población vulnerable a los choques económicos.\n\nPara lograr una verdadera prosperidad compartida, el gobierno mexicano enfrenta el desafío de diseñar políticas públicas que no solo generen empleos, sino que garanticen la transición de millones de trabajadores informales hacia la economía formal."
-      },
-      "en": {
-        "titulo": "Mexico records decline in labor poverty, but informality still limits social economic progress",
-        "lead": "Mexico has shown a reduction in labor poverty rates, but the persistence of informal work continues to limit the consolidation of shared prosperity in the country.",
-        "corpo": "According to recent data on the Mexican labor market, the country has made progress in reducing labor poverty—an indicator that measures the share of the population with labor income lower than the cost of the basic food basket. This decline points to a cyclical improvement in the income of a segment of workers.\n\nHowever, analysts point out that broader social and economic progress faces a significant structural obstacle: high rates of informality. Informal employment, characterized by a lack of access to social benefits, legal security, and financial stability, prevents the gains of productivity and economic growth from being equitably distributed across society.\n\nDevelopment economics specialists emphasize that although job creation and minimum wage increases have helped mitigate extreme poverty based on labor income, the absence of structural reforms to facilitate labor market formalization limits the long-term impact of these policies. Informality restricts tax collection, reduces access to credit, and weakens the social safety net, leaving a significant portion of the population vulnerable to economic shocks.\n\nTo achieve true shared prosperity, the Mexican government faces the challenge of designing public policies that not only generate jobs but also ensure the transition of millions of informal workers into the formal economy."
-      }
-    },
-    "atualizacao_de": null
   }
 ]
