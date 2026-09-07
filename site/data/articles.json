@@ -1,5 +1,39 @@
 [
   {
+    "id": "173d322c-c98a-4282-b266-d67cc42310d5",
+    "titulo": "Turismo de aventura impulsiona caminhadas sobre glaciares e trilhas em El Calafate",
+    "lead": "A região de El Calafate, na Patagônia argentina, atrai visitantes com opções de turismo de natureza que incluem caminhadas sobre glaciares, percursos por florestas e passeios a cascatas congeladas.",
+    "corpo": "El Calafate, localizada na província de Santa Cruz, na Argentina, consolida-se como um dos principais polos de ecoturismo e turismo de aventura da região patagônica. Entre os principais atrativos oferecidos aos visitantes estão os percursos guiados sobre superfícies glaciais, acompanhados por itinerários que atravessam áreas florestais nativas e paisagens com formações de gelo, como cascatas congeladas.\n\nAs atividades contam com acompanhamento profissional e equipamentos específicos para garantir a segurança dos praticantes nas áreas de gelo e montanha. Os roteiros buscam integrar a vivência na natureza à conscientização sobre a preservação dos ecossistemas locais.\n\nO fluxo contínuo de turistas nacionais e internacionais impulsiona a economia do município e da província, fortalecendo a cadeia produtiva do setor de serviços, que abrange hospedagem, gastronomia, transporte e guiatismo especializado.",
+    "categoria": "Economia",
+    "pais": "Argentina",
+    "publicado_em": "2026-09-07T11:15:14.482356+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.clarin.com/viajes/escapada-calafate-caminata-glaciar-bosque-cuentos-cascada-congelada_0_Ir8P77HpA7.html",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/9224587/pexels-photo-9224587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Jan  Zakelj",
+      "photographer_url": "https://www.pexels.com/@janzakelj",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/white-and-black-ship-on-sea-9224587/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "El turismo de aventura impulsa las caminatas sobre glaciares y senderos en El Calafate",
+        "lead": "La región de El Calafate, en la Patagonia argentina, atrae a visitantes con opciones de turismo de naturaleza que incluyen caminatas sobre glaciares, recorridos por bosques y visitas a cascadas congeladas.",
+        "corpo": "El Calafate, ubicada en la provincia de Santa Cruz, Argentina, se consolida como uno de los principales polos de ecoturismo y turismo de aventura de la región patagónica. Entre las principales atracciones que se ofrecen a los visitantes destacan los recorridos guiados sobre superficies glaciares, acompañados por itinerarios que atraviesan áreas de bosque nativo y paisajes con formaciones de hielo, como cascadas congeladas.\n\nLas actividades cuentan con acompañamiento profesional y equipo especializado para garantizar la seguridad de los participantes en las áreas de hielo y montaña. Los recorridos buscan integrar la experiencia en la naturaleza con la concienciación sobre la conservación de los ecosistemas locales.\n\nEl flujo continuo de turistas nacionales e internacionales impulsa la economía del municipio y de la provincia, fortaleciendo la cadena productiva del sector de servicios, que abarca hospedaje, gastronomía, transporte y guías especializados."
+      },
+      "en": {
+        "titulo": "Adventure Tourism Drives Glacier Trekking and Nature Trails in El Calafate",
+        "lead": "The region of El Calafate, in Argentine Patagonia, attracts visitors with nature tourism options that include glacier trekking, forest trails, and visits to frozen waterfalls.",
+        "corpo": "El Calafate, located in the province of Santa Cruz, Argentina, continues to establish itself as one of the main ecotourism and adventure tourism hubs in the Patagonian region. Among the primary attractions offered to visitors are guided treks across glacial surfaces, alongside itineraries through native forest areas and landscapes featuring ice formations, such as frozen waterfalls.\n\nThese activities feature professional guidance and specialized equipment to ensure participant safety in ice and mountain terrain. The tours aim to combine outdoor experiences with environmental awareness regarding the conservation of local ecosystems.\n\nThe steady flow of domestic and international tourists boosts the economy of the municipality and the province, strengthening the service sector's supply chain, which includes lodging, gastronomy, transportation, and specialized tour guiding."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "249610ac-4f16-4def-b91d-32e5ed6979dc",
     "titulo": "Candidatos à Presidência no Brasil intensificam atos de campanha pelo país durante o fim de semana",
     "lead": "Postulantes ao Palácio do Planalto cumpriram compromissos eleitorais em diversas regiões do Brasil nos dias 5 e 6, com foco em educação, segurança pública, economia e saúde.",
@@ -2001,40 +2035,6 @@
         "titulo": "Mexico records decline in labor poverty, but informality still limits social economic progress",
         "lead": "Mexico has shown a reduction in labor poverty rates, but the persistence of informal work continues to limit the consolidation of shared prosperity in the country.",
         "corpo": "According to recent data on the Mexican labor market, the country has made progress in reducing labor poverty—an indicator that measures the share of the population with labor income lower than the cost of the basic food basket. This decline points to a cyclical improvement in the income of a segment of workers.\n\nHowever, analysts point out that broader social and economic progress faces a significant structural obstacle: high rates of informality. Informal employment, characterized by a lack of access to social benefits, legal security, and financial stability, prevents the gains of productivity and economic growth from being equitably distributed across society.\n\nDevelopment economics specialists emphasize that although job creation and minimum wage increases have helped mitigate extreme poverty based on labor income, the absence of structural reforms to facilitate labor market formalization limits the long-term impact of these policies. Informality restricts tax collection, reduces access to credit, and weakens the social safety net, leaving a significant portion of the population vulnerable to economic shocks.\n\nTo achieve true shared prosperity, the Mexican government faces the challenge of designing public policies that not only generate jobs but also ensure the transition of millions of informal workers into the formal economy."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "dc342238-065b-4cdb-91ea-d5205d9ea321",
-    "titulo": "Montevidéu arrecada US$ 760 mil com taxa de um dólar por noite cobrada de turistas estrangeiros",
-    "lead": "A Intendência de Montevidéu contabilizou uma arrecadação de 760 mil dólares com a cobrança de taxa turística voltada a visitantes internacionais. A medida aplica um encargo de um dólar por cada diária de hospedagem na capital uruguaia.",
-    "corpo": "A Intendência de Montevidéu (IMM) arrecadou aproximadamente US$ 760 mil por meio da taxa turística municipal aplicada a viajantes internacionais. O mecanismo prevê a cobrança de um dólar por noite de estadia de visitantes estrangeiros nos estabelecimentos de hospedagem da cidade.\n\nA cobrança faz parte das iniciativas locais para geração de receita vinculada ao fluxo de turismo receptivo na capital uruguaia. Os valores recolhidos por esse tipo de tributação costumam ser destinados ao fortalecimento da infraestrutura urbana, promoção do destino e financiamento de serviços públicos associados ao setor.\n\nInstrumentos similares de tributação sobre hospedagem são comuns em diversos centros urbanos ao redor do mundo e têm sido adotados em cidades latino-americanas para mitigar o impacto do turismo e sustentar a manutenção dos atrativos locais. Com o balanço divulgado, a administração departamental registra o impacto fiscal direto do fluxo de visitantes internacionais na capital do país.",
-    "categoria": "Economia",
-    "pais": "Uruguai",
-    "publicado_em": "2026-09-03T08:16:22.098362+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://www.elpais.com.uy/informacion/politica/tasa-turistica-imm-recaudo-us-760-mil-cobrando-un-dolar-por-noche-a-turistas-extranjeros",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/12161968/pexels-photo-12161968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Fabricio Rivera",
-      "photographer_url": "https://www.pexels.com/@fabricio-rivera-837833",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/montevideo-landmark-near-the-beach-12161968/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Montevideo recauda US$ 760 mil con la tasa de un dólar por noche a turistas extranjeros",
-        "lead": "La Intendencia de Montevideo registró una recaudación de 760 mil dólares a través de la tasa turística aplicada a visitantes internacionales. La medida establece el cobro de un dólar por cada noche de hospedaje en la capital uruguaya.",
-        "corpo": "La Intendencia de Montevideo (IMM) recaudó cerca de US$ 760 mil mediante la tasa turística municipal implementada para viajeros internacionales. El mecanismo contempla el cobro de un dólar por noche de estadía de visitantes extranjeros en los establecimientos hoteleros de la ciudad.\n\nEl tributo forma parte de las iniciativas locales para generar ingresos vinculados al flujo del turismo receptivo en la capital uruguaya. Los fondos recaudados mediante esta modalidad suelen destinarse al fortalecimiento de la infraestructura urbana, la promoción del destino y el sostenimiento de servicios públicos vinculados a la actividad.\n\nHerramientas similares de fiscalidad sobre el hospedaje son habituales en diversas ciudades del mundo y han sido incorporadas en varios puntos de América Latina para atender el impacto del turismo y financiar el mantenimiento de los atractivos locales. Con este balance, la administración departamental da cuenta del impacto fiscal directo del flujo de turistas internacionales en la capital del país."
-      },
-      "en": {
-        "titulo": "Montevideo collects US$ 760,000 from one-dollar nightly tourist tax on foreign visitors",
-        "lead": "The Municipality of Montevideo reported US$ 760,000 in revenue from a tourist tax levied on international visitors. The policy applies a charge of one dollar per night of lodging in the Uruguayan capital.",
-        "corpo": "The Municipality of Montevideo (IMM) has collected approximately US$ 760,000 through its municipal tourist tax applied to international travelers. The mechanism establishes a fee of one dollar per night of stay for foreign visitors across accommodation establishments in the city.\n\nThe charge is part of local efforts to generate revenue tied to the influx of inbound tourism in Uruguay's capital. Funds collected through this type of levy are typically allocated toward urban infrastructure, destination marketing, and the support of public services associated with tourism.\n\nSimilar lodging taxes are widely used in metropolitan destinations globally and have increasingly been adopted in Latin American cities to balance the impact of tourism and support local public assets. With this balance, the departmental administration highlights the direct fiscal contribution generated by international travel to the city."
       }
     },
     "atualizacao_de": null
