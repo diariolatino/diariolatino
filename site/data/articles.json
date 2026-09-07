@@ -1,5 +1,39 @@
 [
   {
+    "id": "38683c6b-f97f-4ee4-9e01-3a23656c3599",
+    "titulo": "Candidatos à Presidência cumprem agendas de campanha no feriado de 7 de Setembro",
+    "lead": "Os postulantes à Presidência da República definiram suas atividades para esta segunda-feira, 7 de setembro, aproveitando o feriado da Independência do Brasil para realizar atos políticos, conceder entrevistas e participar de manifestações.",
+    "corpo": "O feriado nacional mobiliza os candidatos em diferentes regiões do país. Em São Paulo, principal colégio eleitoral, estão previstos atos na Avenida Paulista com a participação de Romeu Zema (Novo) pela manhã e de Flávio Bolsonaro (PL) no período da tarde. Também na capital paulista, Renan Santos (Missão) se reúne no Parque do Ibirapuera, enquanto Rui Costa Pimenta (PCO) participa do tradicional ato Grito dos Excluídos, evento que também contará com a presença de Hertz Dias (PSTU) na cidade vizinha de Cajamar.\n\nEm outras capitais, Ronaldo Caiado (PSD) acompanha o desfile cívico em Goiânia, e Samara Martins (UP) cumpre agenda em Belém, com visitas e ato público no Portal da Amazônia. No campo das entrevistas e mídia, Augusto Cury (Avante) e Clariana Barão (DC) têm participações agendadas em veículos de comunicação, enquanto Wilsson Grassi (Democrata) grava mensagem sobre os 204 anos da Independência.\n\nNo cenário internacional, Edmilson Costa (PCB) cumpre compromissos partidários em Lisboa, Portugal. Por fim, o candidato Luiz Inácio Lula da Silva (PT) não terá compromissos públicos de campanha nesta segunda-feira.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-07T13:17:15.873485+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/confira-agenda-dos-presidenciaveis-nesta-segunda-feira-7",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/4705884/pexels-photo-4705884.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "michelle guimarães",
+      "photographer_url": "https://www.pexels.com/@guimaraesm",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/people-holding-protest-banners-4705884/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Candidatos a la presidencia cumplen agendas de campaña en el feriado del 7 de septiembre en Brasil",
+        "lead": "Los aspirantes a la presidencia de la República definieron sus actividades para este lunes 7 de septiembre, aprovechando el feriado de la Independencia de Brasil para realizar actos políticos, conceder entrevistas y participar en manifestaciones.",
+        "corpo": "El feriado nacional moviliza a los candidatos en diferentes regiones del país. En São Paulo, el principal colegio electoral, se prevén actos en la Avenida Paulista con la participación de Romeu Zema (Novo) por la mañana y de Flávio Bolsonaro (PL) por la tarde. También en la capital paulista, Renan Santos (Missão) se reunirá en el Parque de Ibirapuera, mientras que Rui Costa Pimenta (PCO) participará en el tradicional acto Grito de los Excluidos, evento que también contará con la presencia de Hertz Dias (PSTU) en la vecina ciudad de Cajamar.\n\nEn otras capitales, Ronaldo Caiado (PSD) asistirá al desfile cívico en Goiânia, y Samara Martins (UP) cumplirá agenda en Belém, con visitas y un acto público en el Portal de la Amazonía. En el ámbito de los medios de comunicación, Augusto Cury (Avante) y Clariana Barão (DC) tienen programadas entrevistas, mientras que Wilsson Grassi (Democrata) grabará un mensaje sobre los 204 años de la Independencia.\n\nEn el plano internacional, Edmilson Costa (PCB) cumplirá compromisos partidarios en Lisboa, Portugal. Por último, el candidato Luiz Inácio Lula da Silva (PT) no tendrá actividades públicas de campaña este lunes."
+      },
+      "en": {
+        "titulo": "Presidential Candidates Carry Out Campaign Events on Brazil's Independence Day",
+        "lead": "Presidential hopefuls have set their schedules for this Monday, September 7, seizing Brazil's Independence Day holiday to hold political rallies, grant interviews, and join demonstrations.",
+        "corpo": "The national holiday is mobilizing candidates across different regions of the country. In São Paulo, the nation's largest electoral district, rallies are scheduled on Paulista Avenue, featuring Romeu Zema (Novo) in the morning and Flávio Bolsonaro (PL) in the afternoon. Also in the state capital, Renan Santos (Missão) will gather at Ibirapuera Park, while Rui Costa Pimenta (PCO) is set to join the traditional 'Grito dos Excluídos' (Cry of the Excluded) march—an event that will also feature Hertz Dias (PSTU) in the neighboring city of Cajamar.\n\nIn other capitals, Ronaldo Caiado (PSD) will attend the civic parade in Goiânia, and Samara Martins (UP) will campaign in Belém, with visits and a public rally at the Portal da Amazônia. In the media arena, Augusto Cury (Avante) and Clariana Barão (DC) have scheduled broadcast interviews, while Wilsson Grassi (Democrata) is recording a video message marking the 204th anniversary of Independence.\n\nOn the international front, Edmilson Costa (PCB) is attending party meetings in Lisbon, Portugal. Meanwhile, candidate Luiz Inácio Lula da Silva (PT) has no public campaign events scheduled for this Monday."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "fef164b1-1f0c-447f-b482-c50412f52fe2",
     "titulo": "População e visitantes madrugam na Esplanada dos Ministérios para desfile do 7 de Setembro",
     "lead": "Cidadãos vindo de diferentes partes do país e de regiões administrativas do Distrito Federal se reuniram nas primeiras horas da manhã na Esplanada dos Ministérios, em Brasília, para acompanhar os desfiles comemorativos da Independência do Brasil.",
@@ -2004,39 +2038,5 @@
       }
     },
     "atualizacao_de": null
-  },
-  {
-    "id": "85fbf895-e46e-423e-b0a2-08424c81619a",
-    "titulo": "Venezuela firma novos acordos comerciais com transnacionais do setor de energia",
-    "lead": "O governo da Venezuela oficializou a assinatura de novos acordos comerciais com empresas transnacionais do setor energético, buscando impulsionar a produção local e fortalecer sua posição no mercado internacional.",
-    "corpo": "O governo da Venezuela deu um passo estratégico para a consolidação de sua indústria energética ao assinar novos acordos comerciais com empresas transnacionais do setor. A medida reflete o esforço contínuo de Caracas para atrair investimentos estrangeiros e revitalizar sua infraestrutura de extração e refino de hidrocarbonetos, severamente impactada por anos de sanções econômicas e restrições financeiras internacionais.\n\nEmbora os detalhes específicos sobre os valores totais e o cronograma de execução não tenham sido amplamente divulgados, a iniciativa sinaliza uma abertura controlada e uma busca por parcerias estratégicas que possam garantir a transferência de tecnologia e o aporte de capital necessário para estabilizar a produção de petróleo e gás no país. A Venezuela possui uma das maiores reservas provadas de petróleo do mundo, o que mantém o país como um ator central nos debates geopolíticos sobre segurança energética global.\n\nA assinatura desses convênios ocorre em um momento de reconfiguração geopolítica, onde o Sul Global busca fortalecer suas cadeias de suprimentos e diversificar seus parceiros comerciais. Para o governo venezuelano, a cooperação com corporações transnacionais representa não apenas uma alternativa para contornar o bloqueio econômico, mas também uma oportunidade de reinserção mais robusta nos fluxos de comércio do Mercosul e de outras alianças regionais e globais, como o grupo Brics.\n\nEspecialistas apontam que o sucesso desses acordos dependerá da estabilidade regulatória oferecida pelo país e da capacidade de convivência dessas transnacionais com o complexo cenário de sanções que ainda paira sobre a economia venezuelana. O movimento reafirma a centralidade dos recursos naturais na estratégia de desenvolvimento e soberania da nação caribenha.",
-    "categoria": "Economia",
-    "pais": "Venezuela",
-    "publicado_em": "2026-09-03T12:20:00.004763+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "http://spanish.peopledaily.com.cn/n3/2026/0903/c31617-20495742.html",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/6692312/pexels-photo-6692312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Ulises Castillo",
-      "photographer_url": "https://www.pexels.com/@ulises-castillo-3027973",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/fire-coming-out-an-industrial-chimney-6692312/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Venezuela firma nuevos acuerdos comerciales con transnacionales del sector energético",
-        "lead": "El gobierno de Venezuela oficializó la firma de nuevos acuerdos comerciales con empresas transnacionales del sector energético, buscando impulsar la producción local y fortalecer su posición en el mercado internacional.",
-        "corpo": "El gobierno de Venezuela dio un paso estratégico para la consolidación de su industria energética al firmar nuevos acuerdos comerciales con empresas transnacionales del sector. La medida refleja el esfuerzo continuo de Caracas para atraer inversiones extranjeras y revitalizar su infraestructura de extracción y refinación de hidrocarburos, severamente impactada por años de sanciones económicas y restricciones financieras internacionales.\n\nAunque los detalles específicos sobre los montos totales y el cronograma de ejecución no han sido ampliamente divulgados, la iniciativa señala una apertura controlada y una búsqueda de alianzas estratégicas que puedan garantizar la transferencia de tecnología y el aporte de capital necesario para estabilizar la producción de petróleo y gas en el país. Venezuela posee una de las mayores reservas probadas de petróleo del mundo, lo que mantiene al país como un actor central en los debates geopolíticos sobre seguridad energética global.\n\nLa firma de estos convenios ocurre en un momento de reconfiguración geopolítica, donde el Sur Global busca fortalecer sus cadenas de suministro y diversificar sus socios comerciales. Para el gobierno venezolano, la cooperación con corporaciones transnacionales representa no solo una alternativa para sortear el bloqueo económico, sino también una oportunidad de reinserción más robusta en los flujos comerciales del Mercosur y de otras alianzas regionales y globales, como el grupo Brics.\n\nLos analistas señalan que el éxito de estos acuerdos dependerá de la estabilidad regulatoria ofrecida por el país y de la capacidad de convivencia de estas transnacionales con el complejo escenario de sanciones que aún pesa sobre la economía venezolana. El movimiento reafirma la centralidad de los recursos naturales en la estrategia de desarrollo y soberanía de la nación caribeña."
-      },
-      "en": {
-        "titulo": "Venezuela signs new commercial agreements with transnational energy companies",
-        "lead": "The Venezuelan government has officialized the signing of new commercial agreements with transnational energy corporations, aiming to boost local production and strengthen its position in the international market.",
-        "corpo": "The government of Venezuela has taken a strategic step toward consolidating its energy industry by signing new commercial agreements with transnational companies in the sector. The move reflects Caracas' ongoing efforts to attract foreign investment and revitalize its hydrocarbon extraction and refining infrastructure, which has been severely impacted by years of economic sanctions and international financial restrictions.\n\nAlthough specific details regarding total values and execution schedules have not been widely disclosed, the initiative signals a controlled opening and a search for strategic partnerships that can guarantee technology transfer and the capital influx necessary to stabilize oil and gas production in the country. Venezuela possesses one of the world's largest proven oil reserves, keeping the nation as a central player in global geopolitical debates on energy security.\n\nThe signing of these agreements comes at a time of geopolitical reconfiguration, where the Global South seeks to strengthen its supply chains and diversify its trading partners. For the Venezuelan government, cooperation with transnational corporations represents not only an alternative to bypass the economic blockade but also an opportunity for a more robust reintegration into the trade flows of Mercosur and other regional and global alliances, such as the Brics group.\n\nAnalysts point out that the success of these agreements will depend on the regulatory stability offered by the country and the ability of these transnationals to navigate the complex sanctions landscape that still looms over the Venezuelan economy. The move reaffirms the centrality of natural resources in the development and sovereignty strategy of the Caribbean nation."
-      }
-    },
-    "atualizacao_de": "10a9aa8d-428a-4f21-87db-75e5dbdaf0eb"
   }
 ]
