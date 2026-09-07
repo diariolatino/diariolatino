@@ -1,5 +1,39 @@
 [
   {
+    "id": "de4fd25b-70d4-4c2f-a86b-31192ab588d0",
+    "titulo": "Rio de Janeiro reúne milhares de pessoas em tradicional desfile da Independência",
+    "lead": "Mesmo sob chuva, milhares de espectadores acompanharam o cortejo cívico-militar na Avenida Presidente Vargas em celebração ao 7 de Setembro.",
+    "corpo": "A cidade do Rio de Janeiro sediou o tradicional desfile cívico-militar em comemoração ao Dia da Independência do Brasil. A cerimônia ocorreu na Avenida Presidente Vargas, em frente ao Palácio Duque de Caxias, sede do Comando Militar do Leste, reunindo milhares de cidadãos que compareceram com bandeiras do país, apesar do tempo chuvoso.\n\nA abertura do evento contou com a revista da tropa realizada pelos comandantes das três Forças Armadas e com a condução do fogo simbólico da pátria, transportado pelo atleta militar do pentatlo Douglas Castro ao lado de outros desportistas para acender a pira cerimonial. A solenidade seguiu com a execução do Hino da Independência e a Salva de Gala pela banda do Primeiro Batalhão de Guardas do Exército.\n\nO cortejo mobilizou mais de 6 mil participantes, incluindo integrantes da Marinha, do Exército, da Aeronáutica e de corporações de segurança pública das esferas federal, estadual e municipal. Também desfilaram representantes da sociedade civil, como integrantes da Cruz Vermelha, grupos de escoteiros e estudantes de escolas da região.\n\nEntre os momentos de destaque da apresentação estiveram os pelotões formados exclusivamente por mulheres das Forças Armadas e a passagem de militares que atuam nas Forças de Paz da Organização das Nações Unidas (ONU). O desfile contou ainda com uma exibição histórica com todas as bandeiras já adotadas pelo Brasil, além de mais de 180 veículos operacionais, abrangendo blindados terrestres, viaturas do Corpo de Bombeiros e embarcações anfíbias.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-07T21:14:33.140651+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/tradicional-desfile-civico-militar-e-realizado-no-rio-de-janeiro",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/28602183/pexels-photo-28602183.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Israyosoy S.",
+      "photographer_url": "https://www.pexels.com/@israyosoy",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/mexican-military-parade-on-reforma-avenue-28602183/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Río de Janeiro reúne a miles de personas en tradicional desfile de la Independencia",
+        "lead": "A pesar de la lluvia, miles de espectadores presenciaron el cortejo cívico-militar en la Avenida Presidente Vargas en conmemoración del 7 de Septiembre.",
+        "corpo": "La ciudad de Río de Janeiro acogió el tradicional desfile cívico-militar en conmemoración del Día de la Independencia de Brasil. La ceremonia se desarrolló en la Avenida Presidente Vargas, frente al Palacio Duque de Caxias, sede del Comando Militar del Este, convocando a miles de ciudadanos que asistieron con banderas nacionales a pesar de las condiciones climáticas adversas.\n\nLa apertura del acto incluyó la revista de tropas por parte de los comandantes de las tres Fuerzas Armadas y el encendido del fuego simbólico de la patria, portado por el atleta militar de pentatlón Douglas Castro junto a otros deportistas. La solemnidad continuó con la interpretación del Himno de la Independencia por la banda del Primer Batallón de Guardias del Ejército.\n\nEl desfile movilizó a más de 6.000 participantes, entre miembros de la Marina, el Ejército, la Fuerza Aérea y agentes de seguridad pública federales, estatales y municipales. Asimismo, participaron delegaciones de la sociedad civil, tales como la Cruz Roja, grupos de scouts y escuelas locales.\n\nEntre los aspectos destacados figuraron los pelotones integrados exclusivamente por mujeres de las fuerzas armadas y el paso de efectivos pertenecientes a las Misiones de Paz de la ONU. La exhibición también contó con una muestra histórica de banderas brasileñas y el despliegue de más de 180 vehículos, incluidos blindados terrestres, embarcaciones anfibias y camiones del cuerpo de bomberos."
+      },
+      "en": {
+        "titulo": "Rio de Janeiro Gathers Thousands for Traditional Independence Day Parade",
+        "lead": "Despite the rain, thousands of spectators attended the civil-military parade on Presidente Vargas Avenue to celebrate Brazil's Independence Day.",
+        "corpo": "The city of Rio de Janeiro hosted its traditional civil-military parade in celebration of Brazil's Independence Day. The ceremony took place along Presidente Vargas Avenue, in front of the Duque de Caxias Palace, headquarters of the Eastern Military Command, drawing thousands of spectators carrying Brazilian flags despite rainy weather.\n\nThe event opened with the inspection of troops by the commanders of the three armed services, followed by the arrival of the symbolic flame, carried by military pentathlete Douglas Castro and other athletes to ignite the ceremonial pyre. The ceremony proceeded with the performance of the Independence Anthem by the Army's First Guards Battalion band.\n\nMore than 6,000 participants marched in the parade, including members of the Navy, Army, and Air Force, as well as federal, state, and municipal law enforcement personnel. Civil society organizations, including the Red Cross, scout groups, and local students, were also represented.\n\nKey highlights included all-women military units and personnel from United Nations Peacekeeping Forces. The parade also featured a historical display of all national flags used throughout Brazilian history, alongside more than 180 vehicles, including armored tanks, fire department trucks, and amphibious naval craft."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "474c0d5a-1514-4a2c-82c7-a76219c30af8",
     "titulo": "Grito dos Excluídos mobiliza dezenas de cidades no Brasil por moradia e direitos sociais",
     "lead": "Movimentos populares e organizações da sociedade civil foram às ruas no Dia da Independência para cobrar moradia digna, reformas sociais e medidas contra a violência.",
@@ -2004,39 +2038,5 @@
       }
     },
     "atualizacao_de": "2fba3b95-921b-40e5-8cad-bbe11acc5860"
-  },
-  {
-    "id": "6e2d4acc-f4ff-47cb-911f-d9f6e3429aaa",
-    "titulo": "Dólar registra queda na Colômbia e fecha cotado a 3.142 pesos neste 3 de setembro",
-    "lead": "A moeda norte-americana encerrou as negociações no mercado colombiano em queda nesta sessão de 3 de setembro, atingindo o patamar de 3.142 pesos.",
-    "corpo": "O mercado de câmbio na Colômbia registrou uma trajetória de desvalorização do dólar frente ao peso colombiano ao longo da sessão deste dia 3 de setembro. No encerramento dos negócios financeiros, a divisa norte-americana fixou-se no valor de 3.142 pesos.\n\nA movimentação reflete a dinâmica diária das taxas de câmbio negociadas no país, acompanhada de perto por investidores e agentes do setor financeiro local. O comportamento da moeda estrangeira em relação à divisa nacional impacta diretamente os indicadores de comércio exterior, o custo de bens importados e o balanço econômico no país.\n\nO acompanhamento das cotações diárias do dólar é um elemento central para a análise do dinamismo macroeconômico e do fluxo de capitais na Colômbia, uma das principais economias da região sul-americana.",
-    "categoria": "Economia",
-    "pais": "Colômbia",
-    "publicado_em": "2026-09-03T23:12:53.461430+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://www.hsbnoticias.com/dolar-en-colombia-cae-y-cierra-en-3-142-este-3-de-septiembre/",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/13581758/pexels-photo-13581758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Juan Pablo Mayorga Vásquez",
-      "photographer_url": "https://www.pexels.com/@juan-pablo-mayorga-vasquez-313369852",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/aerial-photography-of-high-rise-buildings-under-the-blue-sky-13581758/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "El dólar registra caída en Colombia y cierra cotizado en 3.142 pesos este 3 de septiembre",
-        "lead": "La divisa estadounidense cerró las operaciones en el mercado colombiano con una baja en esta sesión del 3 de septiembre, alcanzando el nivel de los 3.142 pesos.",
-        "corpo": "El mercado cambiario en Colombia registró una trayectoria de desvalorización del dólar frente al peso colombiano a lo largo de la jornada de este 3 de septiembre. Al cierre de las operaciones financieras, la moneda estadounidense se fijó en un valor de 3.142 pesos.\n\nEl movimiento refleja la dinámica diaria de las tasas de cambio negociadas en el país, seguida de cerca por inversionistas y agentes del sector financiero local. El comportamiento de la moneda extranjera respecto a la divisa nacional impacta directamente los indicadores de comercio exterior, los costos de bienes importados y el balance económico general del país.\n\nEl seguimiento de las cotizaciones diarias del dólar constituye un elemento fundamental para el análisis del dinamismo macroeconómico y del flujo de capitales en Colombia, una de las principales economías de la región sudamericana."
-      },
-      "en": {
-        "titulo": "US Dollar drops in Colombia and closes at 3,142 pesos on September 3",
-        "lead": "The US currency ended trading in the Colombian market with a decline during this September 3 session, reaching the level of 3,142 pesos.",
-        "corpo": "Colombia's foreign exchange market recorded a depreciation of the US dollar against the Colombian peso throughout trading on September 3. At the close of financial business, the US currency settled at a value of 3,142 pesos.\n\nThe fluctuation reflects the daily dynamics of exchange rates traded within the country, closely monitored by investors and local financial market participants. The movement of the foreign currency relative to the national currency directly impacts foreign trade indicators, the cost of imported goods, and the country's overall economic balance.\n\nTracking daily dollar rates remains a key element in analyzing macroeconomic dynamics and capital flows in Colombia, one of South America's major economies."
-      }
-    },
-    "atualizacao_de": null
   }
 ]
