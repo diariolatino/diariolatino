@@ -1,5 +1,39 @@
 [
   {
+    "id": "84cc799f-a62d-4278-9bc4-8f9b0559b77a",
+    "titulo": "Investigação expõe o abate mecânico de pintinhos machos na indústria de ovos no Brasil",
+    "lead": "Uma investigação da organização não governamental Mercy For Animals documentou o descarte de milhares de pintinhos machos recém-nascidos na indústria avícola brasileira, reacendendo o debate sobre o bem-estar animal e a adoção de tecnologias alternativas no país.",
+    "corpo": "A apuração, realizada em um incubatório de grande porte na Região Sul do Brasil, registrou a eliminação de cerca de 35 mil animais em um único dia por meio de lâminas rotativas de alta velocidade. A prática ocorre porque os machos da linhagem poedeira não produzem ovos e não possuem o padrão genético utilizado para o corte na pecuária de carne, sendo descartados com menos de 24 horas de vida.\n\nRepresentantes da ONG ressaltam que o objetivo do relatório foi documentar um procedimento padrão da cadeia produtiva, apontando a capacidade de senciência dos animais e o sofrimento decorrente do processo mecânico. Além dos machos, fêmeas com anomalias ou fora da demanda comercial também foram registradas no descarte.\n\nComo alternativa ao abate, entidades do setor e defensores dos direitos animais apontam a tecnologia de sexagem in ovo, que permite identificar o sexo do embrião antes do nascimento e evitar a eclosão dos ovos machos. O método já é regulamentado ou adotado por exigência de mercado em diversos países europeus, como Alemanha, França, Suíça e Áustria. No Brasil, o primeiro equipamento do tipo começou a operar em 2025 no estado de São Paulo, mas a expansão da prática enfrenta gargalos financeiros, com custos adicionais estimados entre R$ 5 e R$ 10 por ave.\n\nO tema também tramita no Congresso Nacional brasileiro por meio de propostas legislativas como o Projeto de Lei 783/2024 e o PL 3034/2026, que buscam proibir ou restringir o abate de pintinhos machos. Pesquisas de opinião indicam que a maioria dos consumidores no país apoia a substituição da prática e demonstra disposição para absorver eventuais custos na compra final de ovos. A Mercy For Animals pretende encaminhar a denúncia ao Ministério Público para análise jurídica das condições registradas na investigação.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-08T22:14:59.382522+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/investigacao-expoe-trituracao-de-pintinhos-na-industria-de-ovos",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/17993118/pexels-photo-17993118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Eimi Vergara",
+      "photographer_url": "https://www.pexels.com/@eimi-vergara-441807211",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/hands-holding-eggs-on-tray-over-shelves-17993118/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Investigación expone el sacrificio mecánico de pollitos machos en la industria avícola de Brasil",
+        "lead": "Una investigación de la organización no gubernamental Mercy For Animals documentó el descarte de miles de pollitos machos recién nacidos en la industria avícola brasileña, reabriendo el debate sobre el bienestar animal y la adopción de tecnologías alternativas en el país.",
+        "corpo": "La investigación, realizada en una incubadora de gran tamaño en la Región Sur de Brasil, registró la eliminación de unos 35 mil animales en un solo día mediante cuchillas giratorias de alta velocidad. La práctica ocurre porque los machos de la estirpe ponedora no producen huevos ni poseen el patrón genético utilizado para el engorde en la ganadería avícola, por lo que son descartados con menos de 24 horas de vida.\n\nRepresentantes de la ONG señalan que el objetivo del informe fue documentar un procedimiento estándar de la cadena productiva, destacando la capacidad de sintiencia de los animales y el sufrimiento derivado del proceso mecánico. Además de los machos, también se registraron descartes de hembras con anomalías o fuera de la demanda comercial.\n\nComo alternativa al sacrificio, entidades del sector y defensores de los derechos animales señalan la tecnología de sexaje in ovo, que permite identificar el sexo del embrión antes del nacimiento y evitar la eclosión de los huevos machos. El método ya está regulado o adoptado por exigencia del mercado en varios países europeos, como Alemania, Francia, Suiza y Austria. En Brasil, el primer equipo de este tipo comenzó a operar en 2025 en el estado de São Paulo, pero la expansión de la práctica enfrenta obstáculos financieros, con costos adicionales estimados entre R$ 5 y R$ 10 por ave.\n\nEl tema también se tramita en el Congreso Nacional brasileño a través de proyectos de ley como el Proyecto de Ley 783/2024 y el PL 3034/2026, que buscan prohibir o restringir el sacrificio de pollitos machos. Las encuestas de opinión indican que la mayoría de los consumidores en el país apoya la sustitución de la práctica y muestra disposición a absorber eventuales costos en la compra final de huevos. Mercy For Animals tiene previsto presentar la denuncia ante el Ministerio Público para el análisis jurídico de las condiciones registradas en la investigación."
+      },
+      "en": {
+        "titulo": "Investigation exposes mechanical culling of male chicks in Brazil's egg industry",
+        "lead": "An investigation by the non-governmental organization Mercy For Animals documented the disposal of thousands of newborn male chicks in the Brazilian poultry industry, reigniting the debate over animal welfare and the adoption of alternative technologies in the country.",
+        "corpo": "The investigation, conducted at a large-scale hatchery in Southern Brazil, recorded the disposal of approximately 35,000 animals in a single day using high-speed rotating blades. The practice occurs because males of laying breeds do not produce eggs and lack the genetic characteristics required for meat production, leading to their culling at less than 24 hours of age.\n\nNGO representatives emphasized that the report aimed to document a standard procedure across the production chain, pointing to the animals' sentience and the suffering caused by the mechanical process. In addition to males, female chicks with physical anomalies or exceeding commercial demand were also recorded among the discarded animals.\n\nAs an alternative to culling, industry entities and animal welfare advocates highlight in ovo sexing technology, which identifies the embryo's sex prior to hatching and prevents male eggs from coming to term. The method is already regulated or market-driven in several European countries, including Germany, France, Switzerland, and Austria. In Brazil, the first machine of this kind began operating in 2025 in the state of São Paulo, though widespread adoption faces financial hurdles, with additional estimated costs ranging between 5 and 10 Brazilian reals per bird.\n\nThe issue is also under consideration in the Brazilian National Congress through legislative proposals such as Bill 783/2024 and Bill 3034/2026, which seek to ban or restrict the culling of male chicks. Opinion surveys indicate that most consumers in the country support replacing the practice and express willingness to absorb small cost adjustments on retail egg prices. Mercy For Animals plans to submit its findings to the Public Prosecutor's Office for legal review of the conditions documented during the investigation."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "d11c3801-a66a-4325-a80a-4c33792a52fc",
     "titulo": "Engenheiro solicita obras na Ruta Nacional 5 ao presidente da YPF diante do avanço de Vaca Muerta",
     "lead": "Um especialista da área de engenharia apresentou um pleito à direção da petroleira estatal argentina YPF para a adequação e ampliação da Ruta Nacional 5. A solicitação fundamenta-se no aumento expressivo do tráfego rodoviário decorrente da expansão produtiva no megacampo de gás e petróleo de Vaca Muerta.",
@@ -2001,40 +2035,6 @@
         "titulo": "Federal government and Rio de Janeiro sign agreements to tackle organized crime and secure transport corridors",
         "lead": "Two technical cooperation agreements were formalized to step up the retaking of areas held by criminal organizations and secure key transport routes across Rio de Janeiro. The partnership mobilizes federal and state agencies around intelligence, technology, and the disruption of illicit financial networks.",
         "corpo": "The Ministry of Justice and Public Security and the state government of Rio de Janeiro have signed two technical cooperation agreements aimed at halting the expansion of organized crime and restoring public control over contested territories. The partnership was formalized by the Minister of Justice and Public Security, Wellington César Lima e Silva, and the acting governor of Rio de Janeiro, Judge Ricardo Couto.\n\nThe framework establishes joint mechanisms involving intelligence sharing, operational reinforcement, and integrated technological tools. Operations may draw on specialized federal units, including the Federal Police, Federal Highway Police, National Public Security Force, and Federal Penitentiary Police. A core component focuses on integrating federal and state prison networks, implementing protocols to isolate incarcerated gang leaders and sever communication links with street-level factions.\n\nFinancial targeting forms another cornerstone of the initiative. Coordinated efforts will engage the Federal Revenue Service, the financial intelligence unit (Coaf), the Central Bank, and regulatory bodies to identify, freeze, and recover assets tied to organized crime, dismantling the economic foundation of these criminal syndicates.\n\nRegarding transit and trade infrastructure, security will be reinforced along major expressways across Rio de Janeiro, such as Avenida Brasil, Linha Vermelha, Linha Amarela, and access roads to the Port of Rio and Tom Jobim International Airport. The operational strategy deploys electronic surveillance grids, automated license plate readers, drones, and command-and-control centers to curb cargo theft and carjackings while strengthening criminal investigations."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "776cea79-ef87-4cb7-9e23-dc7a0248e23e",
-    "titulo": "Governo do México prepara novo marco legal para regulamentar setor de cassinos",
-    "lead": "O governo mexicano está elaborando um novo projeto de lei com o objetivo de estabelecer regras mais rigorosas para o funcionamento e a fiscalização dos cassinos no país.",
-    "corpo": "A iniciativa busca atualizar a legislação vigente e ampliar o controle estatal sobre as operações de jogos de azar e apostas em território mexicano. A proposta em desenvolvimento pelo Poder Executivo visa fortalecer os mecanismos de fiscalização, combater eventuais irregularidades e garantir maior transparência nas atividades do setor.\n\nHistoricamente, o mercado de cassinos e casas de apostas no México tem sido alvo de debates sobre regulamentação, tributação e prevenção à lavagem de dinheiro. Com a nova regulamentação, o governo pretende padronizar as exigências para a concessão de licenças e supervisionar de forma mais rigorosa o cumprimento das obrigações fiscais e operacionais pelas empresas autorizadas.\n\nA expectativa é que o texto final da proposta aborde tanto as operações presenciais quanto as plataformas de apostas online, modalidade que registrou expansão expressiva nos últimos anos. As medidas visam alinhar o país às práticas internacionais de controle e supervisão do setor de jogos.\n\nO projeto deverá ser encaminhado ao Poder Legislativo para análise e votação assim que os detalhes técnicos e jurídicos forem concluídos pela equipe governamental.",
-    "categoria": "Política",
-    "pais": "México",
-    "publicado_em": "2026-09-04T21:13:49.864251+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://periodicocontacto.com/gobierno-de-mexico-alista-nueva-ley-para-regular-casinos/",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/7594180/pexels-photo-7594180.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Pavel Danilyuk",
-      "photographer_url": "https://www.pexels.com/@pavel-danilyuk",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/close-up-photo-of-casino-roulette-7594180/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Gobierno de México prepara nuevo marco legal para regular el sector de casinos",
-        "lead": "El gobierno mexicano está elaborando un nuevo proyecto de ley con el objetivo de establecer normas más estrictas para el funcionamiento y la fiscalización de los casinos en el país.",
-        "corpo": "La iniciativa busca actualizar la legislación vigente y ampliar el control estatal sobre las operaciones de juegos de azar y apuestas en territorio mexicano. La propuesta en desarrollo por el Poder Ejecutivo pretende fortalecer los mecanismos de fiscalización, combatir posibles irregularidades y garantizar mayor transparencia en las actividades del sector.\n\nHistóricamente, el mercado de casinos y casas de apuestas en México ha sido objeto de debates sobre regulación, tributación y prevención del lavado de dinero. Con la nueva reglamentación, el gobierno proyecta estandarizar las exigencias para la concesión de licencias y supervisar de forma más rigurosa el cumplimiento de las obligaciones fiscales y operativas por parte de las empresas autorizadas.\n\nSe prevé que el texto final de la propuesta contemple tanto las operaciones presenciales como las plataformas de apuestas en línea, modalidad que ha registrado una expansión significativa en los últimos años. Las medidas buscan alinear al país con las prácticas internacionales de control y supervisión del sector de juegos.\n\nEl proyecto deberá ser remitido al Poder Legislativo para su análisis y votación una vez que el equipo gubernamental concluya los detalles técnicos y jurídicos."
-      },
-      "en": {
-        "titulo": "Mexican government prepares new legal framework to regulate casino industry",
-        "lead": "The Mexican government is drafting a new bill aimed at establishing stricter rules for the operation and oversight of casinos across the country.",
-        "corpo": "The initiative seeks to update existing legislation and expand state control over gambling and betting operations in Mexican territory. The proposal being developed by the executive branch aims to strengthen enforcement mechanisms, combat potential irregularities, and ensure greater transparency in the sector's activities.\n\nHistorically, the casino and betting market in Mexico has been the subject of debate regarding regulation, taxation, and money laundering prevention. Through the new regulations, the government intends to standardize licensing requirements and more rigorously monitor compliance with tax and operational obligations by authorized companies.\n\nThe final text of the proposal is expected to cover both brick-and-mortar operations and online betting platforms, a sector that has grown significantly in recent years. The measures aim to align the country with international standards for control and oversight of the gambling industry.\n\nThe draft bill is expected to be sent to the legislative branch for debate and voting once technical and legal details are finalized by government officials."
       }
     },
     "atualizacao_de": null
