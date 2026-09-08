@@ -1,5 +1,39 @@
 [
   {
+    "id": "0d79cb1e-ffa4-4e44-8e32-4aff9733e1ae",
+    "titulo": "Ministro israelense Ben Gvir pede que Netanyahu reconheça as Malvinas como argentinas",
+    "lead": "O ministro da Segurança Nacional de Israel, Itamar Ben Gvir, solicitou ao primeiro-ministro Benjamin Netanyahu que o país reconheça oficialmente a soberania da Argentina sobre as Ilhas Malvinas.",
+    "corpo": "O pedido de Ben Gvir a Netanyahu representa um movimento político significativo no cenário internacional, tocando em uma das disputas territoriais mais sensíveis da América do Sul. As Ilhas Malvinas (chamadas de Falklands pelo Reino Unido) são objeto de uma histórica reivindicação de soberania por parte da Argentina, que disputa o território com os britânicos desde o século XIX, tendo o impasse culminado em um conflito armado em 1982.\n\nEmbora os detalhes específicos da argumentação de Ben Gvir não tenham sido amplamente divulgados no momento do pedido, a proposta se alinha ao atual panorama das relações bilaterais. Desde a posse do presidente argentino Javier Milei, a Argentina tem demonstrado um firme alinhamento com o governo israelense, manifestando apoio em fóruns internacionais e sinalizando mudanças em sua política externa para o Oriente Médio.\n\nO reconhecimento das Malvinas como território argentino por parte de Israel, caso venha a se concretizar, marcaria uma mudança na postura diplomática do país do Oriente Médio, que tradicionalmente mantém relações estreitas com o Reino Unido. Até o momento, o gabinete do primeiro-ministro Benjamin Netanyahu não emitiu uma resposta oficial sobre a viabilidade ou a aceitação da proposta apresentada por seu ministro de Segurança Nacional.",
+    "categoria": "Política",
+    "pais": "Argentina",
+    "publicado_em": "2026-09-08T09:16:06.725141+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.diariodeavila.es/noticia/z02f3b7fd-7fdd-4514-becb411c1e7d28ee/202609/ben-gvir-pide-a-netanyahu-reconocer-las-malvinas-como-argentinas",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/33613314/pexels-photo-33613314.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Patricia Bozan",
+      "photographer_url": "https://www.pexels.com/@patricia-bozan-2151752743",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/argentine-guard-at-plaza-heroes-de-malvinas-monument-33613314/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "El ministro israelí Ben Gvir pide a Netanyahu reconocer las Malvinas como argentinas",
+        "lead": "El ministro de Seguridad Nacional de Israel, Itamar Ben Gvir, solicitó al primer ministro Benjamin Netanyahu que el país reconozca oficialmente la soberanía de Argentina sobre las Islas Malvinas.",
+        "corpo": "El pedido de Ben Gvir a Netanyahu representa un movimiento político significativo en el escenario internacional, tocando una de las disputas territoriales más sensibles de América del Sur. Las Islas Malvinas (llamadas Falklands por el Reino Unido) son objeto de un histórico reclamo de soberanía por parte de Argentina, que disputa el territorio con los británicos desde el siglo XIX, lo que culminó en un conflicto armado en 1982.\n\nAunque los detalles específicos de los argumentos de Ben Gvir no se difundieron ampliamente al momento del pedido, la propuesta se alinea con el panorama actual de las relaciones bilaterales. Desde la asunción del presidente argentino Javier Milei, Argentina ha mostrado un firme alineamiento con el gobierno israelí, manifestando apoyo en foros internacionales y señalando cambios en su política exterior hacia Medio Oriente.\n\nEl reconocimiento de las Malvinas como territorio argentino por parte de Israel, de concretarse, marcaría un cambio en la postura diplomática del país de Medio Oriente, que tradicionalmente mantiene estrechas relaciones con el Reino Unido. Hasta el momento, la oficina del primer ministro Benjamin Netanyahu no ha emitido una respuesta oficial sobre la viabilidad o la aceptación de la propuesta presentada por su ministro de Seguridad Nacional."
+      },
+      "en": {
+        "titulo": "Israeli Minister Ben Gvir urges Netanyahu to recognize Malvinas as Argentine",
+        "lead": "Israel's National Security Minister, Itamar Ben Gvir, has requested Prime Minister Benjamin Netanyahu to officially recognize Argentina's sovereignty over the Malvinas Islands.",
+        "corpo": "Ben Gvir's request to Netanyahu represents a significant political move on the international stage, touching upon one of South America's most sensitive territorial disputes. The Malvinas Islands (referred to as the Falklands by the United Kingdom) are the subject of a historic sovereignty claim by Argentina, which has disputed the territory with the British since the 19th century, culminating in an armed conflict in 1982.\n\nAlthough the specific details of Ben Gvir's arguments were not widely disclosed at the time of the request, the proposal aligns with the current landscape of bilateral relations. Since Argentine President Javier Milei took office, Argentina has demonstrated a firm alignment with the Israeli government, expressing support in international forums and signaling shifts in its foreign policy toward the Middle East.\n\nIf Israel were to recognize the Malvinas as Argentine territory, it would mark a shift in the Middle Eastern nation's diplomatic stance, as it traditionally maintains close ties with the United Kingdom. So far, Prime Minister Benjamin Netanyahu's office has not issued an official response regarding the feasibility or acceptance of the proposal presented by his National Security Minister."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "9831c815-f201-47b2-b195-f0f298bbe237",
     "titulo": "O debate sobre a credibilidade das peças orçamentárias na América Latina",
     "lead": "A expressão \"orçamento mentiroso\" reflete uma crítica recorrente de analistas e opositores na América Latina sobre a falta de realismo nas projeções fiscais e de receitas dos governos da região.",
@@ -2004,39 +2038,5 @@
       }
     },
     "atualizacao_de": null
-  },
-  {
-    "id": "29219b6e-9063-43c0-91ae-102ae4e63a9a",
-    "titulo": "Atualização: Mega-Sena acumula novamente e prêmio principal sobe para R$ 48 milhões",
-    "lead": "Nenhum participante acertou as seis dezenas do concurso 3.053 da Mega-Sena, realizado nesta quinta-feira. Com isso, o prêmio principal acumulou mais uma vez e alcançou a estimativa de R$ 48 milhões para o próximo sorteio.",
-    "corpo": "O concurso 3.053 da Mega-Sena terminou sem vencedores na faixa principal após a extração realizada na noite desta quinta-feira (3). Os números sorteados foram 01, 13, 25, 35, 39 e 51. Como nenhum bilhete registrou a combinação completa de seis acertos, o montante da premiação principal acumulou e está projetado em R$ 48 milhões para a rodada seguinte.\n\nNas faixas secundárias de premiação, a Caixa Econômica Federal informou que 50 apostas acertaram cinco números (quina), garantindo a cada uma das cotas vencedoras o valor de R$ 36.500,74. Além disso, 3.297 bilhetes registraram quatro acertos (quadra) e receberão a quantia individual de R$ 912,43.\n\nO próximo concurso da modalidade está programado para o domingo (6), às 11h. Os interessados em concorrer ao prêmio acumulado podem efetuar suas apostas até as 22h (horário de Brasília) do sábado (5). Os jogos podem ser registrados presencialmente em qualquer unidade lotérica credenciada no território brasileiro ou por meio dos canais digitais oficiais, incluindo o portal de loterias e o aplicativo da Caixa. A aposta mínima, que permite a escolha de seis dezenas, tem o custo fixado em R$ 6.",
-    "categoria": "Sociedade",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-04T05:13:25.388045+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-48-milhoes-confira-os-numeros-sorteados",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/8266775/pexels-photo-8266775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Erik Mclean",
-      "photographer_url": "https://www.pexels.com/@introspectivedsgn",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/a-person-holding-lottery-tickets-8266775/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Actualización: Mega-Sena vuelve a acumularse y el premio mayor sube a 48 millones de reales",
-        "lead": "Ningún participante acertó los seis números del sorteo 3.053 de la Mega-Sena, realizado este jueves. Con ello, el premio mayor volvió a acumularse y alcanzó una estimación de 48 millones de reales para el próximo sorteo.",
-        "corpo": "El concurso 3.053 de la Mega-Sena finalizó sin ganadores en la categoría principal tras el sorteo realizado la noche de este jueves (3). Los números sorteados fueron 01, 13, 25, 35, 39 y 51. Al no haberse registrado ningún boleto con la combinación completa de seis aciertos, el monto acumulado del premio principal se proyecta en 48 millones de reales para la siguiente ronda.\n\nEn las categorías secundarias de premiación, la Caixa Econômica Federal informó que 50 apuestas acertaron cinco números (quina), asegurando a cada una el valor de 36.500,74 reales. Asimismo, 3.297 boletos registraron cuatro aciertos (cuadra) y recibirán un monto individual de 912,43 reales.\n\nEl próximo sorteo está programado para el domingo (6) a las 11:00 horas. Quienes deseen participar por el pozo acumulado pueden realizar sus jugadas hasta las 22:00 horas (horario de Brasilia) del sábado (5). Las apuestas pueden realizarse de forma presencial en las agencias de lotería autorizadas en todo Brasil o a través de los canales digitales oficiales, incluidos el sitio web y la aplicación móvil de la Caixa. La apuesta simple, que permite elegir seis números, tiene un costo fijado en 6 reales."
-      },
-      "en": {
-        "titulo": "Update: Mega-Sena rolls over again and top jackpot reaches R$ 48 million",
-        "lead": "No ticket matched all six numbers in draw 3,053 of the Mega-Sena lottery, held this Thursday. As a result, the top jackpot rolled over once again, reaching an estimated R$ 48 million for the upcoming round.",
-        "corpo": "Mega-Sena draw 3,053 concluded without a jackpot winner following the selection held on Thursday evening (3). The drawn numbers were 01, 13, 25, 35, 39, and 51. Because no ticket matched the complete six-number combination, the accumulated top prize is now estimated at R$ 48 million for the next drawing.\n\nIn the secondary prize tiers, Caixa Econômica Federal announced that 50 bets matched five numbers, earning R$ 36,500.74 each. In addition, 3,297 tickets matched four numbers, each securing an individual payout of R$ 912.43.\n\nThe next lottery draw is scheduled for Sunday (6) at 11:00 a.m. Those interested in competing for the accumulated jackpot may place their bets until 10:00 p.m. (Brasília time) on Saturday (5). Entries can be submitted in person at licensed lottery retailers across Brazil or through official digital platforms, including Caixa's lottery website and mobile app. A standard single bet of six numbers costs R$ 6."
-      }
-    },
-    "atualizacao_de": "b5001bf0-48ba-4f4a-a9e9-ed6265a9a554"
   }
 ]
