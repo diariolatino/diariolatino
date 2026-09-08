@@ -1,5 +1,39 @@
 [
   {
+    "id": "bd048e5a-185c-4146-9de3-e263981ec73d",
+    "titulo": "Atualização: Mega-Sena acumula e sorteia prêmio estimado em R$ 70 milhões nesta terça-feira",
+    "lead": "O concurso 3.055 da Mega-Sena pode pagar um prêmio estimado em R$ 70 milhões nesta terça-feira, após nenhum apostador ter acertado as seis dezenas no concurso anterior.",
+    "corpo": "A principal loteria do Brasil realiza nesta terça-feira o sorteio do concurso 3.055 da Mega-Sena, com premiação principal estimada em R$ 70 milhões. O montante acumulou após a rodada anterior não registrar apostas contempladas com a faixa principal de seis acertos, ocasião em que foram sorteadas as dezenas 08, 17, 24, 43, 47 e 58.\n\nO sorteio oficial acontece a partir das 21h, pelo horário de Brasília, no Espaço da Sorte, localizado na cidade de São Paulo. Os interessados em concorrer ao prêmio milionário têm até as 20h para registrar seus jogos nas unidades lotéricas credenciadas pela Caixa Econômica Federal espalhadas pelo país, ou pelos canais digitais oficiais do banco público, incluindo portal eletrônico e aplicativo.\n\nA aposta básica da modalidade, que permite a escolha de seis dezenas entre as 60 disponíveis no volante, custa R$ 6. Além da faixa máxima, a loteria também premia os apostadores que cravarem quatro ou cinco números no sorteio desta noite.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-08T18:17:24.697494+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-sorteia-premio-de-r-70-milhoes-nesta-terca-feira",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/8266775/pexels-photo-8266775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Erik Mclean",
+      "photographer_url": "https://www.pexels.com/@introspectivedsgn",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-person-holding-lottery-tickets-8266775/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Actualización: La lotería Mega-Sena acumula y sortea un premio estimado de 70 millones de reales este martes",
+        "lead": "El concurso 3.055 de la Mega-Sena puede otorgar un premio estimado en 70 millones de reales este martes, luego de que ningún jugador acertara los seis números en el sorteo anterior.",
+        "corpo": "La principal lotería de Brasil realiza este martes el sorteo del concurso 3.055 de la Mega-Sena, con un premio mayor estimado en 70 millones de reales. El monto se acumuló luego de que la ronda previa no registrara apuestas ganadoras en la categoría principal de seis aciertos, cuando salieron los números 08, 17, 24, 43, 47 y 58.\n\nEl sorteo oficial se llevará a cabo a partir de las 21:00 horas, tiempo de Brasilia, en el Espaço da Sorte, ubicado en la ciudad de São Paulo. Quienes deseen participar tienen hasta las 20:00 horas para realizar sus jugadas en las agencias de lotería autorizadas por la Caixa Econômica Federal en todo el país, o a través de los canales digitales oficiales de la entidad bancaria pública, incluyendo su portal web y aplicación móvil.\n\nLa apuesta simple de esta modalidad, que contempla la selección de seis números entre los 60 disponibles en el boleto, tiene un costo de 6 reales. Además del premio principal, la lotería también entrega recompensas a quienes logren acertar cuatro o cinco números durante la jornada de esta noche."
+      },
+      "en": {
+        "titulo": "Update: Brazil's Mega-Sena lottery rolls over to an estimated 70 million reais jackpot this Tuesday",
+        "lead": "Draw 3,055 of Brazil's Mega-Sena lottery is set to award an estimated jackpot of 70 million reais this Tuesday, after no players matched all six winning numbers in the previous round.",
+        "corpo": "Brazil's leading lottery will hold draw 3,055 of the Mega-Sena this Tuesday, offering an estimated top prize of 70 million reais. The jackpot grew after the previous contest ended without any winning tickets matching the six drawn numbers: 08, 17, 24, 43, 47, and 58.\n\nThe official draw will take place starting at 9:00 p.m. Brasília time at the Espaço da Sorte venue in São Paulo. Players looking to compete for the multi-million prize can place their bets until 8:00 p.m. at lottery retailers authorized by Caixa Econômica Federal nationwide, or through the state bank's official digital channels, including its website and mobile application.\n\nA standard single bet, which involves selecting six numbers out of 60 available options on the ticket, costs 6 reais. In addition to the jackpot, the lottery also pays out smaller prizes to players who successfully match four or five numbers in tonight's draw."
+      }
+    },
+    "atualizacao_de": "660d00ef-e523-4498-8784-d5f239012ea3"
+  },
+  {
     "id": "500dfd28-af1d-4faa-ab1a-1581dccc484f",
     "titulo": "Candidatos à Presidência cumprem agenda com entrevistas, sabatinas e visitas pelo Brasil",
     "lead": "Os postulantes ao Palácio do Planalto concentram suas atividades de campanha nesta terça-feira em sabatinas com veículos de comunicação, reuniões políticas e compromissos públicos em diversas regiões do país.",
@@ -2004,39 +2038,5 @@
       }
     },
     "atualizacao_de": null
-  },
-  {
-    "id": "a7178470-f9ed-47a1-a88d-13e0fea57dc8",
-    "titulo": "Rio de Janeiro terá operação de 24 horas em trens e metrô para o Rock in Rio",
-    "lead": "Os serviços de trem e metrô do Rio de Janeiro contarão com um esquema especial de funcionamento de 24 horas durante os dias do festival Rock in Rio, com início nesta sexta-feira.",
-    "corpo": "A operação especial no sistema de mobilidade da capital fluminense busca atender ao fluxo de público para o evento. A Secretaria de Transporte e Mobilidade Urbana (Setram) orientou os passageiros a planejarem seus deslocamentos com antecedência. O festival ocorre em dois períodos: de 4 a 7 de setembro e, em sua segunda etapa, entre os dias 11 e 13 do mesmo mês.\n\nIneditamente, as estações ferroviárias Central do Brasil, Madureira e Deodoro permanecerão abertas durante toda a madrugada, oferecendo viagens adicionais a cada hora para garantir a integração com a malha do metrô e com o sistema de BRT. Para a dispersão e retorno do público, haverá partidas horárias de trens saindo de Deodoro com destino à Central do Brasil, além de composições partindo da Central em direção aos ramais de Santa Cruz, Japeri, Saracuruna e Belford Roxo.\n\nParalelamente ao esquema de transporte, o Tribunal de Justiça do Rio de Janeiro manterá atendimento contínuo para atender às cerca de 100 mil pessoas esperadas diariamente na Cidade do Rock. O Juizado Especial do Torcedor e dos Grandes Eventos funcionará na Arena Carioca 1, das 14h até o encerramento das atividades do dia.\n\nO posto judiciário prestará assistência em ocorrências como perda ou furto de telefones celulares, problemas com ingressos, relações de consumo e atos de violência. A estrutura contará com espaço exclusivo para acolhimento de vítimas de violência de gênero e realizará audiências de custódia no próprio local para casos de prisão em flagrante.",
-    "categoria": "Sociedade",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-04T13:22:06.517982+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/trens-e-metro-terao-operacao-especial-durante-o-rock-rio",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/13071879/pexels-photo-13071879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Jonathan Borba",
-      "photographer_url": "https://www.pexels.com/@jonathanborba",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/santa-teresa-tram-near-city-buildings-13071879/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Río de Janeiro tendrá operación de 24 horas en trenes y metro para el Rock in Rio",
-        "lead": "Los servicios de tren y metro de Río de Janeiro contarán con un esquema especial de funcionamiento de 24 horas durante los días del festival Rock in Rio, que comienza este viernes.",
-        "corpo": "La operación especial en el sistema de movilidad de la capital carioca busca atender el flujo de público previsto para el evento. La Secretaría de Transporte y Movilidad Urbana (Setram) recomendó a los pasajeros planificar sus trayectos con anticipación. El festival se llevará a cabo en dos etapas: del 4 al 7 de septiembre y, en su segunda fase, del 11 al 13 del mismo mes.\n\nPor primera vez, las estaciones ferroviarias Central do Brasil, Madureira y Deodoro permanecerán abiertas durante toda la madrugada, ofreciendo viajes adicionales cada hora para facilitar la integración con la red de metro y con el sistema de BRT. Para el retorno del público, habrá salidas horarias de trenes desde Deodoro hacia Central do Brasil, además de formaciones que saldrán de Central hacia los ramales de Santa Cruz, Japeri, Saracuruna y Belford Roxo.\n\nDe forma paralela a la infraestructura de transporte, el Tribunal de Justicia de Río de Janeiro mantendrá una atención continua para asistir a las cerca de 100 mil personas que se esperan diariamente en la Ciudad del Rock. El Juzgado Especial para el Aficionado y Grandes Eventos operará en la Arena Carioca 1 desde las 14:00 horas hasta la finalización de las actividades diarias.\n\nEl puesto judicial atenderá incidentes como robo o hurto de teléfonos móviles, inconvenientes con entradas, disputas de consumo y episodios de violencia. Las instalaciones contarán además con un espacio dedicado a la atención de víctimas de violencia de género y realizarán audiencias de custodia en el lugar para los casos de detención en flagrancia."
-      },
-      "en": {
-        "titulo": "Rio de Janeiro to Implement 24-Hour Train and Metro Operation for Rock in Rio",
-        "lead": "Rio de Janeiro's train and metro services will operate on a special 24-hour schedule during the Rock in Rio festival, which kicks off this Friday.",
-        "corpo": "The special operation across the city's public transport network aims to accommodate the high volume of attendees expected for the event. The Secretariat of Transport and Urban Mobility (Setram) advised festivalgoers to plan their trips in advance. The event takes place across two periods: September 4–7 and September 11–13.\n\nFor the first time, the Central do Brasil, Madureira, and Deodoro train stations will remain open throughout the night, offering additional hourly trips to ensure seamless integration with the metro network and the BRT bus system. For late-night departures from the venue, hourly trains will run from Deodoro to Central do Brasil, as well as from Central do Brasil to the Santa Cruz, Japeri, Saracuruna, and Belford Roxo lines.\n\nAlongside mobility measures, the Rio de Janeiro State Court of Justice will provide continuous legal assistance to support the estimated 100,000 daily visitors at the venue. The Special Court for Fans and Major Events will operate inside Arena Carioca 1 from 2:00 p.m. until the end of each day's scheduled activities.\n\nThe judicial post will address incidents including mobile phone theft, ticket disputes, consumer issues, and acts of violence. The facility will feature a dedicated support area for victims of gender-based violence and will conduct on-site custody hearings for flagrant arrests made during the event."
-      }
-    },
-    "atualizacao_de": "041398cf-2d1c-4a9f-b588-6c926e4320ac"
   }
 ]
