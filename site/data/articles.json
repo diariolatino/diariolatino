@@ -1,5 +1,39 @@
 [
   {
+    "id": "1dc1a772-6f8e-4b6d-baa7-091e9fcf1d51",
+    "titulo": "Governo brasileiro libera R$ 6,98 bilhões para subsídios a combustíveis e agricultura familiar",
+    "lead": "O governo federal oficializou a liberação de R$ 6,98 bilhões em créditos extraordinários por meio de duas medidas provisórias publicadas nesta terça-feira. Os montantes visam custear subvenções econômicas no setor de combustíveis e reforçar o apoio financeiro aos pequenos produtores rurais do país.",
+    "corpo": "O crédito mais volumoso, no valor de R$ 6,605 bilhões, foi viabilizado pela Medida Provisória nº 1.389 e repassado ao Ministério de Minas e Energia para execução mediante a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP). Desse total, R$ 5,607 bilhões destinam-se a subsidiar a produção e a importação de óleo diesel rodoviário, enquanto R$ 998 milhões apoiarão a subvenção econômica para outros derivados do petróleo.\n\nParalelamente, a Medida Provisória nº 1.390 alocou R$ 375 milhões ao Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf). Essa fatia será administrada sob supervisão da Secretaria do Tesouro Nacional, órgão subordinado ao Ministério da Fazenda, com o intuito de expandir as operações de crédito voltadas ao cultivo e ao fornecimento de alimentos por pequenos produtores.\n\nA edição de créditos extraordinários por medida provisória encontra respaldo nos artigos 62 e 167 da Constituição Federal do Brasil, que autorizam o Poder Executivo a adotar a ferramenta financeira de forma imediata em contextos caracterizados por urgência e relevância social ou econômica.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-09T19:13:56.420082+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/combustiveis-e-agricultura-familiar-recebem-quase-r-7-bi-em-creditos",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/31996222/pexels-photo-31996222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Vinh Chế",
+      "photographer_url": "https://www.pexels.com/@vinh-ch-1599393606",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/illuminated-gas-station-at-night-with-vehicles-31996222/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Gobierno brasileño libera 6.980 millones de reales para subsidios a combustibles y agricultura familiar",
+        "lead": "El gobierno federal formalizó la liberación de 6.980 millones de reales en créditos extraordinarios mediante dos medidas provisionales publicadas este martes. Los fondos están destinados a cubrir subvenciones económicas en el sector de los combustibles y a reforzar el apoyo financiero a los pequeños productores rurales del país.",
+        "corpo": "El crédito más voluminoso, por un monto de 6.605 millones de reales, fue viabilizado por la Medida Provisional N° 1.389 y asignado al Ministerio de Minas y Energía para su ejecución a través de la Agencia Nacional del Petróleo, Gas Natural y Biocombustibles (ANP). De ese total, 5.607 millones de reales se destinarán a subsidiar la producción e importación de diésel de uso vehicular, mientras que 998 millones de reales apoyarán la subvención económica de otros derivados del petróleo.\n\nParalelamente, la Medida Provisional N° 1.390 asignó 375 millones de reales al Programa Nacional de Fortalecimiento de la Agricultura Familiar (Pronaf). Esta partida será gestionada bajo la supervisión de la Secretaría del Tesoro Nacional, entidad adscrita al Ministerio de Hacienda, con el objetivo de expandir las operaciones de crédito orientadas al cultivo y abastecimiento de alimentos por parte de pequeños agricultores.\n\nLa emisión de créditos extraordinarios mediante medida provisional cuenta con el respaldo de los artículos 62 y 167 de la Constitución Federal de Brasil, los cuales facultan al Poder Ejecutivo a adoptar esta herramienta financiera de manera inmediata en escenarios caracterizados por su urgencia y relevancia social o económica."
+      },
+      "en": {
+        "titulo": "Brazilian government releases R$ 6.98 billion for fuel subsidies and family farming",
+        "lead": "The federal government has officialized the release of R$ 6.98 billion in extraordinary credits through two provisional measures published this Tuesday. The funds are intended to cover economic subsidies in the fuel sector and strengthen financial support for the country's small-scale farmers.",
+        "corpo": "The largest allocation, totaling R$ 6.605 billion, was enabled by Provisional Measure No. 1,389 and transferred to the Ministry of Mines and Energy for execution via the National Agency of Petroleum, Natural Gas and Biofuels (ANP). Out of this total, R$ 5.607 billion will be used to subsidize the production and import of road diesel, while R$ 998 million will support economic subventions for other petroleum derivatives.\n\nConcurrently, Provisional Measure No. 1,390 allocated R$ 375 million to the National Program for Strengthening Family Farming (Pronaf). This portion will be administered under the supervision of the National Treasury Secretariat, an agency linked to the Ministry of Finance, aiming to expand credit operations focused on food cultivation and supply by smallholders.\n\nThe issuance of extraordinary credits by provisional measure is backed by Articles 62 and 167 of the Brazilian Federal Constitution, which authorize the Executive Branch to implement immediate financial measures in circumstances marked by urgency and social or economic relevance."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "5d4994d1-4307-45f7-a39b-f427871041f7",
     "titulo": "Documentário sobre histórico programa de humor celebra os 90 anos da Rádio Nacional",
     "lead": "O filme \"PRK-30 – O Rádio pelo Avesso\" chega aos cinemas destacando a trajetória de uma das atrações mais populares da Era de Ouro do rádio no Brasil.",
@@ -2004,39 +2038,5 @@
       }
     },
     "atualizacao_de": null
-  },
-  {
-    "id": "660d00ef-e523-4498-8784-d5f239012ea3",
-    "titulo": "Atualização: Mega-Sena sorteia prêmio acumulado de R$ 48 milhões neste domingo",
-    "lead": "O concurso 3.054 da Mega-Sena oferece uma premiação estimada em R$ 48 milhões neste domingo, após acumular novamente no sorteio anterior. O sorteio das seis dezenas será realizado na cidade de São Paulo.",
-    "corpo": "A extração dos números do concurso 3.054 da principal modalidade lotérica do Brasil está programada para as 11h, no horário de Brasília, diretamente do Espaço da Sorte, situado na capital paulista. O valor acumulado reflete a ausência de ganhadores que tenham acertado a sena na rodada anterior.\n\nOs interessados em concorrer ao montante milionário precisam registrar seus palpites até as 22h de sábado, pelo horário de Brasília. As apostas podem ser efetuadas presencialmente em qualquer unidade lotérica credenciada pela Caixa Econômica Federal distribuída pelo território brasileiro, ou por meio dos canais digitais oficiais da instituição financeira, via portal na internet. O bilhete simples, que permite a escolha de seis dezenas entre as sessenta disponíveis no volante, tem o custo de R$ 6.\n\nNo último concurso realizado, o globo sorteou as dezenas 01, 13, 25, 35, 39 e 51. Como nenhum bilhete registrou a combinação exata de seis números, a premiação máxima permaneceu retida, elevando a estimativa para o montante de R$ 48 milhões a ser distribuído no evento dominical. As demais faixas de premiação contemplam apostadores que acertam quatro ou cinco números entre os sorteados.",
-    "categoria": "Economia",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-05T18:15:48.604123+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-sorteia-premio-acumulado-de-r-48-milhoes-neste-domingo",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/37201909/pexels-photo-37201909.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Matheus Natan",
-      "photographer_url": "https://www.pexels.com/@matheusnatan",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/modern-bank-building-entrance-in-brasilia-37201909/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Actualización: La Mega-Sena de Brasil sortea un premio acumulado de 48 millones de reales este domingo",
-        "lead": "El concurso 3.054 de la Mega-Sena ofrece este domingo un pozo estimado en 48 millones de reales, tras quedar vacante en la ronda anterior. El sorteo de las seis cifras se llevará a cabo en la ciudad de São Paulo.",
-        "corpo": "La extracción de los números del concurso 3.054 de la principal lotería de Brasil está programada para las 11:00 horas, en el horario de Brasilia, desde el Espacio de la Suerte en la capital paulista. El monto acumulado responde a la ausencia de ganadores que hayan acertado los seis números en el sorteo previo.\n\nLos interesados en participar por este premio millonario deben registrar sus apuestas antes de las 22:00 horas del sábado, según el huso horario de Brasilia. Las jugadas pueden realizarse de manera presencial en las agencias de lotería autorizadas por la Caixa Econômica Federal en todo el país, así como a través de los canales digitales oficiales de la entidad bancaria en internet. La jugada simple, que permite elegir seis números entre los sesenta habilitados, tiene un valor de 6 reales.\n\nEn la edición anterior, los números sorteados fueron 01, 13, 25, 35, 39 y 51. Dado que ninguna boleta coincidió con la combinación completa, el premio mayor continuó acumulándose hasta alcanzar la cifra estimada de 48 millones de reales para la jornada dominical. Los otros niveles de premios reconocen a los participantes que logran cuatro o cinco aciertos."
-      },
-      "en": {
-        "titulo": "Update: Brazil's Mega-Sena to draw jackpot of 48 million reais this Sunday",
-        "lead": "Mega-Sena contest 3,054 offers an estimated jackpot of 48 million reais this Sunday, following an accumulation in the previous round. The drawing of the six winning numbers will take place in the city of São Paulo.",
-        "corpo": "The number drawing for contest 3,054 of Brazil's primary lottery is scheduled for 11:00 a.m. Brasília time, held at the Espaço da Sorte venue in São Paulo. The rollover jackpot reflects the absence of tickets matching all six drawn numbers during the previous session.\n\nPlayers aiming for the multi-million prize must register their tickets by 10:00 p.m. Brasília time on Saturday. Bets can be placed in person at lottery retailers authorized by Caixa Econômica Federal throughout Brazil or via the bank's official online platform. A single standard bet, which includes six selections out of sixty available numbers, costs 6 reais.\n\nIn the preceding draw, the balls picked were 01, 13, 25, 35, 39, and 51. Because no participant correctly selected all six digits, the top prize carried over, reaching the 48 million reais estimate set for Sunday's event. Lower prize tiers remain available for players who match four or five of the drawn numbers."
-      }
-    },
-    "atualizacao_de": "b5001bf0-48ba-4f4a-a9e9-ed6265a9a554"
   }
 ]
