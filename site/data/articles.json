@@ -1,5 +1,39 @@
 [
   {
+    "id": "b9385bb2-de10-4255-8555-8c722f3dabee",
+    "titulo": "Cotação do dólar permanece estável no Uruguai e atrai apetite por dívida pública em UI",
+    "lead": "O mercado financeiro no Uruguai registra relativa estabilidade no preço do dólar durante o mês de setembro, cenário acompanhado por uma forte demanda de investidores por títulos da dívida pública atrelados à inflação.",
+    "corpo": "O comportamento do mercado cambial uruguaio no mês de setembro mantém uma trajetória de pouca oscilação na cotação do dólar frente ao peso uruguaio. A menor volatilidade da moeda norte-americana reflete uma dinâmica de estabilização nas negociações locais, mantendo o câmbio em patamares contidos.\n\nParalelamente à calmaria cambial, o mercado tem demonstrado um expressivo interesse pelos papéis emitidos pelo governo do Uruguai em Unidades Indexadas (UI). As Unidades Indexadas são instrumentos financeiros cujo valor é ajustado pela evolução dos preços ao consumidor, oferecendo proteção contra a inflação e rentabilidade real aos aplicadores.\n\nA elevada procura por esses títulos de dívida evidencia a confiança dos agentes financeiros na sustentabilidade fiscal do país e na previsibilidade das políticas econômicas locais. Investidores nacionais e internacionais buscam diversificar portfólios e assegurar rendimentos protegidos de variações inflacionárias em um momento de estabilização do dólar no mercado interno.",
+    "categoria": "Economia",
+    "pais": "Uruguai",
+    "publicado_em": "2026-09-09T09:16:30.293927+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.elpais.com.uy/negocios/finanzas/dolar-uruguay-planchado-setiembre-avidez-deuda-gobierno-ui",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/6590627/pexels-photo-6590627.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Sergei Starostin",
+      "photographer_url": "https://www.pexels.com/@sejio402",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/close-up-of-one-dollar-bill-6590627/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Cotización del dólar se mantiene estable en Uruguay y atrae demanda por deuda pública en UI",
+        "lead": "El mercado financiero de Uruguay registra una relativa estabilidad en el precio del dólar durante septiembre, escenario acompañado por una fuerte demanda de inversores por títulos de deuda pública vinculados a la inflación.",
+        "corpo": "El comportamiento del mercado cambiario uruguayo en el mes de septiembre mantiene una trayectoria de baja oscilación en la cotización del dólar frente al peso uruguayo. La menor volatilidad de la moneda estadounidense refleja una dinámica de estabilización en las negociaciones locales, manteniendo el tipo de cambio en niveles moderados.\n\nParalelamente a la calma cambiaria, el mercado ha demostrado un expresivo interés por los papeles emitidos por el gobierno de Uruguay en Unidades Indizadas (UI). Las Unidades Indizadas son instrumentos financieros cuyo valor se ajusta según la evolución de los precios al consumidor, ofreciendo protección contra la inflación y rentabilidad real a los inversionistas.\n\nLa elevada demanda por estos títulos de deuda evidencia la confianza de los agentes financieros en la sostenibilidad fiscal del país y en la previsibilidad de las políticas económicas locales. Inversores nacionales e internacionales buscan diversificar sus portafolios y asegurar rendimientos protegidos de variaciones inflacionarias en un momento de estabilidad del dólar en el mercado interno."
+      },
+      "en": {
+        "titulo": "US dollar remains stable in Uruguay amid strong demand for UI-indexed government debt",
+        "lead": "Uruguay's financial market is experiencing relative stability in the US dollar exchange rate during September, a scenario accompanied by robust investor demand for inflation-linked government debt securities.",
+        "corpo": "The Uruguayan foreign exchange market in September continues on a trajectory of minimal fluctuation in the US dollar exchange rate against the Uruguayan peso. Lower volatility in the US currency reflects a stabilization trend in local trading, keeping foreign exchange rates at moderate levels.\n\nAlongside the currency calm, the market has shown significant appetite for debt instruments issued by the government of Uruguay in Indexed Units (UI). These Indexed Units are financial instruments adjusted for consumer price variations, offering investors real yields and protection against inflation.\n\nHigh demand for these debt securities highlights market confidence in the country's fiscal sustainability and local economic policy predictability. Domestic and international investors are seeking to diversify portfolios and secure inflation-hedged returns during a period of dollar stability in the domestic market."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "7e86b659-2cac-4751-94ba-9f8f69c68c97",
     "titulo": "Dólar recua para R$ 5,08 e Ibovespa registra maior nível desde maio impulsionado pelo petróleo",
     "lead": "O mercado financeiro brasileiro registrou um dia de otimismo nesta terça-feira, com a moeda americana fechando cotada a R$ 5,089, o menor valor em um mês, enquanto o índice Ibovespa avançou 1,20% puxado pela valorização do setor de energia.",
@@ -2001,40 +2035,6 @@
         "titulo": "Chinese quota ceiling slows Brazil's beef exports in August",
         "lead": "Brazilian beef exports experienced a 27.1% drop in volume during August, driven by proximity to the import quota limit set by the Chinese market.",
         "corpo": "Data released on Friday by the Ministry of Development, Industry, Commerce and Services (Mdic) indicates that revenue from protein shipments totaled US$ 1.2 billion for the month, representing a 19.7% decline compared to the same period last year.\n\nThe slowdown directly reflects China's commercial policy, which established an annual quota of 1.106 million tons for beef imports without additional tariffs. Volumes entering beyond this threshold are subject to an extra 55% duty. On August 10, Beijing notified Brazilian authorities that 90% of the quota had already been utilized.\n\nAccording to Mdic's analysis, the decrease in shipments was anticipated, as producers and exporters seek to minimize financial risks associated with the high tariff burden. The effect impacted Brazil's broader export performance to Asia, which saw a 19.2% decrease in shipped volume in August.\n\nDespite the monthly drop, the overall balance for Brazilian beef exports this year remains positive. Cumulative figures from January to August show that chilled and frozen beef volumes sent abroad grew by 4.7%, while dollar revenues rose 22.3% compared to the same period last year."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "0ac45d9e-79de-4520-b1c6-6ea0a33dec0b",
-    "titulo": "Ministério da Fazenda autoriza empréstimo de US$ 1 bilhão do BID para o Eco Invest Brasil",
-    "lead": "O governo brasileiro formalizou a autorização para a contratação de até US$ 1 bilhão em crédito externo junto ao Banco Interamericano de Desenvolvimento (BID), recurso que será destinado ao fortalecimento das ações do programa Eco Invest Brasil.",
-    "corpo": "A medida foi chancelada pelo Ministério da Fazenda após aval da Secretaria do Tesouro Nacional e da Procuradoria-Geral da Fazenda Nacional (PGFN). Amparada pela Lei de Responsabilidade Fiscal e por diretrizes aprovadas pelo Senado Federal, a decisão libera a União para concluir a formalização da operação com a instituição financeira multilateral.\n\nO Eco Invest Brasil é uma iniciativa coordenada conjuntamente pelo Ministério da Fazenda e pelo Ministério do Meio Ambiente e Mudança do Clima, integrando o Plano de Transformação Ecológica do país. O foco central da proposta é ampliar a atração de capital privado internacional para projetos sustentáveis no país, empregando mecanismos de financiamento misto (blended finance) e instrumentos de proteção cambial (hedge) para mitigar riscos de mercado para investidores estrangeiros.\n\nOs recursos obtidos junto ao BID têm como objetivo alavancar aportes em diversas frentes de transição ecológica e adaptação. No segmento de economia circular, as ações previstas visam impactar mais de dois milhões de pessoas nas regiões Nordeste, Sudeste e Sul. No setor de energia limpa, os projetos abrangem a construção de uma biorrefinaria na Bahia voltada à produção de combustível sustentável de aviação (SAF) e diesel renovável.\n\nAlém disso, o programa direcionará investimentos para a resiliência infraestrutural frente às mudanças climáticas, incluindo obras de modernização e aterramento de redes elétricas em estados como São Paulo, Bahia e Mato Grosso do Sul para prevenir interrupções de energia provocadas por tempestades e eventos meteorológicos extremos.",
-    "categoria": "Economia",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-05T07:13:54.737210+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/fazenda-autoriza-credito-de-us-1-bilhao-do-bid-para-eco-invest-brasil",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/37201870/pexels-photo-37201870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Matheus Natan",
-      "photographer_url": "https://www.pexels.com/@matheusnatan",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/banco-de-brasilia-building-in-distrito-federal-37201870/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Ministerio de Hacienda de Brasil autoriza crédito de US$ 1.000 millones del BID para Eco Invest Brasil",
-        "lead": "El gobierno brasileño formalizó la autorización para contratar un crédito externo de hasta US$ 1.000 millones con el Banco Interamericano de Desarrollo (BID), recursos que se destinarán a fortalecer el programa Eco Invest Brasil.",
-        "corpo": "La medida fue respaldada por el Ministerio de Hacienda tras la aprobación de la Secretaría del Tesoro Nacional y de la Procuraduría General de la Hacienda Nacional. Amparada en la Ley de Responsabilidad Fiscal y en resoluciones del Senado Federal, la decisión permite al Estado brasileño formalizar la operación con la entidad financiera multilateral.\n\nEco Invest Brasil es una iniciativa coordinada conjuntamente por el Ministerio de Hacienda y el Ministerio del Medio Ambiente y Cambio Climático, enmarcada en el Plan de Transformación Ecológica del país. Su objetivo principal es atraer capital privado internacional para proyectos sostenibles mediante el uso de financiamiento mixto (blended finance) y herramientas de protección cambiaria (hedge), reduciendo los riesgos de mercado para los inversionistas extranjeros.\n\nLos fondos obtenidos con el BID permitirán impulsar proyectos en diversas áreas de transición ecológica y adaptación ambiental. En el ámbito de la economía circular, se prevé beneficiar a más de dos millones de personas en las regiones Noreste, Sureste y Sur. En cuanto a la transición energética, los proyectos incluyen la construcción de una biorrefinería en el estado de Bahía destinada a la producción de combustible sostenible de aviación (SAF) y diésel renovable.\n\nAsimismo, el programa destinará inversiones a la infraestructura de adaptación climática, como la modernización y el sotterramiento de redes eléctricas en estados como San Pablo, Bahía y Mato Grosso del Sur, con el fin de prevenir cortes de energía provocados por fenómenos meteorológicos extremos."
-      },
-      "en": {
-        "titulo": "Brazilian Ministry of Finance approves $1 billion IDB loan for Eco Invest Brazil",
-        "lead": "The Brazilian government has authorized the contraction of up to $1 billion in external credit from the Inter-American Development Bank (IDB), with funds set to expand the Eco Invest Brazil program.",
-        "corpo": "The decision was issued by the Ministry of Finance following approval from the National Treasury Secretariat and the Office of the Attorney General of the National Treasury. Grounded in the Fiscal Responsibility Law and Senate resolutions, the move allows the federal government to finalize the credit agreement with the multilateral lender.\n\nEco Invest Brazil is a joint initiative led by the Ministry of Finance and the Ministry of Environment and Climate Change, operating under the country's Ecological Transformation Plan. The program aims to attract foreign private investment into sustainable projects by leveraging blended finance structures and currency hedging mechanisms designed to mitigate market risks for international investors.\n\nThe financing from the IDB will support projects across multiple environmental and adaptation fronts. Circular economy initiatives are expected to impact over two million people across the Northeast, Southeast, and South regions. In the energy sector, planned efforts include constructing a biorefinery in Bahia to produce sustainable aviation fuel (SAF) and renewable diesel.\n\nIn addition, the funds will target climate adaptation infrastructure, including undergrounding power lines in states such as São Paulo, Bahia, and Mato Grosso do Sul to protect the electrical grid from disruptions caused by extreme weather events."
       }
     },
     "atualizacao_de": null
