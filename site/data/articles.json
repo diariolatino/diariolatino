@@ -1,5 +1,39 @@
 [
   {
+    "id": "1bd56ee6-35a4-496d-80fc-9833736a7d16",
+    "titulo": "Ricardo Anaya classifica resultados educacionais do México no PISA como tragédia",
+    "lead": "O político mexicano Ricardo Anaya criticou de forma contundente os resultados obtidos pelo México no Programa Internacional de Avaliação de Estudantes (PISA), classificando o desempenho nacional como uma verdadeira tragédia.",
+    "corpo": "O debate sobre a qualidade do sistema educacional no México ganhou novo fôlego após as declarações de Ricardo Anaya, figura de destaque na oposição mexicana. Ao avaliar o panorama do setor educacional e as pontuações registradas pelos estudantes do país em avaliações internacionais padronizadas, o parlamentar expressou profunda preocupação com o atraso acadêmico observado nas áreas de leitura, matemática e ciências.\n\nO Programa Internacional de Avaliação de Estudantes (PISA), coordenado pela Organização para a Cooperação e Desenvolvimento Econômico (OCDE), mede as competências de estudantes de 15 anos em diversos países. Os desempenhos históricos e recentes de estudantes mexicanos têm suscitado constantes discussões entre especialistas, gestores públicos e lideranças políticas a respeito da eficácia dos currículos vigentes, da infraestrutura escolar e dos recursos destinados à formação docente.\n\nEm seus posicionamentos públicos, Anaya enfatizou que a defasagem no aprendizado compromete o futuro das novas gerações e o potencial de desenvolvimento socioeconômico do país no cenário global. As críticas refletem as divergências sobre os modelos pedagógicos adotados pelo governo federal e a necessidade de implementar reformas profundas para elevar a qualidade do ensino público.\n\nO setor educacional segue como um dos eixos mais sensíveis do debate público no México, onde organizações civis e especialistas demandam políticas sustentadas e medições contínuas para combater a evasão e reverter os déficits de aprendizagem agravados nos últimos anos.",
+    "categoria": "Sociedade",
+    "pais": "México",
+    "publicado_em": "2026-09-09T00:23:01.890588+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://tribuna.com.mx/mexico/2026/09/08/una-verdadera-tragedia-asi-califica-ricardo-anaya-los-resultados-de-mexico-en-la-prueba-pisa-2025_684155/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/33265593/pexels-photo-33265593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Raúl Sotomayor",
+      "photographer_url": "https://www.pexels.com/@raul-sotomayor-2154397849",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/university-students-reviewing-artwork-in-classroom-33265593/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Ricardo Anaya califica los resultados educativos de México en PISA como una tragedia",
+        "lead": "El político mexicano Ricardo Anaya criticó de manera contundente el desempeño de México en el Programa para la Evaluación Internacional de Alumnos (PISA), calificando los índices obtenidos por el país como una verdadera tragedia.",
+        "corpo": "El debate sobre la calidad del sistema educativo en México cobró nueva fuerza tras las declaraciones de Ricardo Anaya, destacada figura de la oposición mexicana. Al evaluar el panorama del sector educativo y las puntuaciones registradas por los estudiantes del país en evaluaciones internacionales estandarizadas, el legislador expresó una profunda preocupación por el rezago académico observado en las áreas de lectura, matemáticas y ciencias.\n\nEl Programa para la Evaluación Internacional de Alumnos (PISA), coordinado por la Organización para la Cooperación y el Desarrollo Económicos (OCDE), mide las competencias de estudiantes de 15 años en diversos países. El rendimiento histórico y reciente de los alumnos mexicanos ha generado continuas discusiones entre especialistas, gestores públicos y líderes políticos respecto a la eficacia de los planes de estudio vigentes, la infraestructura escolar y los recursos destinados a la formación docente.\n\nEn sus posturas públicas, Anaya enfatizó que el rezago en el aprendizaje compromete el futuro de las nuevas generaciones y el potencial de desarrollo socioeconómico del país en el escenario global. Las críticas reflejan las divergencias sobre los modelos pedagógicos adoptados por el gobierno federal y la necesidad de implementar reformas profundas para elevar la calidad de la enseñanza pública.\n\nEl ámbito educativo se mantiene como uno de los ejes más sensibles del debate público en México, donde organizaciones civiles y especialistas exigen políticas sostenidas y mediciones continuas para combatir la deserción y revertir los déficits de aprendizaje acumulados en los últimos años."
+      },
+      "en": {
+        "titulo": "Ricardo Anaya calls Mexico's PISA education assessment results a tragedy",
+        "lead": "Mexican politician Ricardo Anaya strongly criticized Mexico's performance in the Programme for International Student Assessment (PISA), describing the country's educational outcomes as a true tragedy.",
+        "corpo": "The debate over the quality of Mexico's educational system gained renewed momentum following remarks by Ricardo Anaya, a prominent figure in Mexican politics. In evaluating the state of the educational sector and the scores achieved by the country's students in standardized international assessments, he voiced deep concern regarding the academic deficit observed in reading, mathematics, and science.\n\nThe Programme for International Student Assessment (PISA), coordinated by the Organisation for Economic Co-operation and Development (OECD), evaluates the skills of 15-year-old students across various nations. Both historical and recent results from Mexican students have sparked ongoing debates among specialists, public administrators, and political leaders regarding the effectiveness of current curricula, school infrastructure, and investment in teacher training.\n\nIn his public statements, Anaya emphasized that learning gaps jeopardize the future of younger generations and undermine the country's socioeconomic development potential on the global stage. The criticism reflects broader disagreements surrounding the pedagogical models adopted by the federal government and the urgency of implementing structural reforms to enhance public education standards.\n\nEducation remains one of the most pressing topics in Mexico's public discourse, where civil society groups and educational experts continue to demand sustained public policies and regular assessments to tackle school dropouts and address learning deficits."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "eedb1d98-edf2-484a-9fad-dd1dcadf6ce5",
     "titulo": "Polícia indicia 13 pessoas pela morte de ciclista espancado em Copacabana",
     "lead": "A Polícia Civil do Rio de Janeiro concluiu o inquérito sobre a morte de Cláudio Rafael Landeiro Moreira e indiciou 13 pessoas envolvidas no espancamento da vítima, falsamente acusada de furto em Copacabana.",
@@ -2001,40 +2035,6 @@
         "titulo": "Colombia identifies tungsten deposits, a strategic mineral for global industry",
         "lead": "Colombia has announced the discovery of tungsten reserves within its territory, a metal considered critical for high-tech industries and valued at over US$ 60 per pound on the international market.",
         "corpo": "The discovery places the South American nation on the map of potential suppliers of critical minerals, which are vital for the energy transition and the manufacturing of high-precision components, industrial equipment, and defense technologies. Tungsten is widely valued for its high melting point and extreme hardness.\n\nThe market price of tungsten exceeds US$ 60 per pound globally, driven by strong demand from advanced industries and international efforts to diversify supply chains. Currently, global production of the mineral is highly concentrated in a few countries, increasing strategic interest in new deposits across Latin America.\n\nMining sector experts note that mapping and potential exploitation of these reserves in Colombia will depend on further geological studies to determine the exact volume and commercial viability of the deposits. Beyond the direct economic impact, any development will require environmental sustainability assessments and infrastructure investments.\n\nThe identification of strategic minerals in Colombia comes as several Latin American countries seek to advance responsible mining practices and integrate into global value chains for critical raw materials."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "1b35d40a-d240-4c4e-859a-a8b1d76b07ba",
-    "titulo": "Ministério do Interior da Colômbia apresenta balanço da Cúpula de Governadores",
-    "lead": "O Ministério do Interior da Colômbia divulgou o balanço oficial dos trabalhos e deliberações da Cúpula de Governadores, ressaltando o alinhamento entre o governo nacional e as administrações regionais.",
-    "corpo": "O pronunciamento do Ministério do Interior colombiano (MinInterior) apresentou a prestação de contas e o resumo das atividades desenvolvidas durante a mais recente edição da Cúpula de Governadores. O encontro reuniu chefes dos Executivos departamentais e representantes do governo central para tratar da coordenação institucional, do avanço de projetos territoriais e do alinhamento de políticas públicas em todo o país.\n\nDe acordo com as informações divulgadas pelo ministério, as reuniões permitiram avaliar o andamento de compromissos previamente assumidos, além de estabelecer novas diretrizes de trabalho conjunto. Entre os tópicos centrais abordados estiveram a segurança pública nas regiões, o financiamento de obras de infraestrutura local, o fortalecimento da gestão descentralizada e a implementação de programas sociais voltados às populações vulneráveis nos territórios departamentais.\n\nA articulação entre a administração nacional e os governos regionais é considerada fundamental para a governabilidade e para a execução eficiente do orçamento público na Colômbia. A Cúpula de Governadores funciona como um espaço de diálogo direto, no qual as demandas locais são apresentadas ao Executivo federal para a busca de soluções concertadas.\n\nCom a apresentação do balanço oficial, o Ministério do Interior reafirmou o compromisso do governo central em manter canais abertos de negociação e acompanhamento com os departamentos. As autoridades ressaltaram que o monitoramento constante dos acordos firmados garantirá maior transparência e efetividade na aplicação dos recursos públicos destinados ao desenvolvimento regional.",
-    "categoria": "Política",
-    "pais": "Colômbia",
-    "publicado_em": "2026-09-04T23:13:55.449778+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://www.lafm.com.co/politica/colombia-marco-rubio-secretario-estado-mininterior-cumbre-gobernadores-estatuto-antiterrorista-409958",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/13613518/pexels-photo-13613518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Parcerografo",
-      "photographer_url": "https://www.pexels.com/@rafs",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/a-person-man-in-green-long-sleeve-shirt-walking-near-edificio-a-lopez-building-13613518/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Ministerio del Interior de Colombia presenta balance de la Cumbre de Gobernadores",
-        "lead": "El Ministerio del Interior de Colombia presentó el balance oficial de los trabajos y deliberaciones de la Cumbre de Gobernadores, destacando la articulación entre el gobierno nacional y las administraciones departamentales.",
-        "corpo": "El pronunciamiento del Ministerio del Interior colombiano (MinInterior) presentó la rendición de cuentas y el resumen de las actividades desarrolladas durante la más reciente edición de la Cumbre de Gobernadores. El encuentro reunió a jefes de los Ejecutivos departamentales y representantes del gobierno central para tratar la coordinación institucional, el avance de proyectos territoriales y la articulación de políticas públicas en todo el país.\n\nDe acuerdo con la información divulgada por el ministerio, las reuniones permitieron evaluar el avance de compromisos previamente asumidos, además de establecer nuevas directrices de trabajo conjunto. Entre los temas centrales abordados estuvieron la seguridad pública en las regiones, el financiamiento de obras de infraestructura local, el fortalecimiento de la gestión descentralizada y la implementación de programas sociales orientados a las poblaciones vulnerables en los territorios departamentales.\n\nLa articulación entre la administración nacional y los gobiernos regionales es considerada fundamental para la gobernabilidad y para la ejecución eficiente del presupuesto público en Colombia. La Cumbre de Gobernadores funciona como un espacio de diálogo directo, en el cual las demandas locales son presentadas al Ejecutivo federal para la búsqueda de soluciones concertadas.\n\nCon la presentación del balance oficial, el Ministerio del Interior reafirmó el compromiso del gobierno central de mantener canales abiertos de negociación y seguimiento con los departamentos. Las autoridades resaltaron que el monitoreo constante de los acuerdos firmados garantizará mayor transparencia y efectividad en la aplicación de los recursos públicos destinados al desarrollo regional."
-      },
-      "en": {
-        "titulo": "Colombia’s Ministry of Interior Presents Overview of Governors’ Summit",
-        "lead": "Colombia’s Ministry of the Interior released the official assessment of the deliberations held at the Governors’ Summit, emphasizing alignment between the national government and departmental administrations.",
-        "corpo": "The statement by the Colombian Ministry of the Interior (MinInterior) presented an account and summary of the activities carried out during the latest edition of the Governors’ Summit. The gathering brought together departmental executive leaders and central government representatives to address institutional coordination, the progress of territorial projects, and the alignment of public policies nationwide.\n\nAccording to the information released by the ministry, the sessions made it possible to review progress on previously established commitments, as well as set new guidelines for joint work. Key issues discussed included regional public safety, funding for local infrastructure projects, strengthening decentralized management, and implementing social programs aimed at vulnerable populations across departmental territories.\n\nCoordination between the national administration and regional governments is considered essential for governance and the efficient execution of the public budget in Colombia. The Governors’ Summit serves as a forum for direct dialogue, enabling local demands to be brought before the federal executive to seek concerted solutions.\n\nBy presenting the official summary, the Ministry of the Interior reaffirmed the central government's commitment to maintaining open channels of negotiation and follow-up with the departments. Officials stressed that ongoing monitoring of signed agreements will ensure greater transparency and effectiveness in allocating public funds for regional development."
       }
     },
     "atualizacao_de": null
