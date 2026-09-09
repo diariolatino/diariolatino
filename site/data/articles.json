@@ -1,5 +1,39 @@
 [
   {
+    "id": "b0195d8b-529e-42a4-bea1-efe589d6f79f",
+    "titulo": "Polícia Federal desarticula grupo criminoso especializado em desvio de encomendas postais no Rio e em São Paulo",
+    "lead": "A Polícia Federal deflagrou uma operação nesta quarta-feira para desmantelar uma organização criminosa suspeita de desviar encomendas postais de alto valor nos estados do Rio de Janeiro e de São Paulo.",
+    "corpo": "A ação policial resultou no cumprimento de três mandados de prisão preventiva e oito mandados de busca e apreensão. As medidas judiciais foram executadas por agentes federais na zona oeste da capital fluminense e no município de São Vicente, localizado no litoral do estado de São Paulo, visando desarticular a estrutura logística do grupo.\n\nAs investigações que culminaram na operação desta semana tiveram início ainda em 2024. Na ocasião, uma mulher foi detida em flagrante ao tentar retirar uma encomenda em uma agência postal utilizando documentos falsificados em nome da real destinatária do produto. A partir desse episódio, a Polícia Federal passou a rastrear as atividades sistemáticas da quadrilha.\n\nDe acordo com as autoridades, a organização criminosa operava de forma altamente estruturada. O esquema consistia no monitoramento prévio de remessas postais de elevado valor econômico enviadas pelos Correios. Após identificar os objetos de interesse, os criminosos confeccionavam documentos falsos de identidade e realizavam as retiradas fraudulentas diretamente nas agências postais de ambos os estados.\n\nAté o momento, os investigadores federais mapearam pelo menos 24 ações do grupo, englobando tanto tentativas frustradas quanto retiradas consumadas de mercadorias de alto valor. Os suspeitos sob investigação poderão responder judicialmente pelos crimes de furto qualificado mediante fraude e organização criminosa. A Polícia Federal informou que as apurações continuam em andamento para identificar outros possíveis envolvidos e detalhar a extensão dos prejuízos causados.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-09T13:17:34.635577+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/pf-mira-grupo-suspeito-de-desviar-encomendas-postais",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/18421307/pexels-photo-18421307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Rodolfo Gaion",
+      "photographer_url": "https://www.pexels.com/@gaion",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/municipal-guard-cars-on-street-18421307/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Policía Federal de Brasil desarticula grupo criminal especializado en el desvío de encomiendas postales",
+        "lead": "La Policía Federal de Brasil desplegó un operativo este miércoles para desmantelar una organización criminal sospechosa de desviar encomiendas postales de alto valor en los estados de Río de Janeiro y São Paulo.",
+        "corpo": "La acción policial resultó en la ejecución de tres órdenes de prisión preventiva y ocho órdenes de búsqueda y captura. Las medidas judiciales fueron llevadas a cabo por agentes federales en la zona oeste de la capital carioca y en el municipio de São Vicente, ubicado en el litoral del estado de São Paulo, con el fin de desarticular la estructura logística del grupo.\n\nLas investigaciones que culminaron en el operativo de esta semana comenzaron en 2024. En ese momento, una mujer fue detenida en flagrancia al intentar retirar un paquete en una oficina postal utilizando documentos falsificados a nombre de la destinataria real del producto. A partir de ese episodio, la Policía Federal comenzó a rastrear las actividades sistemáticas de la banda.\n\nSegún las autoridades, la organización criminal operaba de manera altamente estructurada. El esquema consistía en el monitoreo previo de envíos postales de elevado valor económico transportados por el servicio de correos. Tras identificar los objetos de interés, los delincuentes confeccionaban documentos de identidad falsos y realizaban los retiros fraudulentos directamente en las oficinas postales de ambos estados.\n\nHasta el momento, los investigadores federales han mapeado al menos 24 acciones del grupo, que abarcan tanto intentos fallidos como retiros consumados de mercancías de alto valor. Los sospechosos bajo investigación podrían enfrentar cargos por los delitos de hurto calificado mediante fraude y organización criminal. La Policía Federal informó que las indagaciones continúan en curso para identificar a otros posibles implicados y detallar el alcance de los daños causados."
+      },
+      "en": {
+        "titulo": "Brazilian Federal Police dismantle criminal group specialized in stealing postal packages",
+        "lead": "The Brazilian Federal Police launched an operation on Wednesday to dismantle a criminal organization suspected of stealing high-value postal packages in the states of Rio de Janeiro and São Paulo.",
+        "corpo": "The police action resulted in the execution of three preventive arrest warrants and eight search and seizure warrants. The judicial measures were carried out by federal agents in the western zone of the city of Rio de Janeiro and in the municipality of São Vicente, located on the coast of São Paulo state, aiming to disrupt the group's logistical structure.\n\nThe investigations that culminated in this week's operation began in 2024. At the time, a woman was caught red-handed trying to retrieve a package at a post office using forged documents in the name of the actual recipient. Following this incident, the Federal Police began tracking the gang's systematic activities.\n\nAccording to authorities, the criminal organization operated in a highly structured manner. The scheme involved monitoring high-value postal shipments sent through the national mail service (Correios). After identifying the target items, the criminals forged identity documents and fraudulently retrieved the packages directly from post offices in both states.\n\nSo far, federal investigators have mapped at least 24 actions by the group, including both failed attempts and completed thefts of high-value goods. The suspects under investigation could face charges of qualified theft through fraud and criminal organization. The Federal Police stated that the investigations remain ongoing to identify other potential accomplices and detail the full extent of the financial losses."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "e41ea044-42be-4192-a895-b27ab1ed4c3a",
     "titulo": "Polícia Federal realiza ação contra apologia ao nazismo no interior do Rio de Janeiro",
     "lead": "A Polícia Federal deflagrou uma operação para combater a apologia ao nazismo na cidade de Valença, no interior do estado do Rio de Janeiro. A ação cumpriu mandados de busca e apreensão contra suspeitos de veicular conteúdos extremistas em redes sociais.",
@@ -2001,40 +2035,6 @@
         "titulo": "Business forum in Rosario discusses retail investments and new commercial projects",
         "lead": "Corporate meetings in the Argentine city of Rosario highlight the performance of the commercial sector and prospects for new private investments.",
         "corpo": "The business landscape in the city of Rosario, in the Argentine province of Santa Fe, is currently shaped by discussions regarding the performance of major shopping venues and the attraction of international capital to the local economy.\n\nDuring corporate events and business forums, industry leaders and commercial representatives have assessed the status of prominent shopping hubs, such as Alto Rosario, amid shifting consumer demand and operating costs in the retail sector. The industry is seeking strategies to maintain customer traffic and preserve competitiveness in the face of national macroeconomic fluctuations.\n\nAt the same time, business networking sessions and investment forums in the region are addressing urban tourism and entertainment projects, including proposals for recreational venues and theme parks involving Chinese capital. The feasibility of these initiatives is being evaluated for its potential to generate employment and diversify leisure options in the city.\n\nDiscussions at these business gatherings reflect the private sector's push for partnerships and long-term investments, balancing domestic market challenges with opportunities to attract foreign capital."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "65211194-42fc-4e28-b3e1-d72dccd04ac8",
-    "titulo": "Candidaturas de pessoas autistas crescem mais de cinco vezes nas eleições brasileiras de 2026",
-    "lead": "O registro de candidatos autistas saltou de 13 para 70 no pleito geral brasileiro de 2026, impulsionado pela maior visibilidade social da neurodiversidade e novas estratégias de representação política.",
-    "corpo": "Os registros de candidaturas de pessoas autistas apresentaram um expressivo avanço no Brasil nas eleições gerais de 2026. Segundo levantamento do Tribunal Superior Eleitoral (TSE), o número de postulantes autodeclarados dentro do Transtorno do Espectro Autista (TEA) saltou de 13, no pleito de 2022, para 70 neste ano — um aumento superior a cinco vezes.\n\nO crescimento ocorre em sentido oposto ao volume total de candidaturas registradas no país, que recuou de 29,2 mil em 2022 para cerca de 20,8 mil em 2026. Do total de concorrentes autistas, 39 disputam vagas para deputado estadual, 22 concorrem a deputado federal, cinco buscam assentos na Câmara Legislativa do Distrito Federal, três concorrem como vice-governadores e um como primeiro suplente. No panorama geral de acessibilidade eleitoral, 524 candidatos informaram possuir alguma deficiência.\n\nEspecialistas e representantes do setor atribuem a alta a dois fatores centrais: o avanço nos diagnósticos e a consolidação de pautas ligadas aos direitos das pessoas neurodivergentes. Para ativistas do segmento, a ampliação dos registros reflete uma maior ocupação de espaços cívicos, embora alertem para a necessidade de que os compromissos de campanha se traduzam em políticas públicas qualificadas, e não apenas em retórica eleitoral.\n\nSob a ótica da ciência política, o movimento também atende à dinâmica das disputas proporcionais no parlamento, nas quais pautas identitárias e específicas funcionam como vetores de diferenciação em meio a um eleitorado cada vez mais fragmentado. O público votante com deficiência cadastrado na Justiça Eleitoral brasileira chegou a 1,97 milhão de eleitores em 2026, um avanço de 42% na comparação com a eleição presidencial anterior.",
-    "categoria": "Política",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-05T13:14:34.821267+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/eleicoes-2026-candidaturas-de-autistas-aumentam-mais-de-cinco-vezes",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/1550337/pexels-photo-1550337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Element5 Digital",
-      "photographer_url": "https://www.pexels.com/@element5",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/person-dropping-paper-on-box-1550337/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Candidaturas de personas autistas aumentan más de cinco veces en las elecciones brasileñas de 2026",
-        "lead": "El registro de candidatos autistas pasó de 13 a 70 en los comicios generales brasileños de 2026, impulsado por una mayor visibilidad social de la neurodiversidad y nuevas estrategias de representación política.",
-        "corpo": "Los registros de candidaturas de personas autistas mostraron un significativo avance en Brasil durante las elecciones generales de 2026. Según datos del Tribunal Superior Electoral (TSE), el número de postulantes autodeclarados dentro del Trastorno del Espectro Autista (TEA) saltó de 13 en los comicios de 2022 a 70 este año, lo que representa un incremento superior a cinco veces.\n\nEste crecimiento contrasta con el volumen total de candidaturas inscritas en el país, que descendió de 29,2 mil en 2022 a cerca de 20,8 mil en 2026. Del total de aspirantes autistas, 39 compiten por escaños como diputados estaduales, 22 buscan llegar a la Cámara de Diputados federal, cinco aspiran a la Cámara Legislativa del Distrito Federal, tres postulan a vicegobernaciones y uno figura como primer suplente. En el marco global de accesibilidad electoral, 524 candidatos declararon tener alguna discapacidad.\n\nEspecialistas y referentes del sector atribuyen este aumento a dos factores principales: el avance en los diagnósticos y la consolidación de demandas vinculadas a los derechos de las personas neurodivergentes. Para activistas de la comunidad, el alza refleja una mayor ocupación de espacios cívicos, aunque advierten sobre la importancia de que las promesas de campaña se traduzcan en políticas públicas de calidad y no solo en retórica electoral.\n\nDesde la perspectiva de la ciencia política, esta tendencia responde también a la dinámica de las elecciones proporcionales, donde las agendas específicas operan como herramientas de diferenciación ante un electorado fragmentado. El padrón electoral de personas con discapacidad en Brasil alcanzó 1,97 millones de votantes en 2026, un 42% más frente a la anterior elección general."
-      },
-      "en": {
-        "titulo": "Candidacies of autistic individuals increase more than fivefold in Brazil's 2026 elections",
-        "lead": "The number of openly autistic political candidates jumped from 13 to 70 in Brazil's 2026 general elections, driven by greater social visibility for neurodiversity and evolving strategies of political representation.",
-        "corpo": "Candidacies among autistic individuals saw a substantial increase in Brazil for the 2026 general elections. According to records from the Superior Electoral Court (TSE), registered contenders identifying on the Autism Spectrum Disorder (ASD) spectrum grew from 13 in 2022 to 70 this year—more than a fivefold expansion.\n\nThe surge runs counter to the overall number of candidates registered nationwide, which decreased from 29.2 thousand in 2022 to around 20.8 thousand in 2026. Among autistic candidates, 39 are running for state deputy seats, 22 for federal deputy positions, five for the Federal District Legislative Chamber, three for vice-governor roles, and one as a first alternate. Across the broader spectrum of electoral accessibility, 524 candidates registered with some form of disability.\n\nExperts and community advocates attribute the rise to two primary drivers: improved access to clinical diagnoses and the growing prominence of neurodiversity rights in the public sphere. Advocacy leaders emphasize that this trend marks a positive expansion of civic participation, while cautioning that campaign pledges must lead to substantive public policies rather than superficial campaign appeals.\n\nFrom a political science standpoint, the movement also aligns with proportional representation dynamics, where focused niche agendas serve as differentiation mechanisms in an increasingly crowded electoral field. Meanwhile, registered voters with disabilities in Brazil reached 1.97 million in 2026, a 42% rise compared to the previous general election cycle."
       }
     },
     "atualizacao_de": null
