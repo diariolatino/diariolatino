@@ -1,5 +1,39 @@
 [
   {
+    "id": "b86eec44-f51b-4afa-9e30-70f13746bb61",
+    "titulo": "Seleção argentina feminina de futebol para cegos conquista o título de campeã da América ao vencer o Brasil",
+    "lead": "A seleção argentina feminina de futebol para cegos, conhecida como \"Las Murciélagas\", sagrou-se campeã da América após derrotar a seleção brasileira na final do torneio continental.",
+    "corpo": "A conquista consolida a força do esporte adaptado na região e marca mais um capítulo da histórica rivalidade esportiva entre Argentina e Brasil, desta vez na modalidade de futebol para deficientes visuais.\n\nA equipe argentina superou as brasileiras em uma partida decisiva que garantiu o troféu continental. O futebol para cegos feminino tem ganhado crescente visibilidade e apoio na América Latina, promovendo a inclusão social e o desenvolvimento de atletas de alto rendimento com deficiência visual.\n\nCom este resultado, \"Las Murciélagas\" reafirmam sua posição de destaque no cenário esportivo sul-americano, enquanto o Brasil segue como uma das principais potências e concorrentes diretas na modalidade. O torneio serve como uma vitrine importante para a consolidação de políticas de incentivo ao esporte paralímpico e adaptado nos países da região.",
+    "categoria": "Sociedade",
+    "pais": "Argentina",
+    "publicado_em": "2026-09-09T15:14:45.931941+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.lv12.com.ar/las-murcielagas/las-murcielagas-vencieron-brasil-y-son-campeonas-america-n203321",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/30986214/pexels-photo-30986214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Franco Monsalvo",
+      "photographer_url": "https://www.pexels.com/@franco-monsalvo-252430633",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/close-up-of-soccer-ball-on-green-field-30986214/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Las Murciélagas vencen a Brasil y se coronan campeonas de América",
+        "lead": "La selección argentina femenina de fútbol para ciegas, conocida como \"Las Murciélagas\", se consagró campeona de América tras derrotar a la selección brasileña en la final del torneo continental.",
+        "corpo": "La conquista consolida la fuerza del deporte adaptado en la región y marca un capítulo más de la histórica rivalidad deportiva entre Argentina y Brasil, esta vez en la modalidad de fútbol para personas con discapacidad visual.\n\nEl equipo argentino superó a las brasileñas en un partido decisivo que garantizó el trofeo continental. El fútbol para ciegas femenino ha ganado una creciente visibilidad y apoyo en América Latina, promoviendo la inclusión social y el desarrollo de atletas de alto rendimiento con discapacidad visual.\n\nCon este resultado, \"Las Murciélagas\" reafirman su posición de liderazgo en el escenario deportivo sudamericano, mientras que Brasil sigue siendo una de las principales potencias y competidoras directas en la modalidad. El torneo sirve como una vitrina importante para la consolidación de políticas de incentivo al deporte paralímpico y adaptado en los países de la región."
+      },
+      "en": {
+        "titulo": "\"Las Murciélagas\" defeat Brazil to become American champions",
+        "lead": "The Argentine women's blind football team, known as \"Las Murciélagas,\" has been crowned champion of the Americas after defeating the Brazilian national team in the final of the continental tournament.",
+        "corpo": "The victory consolidates the strength of adapted sports in the region and marks another chapter in the historic sporting rivalry between Argentina and Brazil, this time in the discipline of football for the visually impaired.\n\nThe Argentine squad overcame the Brazilian team in a decisive match that secured the continental trophy. Women's blind football has gained increasing visibility and support in Latin America, promoting social inclusion and the development of high-performance athletes with visual impairments.\n\nWith this result, \"Las Murciélagas\" reaffirm their leading position in the South American sports scene, while Brazil remains one of the main powerhouses and direct competitors in the sport. The tournament serves as an important showcase for consolidating policies that encourage Paralympic and adapted sports in the countries of the region."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "b0195d8b-529e-42a4-bea1-efe589d6f79f",
     "titulo": "Polícia Federal desarticula grupo criminoso especializado em desvio de encomendas postais no Rio e em São Paulo",
     "lead": "A Polícia Federal deflagrou uma operação nesta quarta-feira para desmantelar uma organização criminosa suspeita de desviar encomendas postais de alto valor nos estados do Rio de Janeiro e de São Paulo.",
@@ -2001,40 +2035,6 @@
         "titulo": "UN General Assembly approves new world map projection correcting size of South America and Africa",
         "lead": "The United Nations General Assembly has approved a resolution recommending the adoption of a new world map to correct historical distortions in the sizes of South America, Africa, and South Asia.",
         "corpo": "The measure passed with 164 votes in favor, one against—cast by the United States—and six abstentions. Titled \"Correct the Map,\" the proposal was spearheaded by Togo with the support of the African Union to address geographical and educational biases entrenched since the 16th century.\n\nHistorically, the predominant model in textbooks and digital cartography relies on the projection created by cartographer Gerardus Mercator in 1569. Originally designed for maritime navigation, that system disproportionately inflates landmasses at higher latitudes while visually shrinking territories near the Equator, including South America and Africa.\n\nThe new UN guideline encourages governments, educational institutions, and international organizations to adopt the \"Equal Earth\" projection model. This layout preserves the true area proportions of continents without compromising cartographic clarity.\n\nDuring deliberations at the multilateral body's headquarters, diplomatic representatives highlighted that the change carries symbolic and cultural weight beyond its scientific accuracy. The decision seeks to promote equitable representation and address unbalanced geopolitical perspectives built up over centuries, in line with international commitments to eradicate structural inequalities."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "7b417f2d-e4b3-441f-9282-3e886b9286ba",
-    "titulo": "Fórum empresarial em Rosario debate investimentos comerciais e atração de novos projetos",
-    "lead": "Encontros de negócios na cidade argentina de Rosario colocam em pauta o desempenho do setor comercial e a perspectiva de novos investimentos privados.",
-    "corpo": "O cenário de negócios na cidade de Rosario, na província argentina de Santa Fe, vem sendo marcado por discussões sobre o desempenho de grandes centros comerciais e a atração de novos capitais internacionais para a economia local.\n\nDurante eventos e fóruns voltados ao setor corporativo, empresários e representantes do comércio têm avaliado o momento de centros de compras de destaque, como o shopping Alto Rosario, em meio a ajustes na demanda e aos custos operacionais do setor varejista. O segmento busca estratégias para sustentar o fluxo de consumidores e preservar a competitividade diante das oscilações macroeconômicas do país.\n\nParalelamente, rodadas de articulação empresarial e fóruns de negócios na região também abordam projetos de entretenimento e turismo urbano, incluindo propostas para a instalação de atrações e parques temáticos com participação de capitais de origem chinesa. A viabilidade dessas iniciativas é analisada sob a ótica de geração de empregos e diversificação da oferta de lazer na cidade.\n\nAs deliberações em fóruns de negócios refletem a busca do setor privado por parcerias e investimentos de longo prazo, buscando conciliar os desafios correntes do mercado interno com oportunidades de integração e atração de capital externo.",
-    "categoria": "Economia",
-    "pais": "Argentina",
-    "publicado_em": "2026-09-05T14:13:02.467940+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-cenos-fruncidos-con-alto-rosario-mega-parque-de-diversiones-chino-y-full-negocios-en-el-business-forum-20260904-0069.html",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/30056106/pexels-photo-30056106.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Franco Garcia",
-      "photographer_url": "https://www.pexels.com/@francogarciafilms",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/black-and-white-cityscape-of-rosario-argentina-30056106/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Foro empresarial en Rosario debate inversiones comerciales y atracción de nuevos proyectos",
-        "lead": "Encuentros de negocios en la ciudad argentina de Rosario ponen en debate el desempeño del sector comercial y las perspectivas de nuevas inversiones privadas.",
-        "corpo": "El escenario empresarial en la ciudad de Rosario, en la provincia argentina de Santa Fe, está marcado por debates sobre el desempeño de grandes centros comerciales y la atracción de capitales internacionales para la economía local.\n\nDurante eventos y foros dirigidos al sector corporativo, empresarios y representantes del comercio han evaluado la situación de centros de compras destacados, como el shopping Alto Rosario, en medio de ajustes en la demanda y costos operativos del comercio minorista. El sector busca estrategias para sostener la afluencia de público y mantener la competitividad ante las oscilaciones macroeconómicas del país.\n\nParalelamente, las rondas de articulación empresarial y foros de negocios en la región también abordan proyectos de entretenimiento y turismo urbano, incluidas propuestas para la instalación de atracciones y parques temáticos con participación de capitales de origen chino. La viabilidad de estas iniciativas se analiza bajo la perspectiva de generación de empleo y diversificación de la oferta de esparcimiento en la ciudad.\n\nLas deliberaciones en los foros empresariales reflejan la búsqueda del sector privado por alianzas e inversiones a largo plazo, intentando conjugar los desafíos del mercado interno con oportunidades de integración y atracción de capital externo."
-      },
-      "en": {
-        "titulo": "Business forum in Rosario discusses retail investments and new commercial projects",
-        "lead": "Corporate meetings in the Argentine city of Rosario highlight the performance of the commercial sector and prospects for new private investments.",
-        "corpo": "The business landscape in the city of Rosario, in the Argentine province of Santa Fe, is currently shaped by discussions regarding the performance of major shopping venues and the attraction of international capital to the local economy.\n\nDuring corporate events and business forums, industry leaders and commercial representatives have assessed the status of prominent shopping hubs, such as Alto Rosario, amid shifting consumer demand and operating costs in the retail sector. The industry is seeking strategies to maintain customer traffic and preserve competitiveness in the face of national macroeconomic fluctuations.\n\nAt the same time, business networking sessions and investment forums in the region are addressing urban tourism and entertainment projects, including proposals for recreational venues and theme parks involving Chinese capital. The feasibility of these initiatives is being evaluated for its potential to generate employment and diversify leisure options in the city.\n\nDiscussions at these business gatherings reflect the private sector's push for partnerships and long-term investments, balancing domestic market challenges with opportunities to attract foreign capital."
       }
     },
     "atualizacao_de": null
