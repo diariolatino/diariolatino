@@ -1,5 +1,39 @@
 [
   {
+    "id": "d7bbdcce-b4ef-462d-aa24-9a39d9cbdca7",
+    "titulo": "Firjan Senai incorpora computador quântico educacional para capacitação técnica no Brasil",
+    "lead": "O sistema Firjan Senai instalou o computador quântico educacional Triangulum II em seu centro de tecnologia da informação para formar profissionais voltados a setores industriais estratégicos.",
+    "corpo": "O centro de referência em tecnologia DigiTech, vinculado à Firjan Senai, incorporou às suas instalações o Triangulum II, computador quântico educacional fabricado pela companhia chinesa SpinQ em parceria com a empresa Dobslit. Considerado o mais moderno de sua categoria no país e uma das três unidades do tipo existentes no território brasileiro, o equipamento foi destinado à capacitação técnica de estudantes, pesquisadores e trabalhadores de diferentes ramos produtivos.\n\nA computação quântica opera a partir de qubits, unidades de informação que podem processar combinações simultâneas de estados físicos, diferentemente do sistema binário convencional baseado em bits. Essa arquitetura permite resolver com maior agilidade problemas complexos que envolvem grandes volumes de variáveis e simulações científicas. Entre as principais áreas de aplicação prospectadas estão os setores de petróleo e gás, finanças, telecomunicações, logística e a indústria farmacêutica, na qual o processamento avançado acelera ensaios moleculares para a formulação de vacinas e medicamentos.\n\nSegundo Luiz Césio Caetano, presidente da Firjan, a iniciativa visa preparar mão de obra qualificada frente a uma demanda internacional crescente por especialistas na área, além de resguardar interesses ligados à soberania e segurança estratégica. O projeto também busca atender empresas que já direcionam equipes técnicas para treinamentos focados em tomada de decisão e modelagem analítica com o novo maquinário.",
+    "categoria": "Ciência & Ambiente",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-09T20:18:18.971922+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/novo-computador-quantico-educacional-passa-ser-usado-no-senai",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/6855582/pexels-photo-6855582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Ramaz Bluashvili",
+      "photographer_url": "https://www.pexels.com/@ramazphotos",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/the-large-hadron-collider-at-geneva-switzerland-6855582/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Firjan Senai incorpora computadora cuántica educativa para capacitación técnica en Brasil",
+        "lead": "El sistema Firjan Senai instaló la computadora cuántica educativa Triangulum II en su centro de tecnología de la información para formar a profesionales en sectores industriales estratégicos.",
+        "corpo": "El centro de referencia en tecnología DigiTech, vinculado a Firjan Senai, incorporó a sus instalaciones el Triangulum II, una computadora cuántica educativa fabricada por la empresa china SpinQ en colaboración con la compañía Dobslit. Considerado el más moderno de su categoría en el país y una de las tres unidades de este tipo existentes en el territorio brasileño, el equipo está destinado a la capacitación técnica de estudiantes, investigadores y trabajadores de diversos sectores productivos.\n\nLa computación cuántica opera mediante cúbits, unidades de información capaces de procesar combinaciones simultáneas de estados físicos, a diferencia del sistema binario convencional basado en bits. Esta arquitectura permite resolver con mayor agilidad problemas complejos que involucran grandes volúmenes de variables y simulaciones científicas. Entre las principales áreas de aplicación proyectadas figuran el sector de petróleo y gas, las finanzas, las telecomunicaciones, la logística y la industria farmacéutica, donde el procesamiento avanzado acelera ensayos moleculares para el desarrollo de vacunas y medicamentos.\n\nDe acuerdo con Luiz Césio Caetano, presidente de Firjan, la iniciativa busca preparar mano de obra calificada ante una creciente demanda internacional de especialistas, además de respaldar intereses vinculados a la soberanía y la seguridad estratégica. El proyecto también atiende a empresas que ya envían equipos técnicos para recibir formación en toma de decisiones y modelado analítico con la nueva tecnología."
+      },
+      "en": {
+        "titulo": "Firjan Senai introduces educational quantum computer for technical training in Brazil",
+        "lead": "The Firjan Senai network installed the Triangulum II educational quantum computer at its information technology center to train professionals for strategic industrial sectors.",
+        "corpo": "The DigiTech technology reference center, run by Firjan Senai, has integrated the Triangulum II educational quantum computer into its facilities. Manufactured by Chinese company SpinQ in partnership with tech firm Dobslit, it is considered the most advanced machine of its kind in the country and one of only three such educational units operating in Brazilian territory. The hardware is dedicated to the technical training of students, researchers, and professionals across diverse productive sectors.\n\nQuantum computing operates through qubits—units of information capable of processing simultaneous combinations of physical states, unlike conventional binary systems based on bits. This architecture enables the rapid resolution of complex problems that involve massive numbers of variables and scientific simulations. Key prospective fields of application include oil and gas, finance, telecommunications, logistics, and pharmaceuticals, where high-performance calculations can expedite molecular testing for the development of vaccines and medicines.\n\nAccording to Firjan President Luiz Césio Caetano, the initiative is designed to build a skilled workforce amid an escalating global demand for specialists, while reinforcing national sovereignty and strategic security. The program also accommodates private enterprises already dispatching technical personnel for training in data-driven decision-making and analytical modeling using the new system."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "1dc1a772-6f8e-4b6d-baa7-091e9fcf1d51",
     "titulo": "Governo brasileiro libera R$ 6,98 bilhões para subsídios a combustíveis e agricultura familiar",
     "lead": "O governo federal oficializou a liberação de R$ 6,98 bilhões em créditos extraordinários por meio de duas medidas provisórias publicadas nesta terça-feira. Os montantes visam custear subvenções econômicas no setor de combustíveis e reforçar o apoio financeiro aos pequenos produtores rurais do país.",
@@ -2001,40 +2035,6 @@
         "titulo": "Brazil's Electoral Justice expands accessibility features and transit for voters with disabilities",
         "lead": "Measures implemented by the Superior Electoral Court aim to ensure full participation for nearly 2 million registered voters with disabilities or reduced mobility.",
         "corpo": "Brazil's Electoral Justice has established a set of accessibility initiatives to safeguard voting rights for citizens with disabilities and reduced mobility. The measures follow a substantial increase in this demographic within voter records: data from the Superior Electoral Court (TSE) indicate that registered voters with disabilities rose from approximately 141,000 in 2010 to nearly 2 million today, an increase of more than 1,200% over sixteen years.\n\nAmong the key operational steps is the \"Seu Voto Importa\" program, established by the TSE to provide free specialized transportation on election day. Administered through technical cooperation agreements managed by Regional Electoral Courts (TREs), the service assists individuals with severe mobility challenges, elderly citizens, pregnant women, and nursing mothers. Utilization requires advance registration at electoral registry offices or digital portals, supported by documentation or self-declaration.\n\nOn the technical side, electronic voting machines have received interface upgrades to improve usability. The machines will incorporate the Atkinson Hyperlegible typeface, designed specifically to aid voters with low vision, along with an onscreen progress bar detailing the voting stages. Additionally, embedded sign language interpretation on machine screens has been expanded to cover instructions for blank, null, and party-list votes.\n\nThe accessibility framework also includes polling station logistics, guaranteeing access for service guide dogs and delivering dedicated training to poll workers to assist neurodivergent voters, including individuals on the autism spectrum."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "61be99d6-9e09-4a10-be03-d31b009d5152",
-    "titulo": "Brasil realiza testes com plataforma recuperável para pesquisas em microgravidade",
-    "lead": "A Operação Potiguar 2 avalia o sistema de recuperação da Plataforma Suborbital de Microgravidade Recuperável a partir do Centro de Lançamento da Barreira do Inferno, no Rio Grande do Norte.",
-    "corpo": "O Brasil deu início a uma nova etapa técnica destinada a fortalecer a capacidade nacional de realizar experimentos científicos em ambiente de microgravidade no espaço. Conduzida no Centro de Lançamento da Barreira do Inferno (CLBI), localizado em Parnamirim (RN), a Operação Potiguar 2 mobiliza cerca de 160 militares e servidores civis em atividades programadas entre 31 de agosto e 19 de setembro.\n\nO principal objetivo da missão é testar, em condições reais de voo suborbital, o conjunto de recuperação da Plataforma Suborbital de Microgravidade Recuperável (PSM-R). Esse mecanismo possibilita que os módulos e equipamentos científicos retornem à superfície após o voo para análise detalhada de dados, viabilizando pesquisas futuras em setores como biologia, novos materiais, fluidos, medicamentos, combustão e agricultura espacial.\n\nA plataforma, com massa calculada em 401 quilos, é impulsionada pelo foguete de sondagem VS-30 V16, desenvolvido pelo Instituto de Aeronáutica e Espaço (IAE). O veículo mede aproximadamente 9 metros de comprimento, possui 600 milímetros de diâmetro e 1,6 tonelada de massa total. As projeções operacionais indicam que o vetor pode atingir cerca de 100 quilômetros de altitude e percorrer uma trajetória de 90 quilômetros.\n\nA estrutura embarcada reúne paraquedas para pouso seguro, módulo de serviço, sistema de gás frio e dispositivos de controle de rotação. A iniciativa integra o Programa Microgravidade da Agência Espacial Brasileira (AEB), voltado à validação de tecnologias e estudos científicos em altitudes elevadas.\n\nInaugurado em 1965, o CLBI foi a primeira base de lançamentos da América do Sul e acumula um histórico superior a 400 lançamentos de foguetes, atuando também no rastreamento aeroespacial em cooperação internacional.",
-    "categoria": "Ciência & Ambiente",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-05T19:13:01.824473+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-testa-plataforma-para-pesquisas-em-microgravidade-no-espaco",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/7327336/pexels-photo-7327336.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Forest Katsch",
-      "photographer_url": "https://www.pexels.com/@forest-katsch-41702786",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/a-rocket-launching-in-the-sky-7327336/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Brasil realiza pruebas con plataforma recuperable para investigaciones en microgravedad",
-        "lead": "La Operación Potiguar 2 evalúa el sistema de recuperación de la Plataforma Suborbital de Microgravedad Recuperable desde el Centro de Lanzamiento de Barreira do Inferno, en Río Grande del Norte.",
-        "corpo": "Brasil inició una nueva etapa técnica orientada a fortalecer la capacidad nacional de realizar experimentos científicos en condiciones de microgravedad en el espacio. Llevada a cabo en el Centro de Lanzamiento de Barreira do Inferno (CLBI), situado en Parnamirim (Río Grande del Norte), la Operación Potiguar 2 moviliza a cerca de 160 efectivos militares y civiles en actividades programadas entre el 31 de agosto y el 19 de septiembre.\n\nEl objetivo central de la misión es probar, en condiciones reales de vuelo suborbital, el mecanismo de rescate de la Plataforma Suborbital de Microgravedad Recuperable (PSM-R). Dicho sistema permite que los módulos e instrumentos regresen a la superficie tras el vuelo para su análisis posterior, lo que beneficia investigaciones en áreas como biología, nuevos materiales, fluidos, fármacos, combustión y agricultura espacial.\n\nLa plataforma, con un peso aproximado de 401 kilos, es impulsada por el cohete de sondeo VS-30 V16, desarrollado por el Instituto de Aeronáutica y Espacio (IAE). El vehículo mide cerca de 9 metros de largo, cuenta con 600 milímetros de diámetro y una masa total de 1,6 toneladas. Las simulaciones técnicas estiman un alcance de 100 kilómetros de altitud y un recorrido de 90 kilómetros.\n\nLa estructura integrada incluye paracaídas para el descenso, módulos de servicio y control de rotación. El proyecto forma parte del Programa Microgravedad de la Agencia Espacial Brasileña (AEB), orientado a validar tecnologías avanzadas.\n\nInaugurado en 1965, el CLBI fue la primera base de lanzamientos espaciales de América del Sur y acumula más de 400 lanzamientos en su trayectoria, además de brindar apoyo en rastreo aeroespacial en colaboración internacional."
-      },
-      "en": {
-        "titulo": "Brazil tests recoverable platform for microgravity research in space",
-        "lead": "Operation Potiguar 2 evaluates the recovery system of the Recoverable Suborbital Microgravity Platform from the Barreira do Inferno Launch Center in Rio Grande do Norte.",
-        "corpo": "Brazil has launched a new technical campaign aimed at expanding national capabilities for scientific experimentation in microgravity environments. Conducted at the Barreira do Inferno Launch Center (CLBI) in Parnamirim, Rio Grande do Norte, Operation Potiguar 2 involves approximately 160 military and civilian personnel between August 31 and September 19.\n\nThe mission's primary objective is to evaluate the retrieval system of the Recoverable Suborbital Microgravity Platform (PSM-R) under actual suborbital flight conditions. This mechanism enables scientific payloads to return intact to the surface for post-flight analysis, supporting research in fields such as biology, advanced materials, fluid dynamics, pharmaceuticals, combustion, and space agriculture.\n\nWeighing roughly 401 kilograms, the payload is propelled by the VS-30 V16 sounding rocket, developed by the Institute of Aeronautics and Space (IAE). The vehicle measures around 9 meters in length, 600 millimeters in diameter, and has a total mass of 1.6 metric tons. Flight projections indicate an altitude of approximately 100 kilometers over a 90-kilometer trajectory.\n\nThe onboard architecture features parachutes, control and service modules, and despin mechanisms. The initiative is linked to the Brazilian Space Agency's (AEB) Microgravity Program, which selects experiments for suborbital and orbital missions.\n\nEstablished in 1965 as South America's first space launch facility, the CLBI has carried out over 400 rocket launches and continues to provide aerospace tracking services in international cooperation initiatives."
       }
     },
     "atualizacao_de": null
