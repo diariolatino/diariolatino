@@ -1,5 +1,39 @@
 [
   {
+    "id": "0ddd47a8-767f-44f2-8b5b-ddce3161ff28",
+    "titulo": "Polícia do Rio de Janeiro realiza operação contra venda ilegal de medicamentos abortivos na internet",
+    "lead": "A Polícia Civil do Estado do Rio de Janeiro deflagrou, nesta quarta-feira (9), uma operação para combater a divulgação e a venda ilegal de medicamentos abortivos por meio de redes sociais e aplicativos de mensagens.",
+    "corpo": "Durante a ação, os agentes cumpriram cinco mandados de busca e apreensão contra suspeitos de integrar o esquema digital. Segundo as investigações conduzidas pela Polícia Civil fluminense, os envolvidos utilizavam perfis em plataformas digitais para publicar conteúdos relacionados à interrupção da gravidez, com vídeos que ofereciam orientações e suposta ajuda para gestações indesejadas.\n\nA partir dessas publicações iniciais, as pessoas interessadas eram direcionadas para canais de atendimento privado, onde a comercialização dos produtos era efetivada longe do monitoramento público. A apuração policial aponta que o grupo utilizava uma rede complexa de contas falsas, diferentes linhas telefônicas e múltiplos dispositivos eletrônicos interligados, uma estratégia desenhada especificamente para dificultar o rastreamento e a identificação dos responsáveis pelas transações.\n\nAlém do comércio ilegal de substâncias sem registro ou de uso controlado, a operação mira crimes de falsificação, corrupção e adulteração de produtos destinados a fins terapêuticos ou medicinais. Os suspeitos também são investigados por incitação e apologia ao crime, uma vez que promoviam práticas não autorizadas pela legislação brasileira.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-09T16:15:35.125924+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/policia-faz-operacao-contra-venda-de-medicamentos-abortivos-no-rio",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/4694650/pexels-photo-4694650.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "michelle guimarães",
+      "photographer_url": "https://www.pexels.com/@guimaraesm",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/protesting-man-in-white-tank-top-and-white-pants-standing-on-the-street-near-a-group-pf-policemen-4694650/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Policía de Río de Janeiro realiza operativo contra venta ilegal de medicamentos abortivos en internet",
+        "lead": "La Policía Civil del Estado de Río de Janeiro desplegó, este miércoles (9), un operativo para combatir la difusión y venta ilegal de medicamentos abortivos a través de redes sociales y aplicaciones de mensajería.",
+        "corpo": "Durante la acción, los agentes cumplieron cinco órdenes de registro e incautación contra sospechosos de integrar la red digital. Según las investigaciones conducidas por la Policía Civil de Río de Janeiro, los implicados utilizaban perfiles en plataformas digitales para publicar contenidos relacionados con la interrupción del embarazo, con videos que ofrecían orientación y supuesta ayuda para embarazos no deseados.\n\nA partir de estas publicaciones iniciales, las personas interesadas eran redirigidas a canales de atención privada, donde se concretaba la venta de los productos lejos del monitoreo público. La investigación policial señala que el grupo utilizaba una red compleja de cuentas falsas, diferentes líneas telefónicas y múltiples dispositivos electrónicos interconectados, una estrategia diseñada específicamente para dificultar el rastreo y la identificación de los responsables de las transacciones.\n\nAdemás del comercio ilegal de sustancias sin registro o de uso controlado, el operativo apunta a delitos de falsificación, corrupción y adulteración de productos destinados a fines terapéuticos o medicinales. Los sospechosos también son investigados por incitación y apología del delito, ya que promovían prácticas no autorizadas por la legislación brasileña."
+      },
+      "en": {
+        "titulo": "Rio de Janeiro police launch operation against illegal online sale of abortion drugs",
+        "lead": "The Civil Police of the State of Rio de Janeiro launched an operation on Wednesday (9) to combat the illegal promotion and sale of abortion medications through social media and messaging apps.",
+        "corpo": "During the action, officers executed five search and seizure warrants against suspects believed to be part of the digital scheme. According to investigations conducted by the Rio de Janeiro Civil Police, those involved used profiles on digital platforms to post content related to the termination of pregnancy, with videos offering guidance and alleged help for unwanted pregnancies.\n\nFrom these initial posts, interested individuals were redirected to private messaging channels where the sale of the products was finalized, away from public monitoring. The police investigation indicates that the group used a complex network of fake accounts, different phone lines, and multiple interconnected electronic devices, a strategy specifically designed to hinder the tracking and identification of those responsible for the transactions.\n\nIn addition to the illegal trade of unregistered or controlled substances, the operation targets crimes of counterfeiting, corruption, and adulteration of products intended for therapeutic or medicinal purposes. The suspects are also under investigation for incitement and advocacy of crime, as they promoted practices not authorized by Brazilian law."
+      }
+    },
+    "atualizacao_de": "e41ea044-42be-4192-a895-b27ab1ed4c3a"
+  },
+  {
     "id": "b86eec44-f51b-4afa-9e30-70f13746bb61",
     "titulo": "Seleção argentina feminina de futebol para cegos conquista o título de campeã da América ao vencer o Brasil",
     "lead": "A seleção argentina feminina de futebol para cegos, conhecida como \"Las Murciélagas\", sagrou-se campeã da América após derrotar a seleção brasileira na final do torneio continental.",
@@ -2001,40 +2035,6 @@
         "titulo": "Brasília implements special traffic scheme for Independence Day parade and air show",
         "lead": "Main avenues in the federal capital face closures and heightened security for Independence Day civic and military events.",
         "corpo": "Traffic in central Brasília is undergoing extensive modifications due to preparations and operations for the September 7th Independence Day Civic Parade along the Esplanade of Ministries, alongside an air show organized by the Brazilian Air Force (FAB). The operational scheme set up by Federal District authorities aims to ensure pedestrian mobility and the safety of the thousands of attendees expected for the commemorations.\n\nRoad closures along the Esplanade of Ministries began early to accommodate site preparation, physical barriers, and detour signage along the Monumental Axis. Electronic message boards were placed at strategic locations to alert drivers about private vehicle restrictions and the priority granted to public transit near the central bus terminal. Throughout the holiday, traffic officers will manage pedestrian crossings and enforce strict access controls on surrounding avenues, supported by tow trucks and monitoring teams.\n\nIn addition to the central festivities, the Brasília Air Force Base is hosting the \"Brasília Air Show\", featuring aerial demonstrations and aerospace exhibitions. To accommodate an expected crowd of tens of thousands of visitors, access routes near the airport and district highways have been equipped with dedicated lanes, temporary closures, and reinforced signage to streamline traffic flow."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "d5245d2a-f243-4b1d-bc52-1c2200a7e88a",
-    "titulo": "Assembleia Geral da ONU aprova nova projeção cartográfica para corrigir dimensões da América do Sul e África",
-    "lead": "A Assembleia Geral das Nações Unidas aprovou uma resolução que recomenda a adoção de um novo mapa-múndi para corrigir distorções históricas no tamanho da América do Sul, da África e do Sul da Ásia.",
-    "corpo": "A medida foi aprovada por 164 países favoráveis, registrando apenas um voto contrário, dos Estados Unidos, e seis abstenções. Batizada de \"Corrija o mapa\", a proposta foi apresentada pelo Togo com o apoio da União Africana, visando combater vieses geográficos e educacionais consolidados desde o século XVI.\n\nHistoricamente, o modelo amplamente utilizado em livros escolares e mapas digitais baseia-se na projeção criada pelo cartógrafo Gerardus Mercator em 1569. Projetado originalmente para facilitar a navegação marítima, esse sistema amplia desproporcionalmente as regiões localizadas em latitudes mais elevadas, reduzindo visualmente o território de continentes situados próximos à linha do Equador, como a América do Sul e a África.\n\nA nova diretriz da ONU incentiva governos, instituições de ensino e organismos internacionais a adotarem o modelo \"Terra Igual\" (Equal Earth). Essa projeção preserva a proporção real das áreas continentais sem comprometer a clareza estética da representação cartográfica mundial.\n\nDurante os debates na sede do organismo multilateral, representantes diplomáticos enfatizaram que a mudança possui alcance simbólico e cultural além do aspecto científico. A alteração busca promover equidade de representação e reparar visões geopolíticas desequilibradas acumuladas ao longo de séculos, em alinhamento com compromissos internacionais para a eliminação de desigualdades estruturais.",
-    "categoria": "Mundo",
-    "pais": "América Latina",
-    "publicado_em": "2026-09-05T16:13:58.852467+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/novo-mapa-mundi-corrige-tamanho-da-africa-america-do-sul-e-asia",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Hugo Magalhaes",
-      "photographer_url": "https://www.pexels.com/@tiohugo",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/the-allee-des-nations-with-the-flags-of-member-countries-at-united-nations-office-geneva-switzerland-16146279/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "La Asamblea General de la ONU aprueba un nuevo mapa mundial para corregir el tamaño de América del Sur y África",
-        "lead": "La Asamblea General de las Naciones Unidas aprobó una resolución que recomienda la adopción de un nuevo mapa mundial para corregir distorsiones históricas en las dimensiones de América del Sur, África y el sur de Asia.",
-        "corpo": "La medida fue aprobada con 164 votos a favor, un voto en contra —emitido por Estados Unidos— y seis abstenciones. Denominada \"Corrige el mapa\", la propuesta fue impulsada por Togo con el respaldo de la Unión Africana, con el objetivo de combatir sesgos geográficos y educativos consolidados desde el siglo XVI.\n\nHistóricamente, el modelo predominante en materiales escolares y plataformas digitales se ha basado en la proyección creada por el cartógrafo Gerardus Mercator en 1569. Concebido originalmente para facilitar la navegación marítima, este sistema amplía de forma desproporcionada las regiones situadas en latitudes más altas, mientras empequeñece visualmente los territorios ubicados cerca de la línea ecuatorial, como América del Sur y África.\n\nLa nueva directriz de la ONU anima a gobiernos, instituciones educativas y organismos internacionales a adoptar el modelo \"Tierra Igual\" (Equal Earth). Esta proyección preserva la proporción real de las áreas continentales sin comprometer la claridad estética de la representación cartográfica global.\n\nDurante las deliberaciones en la sede del organismo multilateral, los representantes diplomáticos subrayaron que la decisión posee un alcance simbólico y cultural que va más allá del aspecto científico. El cambio busca promover la equidad en la representación gráfica global y reparar visiones geopolíticas desequilibradas acumuladas durante siglos, en alineación con los compromisos internacionales para eliminar desigualdades estructurales."
-      },
-      "en": {
-        "titulo": "UN General Assembly approves new world map projection correcting size of South America and Africa",
-        "lead": "The United Nations General Assembly has approved a resolution recommending the adoption of a new world map to correct historical distortions in the sizes of South America, Africa, and South Asia.",
-        "corpo": "The measure passed with 164 votes in favor, one against—cast by the United States—and six abstentions. Titled \"Correct the Map,\" the proposal was spearheaded by Togo with the support of the African Union to address geographical and educational biases entrenched since the 16th century.\n\nHistorically, the predominant model in textbooks and digital cartography relies on the projection created by cartographer Gerardus Mercator in 1569. Originally designed for maritime navigation, that system disproportionately inflates landmasses at higher latitudes while visually shrinking territories near the Equator, including South America and Africa.\n\nThe new UN guideline encourages governments, educational institutions, and international organizations to adopt the \"Equal Earth\" projection model. This layout preserves the true area proportions of continents without compromising cartographic clarity.\n\nDuring deliberations at the multilateral body's headquarters, diplomatic representatives highlighted that the change carries symbolic and cultural weight beyond its scientific accuracy. The decision seeks to promote equitable representation and address unbalanced geopolitical perspectives built up over centuries, in line with international commitments to eradicate structural inequalities."
       }
     },
     "atualizacao_de": null
