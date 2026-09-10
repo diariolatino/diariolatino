@@ -1,5 +1,39 @@
 [
   {
+    "id": "3fa3c04c-3b3d-45ae-9050-e14e2d2bd997",
+    "titulo": "Recomendações no Peru orientam usuários a protegerem aplicativos de pagamento em caso de perda do celular",
+    "lead": "Orientações divulgadas pela imprensa peruana destacam medidas preventivas para bloquear carteiras digitais populares como Yape e Plin após o extravio ou roubo de telefones móveis.",
+    "corpo": "A disseminação das carteiras digitais no Peru elevou a atenção sobre a segurança da informação e a proteção de dados bancários em dispositivos móveis. Aplicativos de transferência instantânea, como Yape e Plin, tornaram-se ferramentas centrais no cotidiano financeiro da população, o que reforça a necessidade de protocolos de emergência quando um aparelho celular é perdido ou furtado.\n\nEntre as principais recomendações transmitidas por veículos de comunicação locais, como o canal Peru21 TV, está o bloqueio imediato das contas bancárias e das linhas telefônicas junto às operadoras e instituições financeiras. O procedimento busca impedir que terceiros realizem transações não autorizadas ou acessem senhas salvas nos aparelhos.\n\nEspecialistas em segurança digital enfatizam a importância de acionar os canais oficiais de atendimento das entidades financeiras vinculadas às plataformas de pagamento assim que o extravio do dispositivo for constatado. Além do bloqueio preventivo, recomenda-se a alteração de senhas de e-mails e redes sociais associadas ao telefone, reduzindo os riscos de golpes ou fraudes financeiras.\n\nA conscientização sobre o uso seguro de carteiras virtuais acompanha o crescimento do ecossistema de pagamentos digitais na América Latina, onde a agilidade das transações instantâneas exige maior cautela por parte dos usuários na gestão de seus dispositivos móveis.",
+    "categoria": "Economia",
+    "pais": "Peru",
+    "publicado_em": "2026-09-10T11:15:16.398313+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.deperu.com/tv/eF7QVMM-xSQ.evita-que-usen-tu-yape-o-plin-si-pierdes-tu-celular.UCNd09h2GugrdeT_80LxOFMw.html",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/4226273/pexels-photo-4226273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Anna Shvets",
+      "photographer_url": "https://www.pexels.com/@shvetsa",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-woman-paying-using-her-smartphone-4226273/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Recomendaciones en Perú orientan a usuarios a proteger aplicaciones de pago en caso de pérdida del celular",
+        "lead": "Indicaciones difundidas por la prensa peruana destacan medidas preventivas para bloquear billeteras digitales populares como Yape y Plin tras el extravío o robo de teléfonos móviles.",
+        "corpo": "La masificación de las billeteras digitales en Perú ha elevado la atención sobre la seguridad de la información y la protección de datos bancarios en dispositivos móviles. Aplicaciones de transferencia instantánea, como Yape y Plin, se han convertido en herramientas centrales en el cotidiano financiero de la población, lo que refuerza la necesidad de protocolos de emergencia cuando un teléfono celular se pierde o es sustraído.\n\nEntre las principales recomendaciones transmitidas por medios de comunicación locales, como el canal Peru21 TV, figura el bloqueo inmediato de las cuentas bancarias y de las líneas telefónicas ante las operadoras e instituciones financieras. El procedimiento busca impedir que terceros realicen transacciones no autorizadas o accedan a claves guardadas en los equipos.\n\nEspecialistas en seguridad digital enfatizan la importancia de acudir a los canales oficiales de atención de las entidades financieras vinculadas a las plataformas de pago tan pronto como se constate el extravío del dispositivo. Además del bloqueo preventivo, se aconseja el cambio de contraseñas de correos electrónicos y redes sociales asociadas al teléfono, reduciendo los riesgos de estafas o fraudes financieros.\n\nLa concientización sobre el uso seguro de billeteras virtuales acompaña el crecimiento del ecosistema de pagos digitales en América Latina, donde la agilidad de las transacciones instantáneas exige mayor cautela por parte de los usuarios en la gestión de sus dispositivos móviles."
+      },
+      "en": {
+        "titulo": "Recommendations in Peru guide users on protecting payment apps if mobile phones are lost",
+        "lead": "Guidelines broadcast by Peruvian media highlight preventive measures to block popular digital wallets like Yape and Plin following the loss or theft of mobile devices.",
+        "corpo": "The widespread adoption of digital wallets in Peru has heightened attention on information security and the protection of mobile banking data. Instant transfer applications, such as Yape and Plin, have become essential financial tools for the population, underscoring the need for emergency protocols when a mobile phone is lost or stolen.\n\nAmong the main recommendations shared by local media outlets, such as the Peru21 TV channel, is the immediate blocking of bank accounts and phone lines through telecommunication operators and financial institutions. This procedure aims to prevent unauthorized transactions and stop third parties from accessing saved passwords on the devices.\n\nDigital security experts emphasize the importance of contacting the official support channels of the financial entities linked to payment platforms as soon as the loss of the device is confirmed. In addition to preventive blocking, changing passwords for emails and social media accounts linked to the phone is recommended to mitigate the risk of financial fraud.\n\nAwareness regarding the secure use of virtual wallets parallels the expansion of the digital payments ecosystem in Latin America, where the speed of instant transactions calls for greater user caution in managing mobile devices."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "8166c69b-7aae-48b7-824f-726d46ad2c5a",
     "titulo": "Câmara dos Deputados debaterá criação da Comissão Nacional Indígena da Verdade",
     "lead": "A Comissão da Amazônia e dos Povos Originários e Tradicionais da Câmara dos Deputados realizará uma audiência pública para discutir a criação da Comissão Nacional Indígena da Verdade.",
@@ -2001,40 +2035,6 @@
         "titulo": "Financial markets monitor dollar exchange rate in Peru",
         "lead": "Economic agents and the foreign exchange market are tracking the closing value of the US dollar against the Peruvian sol, reflecting the country's broader financial trends.",
         "corpo": "The value of the US dollar in Peru remains a key indicator of the domestic economy. Daily tracking of the exchange rate captures fluctuations across financial markets as well as the outlook of investors, businesses, and consumers regarding the Peruvian sol.\n\nHistorically, the Central Reserve Bank of Peru (BCRP) uses targeted exchange market interventions to curb excessive volatility and uphold macroeconomic stability. Currency shifts directly affect critical areas such as foreign trade, import costs for essential goods, and the domestic financial system.\n\nBeyond domestic conditions, the country's exchange rate is shaped by global developments, including monetary policy decisions in the United States, global price movements for key mineral exports, and broader capital flows across Latin America."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "dead976c-7d79-4874-9b9e-100591bff20b",
-    "titulo": "Candidatos à Presidência do Brasil cumprem agendas com foco em entrevistas, segurança e encontros setoriais",
-    "lead": "Os postulantes ao Palácio do Planalto intensificaram compromissos de campanha nesta quinta-feira (3), dividindo-se entre sabatinas na imprensa, encontros religiosos e anúncios de propostas para áreas como meio ambiente, combate ao crime e estrutura governamental.",
-    "corpo": "A corrida pela Presidência da República no Brasil registrou uma série de atividades públicas e participações em veículos de comunicação nesta quinta-feira (3). Os candidatos abordaram temas como repressão à criminalidade, políticas sociais, pautas ambientais e planos de gestão pública.\n\nEm agendas pelo estado de São Paulo, Romeu Zema (Novo) participou de sabatina de imprensa e reuniu-se com mulheres correligionárias, ocasião em que defendeu o combate ao feminicídio e prometeu manter a máquina federal com 22 ministérios, priorizando presença feminina nos cargos de liderança. No mesmo estado, Augusto Cury (Avante) esteve com lideranças religiosas evangélicas e também pautou o enfrentamento à violência de gênero. Ronaldo Caiado (PSD) visitou uma obra social na zona leste da capital paulista e concedeu entrevista a jornalistas.\n\nA pauta de segurança e finanças esteve presente nas declarações de Clariana Barão (Democracia Cristã), que em transmissões à imprensa defendeu a ampliação do rastreamento financeiro para sufocar economicamente o crime organizado. Por sua vez, Wilson Grassi (Democrata) visitou um centro de recuperação de animais resgatados no Distrito Federal e destacou a preservação da fauna silvestre e fiscalização ambiental como bandeiras centrais.\n\nNo Nordeste, Hertz Dias (PSTU) cumpriu compromissos em Sergipe, onde realizou panfletagem e defendeu a reestatização de ativos do setor petroleiro e a revisão de privatizações ligadas à Petrobras. No ambiente digital e de mídia nacional, Flávio Bolsonaro (PL) realizou transmissão pelas redes sociais e Renan Santos (Missão) concedeu entrevista televisiva. O candidato Edmilson Costa (PCB) esteve em compromisso partidário internacional em Lisboa, enquanto Luiz Inácio Lula da Silva (PT), Samara Martins (UP) e Rui Costa Pimenta (PCO) não cumpriram agendas públicas no dia.",
-    "categoria": "Política",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-06T07:13:36.841739+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quinta-feira-3-dos-candidatos-presidente",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/36606961/pexels-photo-36606961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Marwen Larafa",
-      "photographer_url": "https://www.pexels.com/@marwen-larafa-2159807713",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/protester-holding-flares-in-crowd-gathering-36606961/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Candidatos a la Presidencia de Brasil cumplen agendas centradas en entrevistas, seguridad y encuentros sectoriales",
-        "lead": "Los aspirantes al Palacio de Planalto intensificaron sus actividades de campaña este jueves (3), dividiéndose entre entrevistas en medios, citas religiosas y propuestas en áreas como medioambiente, lucha contra el crimen y gestión gubernamental.",
-        "corpo": "La carrera hacia la Presidencia de la República en Brasil registró una serie de actividades públicas y compromisos en medios de comunicación este jueves (3). Los candidatos abordaron asuntos como la represión a la delincuencia, políticas sociales, agenda ambiental y planes de gestión pública.\n\nEn actividades en el estado de São Paulo, Romeu Zema (Novo) participó en una ronda de entrevistas y se reunió con mujeres de su partido, ocasión en la que defendió el combate al feminicidio y prometió mantener la estructura federal con 22 ministerios, priorizando la presencia femenina en cargos de liderazgo. En la misma entidad, Augusto Cury (Avante) se reunió con líderes religiosos evangélicos y también puso énfasis en la violencia de género. Ronaldo Caiado (PSD) visitó una institución benéfica en el este de la capital paulista y atendió a periodistas.\n\nLa seguridad y el control financiero destacaron en las declaraciones de Clariana Barão (Democracia Cristiana), quien defendió en entrevistas rastrear los movimientos financieros para asfixiar al crimen organizado. Por su parte, Wilson Grassi (Demócrata) visitó un centro de rescate animal en el Distrito Federal y señaló la protección de la fauna silvestre y la fiscalización ambiental como ejes prioritarios.\n\nEn el noreste del país, Hertz Dias (PSTU) cumplió agenda en Sergipe, donde promovió la reestatización de activos petroleros y la revisión de privatizaciones vinculadas a Petrobras. En el entorno digital y televisivo, Flávio Bolsonaro (PL) realizó una transmisión en redes sociales y Renan Santos (Missão) concedió una entrevista en televisión. Edmilson Costa (PCB) atendió compromisos partidarios en Lisboa, mientras que Luiz Inácio Lula da Silva (PT), Samara Martins (UP) y Rui Costa Pimenta (PCO) no tuvieron actividades públicas de campaña durante la jornada."
-      },
-      "en": {
-        "titulo": "Brazilian presidential candidates hold campaign events focused on interviews, security, and policy proposals",
-        "lead": "Candidates running for Brazil's presidency carried out diverse campaign schedules on Thursday (3), balancing media interviews, religious meetings, and policy announcements regarding the environment, crime, and public administration.",
-        "corpo": "The race for the presidency in Brazil saw a series of public appearances and media commitments on Thursday (3). Candidates addressed issues ranging from organized crime and social policies to environmental preservation and government structure.\n\nDuring events in the state of São Paulo, Romeu Zema (Novo) took part in a press interview and met with female party members, advocating for stronger measures against femicide and promising to maintain a 22-ministry cabinet with prioritized female representation in leadership roles. In the same state, Augusto Cury (Avante) met with evangelical leaders and also emphasized the fight against gender violence. Ronaldo Caiado (PSD) visited a charitable institution in eastern São Paulo and spoke with journalists.\n\nSecurity and financial oversight were central to remarks by Clariana Barão (Democracia Cristã), who called for enhanced financial tracking to cut off funding for organized crime. Meanwhile, Wilson Grassi (Democrata) visited an animal rehabilitation center in the Federal District, pointing to wildlife protection and environmental oversight as key campaign priorities.\n\nIn the Northeast, Hertz Dias (PSTU) campaigned in Sergipe, calling for the renationalization of oil assets and the reversal of privatizations involving Petrobras. In digital and broadcast media, Flávio Bolsonaro (PL) hosted a live social media stream, while Renan Santos (Missão) gave a television interview. Edmilson Costa (PCB) attended party engagements in Lisbon, and Luiz Inácio Lula da Silva (PT), Samara Martins (UP), and Rui Costa Pimenta (PCO) had no public campaign events scheduled for the day."
       }
     },
     "atualizacao_de": null
