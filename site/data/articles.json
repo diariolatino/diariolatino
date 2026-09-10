@@ -1,5 +1,39 @@
 [
   {
+    "id": "8166c69b-7aae-48b7-824f-726d46ad2c5a",
+    "titulo": "Câmara dos Deputados debaterá criação da Comissão Nacional Indígena da Verdade",
+    "lead": "A Comissão da Amazônia e dos Povos Originários e Tradicionais da Câmara dos Deputados realizará uma audiência pública para discutir a criação da Comissão Nacional Indígena da Verdade.",
+    "corpo": "O encontro, agendado para o dia 17 de novembro, foi convocado por iniciativa da deputada federal Sônia Guajajara. A proposta atende a uma demanda histórica do movimento indígena brasileiro e busca apurar de forma aprofundada as violações de direitos humanos cometidas contra essas populações pelo Estado, especialmente durante a ditadura militar.\n\nA iniciativa conta com o apoio de entidades representativas, como a Articulação dos Povos Indígenas do Brasil (Apib). O objetivo principal é expandir os trabalhos iniciados pela Comissão Nacional da Verdade (CNV), que encerrou seus trabalhos em 2014. O relatório final da CNV analisou o impacto da ditadura militar em apenas 10 etnias, estimando em cerca de 8,3 mil o número de indígenas mortos no período. Organizações indígenas apontam que esse levantamento cobriu uma parcela mínima dos mais de 300 povos existentes no país.\n\nA audiência pública reunirá lideranças comunitárias, representantes do poder público, juristas, pesquisadores e organizações da sociedade civil. Os participantes devem apresentar contribuições e diretrizes para a estruturação do novo colegiado.\n\nCom a criação da comissão, os organizadores pretendem apurar responsabilidades estatais por crimes como trabalho escravo, tortura, remoção forçada de territórios, envenenamento e assassinatos cometidos contra as populações originárias, além de subsidiar políticas de reparação integral e preservação da memória histórica.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-10T10:16:21.687540+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/comissao-da-verdade-indigena-sera-tema-de-audiencia-na-camara",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/30179018/pexels-photo-30179018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "João  Pavese",
+      "photographer_url": "https://www.pexels.com/@bangalo",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/modern-architecture-of-national-congress-brazil-30179018/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "La Cámara de Diputados de Brasil debatirá la creación de la Comisión Nacional Indígena de la Verdad",
+        "lead": "La Comisión de la Amazonía y de los Pueblos Originarios y Tradicionales de la Cámara de Diputados celebrará una audiencia pública para discutir la creación de la Comisión Nacional Indígena de la Verdad.",
+        "corpo": "El encuentro, programado para el 17 de noviembre, fue convocado por iniciativa de la diputada federal Sônia Guajajara. La propuesta responde a una demanda histórica del movimiento indígena brasileño y busca investigar en profundidad las violaciones de derechos humanos cometidas contra estas poblaciones por parte del Estado, especialmente durante la dictadura militar.\n\nLa iniciativa cuenta con el respaldo de organizaciones representativas, como la Articulación de los Pueblos Indígenas de Brasil (Apib). El objetivo principal es ampliar las labores iniciadas por la Comisión Nacional de la Verdad (CNV), que concluyó sus trabajos en 2014. El informe final de la CNV analizó el impacto del régimen militar en solo 10 etnias, estimando en unos 8.300 el número de indígenas asesinados en ese período. Las organizaciones indígenas señalan que ese relevamiento cubrió una fracción mínima de los más de 300 pueblos que existen en el país.\n\nLa audiencia pública reunirá a líderes comunitarios, representantes del poder público, juristas, investigadores y organizaciones de la sociedad civil. Los participantes presentarán propuestas y directrices para la estructuración del nuevo organismo.\n\nCon la creación de la comisión, los promotores buscan establecer la responsabilidad estatal por delitos como trabajo esclavo, tortura, desplazamiento forzado de territorios, envenenamiento y asesinatos cometidos contra las poblaciones originarias, además de fundamentar políticas de reparación integral y preservación de la memoria histórica."
+      },
+      "en": {
+        "titulo": "Brazil's Chamber of Deputies to debate creation of National Indigenous Truth Commission",
+        "lead": "The Committee on the Amazon and Indigenous and Traditional Peoples of the Chamber of Deputies will hold a public hearing to discuss the creation of the National Indigenous Truth Commission.",
+        "corpo": "The meeting, scheduled for November 17, was convened on the initiative of Federal Deputy Sônia Guajajara. The proposal addresses a long-standing demand from the Brazilian Indigenous movement and aims to thoroughly investigate human rights violations committed against these populations by the State, particularly during the military dictatorship.\n\nThe initiative is supported by representative entities, such as the Articulation of Indigenous Peoples of Brazil (Apib). The primary goal is to expand upon the work started by the National Truth Commission (CNV), which concluded its activities in 2014. The CNV's final report analyzed the impact of the military regime on only 10 ethnic groups, estimating that around 8,300 Indigenous people were killed during that period. Indigenous organizations point out that this survey covered a minimal fraction of the more than 300 peoples existing in the country.\n\nThe public hearing will bring together community leaders, public officials, legal experts, researchers, and civil society organizations. Participants are expected to submit contributions and guidelines for structuring the new body.\n\nBy creating the commission, organizers aim to determine State accountability for crimes such as forced labor, torture, forced displacement from territories, poisoning, and murders committed against native populations, as well as to support policies for comprehensive reparation and historical memory preservation."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "5e2a1e1b-8a1b-4051-8b9d-f50c5796586b",
     "titulo": "Presidenciáveis intensificam compromissos de campanha com foco em pautas setoriais e sociais pelo país",
     "lead": "Candidatos à Presidência da República cumpriram agendas diversificadas nesta quarta-feira (9), combinando comícios, encontros com setores econômicos e manifestações sociais em diferentes regiões do Brasil.",
@@ -2001,40 +2035,6 @@
         "titulo": "Brazilian presidential candidates hold campaign events focused on interviews, security, and policy proposals",
         "lead": "Candidates running for Brazil's presidency carried out diverse campaign schedules on Thursday (3), balancing media interviews, religious meetings, and policy announcements regarding the environment, crime, and public administration.",
         "corpo": "The race for the presidency in Brazil saw a series of public appearances and media commitments on Thursday (3). Candidates addressed issues ranging from organized crime and social policies to environmental preservation and government structure.\n\nDuring events in the state of São Paulo, Romeu Zema (Novo) took part in a press interview and met with female party members, advocating for stronger measures against femicide and promising to maintain a 22-ministry cabinet with prioritized female representation in leadership roles. In the same state, Augusto Cury (Avante) met with evangelical leaders and also emphasized the fight against gender violence. Ronaldo Caiado (PSD) visited a charitable institution in eastern São Paulo and spoke with journalists.\n\nSecurity and financial oversight were central to remarks by Clariana Barão (Democracia Cristã), who called for enhanced financial tracking to cut off funding for organized crime. Meanwhile, Wilson Grassi (Democrata) visited an animal rehabilitation center in the Federal District, pointing to wildlife protection and environmental oversight as key campaign priorities.\n\nIn the Northeast, Hertz Dias (PSTU) campaigned in Sergipe, calling for the renationalization of oil assets and the reversal of privatizations involving Petrobras. In digital and broadcast media, Flávio Bolsonaro (PL) hosted a live social media stream, while Renan Santos (Missão) gave a television interview. Edmilson Costa (PCB) attended party engagements in Lisbon, and Luiz Inácio Lula da Silva (PT), Samara Martins (UP), and Rui Costa Pimenta (PCO) had no public campaign events scheduled for the day."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "f1e88316-e1e5-4b82-8d5f-55d28c78a991",
-    "titulo": "Colômbia amplia operações de segurança contra o ELN e organizações armadas",
-    "lead": "As forças de segurança da Colômbia intensificaram as ações operacionais e estratégicas de combate ao Exército de Libertação Nacional (ELN) e a outros grupos armados ilegais que atuam no território nacional.",
-    "corpo": "O governo da Colômbia determinou o fortalecimento das operações militares e policiais direcionadas a conter o avanço do Exército de Libertação Nacional (ELN) e de diferentes estruturas armadas ilegais presentes no país. A medida reflete o esforço do Estado em restabelecer o controle territorial em regiões historicamente afetadas por confrontos armados e pela atuação do crime organizado.\n\nA intensificação das ofensivas busca desarticular as cadeias logísticas e financeiras dessas organizações, frequentemente associadas a atividades ilícitas como o narcotráfico, a mineração ilegal e a extorsão. As ações envolvem o reforço do desdobramento de tropas em áreas rurais e de fronteira, onde a presença de facções armadas costuma gerar graves impactos para as populações locais, incluindo deslocamentos forçados e restrições de mobilidade.\n\nO cenário de segurança na Colômbia permanece complexo diante da multiplicidade de atores armados que disputam rotas estratégicas e territórios. Ao priorizar ações integradas entre as Forças Militares e a Polícia Nacional, as autoridades buscam reduzir os índices de violência armada e proteger comunidades vulneráveis.\n\nCom essa postura operacional reforçada, o país tenta mitigar os riscos à estabilidade interna e garantir a presença institucional em zonas de alta conflitividade, mantendo a resposta de segurança como um dos eixos centrais de sua estratégia nacional.",
-    "categoria": "Segurança",
-    "pais": "Colômbia",
-    "publicado_em": "2026-09-06T06:16:51.561212+00:00",
-    "fontes": [
-      "GDELT"
-    ],
-    "url_fonte_original": "https://www.eldiario.ec/mundo/colombia-redobla-la-ofensiva-contra-el-eln-y-otros-grupos-armados-en-el-catatumbo-05092026/",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/14015956/pexels-photo-14015956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Franklin Peña Gutierrez",
-      "photographer_url": "https://www.pexels.com/@franklin-pena-gutierrez-337911674",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/soldier-with-machine-gun-and-paper-bird-in-jungle-14015956/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Colombia amplía operativos de seguridad contra el ELN y organizaciones armadas",
-        "lead": "Las fuerzas de seguridad de Colombia intensificaron las acciones operativas y estratégicas de combate contra el Ejército de Liberación Nacional (ELN) y otros grupos armados ilegales que operan en el territorio nacional.",
-        "corpo": "El gobierno de Colombia determinó el fortalecimiento de las operaciones militares y policiales dirigidas a contener el avance del Ejército de Liberación Nacional (ELN) y de distintas estructuras armadas ilegales presentes en el país. La medida refleja el esfuerzo del Estado por restablecer el control territorial en regiones históricamente afectadas por confrontaciones armadas y por el accionar del crimen organizado.\n\nLa intensificación de las ofensivas busca desarticular las cadenas logísticas y financieras de estas organizaciones, frecuentemente vinculadas a actividades ilícitas como el narcotráfico, la minería ilegal y la extorsión. Las acciones involucran el refuerzo del despliegue de tropas en áreas rurales y fronterizas, donde la presencia de facciones armadas suele generar graves impactos en las poblaciones locales, incluyendo desplazamientos forzados y restricciones a la movilidad.\n\nEl escenario de seguridad en Colombia continúa siendo complejo ante la multiplicidad de actores armados que disputan rutas estratégicas y territorios. Al priorizar acciones integradas entre las Fuerzas Militares y la Policía Nacional, las autoridades buscan reducir los índices de violencia armada y proteger a las comunidades vulnerables.\n\nCon esta postura operativa reforzada, el país intenta mitigar los riesgos para la estabilidad interna y garantizar la presencia institucional en zonas de alta conflictividad, manteniendo la respuesta de seguridad como uno de los ejes centrales de su estrategia nacional."
-      },
-      "en": {
-        "titulo": "Colombia expands security operations against ELN and armed organizations",
-        "lead": "Colombian security forces have intensified operational and strategic efforts to combat the National Liberation Army (ELN) and other illegal armed groups operating across the national territory.",
-        "corpo": "The government of Colombia has ordered the reinforcement of military and police operations aimed at containing the advance of the National Liberation Army (ELN) and various illegal armed factions active in the country. The measure reflects state efforts to re-establish territorial control in regions historically affected by armed confrontations and organized crime.\n\nThe heightened offensive aims to dismantle the logistical and financial networks of these groups, which are frequently linked to illicit activities such as drug trafficking, illegal mining, and extortion. Operations include enhanced troop deployments in rural and border areas, where the presence of armed factions often inflicts severe harm on local populations, including forced displacement and restrictions on freedom of movement.\n\nColombia's security landscape remains challenging due to the multiplicity of armed actors competing for strategic routes and territories. By prioritizing integrated efforts between the Military Forces and the National Police, authorities seek to curb armed violence rates and safeguard vulnerable communities.\n\nThrough this reinforced operational stance, the country seeks to mitigate risks to internal stability and ensure institutional presence in high-conflict zones, maintaining a robust security response as a central pillar of its national strategy."
       }
     },
     "atualizacao_de": null
