@@ -1,5 +1,39 @@
 [
   {
+    "id": "99608079-f991-48bd-bea0-5235801a486a",
+    "titulo": "Aparição de Tini Stoessel com acessório de luxo gera repercussão sobre mensagens à família",
+    "lead": "A cantora argentina Tini Stoessel voltou ao centro das atenções midiáticas após especulações sobre os possíveis significados por trás dos acessórios de alta costura utilizados em suas aparições públicas recentes.",
+    "corpo": "A cantora e atriz argentina Tini Stoessel tornou-se alvo de debate na imprensa de variedades após relatos apontarem que o uso recente de uma bolsa de alta gama conteria uma mensagem direcionada a seus pais.\n\nStoessel, uma das figuras mais proeminentes da música pop contemporânea na América Latina, mantém uma presença pública amplamente monitorada pelas redes sociais e veículos de entretenimento. Comentários e análises na imprensa local sugeriram que as escolhas de estilo da artista refletiriam posicionamentos e dinâmicas privadas no âmbito familiar.\n\nA repercussão ilustra como figuras do cenário artístico regional enfrentam escrutínio detalhado sobre cada aspecto de sua imagem pública, em um contexto no qual símbolos e itens de moda frequentemente recebem interpretações que transcendem o aspecto visual.",
+    "categoria": "Sociedade",
+    "pais": "Argentina",
+    "publicado_em": "2026-09-10T04:14:59.806274+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.eltrecetv.com.ar/mediodia-noticias/2026/09/09/aseguran-que-la-cartera-de-alta-gama-que-lucio-tini-stoessel-fue-un-mensaje-para-sus-padres/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/36068674/pexels-photo-36068674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Kari Alfonso",
+      "photographer_url": "https://www.pexels.com/@kari-alfonso-2151442665",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/excited-argentina-soccer-fans-cheering-36068674/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Aparición de Tini Stoessel con accesorio de lujo genera repercusiones sobre mensajes a su familia",
+        "lead": "La cantante argentina Tini Stoessel volvió al centro de la atención mediática tras especulaciones sobre los posibles significados detrás de los accesorios de alta gama utilizados en sus recientes apariciones públicas.",
+        "corpo": "La cantante y actriz argentina Tini Stoessel se convirtió en objeto de debate en la prensa de espectáculos luego de trascendidos que señalan que el uso reciente de una cartera de alta gama contendría un mensaje dirigido a sus padres.\n\nStoessel, una de las figuras más prominentes del pop contemporáneo en América Latina, mantiene una presencia pública ampliamente monitoreada por redes sociales y medios de entretenimiento. Comentarios y análisis en la prensa local sugirieron que las elecciones de estilo de la artista reflejarían posturas y dinámicas privadas en el ámbito familiar.\n\nLa repercusión ilustra cómo figuras del escenario artístico regional enfrentan un escrutinio detallado sobre cada aspecto de su imagen pública, en un contexto en el que símbolos y prendas de moda con frecuencia reciben interpretaciones que trascienden lo estrictamente visual."
+      },
+      "en": {
+        "titulo": "Tini Stoessel's appearance with luxury accessory sparks speculation over family message",
+        "lead": "Argentine singer Tini Stoessel has returned to media attention following speculation regarding the possible meanings behind high-end accessories worn during her recent public appearances.",
+        "corpo": "Argentine singer and actress Tini Stoessel has become the subject of discussion in entertainment media following reports suggesting that her recent use of a luxury handbag was meant as a message to her parents.\n\nStoessel, one of the most prominent pop figures in contemporary Latin America, maintains a prominent public presence closely followed across social media and entertainment outlets. Commentaries and analyses in local media suggested that the artist's fashion choices may reflect private stances and dynamics within her family environment.\n\nThe coverage illustrates how regional entertainment figures face detailed scrutiny over every aspect of their public image, in a context where fashion items and symbols are frequently subject to interpretations that go beyond aesthetics."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "33d24d21-87dd-4747-9664-ce169fbcac99",
     "titulo": "Polícia Federal analisa pedido para incluir crianças desaparecidas no Maranhão em alerta da Interpol",
     "lead": "A mãe de dois irmãos desaparecidos há mais de oito meses em Bacabal, no Maranhão, solicitou à Polícia Federal a inclusão das crianças na Difusão Amarela da Interpol.",
@@ -2001,40 +2035,6 @@
         "titulo": "Labor unions press Brazilian Senate to vote on end of 6x1 workweek before elections",
         "lead": "Brazil's major trade union federations announced a mobilization campaign to demand that senators vote on a constitutional amendment ending the six-day workweek before the first round of general elections.",
         "corpo": "The strategy, defined during a meeting of the Trade Union Forum, includes leaflet distribution in commercial hubs, digital campaigns, and direct engagement with lawmakers in their home states. The move follows a decision by the Senate leadership to schedule the floor vote on Proposed Constitutional Amendment 221/2019 only after the election cycle concludes.\n\nThe proposed amendment mandates two consecutive days of paid rest per week and reduces the statutory maximum workweek from 44 to 40 hours, without salary cuts. While the measure recently cleared the Senate's Constitution and Justice Committee (CCJ), Senate President Davi Alcolumbre's decision to delay the final vote prompted swift union backlash.\n\nUnion leadership from organizations including CUT, Força Sindical, UGT, and CSB argue the measure is vital for worker health and well-being. They contend that businesses can absorb the adjustment costs and assert that postponing the vote allows lawmakers to evade accountability before their constituents.\n\nConversely, business confederations such as the National Confederation of Goods, Services and Tourism (CNC) oppose the proposal in its current format and support the delay. Business representatives warn of potential increases in operating expenses and broader economic impacts, maintaining that major constitutional labor changes should be evaluated with technical rigor away from electoral pressure."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "4d7c6eca-55be-4a0a-be63-cf8882f6ac92",
-    "titulo": "Fachin defende devido processo legal em meio a crise institucional no STF",
-    "lead": "O presidente do Supremo Tribunal Federal afirmou que a gravidade das denúncias envolvendo ministros da Corte não justifica atalhos jurídicos e garantiu respeito absoluto à Constituição.",
-    "corpo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, declarou nesta sexta-feira, em Brasília, que a resposta do Judiciário brasileiro às recentes acusações envolvendo membros da própria Corte será pautada estritamente pelo ordenamento jurídico e pelas garantias constitucionais. O posicionamento ocorre em meio à crise deflagrada por suspeitas de irregularidades e vazamentos de mensagens no âmbito do caso do Banco Master.\n\nDurante cerimônia realizada no Palácio do Planalto, Fachin enfatizou que nenhuma autoridade ou Poder da República está acima das leis vigentes. Segundo o magistrado, o momento exige a preservação das instituições e o cumprimento rigoroso dos ritos processuais, assegurando que as medidas necessárias serão tomadas no tempo e na forma determinados pela legislação.\n\nA tensão institucional no tribunal se intensificou nos últimos dias após trocas mútuas de pedidos de investigação entre integrantes da corte. O ministro André Mendonça encaminhou à presidência do STF uma solicitação de inquérito contra o ministro Alexandre de Moraes, baseando-se em relatório policial sobre contatos com o ex-banqueiro Daniel Vorcaro. Em contrapartida, Moraes solicitou a apuração da conduta de Mendonça na relatoria de outros processos da Polícia Federal. Fachin concedeu prazo de cinco dias para manifestações de Mendonça e do procurador-geral da República, Paulo Gonet.\n\nPresente ao mesmo evento de sanção de leis para o Judiciário, o presidente Luiz Inácio Lula da Silva também abordou a crise. Lula defendeu a igualdade de todos os cidadãos perante a lei e alertou para os riscos que os vazamentos seletivos de apurações sigilosas e a desinformação representam para a credibilidade das instituições democráticas do país.",
-    "categoria": "Política",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-06T00:23:08.757887+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/presidente-do-stf-diz-que-gravidade-dos-fatos-nao-autoriza-atalhos",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/13640269/pexels-photo-13640269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "FILIPE COELHO",
-      "photographer_url": "https://www.pexels.com/@filipe-coelho-32247889",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/supremo-tribunal-federal-in-brazil-13640269/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Fachin defiende el debido proceso legal en medio de la crisis institucional en el Supremo de Brasil",
-        "lead": "El presidente del Supremo Tribunal Federal afirmó que la gravedad de las denuncias que involucran a magistrados de la Corte no justifica atajos jurídicos y garantizó apego absoluto a la Constitución.",
-        "corpo": "El presidente del Supremo Tribunal Federal (STF), el ministro Edson Fachin, declaró este viernes en Brasilia que la respuesta del Poder Judicial brasileño a las recientes acusaciones que involucran a miembros del propio tribunal se guiará estrictamente por el ordenamiento jurídico y las garantías constitucionales. La postura se da en medio de la crisis desatada por sospechas de irregularidades y filtraciones de mensajes en el marco del caso del Banco Master.\n\nDurante una ceremonia celebrada en el Palacio de Planalto, Fachin enfatizó que ninguna autoridad ni Poder de la República está por encima de las leyes vigentes. Según el magistrado, el momento exige preservar las instituciones y cumplir rigurosamente los ritos procesales, asegurando que las medidas necesarias se tomarán en el tiempo y la forma determinados por la legislación.\n\nLa tensión institucional en el tribunal se intensificó en los últimos días tras solicitudes cruzadas de investigación entre miembros de la corte. El ministro André Mendonça remitió a la presidencia del STF una solicitud de indagatoria contra el ministro Alexandre de Moraes, basándose en un informe policial sobre contactos con el exbanquero Daniel Vorcaro. En respuesta, Moraes solicitó investigar la actuación de Mendonça en la instrucción de otros procesos de la Policía Federal. Fachin otorgó un plazo de cinco días para que se pronuncien Mendonça y el fiscal general de la República, Paulo Gonet.\n\nPresente en el mismo acto institucional, el presidente Luiz Inácio Lula da Silva también se refirió a la crisis. Lula defendió la igualdad de todos los ciudadanos ante la ley y advirtió sobre los riesgos que las filtraciones selectivas de investigaciones reservadas y la desinformación representan para la credibilidad de las instituciones democráticas del país."
-      },
-      "en": {
-        "titulo": "Fachin upholds due process amid institutional crisis in Brazil's Supreme Court",
-        "lead": "The president of the Federal Supreme Court stated that the severity of allegations involving justices does not justify legal shortcuts and pledged strict adherence to the Constitution.",
-        "corpo": "The president of Brazil's Federal Supreme Court (STF), Justice Edson Fachin, stated this Friday in Brasília that the judiciary's response to recent allegations involving court members will strictly adhere to the legal framework and constitutional guarantees. His remarks come amid a crisis sparked by suspected irregularities and leaked messages related to the Banco Master case.\n\nSpeaking at an official ceremony at the Planalto Palace, Fachin emphasized that no authority or branch of government is above the law. According to the justice, the current situation demands the preservation of democratic institutions and rigorous compliance with due process, ensuring that all necessary measures will be adopted within the timeframe and manner required by legislation.\n\nInstitutional tensions within the high court escalated in recent days following mutual investigation requests between justices. Justice André Mendonça forwarded a request to STF leadership to open an inquiry against Justice Alexandre de Moraes, citing a police report regarding communications with former banker Daniel Vorcaro. In response, Moraes requested an investigation into Mendonça's conduct overseeing other Federal Police cases. Fachin granted a five-day deadline for Mendonça and Prosecutor General Paulo Gonet to submit their formal responses.\n\nAttending the same event, President Luiz Inácio Lula da Silva also addressed the crisis. Lula defended the principle that all citizens are equal before the law and warned of the dangers that selective leaks of confidential investigations and disinformation pose to the credibility of the nation's democratic institutions."
       }
     },
     "atualizacao_de": null
