@@ -1,5 +1,39 @@
 [
   {
+    "id": "8dcc1de3-698b-4b5c-9e67-44dadc94dcce",
+    "titulo": "Lula defende fim do sigilo em investigação de fraude financeira e cobra transparência do Judiciário",
+    "lead": "O presidente Luiz Inácio Lula da Silva defendeu publicamente a retirada completa do sigilo das investigações relativas ao chamado caso Master. O pronunciamento ocorre em meio a uma grave crise institucional que afeta o Supremo Tribunal Federal.",
+    "corpo": "Em manifestação divulgada nesta quarta-feira, o chefe de Estado brasileiro classificou o esquema investigado como um dos maiores crimes financeiros da história recente do país e exigiu urgência na divulgação de todos os documentos relacionados ao processo, afirmando que a apuração deve avançar de forma irrestrita.\n\nA declaração do Executivo surge em um momento de forte tensão no Judiciário brasileiro. A crise se intensificou após a divulgação de relatórios parciais ligados à Operação Compliance Zero, conduzida sob relatoria do ministro André Mendonça. Os documentos apontam supostas irregularidades e fraudes financeiras bilionárias envolvendo o ex-banqueiro Daniel Vorcaro, além de menções relativas a outros integrantes da alta corte, como o ministro Alexandre de Moraes, que nega qualquer irregularidade ou contato informal com o investigado.\n\nDiante da troca de acusações e de vazamentos seletivos de informações que impactam o cenário político, o presidente enfatizou que a população brasileira necessita de esclarecimentos imediatos. O governo sustentou que a utilização de dados sigilosos para disputas políticas prejudica as instituições e que a única forma de garantir a credibilidade do processo é assegurar a transparência irrestrita sobre os fatos.\n\nO desdobramento do caso gerou reações no tribunal, levando ao cancelamento de sessões plenárias e a disputas sobre a condução das apurações policiais. O Palácio do Planalto reiterou que a elucidação completa dos fatos é indispensável para restabelecer a estabilidade institucional e a confiança no sistema de justiça.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-10T08:16:25.108875+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/lula-pede-quebra-completa-de-sigilo-do-caso-master-doa-quem-doer",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/1040873/pexels-photo-1040873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "MESSALA CIULLA",
+      "photographer_url": "https://www.pexels.com/@messalaciulla",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/body-of-water-underneath-golden-hour-1040873/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Lula exige levantar el secreto de sumario en investigación por fraude financiero y pide transparencia al Judicial",
+        "lead": "El presidente Luiz Inácio Lula da Silva defendió públicamente el levantamiento total del secreto de sumario en las investigaciones del denominado caso Master. El pronunciamiento se produce en medio de una grave crisis institucional que afecta al Supremo Tribunal Federal.",
+        "corpo": "En una declaración difundida este miércoles, el jefe de Estado brasileño calificó el esquema investigado como uno de los mayores delitos financieros de la historia reciente del país y exigió urgencia en la divulgación de todos los documentos relacionados con el proceso, afirmando que la investigación debe avanzar de manera irrestricta.\n\nLa declaración del Ejecutivo surge en un momento de fuerte tensión en el Judicial brasileño. La crisis se intensificó tras la difusión de informes parciales vinculados a la Operación Compliance Zero, conducida bajo la ponencia del ministro André Mendonça. Los documentos señalan presuntas irregularidades y fraudes financieros millonarios que involucran al exbanquero Daniel Vorcaro, además de menciones relativas a otros integrantes de la alta corte, como el ministro Alexandre de Moraes, quien niega cualquier irregularidad o contacto informal con el investigado.\n\nAnte el intercambio de acusaciones y las filtraciones selectivas de información que impactan en el escenario político, el presidente enfatizó que la población brasileña necesita aclaraciones inmediatas. El gobierno sostuvo que la utilización de datos reservados para disputas políticas perjudica a las instituciones y que la única forma de garantizar la credibilidad del proceso es asegurar la transparencia irrestricta sobre los hechos.\n\nEl desarrollo del caso generó reacciones en el tribunal, provocando la cancelación de sesiones plenarias y disputas sobre la conducción de las indagatorias policiales. El Palacio de Planalto reiteró que la elucidación completa de los hechos es indispensable para restablecer la estabilidad institucional y la confianza en el sistema de justicia."
+      },
+      "en": {
+        "titulo": "Lula demands full lifting of confidentiality in financial fraud probe, calling for judicial transparency",
+        "lead": "President Luiz Inácio Lula da Silva has publicly advocated for the complete removal of confidentiality surrounding investigations into the so-called Master case. The statement comes amid a severe institutional crisis affecting the Supreme Federal Court.",
+        "corpo": "In a statement released this Wednesday, the Brazilian head of state classified the scheme under investigation as one of the largest financial crimes in the country's recent history and demanded urgency in the disclosure of all case-related documents, asserting that the probe must proceed without restriction.\n\nThe Executive's statement arrives at a moment of heightened tension within the Brazilian Judiciary. The crisis escalated following the release of partial reports tied to Operation Compliance Zero, overseen by Justice André Mendonça. The documents point to alleged irregularities and billions in financial fraud involving former banker Daniel Vorcaro, alongside mentions concerning other members of the high court, such as Justice Alexandre de Moraes, who denies any wrongdoing or informal contact with the suspect.\n\nFacing an exchange of accusations and selective information leaks impacting the political arena, the president emphasized that the Brazilian public requires immediate answers. The administration maintained that using confidential data for political disputes harms public institutions and that the sole way to ensure the process's credibility is to guarantee total transparency regarding the facts.\n\nThe case's developments sparked reactions within the court, leading to the cancellation of plenary sessions and disputes over the leadership of police inquiries. The Planalto Palace reiterated that fully elucidating the facts is indispensable to restoring institutional stability and public trust in the justice system."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "87bbd750-bc12-4e46-868d-00a6001e490b",
     "titulo": "Astrônomo chileno integra equipe em descoberta histórica sobre sistemas de estrelas massivas",
     "lead": "Um astrônomo chileno participou de uma descoberta científica histórica ao registrar a interação orbital entre estrelas massivas, um fenômeno conhecido no meio acadêmico como 'dança nupcial' estelar.",
@@ -2001,40 +2035,6 @@
         "titulo": "Dominican Republic's Joheirry Mola wins the Miss World 2026 crown",
         "lead": "Dominican model Joheirry Mola was crowned winner of Miss World 2026, securing a major international title for the Caribbean nation.",
         "corpo": "The Dominican Republic achieved a major milestone on the international stage with the crowning of Joheirry Mola as Miss World 2026. The Dominican representative outperformed contestants from dozens of nations across the various evaluation rounds of the traditional pageant to claim the coveted crown.\n\nThe victory elevates the Caribbean country on the global stage, highlighting the talent, preparation, and stage presence of the newly crowned titleholder. Events of this magnitude traditionally draw widespread public interest and engage industries linked to culture, fashion, and entertainment, reinforcing the cultural and tourism profile of the participating nations.\n\nFollowing her win, Joheirry Mola will undertake a comprehensive schedule of humanitarian, social, and promotional engagements worldwide, in line with the initiatives led by the Miss World organization throughout her reign."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
-    "id": "9b22d136-d40d-4dff-909c-b37592859415",
-    "titulo": "Senado aprova isenção de imposto para compras internacionais de até 50 dólares",
-    "lead": "O plenário do Senado Federal aprovou a medida provisória que elimina a tributação federal de importação sobre compras internacionais de pequeno valor. A proposta agora segue para sanção presidencial.",
-    "corpo": "O Senado Federal aprovou em votação simbólica a medida provisória que zera a alíquota federal de 20% aplicada sobre compras internacionais feitas pela internet no valor de até US$ 50 via remessas postais. Após tramitar pela Câmara dos Deputados e pelo Senado, o projeto de lei de conversão segue agora para a análise e sanção do presidente da República.\n\nO parecer aprovado incluiu alterações introduzidas pela relatora, senadora Leila do Vôlei. Entre os acréscimos ao texto está a isenção do imposto de importação para medicamentos estrangeiros que não possuam versão equivalente fabricada no território brasileiro. A legislação também fixou a redução de 60% para 30% na alíquota cobrada sobre remessas postais internacionais com valores entre US$ 50 e US$ 3 mil.\n\nPara avaliar o impacto da política tributária, o Ministério da Fazenda realizará análises periódicas sobre os reflexos da desoneração nos níveis de emprego, renda, preços e desempenho da indústria nacional. A primeira revisão ocorrerá em três meses, seguida de levantamentos semestrais e um relatório consolidado anual.\n\nA matéria também estabelece regras mais rígidas de conformidade para plataformas de comércio eletrônico e operadoras logísticas. O texto prevê a obrigatoriedade de rastreamento dos vendedores, monitoramento de operações suspeitas e cooperação ativa com a Receita Federal para coibir práticas de subfaturamento, fracionamento artificial de encomendas e omissão de dados de remetentes. Durante os debates, parlamentares de oposição manifestaram preocupação com os impactos da renúncia fiscal na competitividade das empresas instaladas no país.",
-    "categoria": "Economia",
-    "pais": "Brasil",
-    "publicado_em": "2026-09-06T04:14:23.877265+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-aprova-mp-da-taxa-das-blusinhas-e-isencao-se-torna-definitiva",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/30179028/pexels-photo-30179028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "João  Pavese",
-      "photographer_url": "https://www.pexels.com/@bangalo",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/brazilian-national-congress-architecture-30179028/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Senado brasileño aprueba exención tributaria para compras internacionales de hasta 50 dólares",
-        "lead": "El pleno del Senado de Brasil aprobó una medida provisional que elimina los impuestos federales de importación para compras por internet de bajo valor. La iniciativa pasa ahora a sanción presidencial.",
-        "corpo": "El Senado Federal de Brasil aprobó mediante votación simbólica la medida provisional que fija en cero el arancel federal de importación del 20% aplicado a compras internacionales de hasta 50 dólares realizadas por internet mediante envíos postales. Tras su paso por la Cámara de Diputados y el Senado, el texto pasa ahora a sanción del Poder Ejecutivo.\n\nEl dictamen incorpora modificaciones formuladas por la ponente, la senadora Leila do Vôlei. Entre los principales cambios figura la exención de aranceles de importación para medicamentos que no cuenten con un equivalente en el mercado brasileño. Asimismo, la normativa reduce del 60% al 30% la alícuota sobre envíos postales internacionales cuyo valor se sitúe entre 50 y 3.000 dólares.\n\nEl Ministerio de Hacienda llevará a cabo evaluaciones periódicas para medir las repercusiones económicas de esta política sobre el empleo, el ingreso, los precios y la industria local. La primera revisión tendrá lugar a los tres meses, complementada por análisis semestrales y un informe anual integral.\n\nLa normativa también impone mayores exigencias de cumplimiento a plataformas digitales y operadores logísticos. El marco legal obliga a garantizar la trazabilidad de los vendedores, monitorear transacciones sospechosas y colaborar con las autoridades tributarias para prevenir la subfacturación, la división artificial de paquetes y la ocultación de remitentes. Legisladores de la oposición advirtieron sobre el impacto de la medida en la competitividad de las empresas brasileñas."
-      },
-      "en": {
-        "titulo": "Brazilian Senate Approves Tax Exemption on Cross-Border Purchases up to $50",
-        "lead": "Brazil's Federal Senate has approved a provisional measure eliminating federal import tariffs on small-value international online purchases. The legislation now awaits presidential approval.",
-        "corpo": "Brazil's Federal Senate approved through a voice vote a provisional measure that eliminates the 20% federal import tax on cross-border e-commerce purchases of up to $50 sent via postal shipments. Following approvals in both the Chamber of Deputies and the Senate, the bill now advances to the presidency for final enactment.\n\nThe approved text includes amendments introduced by the reporting senator, Leila do Vôlei. Among the additions is a full tariff exemption on imported medicines that do not have manufactured equivalents in Brazil. The legislation also lowers the import tariff on postal shipments valued between $50 and $3,000 from 60% to 30%.\n\nTo gauge the economic repercussions of the policy, Brazil's Ministry of Finance will conduct regular assessments on domestic employment, wages, consumer prices, and local manufacturing. The initial evaluation will take place within three months, followed by semi-annual reviews and an annual consolidated assessment.\n\nThe measure also introduces stricter compliance obligations for digital retail platforms and postal carriers. It mandates vendor traceability, the tracking of suspicious transactions, and active cooperation with tax authorities to prevent customs fraud, package splitting, and sender concealment. Opposition lawmakers raised concerns during the debate regarding the potential impact of the tax relief on the competitiveness of domestic manufacturers."
       }
     },
     "atualizacao_de": null
