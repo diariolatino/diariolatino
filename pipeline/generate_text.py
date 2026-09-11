@@ -99,6 +99,15 @@ publicado (é essencialmente a mesma informação, só reformulada ou contada po
 fonte), NÃO escreva a matéria. Responda SOMENTE com este JSON mínimo, sem mais nada: \
 {"duplicado": true}
 
+9. Além disso, indicar se esta notícia tem "prioridade_maxima": true ou false. Marque \
+true APENAS pra fatos de repercussão realmente excepcional e inequívoca — exemplos: \
+morte ou renúncia de um chefe de Estado, golpe de Estado, catástrofe natural com muitas \
+vítimas, atentado terrorista, declaração de guerra, decisão histórica de corte \
+internacional. Na prática, a GRANDE MAIORIA das notícias do dia a dia (eleição comum, \
+dado econômico, operação policial, decisão administrativa) deve ser marcada como false. \
+Esse campo é usado só pra permitir, em casos raros, publicar duas matérias seguidas do \
+mesmo país mesmo quando o site normalmente evita isso pra variar a cobertura.
+
 Responda SOMENTE em JSON válido, neste formato exato, sem markdown, sem texto fora do JSON \
 (exceto no caso do item 8, quando o material for duplicado — aí a resposta é só \
 {"duplicado": true}):
@@ -108,6 +117,7 @@ Responda SOMENTE em JSON válido, neste formato exato, sem markdown, sem texto f
   "corpo": "...",
   "categoria": "...",
   "pais": "...",
+  "prioridade_maxima": false,
   "palavras_chave_imagem": ["...", "..."],
   "fatos": {"o_que": "...", "quem": "...", "quando": "...", "onde": "...", "por_que": "..."},
   "traducoes": {
