@@ -19,7 +19,16 @@ MAX_ARTIGOS_POR_EXECUCAO = int(os.environ.get("MAX_ARTIGOS_POR_EXECUCAO", "1"))
 # chamadas à API numa hora só e estourar a cota gratuita antes da hora
 # seguinte.
 MAX_TENTATIVAS_GEMINI_POR_EXECUCAO = int(os.environ.get("MAX_TENTATIVAS_GEMINI_POR_EXECUCAO", "3"))
-MAX_ARTIGOS_NO_SITE = 60  # quantos artigos ficam guardados no articles.json
+MAX_ARTIGOS_NO_SITE = 1000  # quantos artigos ficam guardados no articles.json
+# (antes era 60 — com a paginação de 59/página, isso só permitia 1 página
+# "cheia" de verdade. 1000 dá ~17 páginas de histórico; artigos.json ainda
+# fica bem leve — cada matéria tem só título/lead/corpo/traduções em texto.)
+
+# ---- variedade de país nas publicações ----
+# não confundir com JANELA_DEDUPLICACAO_NOTICIA (que é sobre não repetir a
+# MESMA notícia) — isto aqui é sobre não publicar dois artigos SEGUIDOS do
+# MESMO país, pra manter a cobertura equilibrada entre a região. A exceção
+# é quando o Gemini marca "prioridade_maxima": true (ver generate_text.py).
 
 # ---- checagem de similaridade (texto gerado vs. material de origem) ----
 LIMIAR_DIFFLIB = 0.55          # acima disso = parecido demais, vai pra revisão
