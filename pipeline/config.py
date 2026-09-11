@@ -19,12 +19,9 @@ MAX_ARTIGOS_POR_EXECUCAO = int(os.environ.get("MAX_ARTIGOS_POR_EXECUCAO", "1"))
 # chamadas à API numa hora só e estourar a cota gratuita antes da hora
 # seguinte.
 MAX_TENTATIVAS_GEMINI_POR_EXECUCAO = int(os.environ.get("MAX_TENTATIVAS_GEMINI_POR_EXECUCAO", "3"))
-MAX_ARTIGOS_NO_SITE = None  # NUNCA apaga notícia antiga — articles.json guarda tudo, pra sempre
-# (não confundir com a paginação do site: ARTIGOS_POR_PAGINA no index.html
-# só decide quantos artigos aparecem POR PÁGINA na tela — o arquivo de
-# dados continua com o histórico completo, sem nenhum artigo sendo
-# descartado. Se um dia o arquivo ficar pesado demais pro fetch da home,
-# a solução é dividir em "recentes" + "arquivo", nunca apagar conteúdo.)
+MAX_ARTIGOS_NO_SITE = None  # NUNCA apaga notícia antiga — nenhum artigo é descartado
+# (o arquivo que cresce pra sempre é só o ÍNDICE enxuto, sem o corpo de
+# cada matéria — ver ARTICLES_PATH/ARTIGOS_DIR abaixo e publish.py)
 
 # ---- variedade de país nas publicações ----
 # não confundir com JANELA_DEDUPLICACAO_NOTICIA (que é sobre não repetir a
@@ -47,7 +44,8 @@ LIMIAR_MESMA_NOTICIA = 0.45        # similaridade de título acima da qual trata
 
 # ---- arquivos de estado ----
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "site", "data")
-ARTICLES_PATH = os.path.join(DATA_DIR, "articles.json")
+ARTICLES_PATH = os.path.join(DATA_DIR, "articles.json")  # índice enxuto (sem corpo) — o site inteiro busca isso de uma vez
+ARTIGOS_DIR = os.path.join(DATA_DIR, "artigos")           # um arquivo por matéria, com o texto completo — buscado 1 de cada vez
 SEEN_IDS_PATH = os.path.join(DATA_DIR, "seen_ids.json")
 REVIEW_QUEUE_PATH = os.path.join(DATA_DIR, "review_queue.json")
 USED_IMAGES_PATH = os.path.join(DATA_DIR, "used_images.json")
