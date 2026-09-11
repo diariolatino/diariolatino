@@ -57,7 +57,8 @@ def publicar(materia_gerada: dict, candidato: dict, imagem: dict | None, materia
     }
 
     artigos.insert(0, artigo)
-    artigos = artigos[: config.MAX_ARTIGOS_NO_SITE]
+    # nunca apaga notícia antiga: o arquivo cresce pra sempre, todas as
+    # matérias já publicadas continuam acessíveis no site indefinidamente
     _salvar_json(config.ARTICLES_PATH, artigos)
     marcar_como_visto(candidato["id"])
     return artigo
