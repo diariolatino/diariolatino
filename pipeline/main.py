@@ -2,7 +2,7 @@ from . import config
 from .sources_gdelt import coletar_gdelt
 from .sources_rss import coletar_agencia_brasil, coletar_radar
 from .filter_relevance import filtrar
-from .diversidade import intercalar_por_categoria
+from .diversidade import intercalar_por_categoria_e_pais
 from .generate_text import gerar_materia, CotaGeminiExcedida
 from .similarity_check import checar_originalidade
 from .deduplicacao import encontrar_materia_relacionada
@@ -24,7 +24,7 @@ def rodar():
 
     candidatos = filtrar(candidatos)
     candidatos = [c for c in candidatos if not ja_publicado(c["id"])]
-    candidatos = intercalar_por_categoria(candidatos)  # varia o tema desde a ordem de tentativa
+    candidatos = intercalar_por_categoria_e_pais(candidatos)  # varia tema E país desde a ordem de tentativa
     print(f"  {len(candidatos)} candidatos relevantes, inéditos e intercalados por tema")
 
     artigos_publicados = carregar_artigos_publicados()
@@ -70,6 +70,19 @@ def rodar():
             print(f"  [pulado] '{materia.get('titulo')}' — tema '{categoria}' já usado nesta execução")
             continue
 
+        pais = materia.get("pais") or "América Latina"
+        ultimo_pais_publicado = artigos_publicados[0]["pais"] if artigos_publicados else None
+        if pais == ultimo_pais_publicado and not materia.get("prioridade_maxima"):
+            # trava de verdade: usa o país que o Gemini realmente escolheu
+            # (a intercalação por país só reduz a CHANCE de chegar aqui,
+            # não garante — o Gemini pode classificar diferente do chute).
+            # Não marca como visto: o candidato pode virar matéria ótima
+            # assim que o país do topo mudar (próximo candidato agora, ou
+            # próxima execução).
+            print(f"  [país repetido] '{materia.get('titulo')}' é do mesmo país do último "
+                  f"publicado ({pais}) e não é prioridade máxima — pulando pra variar os países.")
+            continue
+
         resultado_check = checar_originalidade(materia, candidato)
         if not resultado_check["aprovado"]:
             print(f"  [revisão] '{materia.get('titulo')}' sinalizado: {resultado_check['detalhes']}")
@@ -81,7 +94,7 @@ def rodar():
         artigos_publicados.insert(0, artigo)
         categorias_usadas_nesta_execucao.add(categoria)
         publicados += 1
-        print(f"  [publicado] {artigo['titulo']} — {categoria}")
+        print(f"  [publicado] {artigo['titulo']} — {categoria} — {pais}")
 
     print(f"Concluído: {publicados} artigo(s) publicado(s) nesta execução.")
 
