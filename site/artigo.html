@@ -216,6 +216,17 @@ async function carregarArtigos() {
   }
 }
 
+async function carregarArtigoCompleto(id) {
+  if (!id) return null;
+  try {
+    const resp = await fetch(`data/artigos/${encodeURIComponent(id)}.json`, { cache: 'no-store' });
+    if (resp.ok) return await resp.json();
+  } catch (e) {
+    console.error(e);
+  }
+  return null;
+}
+
 async function iniciar() {
   montarCabecalho();
   aplicarTextosEstaticos();
@@ -226,10 +237,17 @@ async function iniciar() {
     renderizarMateria();
   });
 
-  await carregarArtigos();
   const params = new URLSearchParams(window.location.search);
   const id = params.get('id');
-  ARTIGO_ATUAL = TODOS_ARTIGOS.find(a => a.id === id) || null;
+
+  // busca em paralelo: o arquivo da matéria em si (com o corpo completo,
+  // 1 arquivo só, leve não importa quantas notícias o site já tenha) e o
+  // índice enxuto (só pra montar a lista de "Continue lendo")
+  const [artigoCompleto] = await Promise.all([
+    carregarArtigoCompleto(id),
+    carregarArtigos(),
+  ]);
+  ARTIGO_ATUAL = artigoCompleto;
 
   renderizarMateria();
   inicializarVoltarTopo();
