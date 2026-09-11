@@ -34,8 +34,6 @@ def marcar_como_visto(candidato_id: str):
 
 
 def publicar(materia_gerada: dict, candidato: dict, imagem: dict | None, materia_relacionada: dict | None = None):
-    artigos = _carregar_json(config.ARTICLES_PATH, [])
-
     fontes = [candidato.get("fonte", "Fonte não identificada")]
     if candidato.get("url_original"):
         pass  # o link original fica guardado, mas não é reproduzido como conteúdo
@@ -56,10 +54,27 @@ def publicar(materia_gerada: dict, candidato: dict, imagem: dict | None, materia
         "atualizacao_de": materia_relacionada["id"] if materia_relacionada else None,
     }
 
-    artigos.insert(0, artigo)
-    # nunca apaga notícia antiga: o arquivo cresce pra sempre, todas as
-    # matérias já publicadas continuam acessíveis no site indefinidamente
-    _salvar_json(config.ARTICLES_PATH, artigos)
+    # arquivo individual (site/data/artigos/<id>.json): a matéria INTEIRA,
+    # com corpo e traduções completas. Só é buscado quando alguém abre
+    # essa notícia específica — por isso pode crescer sem limite pra
+    # sempre sem pesar na home.
+    caminho_artigo = os.path.join(config.ARTIGOS_DIR, f"{artigo['id']}.json")
+    _salvar_json(caminho_artigo, artigo)
+
+    # índice (site/data/articles.json): TODAS as matérias já publicadas,
+    # sempre — nunca apaga nada — mas cada uma só com o que a home/listagem
+    # precisa pra montar os cards e filtrar (sem o corpo, que é o que pesa
+    # de verdade). É esse arquivo enxuto que o site inteiro busca de uma
+    # vez; o texto completo só é buscado por artigo.html, um por vez.
+    indice = _carregar_json(config.ARTICLES_PATH, [])
+    entrada_indice = {k: v for k, v in artigo.items() if k != "corpo"}
+    entrada_indice["traducoes"] = {
+        idioma: {k: v for k, v in campos.items() if k != "corpo"}
+        for idioma, campos in artigo.get("traducoes", {}).items()
+    }
+    indice.insert(0, entrada_indice)
+    _salvar_json(config.ARTICLES_PATH, indice)
+
     marcar_como_visto(candidato["id"])
     return artigo
 
