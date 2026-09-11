@@ -19,10 +19,12 @@ MAX_ARTIGOS_POR_EXECUCAO = int(os.environ.get("MAX_ARTIGOS_POR_EXECUCAO", "1"))
 # chamadas à API numa hora só e estourar a cota gratuita antes da hora
 # seguinte.
 MAX_TENTATIVAS_GEMINI_POR_EXECUCAO = int(os.environ.get("MAX_TENTATIVAS_GEMINI_POR_EXECUCAO", "3"))
-MAX_ARTIGOS_NO_SITE = 1000  # quantos artigos ficam guardados no articles.json
-# (antes era 60 — com a paginação de 59/página, isso só permitia 1 página
-# "cheia" de verdade. 1000 dá ~17 páginas de histórico; artigos.json ainda
-# fica bem leve — cada matéria tem só título/lead/corpo/traduções em texto.)
+MAX_ARTIGOS_NO_SITE = None  # NUNCA apaga notícia antiga — articles.json guarda tudo, pra sempre
+# (não confundir com a paginação do site: ARTIGOS_POR_PAGINA no index.html
+# só decide quantos artigos aparecem POR PÁGINA na tela — o arquivo de
+# dados continua com o histórico completo, sem nenhum artigo sendo
+# descartado. Se um dia o arquivo ficar pesado demais pro fetch da home,
+# a solução é dividir em "recentes" + "arquivo", nunca apagar conteúdo.)
 
 # ---- variedade de país nas publicações ----
 # não confundir com JANELA_DEDUPLICACAO_NOTICIA (que é sobre não repetir a
