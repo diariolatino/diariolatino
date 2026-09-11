@@ -1,0 +1,34 @@
+{
+  "id": "b9385bb2-de10-4255-8555-8c722f3dabee",
+  "titulo": "Cotação do dólar permanece estável no Uruguai e atrai apetite por dívida pública em UI",
+  "lead": "O mercado financeiro no Uruguai registra relativa estabilidade no preço do dólar durante o mês de setembro, cenário acompanhado por uma forte demanda de investidores por títulos da dívida pública atrelados à inflação.",
+  "corpo": "O comportamento do mercado cambial uruguaio no mês de setembro mantém uma trajetória de pouca oscilação na cotação do dólar frente ao peso uruguaio. A menor volatilidade da moeda norte-americana reflete uma dinâmica de estabilização nas negociações locais, mantendo o câmbio em patamares contidos.\n\nParalelamente à calmaria cambial, o mercado tem demonstrado um expressivo interesse pelos papéis emitidos pelo governo do Uruguai em Unidades Indexadas (UI). As Unidades Indexadas são instrumentos financeiros cujo valor é ajustado pela evolução dos preços ao consumidor, oferecendo proteção contra a inflação e rentabilidade real aos aplicadores.\n\nA elevada procura por esses títulos de dívida evidencia a confiança dos agentes financeiros na sustentabilidade fiscal do país e na previsibilidade das políticas econômicas locais. Investidores nacionais e internacionais buscam diversificar portfólios e assegurar rendimentos protegidos de variações inflacionárias em um momento de estabilização do dólar no mercado interno.",
+  "categoria": "Economia",
+  "pais": "Uruguai",
+  "publicado_em": "2026-09-09T09:16:30.293927+00:00",
+  "fontes": [
+    "GDELT"
+  ],
+  "url_fonte_original": "https://www.elpais.com.uy/negocios/finanzas/dolar-uruguay-planchado-setiembre-avidez-deuda-gobierno-ui",
+  "imagem": {
+    "url": "https://images.pexels.com/photos/6590627/pexels-photo-6590627.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "photographer": "Sergei Starostin",
+    "photographer_url": "https://www.pexels.com/@sejio402",
+    "fonte_nome": "Pexels",
+    "fonte_url": "https://www.pexels.com/photo/close-up-of-one-dollar-bill-6590627/"
+  },
+  "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+  "traducoes": {
+    "es": {
+      "titulo": "Cotización del dólar se mantiene estable en Uruguay y atrae demanda por deuda pública en UI",
+      "lead": "El mercado financiero de Uruguay registra una relativa estabilidad en el precio del dólar durante septiembre, escenario acompañado por una fuerte demanda de inversores por títulos de deuda pública vinculados a la inflación.",
+      "corpo": "El comportamiento del mercado cambiario uruguayo en el mes de septiembre mantiene una trayectoria de baja oscilación en la cotización del dólar frente al peso uruguayo. La menor volatilidad de la moneda estadounidense refleja una dinámica de estabilización en las negociaciones locales, manteniendo el tipo de cambio en niveles moderados.\n\nParalelamente a la calma cambiaria, el mercado ha demostrado un expresivo interés por los papeles emitidos por el gobierno de Uruguay en Unidades Indizadas (UI). Las Unidades Indizadas son instrumentos financieros cuyo valor se ajusta según la evolución de los precios al consumidor, ofreciendo protección contra la inflación y rentabilidad real a los inversionistas.\n\nLa elevada demanda por estos títulos de deuda evidencia la confianza de los agentes financieros en la sostenibilidad fiscal del país y en la previsibilidad de las políticas económicas locales. Inversores nacionales e internacionales buscan diversificar sus portafolios y asegurar rendimientos protegidos de variaciones inflacionarias en un momento de estabilidad del dólar en el mercado interno."
+    },
+    "en": {
+      "titulo": "US dollar remains stable in Uruguay amid strong demand for UI-indexed government debt",
+      "lead": "Uruguay's financial market is experiencing relative stability in the US dollar exchange rate during September, a scenario accompanied by robust investor demand for inflation-linked government debt securities.",
+      "corpo": "The Uruguayan foreign exchange market in September continues on a trajectory of minimal fluctuation in the US dollar exchange rate against the Uruguayan peso. Lower volatility in the US currency reflects a stabilization trend in local trading, keeping foreign exchange rates at moderate levels.\n\nAlongside the currency calm, the market has shown significant appetite for debt instruments issued by the government of Uruguay in Indexed Units (UI). These Indexed Units are financial instruments adjusted for consumer price variations, offering investors real yields and protection against inflation.\n\nHigh demand for these debt securities highlights market confidence in the country's fiscal sustainability and local economic policy predictability. Domestic and international investors are seeking to diversify portfolios and secure inflation-hedged returns during a period of dollar stability in the domestic market."
+    }
+  },
+  "atualizacao_de": null
+}

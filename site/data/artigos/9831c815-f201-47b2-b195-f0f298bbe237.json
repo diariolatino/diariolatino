@@ -1,0 +1,34 @@
+{
+  "id": "9831c815-f201-47b2-b195-f0f298bbe237",
+  "titulo": "O debate sobre a credibilidade das peças orçamentárias na América Latina",
+  "lead": "A expressão \"orçamento mentiroso\" reflete uma crítica recorrente de analistas e opositores na América Latina sobre a falta de realismo nas projeções fiscais e de receitas dos governos da região.",
+  "corpo": "A elaboração do orçamento público é um dos momentos de maior tensão política e econômica nos países latino-americanos. Frequentemente classificados por críticos e economistas como \"orçamentos mentirosos\", esses documentos muitas vezes apresentam projeções de crescimento econômico superestimadas e subestimam despesas obrigatórias para equilibrar artificialmente as contas públicas perante o poder legislativo e as agências de classificação de risco.\n\nEspecialistas apontam que a prática de inflar receitas previstas e camuflar déficits prejudica a transparência e a governabilidade. Quando as receitas reais não se confirmam ao longo do ano fiscal, os governos recorrem a contingenciamentos severos, endividamento imprevisto ou emissão monetária, o que alimenta a inflação e gera instabilidade macroeconômica.\n\nNo contexto do Sul Global, a previsibilidade fiscal é um fator determinante para a atração de investimentos estrangeiros e para a manutenção de programas sociais estáveis. O debate sobre a responsabilidade fiscal e a necessidade de orçamentos mais transparentes e realistas continua a ser um tema central nas agendas políticas de diversos países da região, que buscam consolidar sua credibilidade econômica em um cenário global de juros elevados e volatilidade das commodities.",
+  "categoria": "Economia",
+  "pais": "América Latina",
+  "publicado_em": "2026-09-08T08:17:13.801918+00:00",
+  "fontes": [
+    "GDELT"
+  ],
+  "url_fonte_original": "https://diariodelhuila.com/un-presupuesto-mentiroso/",
+  "imagem": {
+    "url": "https://images.pexels.com/photos/7624053/pexels-photo-7624053.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "photographer": "Daniel Dan",
+    "photographer_url": "https://www.pexels.com/@daniel-dan-47825192",
+    "fonte_nome": "Pexels",
+    "fonte_url": "https://www.pexels.com/photo/close-up-shot-of-banknotes-7624053/"
+  },
+  "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+  "traducoes": {
+    "es": {
+      "titulo": "El debate sobre la credibilidad de los presupuestos en América Latina",
+      "lead": "La expresión \"presupuesto mentiroso\" refleja una crítica recurrente de analistas y opositores en América Latina sobre la falta de realismo en las proyecciones fiscales y de ingresos de los gobiernos de la región.",
+      "corpo": "La elaboración del presupuesto público es uno de los momentos de mayor tensión política y económica en los países latinoamericanos. Frecuentemente clasificados por críticos y economistas como \"presupuestos mentirosos\", estos documentos a menudo presentan proyecciones de crecimiento económico sobreestimadas y subestiman gastos obligatorios para equilibrar artificialmente las cuentas públicas ante el poder legislativo y las agencias de calificación de riesgo.\n\nEspecialistas señalan que la práctica de inflar ingresos previstos y camuflar déficits perjudica la transparencia y la gobernabilidad. Cuando los ingresos reales no se confirman a lo largo del año fiscal, los gobiernos recurren a recortes severos, endeudamiento imprevisto o emisión monetaria, lo que alimenta la inflación y genera inestabilidad macroeconómica.\n\nEn el contexto del Sur Global, la previsibilidad fiscal es un factor determinante para la atracción de inversiones extranjeras y para el mantenimiento de programas sociales estables. El debate sobre la responsabilidad fiscal y la necesidad de presupuestos más transparentes y realistas sigue siendo un tema central en las agendas políticas de diversos países de la región, que buscan consolidar su credibilidad económica en un escenario global de tasas de interés elevadas y volatilidad de las materias primas."
+    },
+    "en": {
+      "titulo": "The debate over budget credibility in Latin America",
+      "lead": "The term \"lying budget\" reflects a recurring criticism from analysts and opposition figures in Latin America regarding the lack of realism in governments' fiscal and revenue projections.",
+      "corpo": "The drafting of the public budget is one of the moments of greatest political and economic tension in Latin American countries. Frequently classified by critics and economists as \"lying budgets,\" these documents often present overestimated economic growth projections and underestimate mandatory expenditures to artificially balance public accounts before legislatures and rating agencies.\n\nSpecialists point out that the practice of inflating projected revenues and camouflaging deficits harms transparency and governance. When actual revenues fail to materialize throughout the fiscal year, governments resort to severe spending freezes, unforeseen debt, or monetary emission, which fuels inflation and generates macroeconomic instability.\n\nIn the context of the Global South, fiscal predictability is a crucial factor for attracting foreign investment and maintaining stable social programs. The debate over fiscal responsibility and the need for more transparent and realistic budgets remains a central theme in the political agendas of several countries in the region, which seek to consolidate their economic credibility in a global scenario of high interest rates and commodity volatility."
+    }
+  },
+  "atualizacao_de": null
+}

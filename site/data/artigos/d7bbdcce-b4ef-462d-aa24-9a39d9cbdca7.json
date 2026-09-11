@@ -1,0 +1,34 @@
+{
+  "id": "d7bbdcce-b4ef-462d-aa24-9a39d9cbdca7",
+  "titulo": "Firjan Senai incorpora computador quântico educacional para capacitação técnica no Brasil",
+  "lead": "O sistema Firjan Senai instalou o computador quântico educacional Triangulum II em seu centro de tecnologia da informação para formar profissionais voltados a setores industriais estratégicos.",
+  "corpo": "O centro de referência em tecnologia DigiTech, vinculado à Firjan Senai, incorporou às suas instalações o Triangulum II, computador quântico educacional fabricado pela companhia chinesa SpinQ em parceria com a empresa Dobslit. Considerado o mais moderno de sua categoria no país e uma das três unidades do tipo existentes no território brasileiro, o equipamento foi destinado à capacitação técnica de estudantes, pesquisadores e trabalhadores de diferentes ramos produtivos.\n\nA computação quântica opera a partir de qubits, unidades de informação que podem processar combinações simultâneas de estados físicos, diferentemente do sistema binário convencional baseado em bits. Essa arquitetura permite resolver com maior agilidade problemas complexos que envolvem grandes volumes de variáveis e simulações científicas. Entre as principais áreas de aplicação prospectadas estão os setores de petróleo e gás, finanças, telecomunicações, logística e a indústria farmacêutica, na qual o processamento avançado acelera ensaios moleculares para a formulação de vacinas e medicamentos.\n\nSegundo Luiz Césio Caetano, presidente da Firjan, a iniciativa visa preparar mão de obra qualificada frente a uma demanda internacional crescente por especialistas na área, além de resguardar interesses ligados à soberania e segurança estratégica. O projeto também busca atender empresas que já direcionam equipes técnicas para treinamentos focados em tomada de decisão e modelagem analítica com o novo maquinário.",
+  "categoria": "Ciência & Ambiente",
+  "pais": "Brasil",
+  "publicado_em": "2026-09-09T20:18:18.971922+00:00",
+  "fontes": [
+    "Agência Brasil"
+  ],
+  "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/novo-computador-quantico-educacional-passa-ser-usado-no-senai",
+  "imagem": {
+    "url": "https://images.pexels.com/photos/6855582/pexels-photo-6855582.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "photographer": "Ramaz Bluashvili",
+    "photographer_url": "https://www.pexels.com/@ramazphotos",
+    "fonte_nome": "Pexels",
+    "fonte_url": "https://www.pexels.com/photo/the-large-hadron-collider-at-geneva-switzerland-6855582/"
+  },
+  "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+  "traducoes": {
+    "es": {
+      "titulo": "Firjan Senai incorpora computadora cuántica educativa para capacitación técnica en Brasil",
+      "lead": "El sistema Firjan Senai instaló la computadora cuántica educativa Triangulum II en su centro de tecnología de la información para formar a profesionales en sectores industriales estratégicos.",
+      "corpo": "El centro de referencia en tecnología DigiTech, vinculado a Firjan Senai, incorporó a sus instalaciones el Triangulum II, una computadora cuántica educativa fabricada por la empresa china SpinQ en colaboración con la compañía Dobslit. Considerado el más moderno de su categoría en el país y una de las tres unidades de este tipo existentes en el territorio brasileño, el equipo está destinado a la capacitación técnica de estudiantes, investigadores y trabajadores de diversos sectores productivos.\n\nLa computación cuántica opera mediante cúbits, unidades de información capaces de procesar combinaciones simultáneas de estados físicos, a diferencia del sistema binario convencional basado en bits. Esta arquitectura permite resolver con mayor agilidad problemas complejos que involucran grandes volúmenes de variables y simulaciones científicas. Entre las principales áreas de aplicación proyectadas figuran el sector de petróleo y gas, las finanzas, las telecomunicaciones, la logística y la industria farmacéutica, donde el procesamiento avanzado acelera ensayos moleculares para el desarrollo de vacunas y medicamentos.\n\nDe acuerdo con Luiz Césio Caetano, presidente de Firjan, la iniciativa busca preparar mano de obra calificada ante una creciente demanda internacional de especialistas, además de respaldar intereses vinculados a la soberanía y la seguridad estratégica. El proyecto también atiende a empresas que ya envían equipos técnicos para recibir formación en toma de decisiones y modelado analítico con la nueva tecnología."
+    },
+    "en": {
+      "titulo": "Firjan Senai introduces educational quantum computer for technical training in Brazil",
+      "lead": "The Firjan Senai network installed the Triangulum II educational quantum computer at its information technology center to train professionals for strategic industrial sectors.",
+      "corpo": "The DigiTech technology reference center, run by Firjan Senai, has integrated the Triangulum II educational quantum computer into its facilities. Manufactured by Chinese company SpinQ in partnership with tech firm Dobslit, it is considered the most advanced machine of its kind in the country and one of only three such educational units operating in Brazilian territory. The hardware is dedicated to the technical training of students, researchers, and professionals across diverse productive sectors.\n\nQuantum computing operates through qubits—units of information capable of processing simultaneous combinations of physical states, unlike conventional binary systems based on bits. This architecture enables the rapid resolution of complex problems that involve massive numbers of variables and scientific simulations. Key prospective fields of application include oil and gas, finance, telecommunications, logistics, and pharmaceuticals, where high-performance calculations can expedite molecular testing for the development of vaccines and medicines.\n\nAccording to Firjan President Luiz Césio Caetano, the initiative is designed to build a skilled workforce amid an escalating global demand for specialists, while reinforcing national sovereignty and strategic security. The program also accommodates private enterprises already dispatching technical personnel for training in data-driven decision-making and analytical modeling using the new system."
+    }
+  },
+  "atualizacao_de": null
+}

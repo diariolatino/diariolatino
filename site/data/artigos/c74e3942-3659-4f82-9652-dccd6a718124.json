@@ -1,0 +1,34 @@
+{
+  "id": "c74e3942-3659-4f82-9652-dccd6a718124",
+  "titulo": "Criminosos usam inteligência artificial e comparação facial no \"golpe do sósia\" no Brasil",
+  "lead": "Uma nova modalidade de fraude de identidade, batizada de \"golpe do sósia\", utiliza tecnologia de comparação facial para identificar vítimas fisicamente semelhantes aos próprios criminosos, visando burlar sistemas de biometria.",
+  "corpo": "A estratégia foi mapeada pela Serasa Experian na edição do estudo Mapa da Fraude referente ao primeiro semestre de 2026. Ao contrário do método tradicional — em que o fraudador escolhe uma vítima específica e tenta forjar seus documentos —, no golpe do sósia o criminoso parte do próprio rosto e emprega motores de comparação de imagens em bases de dados para encontrar cidadãos com traços fisionômicos parecidos.\n\nCom a identificação de um indivíduo de forte semelhança visual, o golpista utiliza a identidade dessa pessoa para tentar abrir contas bancárias, realizar cadastros ou obter crédito. O objetivo é passar despercebido por mecanismos automatizados de reconhecimento facial durante processos de validação digital.\n\nSegundo dados da Serasa Experian, a utilização de sistemas antifraude barrou 2,86 milhões de tentativas de falsificação de identidade no país nos primeiros seis meses de 2026, volume 32,9% superior ao registrado no mesmo período do ano anterior. Essas interrupções evitaram um prejuízo estimado em R$ 3,77 bilhões no sistema financeiro e comercial.\n\nEspecialistas da instituição alertam que o recurso isolado da biometria facial já não é suficiente para conter o avanço das táticas cibernéticas. A recomendação para empresas é adotar defesas em múltiplas camadas, combinando verificação de documentos, prova de vida, análise do dispositivo utilizado e checagem cruzada de dados cadastrais para identificar inconsistências operacionais.",
+  "categoria": "Segurança",
+  "pais": "Brasil",
+  "publicado_em": "2026-09-06T18:16:19.617960+00:00",
+  "fontes": [
+    "Agência Brasil"
+  ],
+  "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/golpe-do-sosia-usa-tecnologia-para-tentar-burlar-biometria",
+  "imagem": {
+    "url": "https://images.pexels.com/photos/8090140/pexels-photo-8090140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
+    "fonte_nome": "Pexels",
+    "fonte_url": "https://www.pexels.com/photo/close-up-photo-of-man-being-examined-8090140/"
+  },
+  "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+  "traducoes": {
+    "es": {
+      "titulo": "Criminales usan tecnología de comparación facial para ejecutar el \"fraude del doble\" en Brasil",
+      "lead": "Una nueva modalidad de fraude de identidad, denominada el \"fraude del doble\", utiliza tecnología de comparación facial para localizar víctimas físicamente parecidas a los propios delincuentes y burlar sistemas de biometría.",
+      "corpo": "La estrategia fue detectada por la empresa Serasa Experian en la edición de su estudio Mapa del Fraude correspondiente al primer semestre de 2026. A diferencia del método tradicional —en el cual el estafador elige a una víctima e intenta falsificar sus documentos—, en esta variante el delincuente parte de su propio rostro e invoca motores de comparación de imágenes en bases de datos para hallar personas con rasgos fisonómicos similares.\n\nUna vez identificado un individuo con un elevado grado de semejanza física, el estafador suplanta su identidad para intentar abrir cuentas bancarias, solicitar créditos o realizar registros comerciales. La meta es superar los controles automatizados de reconocimiento facial durante la validación digital.\n\nDe acuerdo con datos de Serasa Experian, los sistemas de prevención bloquearon 2,86 millones de intentos de suplantación de identidad en el país durante los primeros seis meses de 2026, lo que representa un aumento del 32,9% en comparación con el mismo periodo del año anterior. Estas intervenciones evitaron pérdidas estimadas en 3.770 millones de reales.\n\nEspecialistas de la firma advierten que el uso aislado de la biometría facial resulta insuficiente para frenar las nuevas tácticas delictivas. La recomendación para las empresas es implementar esquemas de seguridad multicapa que combinen verificación documental, prueba de vida, análisis del dispositivo utilizado y cruce de datos para detectar irregularidades operativas."
+    },
+    "en": {
+      "titulo": "Fraudsters use facial comparison technology for \"lookalike scam\" in Brazil",
+      "lead": "A new form of identity fraud, dubbed the \"lookalike scam,\" utilizes facial comparison technology to identify victims who physically resemble the criminals themselves in an effort to bypass biometric systems.",
+      "corpo": "The strategy was mapped by Serasa Experian in its Fraud Map report for the first half of 2026. Unlike traditional methods — where a fraudster targets a specific victim and attempts to forge their credentials —, in the lookalike scam, the criminal starts with their own face and employs image search engines across database records to find individuals with matching physical traits.\n\nOnce a highly similar individual is identified, the fraudster uses that victim's identity to attempt opening bank accounts, applying for credit, or completing registrations. The goal is to pass automated facial recognition checks during digital validation processes.\n\nAccording to Serasa Experian data, anti-fraud systems blocked 2.86 million identity theft attempts in Brazil during the first six months of 2026, marking a 32.9% increase compared to the same period in the previous year. These interventions prevented estimated losses of 3.77 billion reais.\n\nExperts from the organization warn that relying solely on facial biometrics is no longer sufficient to stop evolving cybercrime tactics. Companies are advised to implement multi-layered security measures, combining document verification, liveness checks, device analysis, and cross-referencing registration data to catch operational inconsistencies."
+    }
+  },
+  "atualizacao_de": "9eb6fdef-5c92-420c-87d9-b79c02fffd41"
+}
