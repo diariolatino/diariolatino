@@ -17,6 +17,19 @@ Se o modelo salvo no cache parar de funcionar de um dia pro outro (foi
 aposentado, renomeado etc.), o código percebe pelo erro da chamada,
 redescobre a lista de modelos disponíveis e tenta os próximos candidatos
 automaticamente — sem precisar de intervenção manual.
+
+Além disso, o código distingue dois tipos de falha bem diferentes:
+- 404 (modelo não existe) ou erro genérico: só pula pro próximo candidato.
+- 403 (modelo existe, mas a chave não tem permissão de usá-lo — comum
+  quando o Google lança uma geração nova e libera acesso aos poucos): o
+  nome vai pra uma lista de bloqueados persistida em
+  site/data/gemini_modelos_bloqueados.json, e passa a ser IGNORADO logo
+  na hora de montar a lista de candidatos nas próximas execuções. Sem
+  isso, se os modelos mais novos (que pontuam mais alto) forem bloqueados
+  pra sua chave, o código ficaria toda hora gastando as tentativas
+  disponíveis neles e nunca chegaria nos modelos mais antigos que
+  realmente funcionam. O bloqueio expira sozinho depois de um tempo,
+  caso o acesso seja liberado depois.
 """
 import json
 import os
@@ -28,12 +41,19 @@ from . import config
 LIST_MODELS_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models"
 GENERATE_ENDPOINT_TEMPLATE = "https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
 
-CACHE_VALIDADE_SEGUNDOS = 24 * 60 * 60
+CACHE_VALIDADE_SEGUNDOS = 24 * 60 * 60  # 1 dia
+# depois de quanto tempo vale a pena testar de novo um modelo que deu 403
+# — o acesso pode ter sido liberado pra sua chave nesse meio tempo.
+BLOQUEIO_REVALIDAR_SEGUNDOS = 30 * 24 * 60 * 60  # 30 dias
+
 # quantos modelos alternativos tentar, no máximo, quando o modelo em cache
 # falha — sem esse teto, uma única "tentativa" (do ponto de vista do
 # main.py) poderia disparar uma chamada pra CADA modelo listado pela API,
-# estourando o orçamento de chamadas por execução sem querer.
-MAX_MODELOS_TENTADOS = 3  # 1 dia
+# estourando o orçamento de chamadas por execução sem querer. Com a
+# blocklist de 403 persistida, esse número tende a precisar ser usado por
+# inteiro só nas primeiras execuções, antes da lista de bloqueados
+# "esquentar" — por isso vale a pena ele não ser tão apertado.
+MAX_MODELOS_TENTADOS = 6
 
 PROMPT_SISTEMA = """Você é o redator do Diário Latino, portal de notícias que cobre \
 toda a América Latina, com curadoria geopolítica focada em América Latina, Brics, \
@@ -142,6 +162,14 @@ def _eh_erro_de_cota(e: Exception) -> bool:
     return resp is not None and getattr(resp, "status_code", None) == 429
 
 
+def _eh_erro_de_permissao(e: Exception) -> bool:
+    """403 (e o raro 401) significam 'esse modelo existe, mas a chave não
+    tem permissão de usá-lo' — bem diferente de 404 (não existe) ou de um
+    erro transitório. Vale a pena lembrar disso entre execuções."""
+    resp = getattr(e, "response", None)
+    return resp is not None and getattr(resp, "status_code", None) in (401, 403)
+
+
 def _carregar_cache() -> dict | None:
     if os.path.exists(config.GEMINI_MODEL_CACHE_PATH):
         try:
@@ -156,6 +184,26 @@ def _salvar_cache(nome_modelo: str):
     os.makedirs(os.path.dirname(config.GEMINI_MODEL_CACHE_PATH), exist_ok=True)
     with open(config.GEMINI_MODEL_CACHE_PATH, "w", encoding="utf-8") as f:
         json.dump({"modelo": nome_modelo, "descoberto_em": time.time()}, f)
+
+
+def _carregar_bloqueados() -> dict:
+    caminho = config.GEMINI_MODELOS_BLOQUEADOS_PATH
+    if os.path.exists(caminho):
+        try:
+            with open(caminho, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            return {}
+    return {}
+
+
+def _salvar_bloqueado(nome_modelo: str, motivo: str):
+    caminho = config.GEMINI_MODELOS_BLOQUEADOS_PATH
+    bloqueados = _carregar_bloqueados()
+    bloqueados[nome_modelo] = {"motivo": motivo, "bloqueado_em": time.time()}
+    os.makedirs(os.path.dirname(caminho), exist_ok=True)
+    with open(caminho, "w", encoding="utf-8") as f:
+        json.dump(bloqueados, f, ensure_ascii=False, indent=2)
 
 
 def _pontuar_modelo(nome_completo: str) -> int:
@@ -211,12 +259,20 @@ def _listar_modelos_candidatos() -> list:
         print(f"[gemini] falha ao listar modelos disponíveis: {e}")
         return []
 
+    agora = time.time()
+    bloqueados = _carregar_bloqueados()
+
     candidatos = []
     for m in modelos:
         metodos = m.get("supportedGenerationMethods", [])
         if "generateContent" not in metodos:
             continue
         nome = m.get("name", "").replace("models/", "")
+
+        bloqueio = bloqueados.get(nome)
+        if bloqueio and (agora - bloqueio.get("bloqueado_em", 0)) < BLOQUEIO_REVALIDAR_SEGUNDOS:
+            continue  # sem permissão pra essa chave, já sabemos — nem tenta
+
         pontuacao = _pontuar_modelo(nome)
         if pontuacao > -1000:
             candidatos.append((pontuacao, nome))
@@ -244,7 +300,11 @@ def _obter_resposta_gemini(corpo_requisicao: dict) -> dict:
         try:
             return _chamar_generate_content(modelo_cache, corpo_requisicao)
         except Exception as e:
-            motivo = "cota/limite de taxa atingido" if _eh_erro_de_cota(e) else str(e)
+            if _eh_erro_de_permissao(e):
+                _salvar_bloqueado(modelo_cache, "403/401 no modelo em cache")
+                motivo = "sem permissão pra essa chave"
+            else:
+                motivo = "cota/limite de taxa atingido" if _eh_erro_de_cota(e) else str(e)
             print(f"[gemini] modelo em cache '{modelo_cache}' falhou ({motivo}); tentando outros modelos...")
             # IMPORTANTE: não desiste aqui mesmo se for erro de cota — a
             # cota do Gemini é POR MODELO, não geral da conta. Um 429 no
@@ -267,6 +327,10 @@ def _obter_resposta_gemini(corpo_requisicao: dict) -> dict:
             return dados
         except Exception as e:
             ultimo_erro = e
+            if _eh_erro_de_permissao(e):
+                _salvar_bloqueado(nome_modelo, "403/401")
+                print(f"[gemini] modelo '{nome_modelo}' sem permissão pra essa chave (bloqueado pras próximas execuções); tentando o próximo...")
+                continue
             if _eh_erro_de_cota(e):
                 algum_erro_de_cota = True
             print(f"[gemini] modelo '{nome_modelo}' indisponível ({e}); tentando o próximo...")
