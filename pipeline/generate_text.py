@@ -170,6 +170,19 @@ def _eh_erro_de_permissao(e: Exception) -> bool:
     return resp is not None and getattr(resp, "status_code", None) in (401, 403)
 
 
+def _eh_erro_definitivo(e: Exception) -> bool:
+    """401/403 (sem permissão) OU 404 (modelo não existe mais/foi
+    descontinuado) — em nenhum dos dois casos adianta testar de novo esse
+    modelo daqui a pouco, na próxima notícia da mesma execução. Sem tratar
+    o 404 aqui também, um modelo aposentado (ex: descontinuado pelo Google)
+    seria testado — e falharia — em TODA notícia processada, desperdiçando
+    tentativas à toa em vez de chegar em algum candidato que ainda funciona.
+    Bem diferente de erros transitórios (timeout, 5xx) ou de cota (429),
+    que merecem nova chance mais tarde."""
+    resp = getattr(e, "response", None)
+    return resp is not None and getattr(resp, "status_code", None) in (401, 403, 404)
+
+
 def _carregar_cache() -> dict | None:
     if os.path.exists(config.GEMINI_MODEL_CACHE_PATH):
         try:
@@ -300,9 +313,10 @@ def _obter_resposta_gemini(corpo_requisicao: dict) -> dict:
         try:
             return _chamar_generate_content(modelo_cache, corpo_requisicao)
         except Exception as e:
-            if _eh_erro_de_permissao(e):
-                _salvar_bloqueado(modelo_cache, "403/401 no modelo em cache")
-                motivo = "sem permissão pra essa chave"
+            if _eh_erro_definitivo(e):
+                status = getattr(getattr(e, "response", None), "status_code", None)
+                _salvar_bloqueado(modelo_cache, f"{status} no modelo em cache")
+                motivo = "sem permissão pra essa chave" if status in (401, 403) else "modelo não existe mais"
             else:
                 motivo = "cota/limite de taxa atingido" if _eh_erro_de_cota(e) else str(e)
             print(f"[gemini] modelo em cache '{modelo_cache}' falhou ({motivo}); tentando outros modelos...")
@@ -327,9 +341,11 @@ def _obter_resposta_gemini(corpo_requisicao: dict) -> dict:
             return dados
         except Exception as e:
             ultimo_erro = e
-            if _eh_erro_de_permissao(e):
-                _salvar_bloqueado(nome_modelo, "403/401")
-                print(f"[gemini] modelo '{nome_modelo}' sem permissão pra essa chave (bloqueado pras próximas execuções); tentando o próximo...")
+            if _eh_erro_definitivo(e):
+                status = getattr(getattr(e, "response", None), "status_code", None)
+                _salvar_bloqueado(nome_modelo, str(status))
+                motivo = "sem permissão pra essa chave" if status in (401, 403) else "não existe mais (404)"
+                print(f"[gemini] modelo '{nome_modelo}' {motivo} — bloqueado pras próximas execuções; tentando o próximo...")
                 continue
             if _eh_erro_de_cota(e):
                 algum_erro_de_cota = True
