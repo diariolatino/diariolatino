@@ -122,5 +122,29 @@
   "antigravity-preview-05-2026": {
     "motivo": "403",
     "bloqueado_em": 1790327691.009963
+  },
+  "deep-research-max-preview-04-2026": {
+    "motivo": "403",
+    "bloqueado_em": 1790331267.2747784
+  },
+  "deep-research-preview-04-2026": {
+    "motivo": "403",
+    "bloqueado_em": 1790331267.4189916
+  },
+  "lyria-3-clip-preview": {
+    "motivo": "403",
+    "bloqueado_em": 1790331267.556266
+  },
+  "gemini-2.5-computer-use-preview-10-2025": {
+    "motivo": "403",
+    "bloqueado_em": 1790331267.697255
+  },
+  "gemini-robotics-er-2-preview": {
+    "motivo": "403",
+    "bloqueado_em": 1790331267.830736
+  },
+  "antigravity-preview-latest": {
+    "motivo": "403",
+    "bloqueado_em": 1790331267.9765122
   }
 }
