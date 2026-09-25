@@ -1,0 +1,54 @@
+{
+  "gemini-3.8-flash": {
+    "motivo": "403/401",
+    "bloqueado_em": 1790324981.2250125
+  },
+  "gemini-3.7-flash": {
+    "motivo": "403/401",
+    "bloqueado_em": 1790324981.3511598
+  },
+  "gemini-3.6-flash": {
+    "motivo": "403/401",
+    "bloqueado_em": 1790324981.4771037
+  },
+  "gemini-3.5-flash": {
+    "motivo": "403/401",
+    "bloqueado_em": 1790324981.5984538
+  },
+  "gemini-3.1-flash-image": {
+    "motivo": "403/401",
+    "bloqueado_em": 1790324981.7239
+  },
+  "gemini-2.5-flash-image": {
+    "motivo": "403/401",
+    "bloqueado_em": 1790324982.1850748
+  },
+  "gemini-omni-1.1-flash": {
+    "motivo": "403/401",
+    "bloqueado_em": 1790324982.3105607
+  },
+  "gemini-3.5-flash-lite": {
+    "motivo": "403/401",
+    "bloqueado_em": 1790324982.4128647
+  },
+  "gemini-3.1-flash-lite": {
+    "motivo": "403/401",
+    "bloqueado_em": 1790324982.5423532
+  },
+  "gemini-3.1-flash-lite-image": {
+    "motivo": "403/401",
+    "bloqueado_em": 1790324982.6762753
+  },
+  "gemini-flash-latest": {
+    "motivo": "403/401",
+    "bloqueado_em": 1790324983.0271268
+  },
+  "gemini-flash-lite-latest": {
+    "motivo": "403/401",
+    "bloqueado_em": 1790324983.2853208
+  },
+  "gemini-3-pro-image": {
+    "motivo": "403/401",
+    "bloqueado_em": 1790324983.4200518
+  }
+}
