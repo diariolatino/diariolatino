@@ -50,5 +50,77 @@
   "gemini-3-pro-image": {
     "motivo": "403/401",
     "bloqueado_em": 1790324983.4200518
+  },
+  "gemini-2.5-flash": {
+    "motivo": "404",
+    "bloqueado_em": 1790327687.82393
+  },
+  "gemini-2.5-flash-lite": {
+    "motivo": "404",
+    "bloqueado_em": 1790327688.1982338
+  },
+  "gemini-2.5-pro": {
+    "motivo": "404",
+    "bloqueado_em": 1790327688.3610728
+  },
+  "gemini-pro-latest": {
+    "motivo": "403",
+    "bloqueado_em": 1790327688.536715
+  },
+  "gemini-3.1-flash-image-preview": {
+    "motivo": "403",
+    "bloqueado_em": 1790327688.67548
+  },
+  "gemini-3-flash-preview": {
+    "motivo": "403",
+    "bloqueado_em": 1790327688.8322542
+  },
+  "deep-research-pro-preview-12-2025": {
+    "motivo": "403",
+    "bloqueado_em": 1790327689.106345
+  },
+  "gemini-3.1-flash-lite-preview": {
+    "motivo": "403",
+    "bloqueado_em": 1790327689.268057
+  },
+  "gemini-omni-flash-preview": {
+    "motivo": "403",
+    "bloqueado_em": 1790327689.411888
+  },
+  "gemini-3.5-transcribe": {
+    "motivo": "403",
+    "bloqueado_em": 1790327689.5669367
+  },
+  "lyria-3.5": {
+    "motivo": "403",
+    "bloqueado_em": 1790327689.7290847
+  },
+  "gemini-3.1-pro-preview": {
+    "motivo": "403",
+    "bloqueado_em": 1790327689.872033
+  },
+  "gemini-3.1-pro-preview-customtools": {
+    "motivo": "403",
+    "bloqueado_em": 1790327690.2117894
+  },
+  "gemini-3-pro-image-preview": {
+    "motivo": "403",
+    "bloqueado_em": 1790327690.3880937
+  },
+  "lyria-3-pro-preview": {
+    "motivo": "403",
+    "bloqueado_em": 1790327690.5343156
+  },
+  "nano-banana-pro-preview": {
+    "motivo": "403",
+    "bloqueado_em": 1790327690.6902363
+  },
+  "antigravity-preview-09-2026": {
+    "motivo": "403",
+    "bloqueado_em": 1790327690.8514953
+  },
+  "antigravity-preview-05-2026": {
+    "motivo": "403",
+    "bloqueado_em": 1790327691.009963
   }
 }
