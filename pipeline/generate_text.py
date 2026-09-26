@@ -1,35 +1,37 @@
 """
-Chama a API gratuita do Gemini pra:
+Chama a API gratuita da Groq pra:
 1) extrair fatos estruturados (o quê/quem/quando/onde/por quê) a partir
    só do título + resumo coletados (nunca do texto completo de terceiros);
-2) escrever uma matéria original em português a partir desses fatos.
+2) escrever uma matéria original em português a partir desses fatos, já
+   com traduções pra espanhol e inglês.
 
-IMPORTANTE: o nome do modelo NÃO fica fixo no código. O Google costuma
-trocar/aposentar modelos sem aviso (ex: o "gemini-2.0-flash" que era usado
-aqui foi descontinuado em fev/2026). Em vez de depender de alguém lembrar
-de atualizar isso manualmente, o pipeline pergunta pra própria API do
-Gemini quais modelos existem HOJE com suporte a geração de texto, escolhe
-o melhor candidato (dando preferência a modelos "flash", que costumam ter
-cota gratuita mais generosa), e guarda essa escolha num cache local
-(site/data/gemini_modelo.json) pra não redescobrir a cada execução.
+IMPORTANTE: o nome do modelo NÃO fica fixo no código, pelo mesmo motivo de
+antes (quando o pipeline usava o Gemini): provedores de IA trocam/aposentam
+modelos com frequência, e um dia a chave pode perder acesso a um modelo
+específico sem aviso. Em vez de depender de alguém lembrar de atualizar
+isso manualmente, o pipeline pergunta pra própria API da Groq quais
+modelos de chat estão disponíveis HOJE, escolhe o melhor candidato (dando
+preferência a modelos maiores/mais capazes), e guarda essa escolha num
+cache local (site/data/groq_modelo.json) pra não redescobrir a cada
+execução.
 
-Se o modelo salvo no cache parar de funcionar de um dia pro outro (foi
-aposentado, renomeado etc.), o código percebe pelo erro da chamada,
-redescobre a lista de modelos disponíveis e tenta os próximos candidatos
-automaticamente — sem precisar de intervenção manual.
+Se o modelo salvo no cache parar de funcionar (foi aposentado, a conta
+perdeu acesso etc.), o código percebe pelo erro da chamada, redescobre a
+lista de modelos disponíveis e tenta os próximos candidatos automaticamente
+— sem precisar de intervenção manual.
 
 Além disso, o código distingue dois tipos de falha bem diferentes:
-- 404 (modelo não existe) ou erro genérico: só pula pro próximo candidato.
-- 403 (modelo existe, mas a chave não tem permissão de usá-lo — comum
-  quando o Google lança uma geração nova e libera acesso aos poucos): o
+- erro genérico ou transitório: só pula pro próximo candidato.
+- 401/403 (sem permissão) ou 404 (modelo não existe/foi descontinuado): o
   nome vai pra uma lista de bloqueados persistida em
-  site/data/gemini_modelos_bloqueados.json, e passa a ser IGNORADO logo
-  na hora de montar a lista de candidatos nas próximas execuções. Sem
-  isso, se os modelos mais novos (que pontuam mais alto) forem bloqueados
-  pra sua chave, o código ficaria toda hora gastando as tentativas
-  disponíveis neles e nunca chegaria nos modelos mais antigos que
-  realmente funcionam. O bloqueio expira sozinho depois de um tempo,
+  site/data/groq_modelos_bloqueados.json, e passa a ser IGNORADO logo na
+  hora de montar a lista de candidatos nas próximas execuções — sem isso,
+  o pipeline ficaria toda hora gastando tentativas em modelos que já
+  sabemos que não funcionam. O bloqueio expira sozinho depois de um tempo,
   caso o acesso seja liberado depois.
+
+A API da Groq segue o mesmo formato da OpenAI (chat completions), o que
+deixa esse arquivo mais simples que a versão anterior pro Gemini.
 """
 import json
 import os
@@ -38,21 +40,20 @@ import time
 import requests
 from . import config
 
-LIST_MODELS_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models"
-GENERATE_ENDPOINT_TEMPLATE = "https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
+LIST_MODELS_ENDPOINT = "https://api.groq.com/openai/v1/models"
+CHAT_COMPLETIONS_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
 
 CACHE_VALIDADE_SEGUNDOS = 24 * 60 * 60  # 1 dia
-# depois de quanto tempo vale a pena testar de novo um modelo que deu 403
-# — o acesso pode ter sido liberado pra sua chave nesse meio tempo.
+# depois de quanto tempo vale a pena testar de novo um modelo que deu
+# 401/403/404 — o acesso pode ter sido liberado/o modelo pode ter voltado.
 BLOQUEIO_REVALIDAR_SEGUNDOS = 30 * 24 * 60 * 60  # 30 dias
 
 # quantos modelos alternativos tentar, no máximo, quando o modelo em cache
 # falha — sem esse teto, uma única "tentativa" (do ponto de vista do
-# main.py) poderia disparar uma chamada pra CADA modelo listado pela API,
-# estourando o orçamento de chamadas por execução sem querer. Com a
-# blocklist de 403 persistida, esse número tende a precisar ser usado por
-# inteiro só nas primeiras execuções, antes da lista de bloqueados
-# "esquentar" — por isso vale a pena ele não ser tão apertado.
+# main.py) poderia disparar uma chamada pra CADA modelo listado pela API.
+# Com a blocklist persistida, esse número só costuma precisar ser usado
+# por inteiro nas primeiras execuções, antes da lista de bloqueados
+# "esquentar".
 MAX_MODELOS_TENTADOS = 6
 
 PROMPT_SISTEMA = """Você é o redator do Diário Latino, portal de notícias que cobre \
@@ -148,12 +149,12 @@ Responda SOMENTE em JSON válido, neste formato exato, sem markdown, sem texto f
 """
 
 
-class CotaGeminiExcedida(Exception):
-    """Levantada quando a API do Gemini responde 429 (cota gratuita ou
-    limite de taxa esgotado). Diferente de outras falhas (candidato ruim,
-    JSON malformado etc.), não adianta insistir no próximo candidato —
-    o chamador deve parar a execução mais cedo pra não desperdiçar
-    chamadas contra uma cota que já está zerada."""
+class CotaIAExcedida(Exception):
+    """Levantada quando a API responde 429 (cota gratuita ou limite de
+    taxa esgotado). Diferente de outras falhas (candidato ruim, JSON
+    malformado etc.), não adianta insistir no próximo candidato — o
+    chamador deve parar a execução mais cedo pra não desperdiçar chamadas
+    contra uma cota que já está zerada."""
     pass
 
 
@@ -162,31 +163,21 @@ def _eh_erro_de_cota(e: Exception) -> bool:
     return resp is not None and getattr(resp, "status_code", None) == 429
 
 
-def _eh_erro_de_permissao(e: Exception) -> bool:
-    """403 (e o raro 401) significam 'esse modelo existe, mas a chave não
-    tem permissão de usá-lo' — bem diferente de 404 (não existe) ou de um
-    erro transitório. Vale a pena lembrar disso entre execuções."""
-    resp = getattr(e, "response", None)
-    return resp is not None and getattr(resp, "status_code", None) in (401, 403)
-
-
 def _eh_erro_definitivo(e: Exception) -> bool:
-    """401/403 (sem permissão) OU 404 (modelo não existe mais/foi
-    descontinuado) — em nenhum dos dois casos adianta testar de novo esse
-    modelo daqui a pouco, na próxima notícia da mesma execução. Sem tratar
-    o 404 aqui também, um modelo aposentado (ex: descontinuado pelo Google)
-    seria testado — e falharia — em TODA notícia processada, desperdiçando
-    tentativas à toa em vez de chegar em algum candidato que ainda funciona.
-    Bem diferente de erros transitórios (timeout, 5xx) ou de cota (429),
-    que merecem nova chance mais tarde."""
+    """401/403 (sem permissão) OU 404 (modelo não existe/foi
+    descontinuado) — em qualquer um desses casos, testar esse modelo de
+    novo na próxima notícia da mesma execução (ou na próxima execução) não
+    vai mudar nada, então vale a pena lembrar disso e pular direto. Bem
+    diferente de erros transitórios (timeout, 5xx) ou de cota (429), que
+    merecem nova chance mais tarde."""
     resp = getattr(e, "response", None)
     return resp is not None and getattr(resp, "status_code", None) in (401, 403, 404)
 
 
 def _carregar_cache() -> dict | None:
-    if os.path.exists(config.GEMINI_MODEL_CACHE_PATH):
+    if os.path.exists(config.GROQ_MODEL_CACHE_PATH):
         try:
-            with open(config.GEMINI_MODEL_CACHE_PATH, "r", encoding="utf-8") as f:
+            with open(config.GROQ_MODEL_CACHE_PATH, "r", encoding="utf-8") as f:
                 return json.load(f)
         except Exception:
             return None
@@ -194,13 +185,13 @@ def _carregar_cache() -> dict | None:
 
 
 def _salvar_cache(nome_modelo: str):
-    os.makedirs(os.path.dirname(config.GEMINI_MODEL_CACHE_PATH), exist_ok=True)
-    with open(config.GEMINI_MODEL_CACHE_PATH, "w", encoding="utf-8") as f:
+    os.makedirs(os.path.dirname(config.GROQ_MODEL_CACHE_PATH), exist_ok=True)
+    with open(config.GROQ_MODEL_CACHE_PATH, "w", encoding="utf-8") as f:
         json.dump({"modelo": nome_modelo, "descoberto_em": time.time()}, f)
 
 
 def _carregar_bloqueados() -> dict:
-    caminho = config.GEMINI_MODELOS_BLOQUEADOS_PATH
+    caminho = config.GROQ_MODELOS_BLOQUEADOS_PATH
     if os.path.exists(caminho):
         try:
             with open(caminho, "r", encoding="utf-8") as f:
@@ -211,7 +202,7 @@ def _carregar_bloqueados() -> dict:
 
 
 def _salvar_bloqueado(nome_modelo: str, motivo: str):
-    caminho = config.GEMINI_MODELOS_BLOQUEADOS_PATH
+    caminho = config.GROQ_MODELOS_BLOQUEADOS_PATH
     bloqueados = _carregar_bloqueados()
     bloqueados[nome_modelo] = {"motivo": motivo, "bloqueado_em": time.time()}
     os.makedirs(os.path.dirname(caminho), exist_ok=True)
@@ -219,42 +210,44 @@ def _salvar_bloqueado(nome_modelo: str, motivo: str):
         json.dump(bloqueados, f, ensure_ascii=False, indent=2)
 
 
-def _pontuar_modelo(nome_completo: str) -> int:
+def _pontuar_modelo(nome_completo: str) -> float:
+    """Pontua um modelo de chat da Groq pra escolher o melhor disponível
+    sem precisar saber o nome de antemão. Descarta o que claramente não
+    serve pra gerar texto em JSON (transcrição de áudio, TTS, moderação/
+    guard), prioriza modelos maiores (melhor qualidade de escrita/tradução)
+    e, entre os elegíveis, prefere os rótulos "flagship" da Groq."""
     nome = nome_completo.lower()
 
-    bloqueado = [
-        "embedding", "aqa", "gecko", "imagen", "tts", "veo", "gemma",
-        "image-generation", "vision-only", "audio",
-    ]
+    bloqueado = ["whisper", "tts", "guard", "moderation", "embed", "transcribe", "safety"]
     if any(termo in nome for termo in bloqueado):
         return -10_000
 
-    pontos = 0
-    if "flash" in nome:
-        pontos += 50
-    elif "pro" in nome:
-        pontos += 30
+    pontos = 0.0
+
+    # tamanho do modelo — quanto maior, melhor tende a ser a qualidade de
+    # redação/tradução (o que mais importa aqui). Números de parâmetros
+    # costumam aparecer no próprio nome (ex: "70b", "120b", "8b").
+    tamanhos = re.findall(r"(\d+)\s*b(?:illion)?(?:\b|-|_)", nome)
+    maior_tamanho = max((int(t) for t in tamanhos), default=0)
+    if maior_tamanho >= 100:
+        pontos += 60
+    elif maior_tamanho >= 60:
+        pontos += 55
+    elif maior_tamanho >= 30:
+        pontos += 45
+    elif maior_tamanho >= 15:
+        pontos += 35
+    elif maior_tamanho > 0:
+        pontos += 20
     else:
-        pontos += 10
+        pontos += 15  # tamanho não identificado no nome — ainda tenta, com pontuação neutra
 
-    if "lite" in nome:
-        pontos -= 5
-    # modelos "preview"/"exp"/"thinking" tendem a ter cota gratuita bem
-    # mais curta do que os modelos já estabelecidos — penalidade forte o
-    # bastante pra nunca vencer um "flash" estável equivalente.
-    if "exp" in nome or "preview" in nome or "thinking" in nome:
-        pontos -= 30
-
-    # peso bem menor que antes: a versão numérica serve só de desempate
-    # entre modelos da mesma categoria (ex: dois "flash"), não deve
-    # sobrepor a diferença entre flash/pro nem a penalidade acima. Modelos
-    # recém-lançados nem sempre vêm marcados como "preview" no nome, mas
-    # tendem a ter cota gratuita inicial mais curta mesmo assim — por
-    # isso não vale mais a pena apostar tudo no número mais alto.
-    numeros = re.findall(r"(\d+)(?:\.(\d+))?", nome)
-    if numeros:
-        major, minor = numeros[0]
-        pontos += int(major) * 2 + int(minor or 0) * 0.2
+    if "versatile" in nome:
+        pontos += 8  # rótulo "principal"/mais robusto que a Groq costuma usar
+    if "instant" in nome:
+        pontos -= 5  # otimizado pra velocidade, não pra qualidade de texto
+    if "preview" in nome:
+        pontos -= 20  # cota gratuita costuma ser bem mais curta em modelos preview
 
     return pontos
 
@@ -263,13 +256,13 @@ def _listar_modelos_candidatos() -> list:
     try:
         resp = requests.get(
             LIST_MODELS_ENDPOINT,
-            params={"key": config.GEMINI_API_KEY},
+            headers={"Authorization": f"Bearer {config.GROQ_API_KEY}"},
             timeout=20,
         )
         resp.raise_for_status()
-        modelos = resp.json().get("models", [])
+        modelos = resp.json().get("data", [])
     except Exception as e:
-        print(f"[gemini] falha ao listar modelos disponíveis: {e}")
+        print(f"[groq] falha ao listar modelos disponíveis: {e}")
         return []
 
     agora = time.time()
@@ -277,14 +270,15 @@ def _listar_modelos_candidatos() -> list:
 
     candidatos = []
     for m in modelos:
-        metodos = m.get("supportedGenerationMethods", [])
-        if "generateContent" not in metodos:
+        nome = m.get("id", "")
+        if not nome:
             continue
-        nome = m.get("name", "").replace("models/", "")
+        if m.get("active") is False:
+            continue
 
         bloqueio = bloqueados.get(nome)
         if bloqueio and (agora - bloqueio.get("bloqueado_em", 0)) < BLOQUEIO_REVALIDAR_SEGUNDOS:
-            continue  # sem permissão pra essa chave, já sabemos — nem tenta
+            continue  # já sabemos que não funciona — nem tenta
 
         pontuacao = _pontuar_modelo(nome)
         if pontuacao > -1000:
@@ -294,24 +288,27 @@ def _listar_modelos_candidatos() -> list:
     return [nome for _, nome in candidatos]
 
 
-def _chamar_generate_content(nome_modelo: str, corpo_requisicao: dict) -> dict:
+def _chamar_chat_completion(nome_modelo: str, corpo_requisicao: dict) -> dict:
     resp = requests.post(
-        GENERATE_ENDPOINT_TEMPLATE.format(modelo=nome_modelo),
-        params={"key": config.GEMINI_API_KEY},
-        json=corpo_requisicao,
+        CHAT_COMPLETIONS_ENDPOINT,
+        headers={
+            "Authorization": f"Bearer {config.GROQ_API_KEY}",
+            "Content-Type": "application/json",
+        },
+        json={**corpo_requisicao, "model": nome_modelo},
         timeout=45,
     )
     resp.raise_for_status()
     return resp.json()
 
 
-def _obter_resposta_gemini(corpo_requisicao: dict) -> dict:
+def _obter_resposta_ia(corpo_requisicao: dict) -> dict:
     cache = _carregar_cache()
     modelo_cache = None
     if cache and (time.time() - cache.get("descoberto_em", 0)) < CACHE_VALIDADE_SEGUNDOS:
         modelo_cache = cache["modelo"]
         try:
-            return _chamar_generate_content(modelo_cache, corpo_requisicao)
+            return _chamar_chat_completion(modelo_cache, corpo_requisicao)
         except Exception as e:
             if _eh_erro_definitivo(e):
                 status = getattr(getattr(e, "response", None), "status_code", None)
@@ -319,24 +316,23 @@ def _obter_resposta_gemini(corpo_requisicao: dict) -> dict:
                 motivo = "sem permissão pra essa chave" if status in (401, 403) else "modelo não existe mais"
             else:
                 motivo = "cota/limite de taxa atingido" if _eh_erro_de_cota(e) else str(e)
-            print(f"[gemini] modelo em cache '{modelo_cache}' falhou ({motivo}); tentando outros modelos...")
+            print(f"[groq] modelo em cache '{modelo_cache}' falhou ({motivo}); tentando outros modelos...")
             # IMPORTANTE: não desiste aqui mesmo se for erro de cota — a
-            # cota do Gemini é POR MODELO, não geral da conta. Um 429 no
+            # cota da Groq é POR MODELO, não geral da conta. Um 429 no
             # modelo em cache não significa que os outros também estejam
-            # esgotados, então sempre cai pro fluxo abaixo antes de
-            # declarar cota geral excedida.
+            # esgotados.
 
     candidatos = _listar_modelos_candidatos()
     if modelo_cache:
         candidatos = [c for c in candidatos if c != modelo_cache]
     if not candidatos:
-        raise RuntimeError("nenhum modelo Gemini com suporte a geração de texto foi encontrado")
+        raise RuntimeError("nenhum modelo de chat da Groq disponível foi encontrado")
 
     ultimo_erro = None
     algum_erro_de_cota = False
     for nome_modelo in candidatos[:MAX_MODELOS_TENTADOS]:
         try:
-            dados = _chamar_generate_content(nome_modelo, corpo_requisicao)
+            dados = _chamar_chat_completion(nome_modelo, corpo_requisicao)
             _salvar_cache(nome_modelo)
             return dados
         except Exception as e:
@@ -345,15 +341,15 @@ def _obter_resposta_gemini(corpo_requisicao: dict) -> dict:
                 status = getattr(getattr(e, "response", None), "status_code", None)
                 _salvar_bloqueado(nome_modelo, str(status))
                 motivo = "sem permissão pra essa chave" if status in (401, 403) else "não existe mais (404)"
-                print(f"[gemini] modelo '{nome_modelo}' {motivo} — bloqueado pras próximas execuções; tentando o próximo...")
+                print(f"[groq] modelo '{nome_modelo}' {motivo} — bloqueado pras próximas execuções; tentando o próximo...")
                 continue
             if _eh_erro_de_cota(e):
                 algum_erro_de_cota = True
-            print(f"[gemini] modelo '{nome_modelo}' indisponível ({e}); tentando o próximo...")
+            print(f"[groq] modelo '{nome_modelo}' indisponível ({e}); tentando o próximo...")
 
     if algum_erro_de_cota:
-        raise CotaGeminiExcedida(
-            f"cota/limite de taxa do Gemini atingido em todos os modelos testados. Último erro: {ultimo_erro}"
+        raise CotaIAExcedida(
+            f"cota/limite de taxa da Groq atingido em todos os modelos testados. Último erro: {ultimo_erro}"
         )
     raise RuntimeError(f"todos os modelos candidatos falharam. Último erro: {ultimo_erro}")
 
@@ -378,17 +374,21 @@ def gerar_materia(candidato: dict, materia_relacionada: dict | None = None) -> d
         )
 
     corpo_requisicao = {
-        "system_instruction": {"parts": [{"text": PROMPT_SISTEMA}]},
-        "contents": [{"parts": [{"text": material}]}],
-        "generationConfig": {"temperature": 0.6, "maxOutputTokens": 3500},
+        "messages": [
+            {"role": "system", "content": PROMPT_SISTEMA},
+            {"role": "user", "content": material},
+        ],
+        "temperature": 0.6,
+        "max_tokens": 3500,
+        "response_format": {"type": "json_object"},
     }
 
     try:
-        dados = _obter_resposta_gemini(corpo_requisicao)
-        texto_bruto = dados["candidates"][0]["content"]["parts"][0]["text"]
+        dados = _obter_resposta_ia(corpo_requisicao)
+        texto_bruto = dados["choices"][0]["message"]["content"]
         return _extrair_json(texto_bruto)
-    except CotaGeminiExcedida:
+    except CotaIAExcedida:
         raise
     except Exception as e:
-        print(f"[gemini] falha ao gerar matéria para '{candidato.get('titulo')}': {e}")
+        print(f"[groq] falha ao gerar matéria para '{candidato.get('titulo')}': {e}")
         return None
