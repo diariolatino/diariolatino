@@ -1,24 +1,24 @@
 import os
 
 # ---- chaves (vêm dos GitHub Secrets em produção) ----
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
 PEXELS_API_KEY = os.environ.get("PEXELS_API_KEY", "")
 PIXABAY_API_KEY = os.environ.get("PIXABAY_API_KEY", "")
 UNSPLASH_ACCESS_KEY = os.environ.get("UNSPLASH_ACCESS_KEY", "")
 # Openverse não exige chave — funciona mesmo se nenhuma das acima estiver configurada.
 
-# ---- limites por execução (proteger cota gratuita do Gemini/Pexels) ----
+# ---- limites por execução (proteger cota gratuita da Groq/Pexels) ----
 # 1 artigo por execução: o workflow já roda 1x/hora, então isso garante o
 # ritmo de "1 notícia por hora" em vez de publicar várias de uma vez e
-# esgotar a cota gratuita do Gemini ainda de manhã.
+# esgotar a cota gratuita da Groq ainda de manhã.
 MAX_ARTIGOS_POR_EXECUCAO = int(os.environ.get("MAX_ARTIGOS_POR_EXECUCAO", "1"))
-# quantas tentativas de geração (chamadas ao Gemini) o pipeline pode fazer
+# quantas tentativas de geração (chamadas à IA) o pipeline pode fazer
 # numa única execução antes de desistir, mesmo que nenhuma vire matéria
 # publicável (candidato ruim, muito parecido com outra matéria etc.) —
 # sem isso, uma lista grande de candidatos poderia consumir dezenas de
 # chamadas à API numa hora só e estourar a cota gratuita antes da hora
 # seguinte.
-MAX_TENTATIVAS_GEMINI_POR_EXECUCAO = int(os.environ.get("MAX_TENTATIVAS_GEMINI_POR_EXECUCAO", "3"))
+MAX_TENTATIVAS_IA_POR_EXECUCAO = int(os.environ.get("MAX_TENTATIVAS_IA_POR_EXECUCAO", "3"))
 MAX_ARTIGOS_NO_SITE = None  # NUNCA apaga notícia antiga — nenhum artigo é descartado
 # (o arquivo que cresce pra sempre é só o ÍNDICE enxuto, sem o corpo de
 # cada matéria — ver ARTICLES_PATH/ARTIGOS_DIR abaixo e publish.py)
@@ -27,7 +27,7 @@ MAX_ARTIGOS_NO_SITE = None  # NUNCA apaga notícia antiga — nenhum artigo é d
 # não confundir com JANELA_DEDUPLICACAO_NOTICIA (que é sobre não repetir a
 # MESMA notícia) — isto aqui é sobre não publicar dois artigos SEGUIDOS do
 # MESMO país, pra manter a cobertura equilibrada entre a região. A exceção
-# é quando o Gemini marca "prioridade_maxima": true (ver generate_text.py).
+# é quando a IA marca "prioridade_maxima": true (ver generate_text.py).
 
 # ---- checagem de similaridade (texto gerado vs. material de origem) ----
 LIMIAR_DIFFLIB = 0.55          # acima disso = parecido demais, vai pra revisão
@@ -49,8 +49,8 @@ ARTIGOS_DIR = os.path.join(DATA_DIR, "artigos")           # um arquivo por maté
 SEEN_IDS_PATH = os.path.join(DATA_DIR, "seen_ids.json")
 REVIEW_QUEUE_PATH = os.path.join(DATA_DIR, "review_queue.json")
 USED_IMAGES_PATH = os.path.join(DATA_DIR, "used_images.json")
-GEMINI_MODEL_CACHE_PATH = os.path.join(DATA_DIR, "gemini_modelo.json")
-GEMINI_MODELOS_BLOQUEADOS_PATH = os.path.join(DATA_DIR, "gemini_modelos_bloqueados.json")
+GROQ_MODEL_CACHE_PATH = os.path.join(DATA_DIR, "groq_modelo.json")
+GROQ_MODELOS_BLOQUEADOS_PATH = os.path.join(DATA_DIR, "groq_modelos_bloqueados.json")
 
 # ---- palavras-chave de relevância geopolítica (pt + es + en, minúsculas) ----
 PALAVRAS_RELEVANTES = [
