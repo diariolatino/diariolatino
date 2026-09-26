@@ -1,5 +1,36 @@
 [
   {
+    "id": "8a2d6987-139e-4892-b629-c7c6b6998e76",
+    "titulo": "Brasil no Mundo debate multilateralismo e desafios da ONU nesta quinta-feira",
+    "lead": "Na edição de 24 de setembro, o programa Brasil no Mundo, transmitido pela TV Brasil às 22h30, analisou o papel da ONU diante da escalada de conflitos internacionais e discutiu a agenda da 81ª Assembleia Geral.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-26T17:40:22.464612+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/brasil-no-mundo-desta-quinta-debate-multilateralismo-e-desafios-da-onu",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/16146279/pexels-photo-16146279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Hugo Magalhaes",
+      "photographer_url": "https://www.pexels.com/@tiohugo",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/the-allee-des-nations-with-the-flags-of-member-countries-at-united-nations-office-geneva-switzerland-16146279/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasil no Mundo debate multilateralismo y desafíos de la ONU este jueves",
+        "lead": "En la edición del 24 de septiembre, el programa Brasil no Mundo, transmitido por TV Brasil a las 22:30, analizó el papel de la ONU frente a la escalada de conflictos internacionales y discutió la agenda de la 81ª Asamblea General."
+      },
+      "en": {
+        "titulo": "Brazil on the World debates multilateralism and UN challenges this Thursday",
+        "lead": "In the September 24 edition, the Brazil on the World program, broadcast by TV Brasil at 10:30 p.m., examined the UN’s role amid the escalation of international conflicts and discussed the agenda of the 81st General Assembly."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "3fa3c04c-3b3d-45ae-9050-e14e2d2bd997",
     "titulo": "Recomendações no Peru orientam usuários a protegerem aplicativos de pagamento em caso de perda do celular",
     "lead": "Orientações divulgadas pela imprensa peruana destacam medidas preventivas para bloquear carteiras digitais populares como Yape e Plin após o extravio ou roubo de telefones móveis.",
