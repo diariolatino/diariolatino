@@ -38,7 +38,7 @@ jobs:
         run: |
           git config user.name "diariolatino-bot"
           git config user.email "bot@diariolatino.local"
-          git add site/data/*.json
+          git add site/data
           if git diff --cached --quiet; then
             echo "Nada para commitar."
             exit 0
