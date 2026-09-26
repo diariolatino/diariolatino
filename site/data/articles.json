@@ -1,36 +1,5 @@
 [
   {
-    "id": "eb9d250f-9e0b-4472-b9f5-7b4a8d9889e7",
-    "titulo": "Pobreza na Argentina registra alta de 32,3% da população no primeiro semestre de 2026",
-    "lead": "Dados do Instituto Nacional de Dados Estatísticos (Indec) mostram que a taxa de pobreza no país subiu para 32,3% entre janeiro e junho, representando quase 10 milhões de pessoas.",
-    "categoria": "Economia",
-    "pais": "Argentina",
-    "publicado_em": "2026-09-26T14:17:08.419274+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/pobreza-na-argentina-volta-subir-e-atinge-323-da-populacao",
-    "imagem": {
-      "url": "https://images.pexels.com/photos/36304326/pexels-photo-36304326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-      "photographer": "Juan Moccagatta",
-      "photographer_url": "https://www.pexels.com/@juan-moccagatta-2159466094",
-      "fonte_nome": "Pexels",
-      "fonte_url": "https://www.pexels.com/photo/flood-rescue-operation-in-buenos-aires-street-36304326/"
-    },
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "La pobreza en Argentina registra un aumento al 32,3% de la población en el primer semestre de 2026",
-        "lead": "Datos del Instituto Nacional de Estadísticas (Indec) muestran que la tasa de pobreza en el país subió al 32,3% entre enero y junio, lo que representa casi 10 millones de personas."
-      },
-      "en": {
-        "titulo": "Poverty in Argentina rises to 32.3% of the population in the first half of 2026",
-        "lead": "Data from the National Institute of Statistics (Indec) show that the country's poverty rate increased to 32.3% between January and June, representing almost 10 million people."
-      }
-    },
-    "atualizacao_de": null
-  },
-  {
     "id": "3fa3c04c-3b3d-45ae-9050-e14e2d2bd997",
     "titulo": "Recomendações no Peru orientam usuários a protegerem aplicativos de pagamento em caso de perda do celular",
     "lead": "Orientações divulgadas pela imprensa peruana destacam medidas preventivas para bloquear carteiras digitais populares como Yape e Plin após o extravio ou roubo de telefones móveis.",
