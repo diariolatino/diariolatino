@@ -3,7 +3,7 @@ from .sources_gdelt import coletar_gdelt
 from .sources_rss import coletar_agencia_brasil, coletar_radar
 from .filter_relevance import filtrar
 from .diversidade import intercalar_por_categoria_e_pais
-from .generate_text import gerar_materia, CotaGeminiExcedida
+from .generate_text import gerar_materia, CotaIAExcedida
 from .similarity_check import checar_originalidade
 from .deduplicacao import encontrar_materia_relacionada
 from .image_search import buscar_imagem
@@ -11,8 +11,8 @@ from .publish import ja_publicado, marcar_como_visto, publicar, enviar_para_revi
 
 
 def rodar():
-    if not config.GEMINI_API_KEY:
-        raise SystemExit("GEMINI_API_KEY não configurada (confira os GitHub Secrets).")
+    if not config.GROQ_API_KEY:
+        raise SystemExit("GROQ_API_KEY não configurada (confira os GitHub Secrets).")
     if not (config.PEXELS_API_KEY or config.PIXABAY_API_KEY or config.UNSPLASH_ACCESS_KEY):
         print("[aviso] nenhuma chave de banco de imagem paga configurada (Pexels/Pixabay/Unsplash) — "
               "seguindo só com Openverse, que não exige chave.")
@@ -30,14 +30,14 @@ def rodar():
     artigos_publicados = carregar_artigos_publicados()
 
     publicados = 0
-    tentativas_gemini = 0
+    tentativas_ia = 0
     categorias_usadas_nesta_execucao = set()
 
     for candidato in candidatos:
         if publicados >= config.MAX_ARTIGOS_POR_EXECUCAO:
             break
-        if tentativas_gemini >= config.MAX_TENTATIVAS_GEMINI_POR_EXECUCAO:
-            print(f"  [limite] {tentativas_gemini} tentativas de geração nesta execução — "
+        if tentativas_ia >= config.MAX_TENTATIVAS_IA_POR_EXECUCAO:
+            print(f"  [limite] {tentativas_ia} tentativas de geração nesta execução — "
                   f"parando por aqui pra preservar cota das próximas horas.")
             break
 
@@ -45,12 +45,12 @@ def rodar():
         if candidato["tipo"] == "metadado" and not candidato.get("titulo"):
             continue
 
-        tentativas_gemini += 1
+        tentativas_ia += 1
         try:
             materia_relacionada = encontrar_materia_relacionada(candidato, artigos_publicados)
             materia = gerar_materia(candidato, materia_relacionada)
-        except CotaGeminiExcedida as e:
-            print(f"  [cota] limite gratuito do Gemini atingido nesta janela ({e}). "
+        except CotaIAExcedida as e:
+            print(f"  [cota] limite gratuito da IA atingido nesta janela ({e}). "
                   f"Encerrando a execução mais cedo — a próxima hora tenta de novo.")
             break
         if not materia:
@@ -66,16 +66,16 @@ def rodar():
         categoria = materia.get("categoria", "América do Sul")
         if categoria in categorias_usadas_nesta_execucao:
             # trava de segurança final: a intercalação já tenta evitar isso,
-            # mas o Gemini pode classificar diferente do estimado
+            # mas a IA pode classificar diferente do estimado
             print(f"  [pulado] '{materia.get('titulo')}' — tema '{categoria}' já usado nesta execução")
             continue
 
         pais = materia.get("pais") or "América Latina"
         ultimo_pais_publicado = artigos_publicados[0]["pais"] if artigos_publicados else None
         if pais == ultimo_pais_publicado and not materia.get("prioridade_maxima"):
-            # trava de verdade: usa o país que o Gemini realmente escolheu
+            # trava de verdade: usa o país que a IA realmente escolheu
             # (a intercalação por país só reduz a CHANCE de chegar aqui,
-            # não garante — o Gemini pode classificar diferente do chute).
+            # não garante — a IA pode classificar diferente do chute).
             # Não marca como visto: o candidato pode virar matéria ótima
             # assim que o país do topo mudar (próximo candidato agora, ou
             # próxima execução).
