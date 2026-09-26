@@ -1,5 +1,36 @@
 [
   {
+    "id": "d5095cbb-37c6-4e1e-99c6-0b4852103496",
+    "titulo": "Escudo das Américas usa combate a cartéis como pretexto para conter influência chinesa na região",
+    "lead": "Especialistas afirmam que a coalizão liderada pelos EUA, formada por 15 países da América Latina, está vinculando a luta contra o narcotráfico à contenção da presença econômica da China.",
+    "categoria": "Política",
+    "pais": "América Latina",
+    "publicado_em": "2026-09-26T20:47:47.298747+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/escudo-das-americas-usa-carteis-para-barrar-china-dizem-especialistas",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/16380789/pexels-photo-16380789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Sam Jotham Sutharson",
+      "photographer_url": "https://www.pexels.com/@jothamsutharson",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/skyscrapers-on-sea-coast-of-manhattan-16380789/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Escudo de las Américas usa la lucha contra los cárteles como pretexto para frenar la influencia china en la región",
+        "lead": "Especialistas afirman que la coalición liderada por EE. UU., formada por 15 países de América Latina, vincula la lucha contra el narcotráfico a la contención de la presencia económica de China."
+      },
+      "en": {
+        "titulo": "Shield of the Americas uses anti‑cartel drive as pretext to curb China’s influence in the region",
+        "lead": "Experts say the US‑led coalition of 15 Latin American countries is linking the fight against drug trafficking to the containment of China’s economic presence."
+      }
+    },
+    "atualizacao_de": "3c93e9ce-6a54-4919-9205-0615d49ebbe0"
+  },
+  {
     "id": "8a2d6987-139e-4892-b629-c7c6b6998e76",
     "titulo": "Brasil no Mundo debate multilateralismo e desafios da ONU nesta quinta-feira",
     "lead": "Na edição de 24 de setembro, o programa Brasil no Mundo, transmitido pela TV Brasil às 22h30, analisou o papel da ONU diante da escalada de conflitos internacionais e discutiu a agenda da 81ª Assembleia Geral.",
