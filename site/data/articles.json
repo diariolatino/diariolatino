@@ -1,5 +1,36 @@
 [
   {
+    "id": "30cd9567-7d73-4df1-9c20-727ebc8cf3fb",
+    "titulo": "Fechamento de 31 mil empresas e perda de 245 mil empregos formais na Argentina sob governo Milei",
+    "lead": "Segundo o Monitor Mensal de Empresas da Fundar, entre novembro de 2023 e junho de 2026, 31,3 mil companhias encerraram suas atividades, resultando em 245 mil postos formais de trabalho desaparecidos.",
+    "categoria": "Economia",
+    "pais": "Argentina",
+    "publicado_em": "2026-09-26T23:26:25.223568+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/argentina-sob-milei-fecha-31-mil-empresas-e-245-mil-empregos-formais",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/5961722/pexels-photo-5961722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Thirdman",
+      "photographer_url": "https://www.pexels.com/@thirdman",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-black-wooden-frame-with-text-on-a-black-background-5961722/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Cierre de 31 mil empresas y pérdida de 245 mil empleos formales en Argentina bajo el gobierno de Milei",
+        "lead": "Según el Monitor Mensual de Empresas de Fundar, entre noviembre de 2023 y junio de 2026, 31,3 mil compañías cerraron sus actividades, lo que resultó en la desaparición de 245 mil puestos de trabajo formales."
+      },
+      "en": {
+        "titulo": "Closure of 31,000 Companies and Loss of 245,000 Formal Jobs in Argentina under Milei Government",
+        "lead": "According to Fundar's Monthly Business Monitor, between November 2023 and June 2026, 31.3 thousand companies shut down, eliminating 245 thousand formal jobs."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "d5095cbb-37c6-4e1e-99c6-0b4852103496",
     "titulo": "Escudo das Américas usa combate a cartéis como pretexto para conter influência chinesa na região",
     "lead": "Especialistas afirmam que a coalizão liderada pelos EUA, formada por 15 países da América Latina, está vinculando a luta contra o narcotráfico à contenção da presença econômica da China.",
