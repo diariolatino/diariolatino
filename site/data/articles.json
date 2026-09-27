@@ -1,5 +1,36 @@
 [
   {
+    "id": "79565d62-9f0e-476a-9a52-367fda4596b1",
+    "titulo": "Lula defende soberania brasileira e alerta para interferências estrangeiras na ONU",
+    "lead": "Em abertura da 81ª Assembleia Geral, o presidente Luiz Inácio Lula da Silva criticou a influência de potências externas na América Latina e reafirmou a posição do Brasil como nação soberana.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-27T19:38:57.927368+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/o-brasil-nao-cabe-no-quintal-de-ninguem-diz-lula-na-onu",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/15962254/pexels-photo-15962254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Pedro  Inacio",
+      "photographer_url": "https://www.pexels.com/@pedro-inacio-386430711",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/young-woman-on-a-parade-in-city-15962254/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Lula defiende la soberanía brasileña y alerta sobre interferencias extranjeras en la ONU",
+        "lead": "En la apertura de la 81ª Asamblea General, el presidente Luiz Inácio Lula da Silva criticó la influencia de potencias externas en América Latina y reafirmó la posición de Brasil como nación soberana."
+      },
+      "en": {
+        "titulo": "Lula defends Brazil's sovereignty and warns of foreign interference at the UN",
+        "lead": "During the opening of the 81st UN General Assembly, President Luiz Inácio Lula da Silva criticized external powers’ influence in Latin America and reaffirmed Brazil’s position as a sovereign nation."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "7fb12f23-033d-4bc8-a650-7d1e9d254135",
     "titulo": "Governo da Astúrias viaja à Argentina e Uruguai para fortalecer laços com a diáspora",
     "lead": "O presidente da Astúrias, Marcial Marín, conhecido como 'Barbón', embarcou em uma tour pela América do Sul com o objetivo de estreitar relações institucionais e culturais com as comunidades de origem asturiana na Argentina e no Uruguai.",
