@@ -1,5 +1,36 @@
 [
   {
+    "id": "1dc20c19-c34a-41cc-abf4-ca832112776a",
+    "titulo": "País Posible e COPPPAL firmam acordo para capacitar 30 dirigentes dominicanos no México",
+    "lead": "O partido político País Posible e a Organização Intergovernamental dos Povos das Américas (COPPPAL) anunciaram um novo programa de formação que levará 30 líderes da República Dominicana para o México, onde receberão treinamento em governança e liderança.",
+    "categoria": "Política",
+    "pais": "República Dominicana",
+    "publicado_em": "2026-09-27T22:53:33.980199+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://proceso.com.do/2026/09/27/pais-posible-y-copppal-acuerdan-formar-en-mexico-a-30-dirigentes-dominicanos/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/38827197/pexels-photo-38827197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "cityvibe studio",
+      "photographer_url": "https://www.pexels.com/@cityvibe-studio-2163185827",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/religious-ceremony-with-clergy-in-white-vestments-38827197/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "País Posible y COPPPAL firman acuerdo para capacitar a 30 dirigentes dominicanos en México",
+        "lead": "El partido político País Posible y la Organización Intergubernamental de los Pueblos de las Américas (COPPPAL) anunciaron un nuevo programa de formación que llevará a 30 líderes de la República Dominicana a México, donde recibirán capacitación en gobernanza y liderazgo."
+      },
+      "en": {
+        "titulo": "País Posible and COPPPAL Sign Agreement to Train 30 Dominican Leaders in Mexico",
+        "lead": "The Dominican political party País Posible and the Intergovernmental Organization of the Peoples of the Americas (COPPPAL) announced a new training program that will bring 30 Dominican leaders to Mexico, where they will receive governance and leadership training."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "79565d62-9f0e-476a-9a52-367fda4596b1",
     "titulo": "Lula defende soberania brasileira e alerta para interferências estrangeiras na ONU",
     "lead": "Em abertura da 81ª Assembleia Geral, o presidente Luiz Inácio Lula da Silva criticou a influência de potências externas na América Latina e reafirmou a posição do Brasil como nação soberana.",
