@@ -1,5 +1,36 @@
 [
   {
+    "id": "7fb12f23-033d-4bc8-a650-7d1e9d254135",
+    "titulo": "Governo da Astúrias viaja à Argentina e Uruguai para fortalecer laços com a diáspora",
+    "lead": "O presidente da Astúrias, Marcial Marín, conhecido como 'Barbón', embarcou em uma tour pela América do Sul com o objetivo de estreitar relações institucionais e culturais com as comunidades de origem asturiana na Argentina e no Uruguai.",
+    "categoria": "Mundo",
+    "pais": "América Latina",
+    "publicado_em": "2026-09-27T15:34:39.272651+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.lavozdeasturias.es/noticia/asturias/2026/09/27/barbon-viaja-argentina-uruguay-estrechar-lazos-emigracion-asturiana/00031790502304118593426.htm",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/37884059/pexels-photo-37884059.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Belén Montero",
+      "photographer_url": "https://www.pexels.com/@belenmontero",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/argentinian-passport-on-dark-slate-surface-37884059/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Gobierno de Asturias viaja a Argentina y Uruguay para fortalecer lazos con la diáspora",
+        "lead": "El presidente de Asturias, Marcial Marín, conocido como 'Barbón', emprendió una gira por Sudamérica con el objetivo de estrechar las relaciones institucionales y culturales con las comunidades de origen asturiano en Argentina y Uruguay."
+      },
+      "en": {
+        "titulo": "Asturias Government Travels to Argentina and Uruguay to Strengthen Ties with Diaspora",
+        "lead": "The President of Asturias, Marcial Marín, known as 'Barbón', embarked on a tour of South America with the aim of strengthening institutional and cultural relations with communities of Asturian origin in Argentina and Uruguay."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "bc82dbd5-64c0-43f1-851c-d9ae45a829a2",
     "titulo": "Banco Central do Brasil e BCE iniciam estudo para conectar Pix ao sistema europeu TIPS",
     "lead": "Nesta quinta-feira (24), o Banco Central do Brasil e o Banco Central Europeu deram início a um estudo de viabilidade que pode ligar o Pix ao Target Instant Payment Settlement (TIPS), ampliando pagamentos instantâneos entre Brasil e a zona do euro.",
