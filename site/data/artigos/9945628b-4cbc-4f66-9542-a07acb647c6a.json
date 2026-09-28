@@ -1,0 +1,34 @@
+{
+  "id": "9945628b-4cbc-4f66-9542-a07acb647c6a",
+  "titulo": "Guerra santa inesperada agita campanha presidencial no Brasil",
+  "lead": "Um inesperado movimento religioso, autodenominado “guerra santa”, entrou na disputa e vem influenciando o cenário das eleições presidenciais brasileiras.",
+  "corpo": "Durante a fase de campanha que antecede as eleições presidenciais de 2026, surgiram relatos de um movimento religioso que se apresenta como uma \"guerra santa\". Organizações e lideranças desse grupo têm participado de comícios, divulgado mensagens nas redes sociais e buscado apoiar candidatos que, segundo eles, defendem valores alinhados à sua interpretação da fé. A presença do movimento tem gerado debates sobre a extensão da influência de grupos religiosos nas decisões eleitorais e sobre os limites da atuação de instituições de fé no espaço público. Analistas políticos apontam que o Brasil já vivenciou a forte atuação de setores evangélicos nas últimas disputas, mas o atual fenômeno se destaca pela retórica de conflito e pela tentativa de mobilizar eleitores por meio de uma narrativa de batalha espiritual. Até o momento, nenhum candidato oficializou alianças formais com o grupo, embora alguns tenham sido citados em declarações públicas que reforçam a importância da moral e da família, temas recorrentes no discurso do movimento. Observadores internacionais acompanham o caso, considerando-o um exemplo de como questões identitárias e religiosas podem se entrelaçar com processos democráticos em países de grande diversidade cultural como o Brasil.",
+  "categoria": "Política",
+  "pais": "Brasil",
+  "publicado_em": "2026-09-28T23:03:02.538285+00:00",
+  "fontes": [
+    "GDELT"
+  ],
+  "url_fonte_original": "https://www.clarin.com/mundo/faltaba-disparatada-guerra-santa-conmueve-elecciones-presidenciales-brasil_0_O4bICGT8cq.html",
+  "imagem": {
+    "url": "https://images.pexels.com/photos/14287845/pexels-photo-14287845.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "photographer": "Joel Santos",
+    "photographer_url": "https://www.pexels.com/@joelsantosfotografias",
+    "fonte_nome": "Pexels",
+    "fonte_url": "https://www.pexels.com/photo/gathering-of-people-with-flags-of-brazil-14287845/"
+  },
+  "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+  "traducoes": {
+    "es": {
+      "titulo": "Guerra santa inesperada agita campaña presidencial en Brasil",
+      "lead": "Un inesperado movimiento religioso, autodenominado “guerra santa”, ha entrado en la contienda y está influyendo en el escenario de las elecciones presidenciales brasileñas.",
+      "corpo": "Durante la fase de campaña que precede a las elecciones presidenciales de 2026, surgieron informes de un movimiento religioso que se presenta como una \"guerra santa\". Organizaciones y liderazgos de este grupo han participado en mítines, difundido mensajes en redes sociales y buscado apoyar a candidatos que, según ellos, defienden valores alineados a su interpretación de la fe. La presencia del movimiento ha generado debates sobre la extensión de la influencia de grupos religiosos en las decisiones electorales y sobre los límites de la actuación de instituciones de fe en el espacio público. Analistas políticos señalan que Brasil ya ha vivido la fuerte actuación de sectores evangélicos en disputas anteriores, pero el fenómeno actual se destaca por la retórica de conflicto y por el intento de movilizar a los votantes mediante una narrativa de batalla espiritual. Hasta el momento, ningún candidato oficializó alianzas formales con el grupo, aunque algunos han sido citados en declaraciones públicas que refuerzan la importancia de la moral y la familia, temas recurrentes en el discurso del movimiento. Observadores internacionales siguen el caso, considerándolo un ejemplo de cómo cuestiones identitarias y religiosas pueden entrelazarse con procesos democráticos en países de gran diversidad cultural como Brasil."
+    },
+    "en": {
+      "titulo": "Unexpected holy war stirs Brazil's presidential campaign",
+      "lead": "An unexpected religious movement, calling itself a “holy war”, has entered the race and is influencing the landscape of Brazil's presidential elections.",
+      "corpo": "During the campaign phase leading up to the 2026 presidential election, reports have emerged of a religious movement presenting itself as a “holy war”. Organizations and leaders of this group have taken part in rallies, disseminated messages on social media, and sought to back candidates they say uphold values aligned with their faith interpretation. The movement’s presence has sparked debate over the extent of religious groups’ influence on electoral decisions and the limits of faith institutions’ activity in the public sphere. Political analysts note that Brazil has previously seen strong involvement of evangelical sectors in elections, but the current phenomenon stands out for its conflict‑oriented rhetoric and its attempt to mobilize voters through a spiritual‑battle narrative. So far, no candidate has formalized an alliance with the group, although some have been mentioned in public statements emphasizing morality and family, recurring themes in the movement’s discourse. International observers are watching the case, viewing it as an example of how identity and religious issues can intertwine with democratic processes in culturally diverse nations like Brazil."
+    }
+  },
+  "atualizacao_de": null
+}

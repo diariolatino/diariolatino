@@ -1,5 +1,36 @@
 [
   {
+    "id": "9945628b-4cbc-4f66-9542-a07acb647c6a",
+    "titulo": "Guerra santa inesperada agita campanha presidencial no Brasil",
+    "lead": "Um inesperado movimento religioso, autodenominado “guerra santa”, entrou na disputa e vem influenciando o cenário das eleições presidenciais brasileiras.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-09-28T23:03:02.538285+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.clarin.com/mundo/faltaba-disparatada-guerra-santa-conmueve-elecciones-presidenciales-brasil_0_O4bICGT8cq.html",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/14287845/pexels-photo-14287845.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Joel Santos",
+      "photographer_url": "https://www.pexels.com/@joelsantosfotografias",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/gathering-of-people-with-flags-of-brazil-14287845/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Guerra santa inesperada agita campaña presidencial en Brasil",
+        "lead": "Un inesperado movimiento religioso, autodenominado “guerra santa”, ha entrado en la contienda y está influyendo en el escenario de las elecciones presidenciales brasileñas."
+      },
+      "en": {
+        "titulo": "Unexpected holy war stirs Brazil's presidential campaign",
+        "lead": "An unexpected religious movement, calling itself a “holy war”, has entered the race and is influencing the landscape of Brazil's presidential elections."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "1f21b89c-26bc-4657-ab53-ede137050c23",
     "titulo": "Trump ameaça usar força militar na América Latina durante discurso na ONU",
     "lead": "O presidente dos Estados Unidos, Donald Trump, fez declarações de risco de intervenção militar em países da América Latina e do Caribe durante a abertura da 81ª Assembleia Geral das Nações Unidas em Nova York, em 22 de setembro de 2026.",
