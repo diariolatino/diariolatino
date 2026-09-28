@@ -1,5 +1,36 @@
 [
   {
+    "id": "75cfdd1a-497d-4ba7-94dd-35264659cf9e",
+    "titulo": "Trump defende avanço livre da IA e denuncia controle global",
+    "lead": "No discurso de abertura da 81ª Assembleia Geral da ONU, o presidente dos Estados Unidos, Donald Trump, rejeitou qualquer tentativa de limitar o desenvolvimento da inteligência artificial e criticou as iniciativas globais de regulação.",
+    "categoria": "Política",
+    "pais": "América Latina",
+    "publicado_em": "2026-09-28T01:28:49.584109+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/trump-rejeita-limitar-ia-e-critica-governanca-global-da-tecnologia",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/30917943/pexels-photo-30917943.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Markus Winkler",
+      "photographer_url": "https://www.pexels.com/@markus-winkler-1430818",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/wooden-letter-tiles-spelling-news-and-trump-30917943/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Trump defiende el avance libre de la IA y denuncia el control global",
+        "lead": "En el discurso de apertura de la 81ª Asamblea General de la ONU, el presidente de Estados Unidos, Donald Trump, rechazó cualquier intento de limitar el desarrollo de la inteligencia artificial y criticó las iniciativas globales de regulación."
+      },
+      "en": {
+        "titulo": "Trump Defends Unrestricted AI Development and Criticizes Global Governance",
+        "lead": "In the opening address of the 81st UN General Assembly, U.S. President Donald Trump rejected any attempt to limit artificial intelligence development and criticized global regulatory initiatives."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "1dc20c19-c34a-41cc-abf4-ca832112776a",
     "titulo": "País Posible e COPPPAL firmam acordo para capacitar 30 dirigentes dominicanos no México",
     "lead": "O partido político País Posible e a Organização Intergovernamental dos Povos das Américas (COPPPAL) anunciaram um novo programa de formação que levará 30 líderes da República Dominicana para o México, onde receberão treinamento em governança e liderança.",
