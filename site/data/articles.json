@@ -1,5 +1,36 @@
 [
   {
+    "id": "1fa4a383-6c12-4064-b734-14de2835adbc",
+    "titulo": "A chefe de comunicações da María Corina Machado retorna a Venezuela",
+    "lead": "A chefe de comunicações da oposição venezuelana, ligada à líder María Corina Machado, voltou ao país após um período de ausência, sinalizando uma nova fase na campanha política.",
+    "categoria": "Política",
+    "pais": "Venezuela",
+    "publicado_em": "2026-09-28T08:24:32.589674+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.abc.es/internacional/regresa-venezuela-jefa-comunicaciones-maria-corina-machado-20260928093105-nt.html",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/35524224/pexels-photo-35524224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Renan Braz",
+      "photographer_url": "https://www.pexels.com/@renan-braz-1732586",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/venezuelan-protesters-gather-in-city-square-35524224/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "La jefa de comunicaciones de María Corina Machado regresa a Venezuela",
+        "lead": "La jefa de comunicaciones de la oposición venezolana, vinculada a la líder María Corina Machado, regresó al país tras un período de ausencia, marcando una nueva fase en la campaña política."
+      },
+      "en": {
+        "titulo": "María Corina Machado's Communications Chief Returns to Venezuela",
+        "lead": "The communications chief of Venezuelan opposition, linked to leader María Corina Machado, has returned to the country after a period of absence, signaling a new phase in the campaign."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "75cfdd1a-497d-4ba7-94dd-35264659cf9e",
     "titulo": "Trump defende avanço livre da IA e denuncia controle global",
     "lead": "No discurso de abertura da 81ª Assembleia Geral da ONU, o presidente dos Estados Unidos, Donald Trump, rejeitou qualquer tentativa de limitar o desenvolvimento da inteligência artificial e criticou as iniciativas globais de regulação.",
