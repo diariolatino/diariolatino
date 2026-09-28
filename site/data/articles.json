@@ -1,5 +1,36 @@
 [
   {
+    "id": "1f21b89c-26bc-4657-ab53-ede137050c23",
+    "titulo": "Trump ameaça usar força militar na América Latina durante discurso na ONU",
+    "lead": "O presidente dos Estados Unidos, Donald Trump, fez declarações de risco de intervenção militar em países da América Latina e do Caribe durante a abertura da 81ª Assembleia Geral das Nações Unidas em Nova York, em 22 de setembro de 2026.",
+    "categoria": "Política",
+    "pais": "América Latina",
+    "publicado_em": "2026-09-28T17:28:13.052176+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/na-onu-trump-ameaca-novamente-usar-forca-militar-na-america-latina",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/34358888/pexels-photo-34358888.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Germar Derron",
+      "photographer_url": "https://www.pexels.com/@germar-derron-2151846079",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/protest-in-towson-advocating-for-democracy-34358888/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Trump amenaza usar fuerza militar en América Latina durante discurso en la ONU",
+        "lead": "El presidente de los Estados Unidos, Donald Trump, hizo declaraciones de riesgo de intervención militar en países de América Latina y el Caribe durante la apertura de la 81ª Asamblea General de las Naciones Unidas en Nueva York, el 22 de septiembre de 2026."
+      },
+      "en": {
+        "titulo": "Trump threatens to use military force in Latin America during UN speech",
+        "lead": "U.S. President Donald Trump made statements about the risk of military intervention in Latin American and Caribbean countries during the opening of the 81st UN General Assembly in New York on September 22, 2026."
+      }
+    },
+    "atualizacao_de": "9831c815-f201-47b2-b195-f0f298bbe237"
+  },
+  {
     "id": "1fa4a383-6c12-4064-b734-14de2835adbc",
     "titulo": "A chefe de comunicações da María Corina Machado retorna a Venezuela",
     "lead": "A chefe de comunicações da oposição venezuelana, ligada à líder María Corina Machado, voltou ao país após um período de ausência, sinalizando uma nova fase na campanha política.",
