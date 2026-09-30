@@ -1,5 +1,36 @@
 [
   {
+    "id": "4afd174e-ec68-4da6-b1a0-6ef3428416f0",
+    "titulo": "EUA cancelam visto do procurador-geral da Bolívia em meio a controvérsia sobre investigação de Fernando Cerimedo",
+    "lead": "O Departamento de Estado dos Estados Unidos revogou o visto de Roger Mariaca, procurador-geral da Bolívia, alegando envolvimento em corrupção e ameaça à democracia na região.",
+    "categoria": "Política",
+    "pais": "Bolívia",
+    "publicado_em": "2026-09-30T20:39:12.891730+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/eua-tiram-visto-de-fiscal-que-investiga-ex-assessor-de-milei",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/32269240/pexels-photo-32269240.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "DΛVΞ GΛRCIΛ",
+      "photographer_url": "https://www.pexels.com/@davegarcia",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/finance-and-travel-passport-money-cards-smartphone-32269240/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "EE.UU. cancelan la visa del procurador general de Bolivia en medio de la controversia sobre la investigación de Fernando Cerimedo",
+        "lead": "El Departamento de Estado de Estados Unidos revocó la visa de Roger Mariaca, procurador general de Bolivia, alegando participación en corrupción y amenaza a la democracia en la región."
+      },
+      "en": {
+        "titulo": "US cancel visa of Bolivia's attorney general amid controversy over Fernando Cerimedo investigation",
+        "lead": "The US State Department revoked the visa of Roger Mariaca, Bolivia's attorney general, citing involvement in corruption and a threat to democracy in the region."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "b07567b3-db5f-4fb9-92e6-e10ac7eacf26",
     "titulo": "Empresas mexicanas adotam inteligência artificial, mas ainda enfrentam obstáculos",
     "lead": "Negócios no México estão incorporando soluções de IA para otimizar processos, embora relatem dificuldades técnicas e de capacitação.",
