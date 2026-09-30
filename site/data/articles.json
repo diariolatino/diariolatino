@@ -1,5 +1,36 @@
 [
   {
+    "id": "b07567b3-db5f-4fb9-92e6-e10ac7eacf26",
+    "titulo": "Empresas mexicanas adotam inteligência artificial, mas ainda enfrentam obstáculos",
+    "lead": "Negócios no México estão incorporando soluções de IA para otimizar processos, embora relatem dificuldades técnicas e de capacitação.",
+    "categoria": "Economia",
+    "pais": "México",
+    "publicado_em": "2026-09-30T15:45:04.119027+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.razon.com.mx/tecnologia/2026/09/30/empresas-adoptan-en-mexico-la-ia-pero-todavia-enfrentan-retos/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/8566470/pexels-photo-8566470.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Kindel Media",
+      "photographer_url": "https://www.pexels.com/@kindelmedia",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/white-robot-action-figure-on-blue-string-lights-8566470/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Empresas mexicanas adoptan IA, pero aún enfrentan retos",
+        "lead": "Los negocios en México están incorporando soluciones de IA para optimizar procesos, aunque reportan dificultades técnicas y de capacitación."
+      },
+      "en": {
+        "titulo": "Mexican companies adopt AI, but still face challenges",
+        "lead": "Businesses in Mexico are incorporating AI solutions to streamline processes, though they report technical and training difficulties."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "a452bbf1-7b25-4617-9e2d-e84f64b7b29a",
     "titulo": "Presidenta da CAPES será a primeira brasileira a assumir a Vice‑diretoria de Ciências da UNESCO",
     "lead": "A cientista Denise Pires de Carvalho, presidente da CAPES, assumirá nos próximos dias a Vice‑Diretoria‑Geral de Ciências da UNESCO, tornando‑se a primeira brasileira a ocupar o cargo desde a fundação da ONU em 1945.",
