@@ -1,5 +1,36 @@
 [
   {
+    "id": "cf5e39a1-9ed5-43e4-af17-d629d0b888e2",
+    "titulo": "Imelda Tun deixa o México após denúncia de homicídio de Julián Figueroa e reaparece com mensagem",
+    "lead": "A influenciadora Imelda Tun saiu do território mexicano depois de ser denunciada por suposto homicídio de Julián Figueroa e, dias depois, voltou a se manifestar nas redes sociais.",
+    "categoria": "Segurança",
+    "pais": "México",
+    "publicado_em": "2026-09-30T01:15:27.196752+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.tvnotas.com.mx/espectaculos-mexico/imelda-tunon-salio-de-mexico-por-la-denuncia-por-presunto-homicidio-de-julian-figueroa-reaparece-con-mensaje",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/24023589/pexels-photo-24023589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Israel Torres",
+      "photographer_url": "https://www.pexels.com/@israwmx",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/women-sitting-and-reading-at-gathering-24023589/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Imelda Tun abandona México tras denuncia por presunto homicidio de Julián Figueroa y reaparece con mensaje",
+        "lead": "La influencer Imelda Tun salió del territorio mexicano después de ser denunciada por presunto homicidio de Julián Figueroa y, días después, volvió a manifestarse en redes sociales."
+      },
+      "en": {
+        "titulo": "Imelda Tun leaves Mexico after homicide allegation against Julián Figueroa and resurfaces with a message",
+        "lead": "Influencer Imelda Tun departed Mexican territory after being accused of the alleged homicide of Julián Figueroa and, days later, posted a statement on social media."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "9945628b-4cbc-4f66-9542-a07acb647c6a",
     "titulo": "Guerra santa inesperada agita campanha presidencial no Brasil",
     "lead": "Um inesperado movimento religioso, autodenominado “guerra santa”, entrou na disputa e vem influenciando o cenário das eleições presidenciais brasileiras.",
