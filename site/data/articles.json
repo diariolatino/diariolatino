@@ -1,5 +1,36 @@
 [
   {
+    "id": "cb5f98d6-061e-45b4-b9bc-96eb5f616310",
+    "titulo": "Brasil e EUA criam grupo de trabalho para negociar tarifas comerciais",
+    "lead": "Governos de Brasil e Estados Unidos anunciaram, nesta quarta‑feira (30), a formação de um grupo de trabalho destinado a discutir as tarifas impostas por Washington sobre produtos brasileiros.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-01T00:26:33.825730+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/brasil-e-eua-criam-grupo-especifico-para-negociar-tarifaco",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/4427499/pexels-photo-4427499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "August de Richelieu",
+      "photographer_url": "https://www.pexels.com/@august-de-richelieu",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/lawyers-talking-in-an-office-4427499/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasil y EE.UU. crean grupo de trabajo para negociar aranceles comerciales",
+        "lead": "Los gobiernos de Brasil y Estados Unidos anunciaron, este miércoles (30), la creación de un grupo de trabajo destinado a discutir los aranceles impuestos por Washington sobre productos brasileños."
+      },
+      "en": {
+        "titulo": "Brazil and US create working group to negotiate trade tariffs",
+        "lead": "Brazilian and United States governments announced on Wednesday (Sept 30) the formation of a working group aimed at discussing the tariffs imposed by Washington on Brazilian products."
+      }
+    },
+    "atualizacao_de": "bc82dbd5-64c0-43f1-851c-d9ae45a829a2"
+  },
+  {
     "id": "4afd174e-ec68-4da6-b1a0-6ef3428416f0",
     "titulo": "EUA cancelam visto do procurador-geral da Bolívia em meio a controvérsia sobre investigação de Fernando Cerimedo",
     "lead": "O Departamento de Estado dos Estados Unidos revogou o visto de Roger Mariaca, procurador-geral da Bolívia, alegando envolvimento em corrupção e ameaça à democracia na região.",
