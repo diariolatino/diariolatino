@@ -1,5 +1,36 @@
 [
   {
+    "id": "5b0425b4-f6a8-49c3-988b-eabd4298f91f",
+    "titulo": "EUA destinam US$ 1 milhão a campanha contra o STF, aponta The Guardian",
+    "lead": "Reportagem do The Guardian indica que o governo dos Estados Unidos teria reservado um milhão de dólares para financiar grupos da sociedade civil que se opõem ao Supremo Tribunal Federal brasileiro, sob a justificativa de combater \"lawfare\" e censura judicial.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-01T14:25:35.283166+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/eua-destinam-us-1-milhao-para-campanha-contra-stf-diz-revista",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/36984943/pexels-photo-36984943.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Mark Stebnicki",
+      "photographer_url": "https://www.pexels.com/@nc-farm-bureau-mark",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/sunny-day-at-the-united-states-supreme-court-36984943/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "EE.UU. destinan US$ 1 millón a campaña contra el STF, según The Guardian",
+        "lead": "Un informe de The Guardian indica que el gobierno de Estados Unidos habría reservado un millón de dólares para financiar a grupos de la sociedad civil que se oponen al Supremo Tribunal Federal brasileño, bajo la justificación de combatir \"lawfare\" y censura judicial."
+      },
+      "en": {
+        "titulo": "US allocate US$1 million to campaign against Brazil's Supreme Court, says The Guardian",
+        "lead": "A Guardian report indicates that the United States government has earmarked one million dollars to fund civil‑society groups opposing Brazil’s Supreme Federal Court, citing a fight against “lawfare” and judicial censorship."
+      }
+    },
+    "atualizacao_de": "cb5f98d6-061e-45b4-b9bc-96eb5f616310"
+  },
+  {
     "id": "60b3f65d-b630-4386-bf28-5f51e3db88c8",
     "titulo": "Especialistas criticam plano de autorregulação de IA anunciado por Trump como favorecimento às big tech",
     "lead": "O governo dos Estados Unidos, liderado por Donald Trump, anunciou nesta terça‑feira (29) um acordo de autorregulação voluntária para a inteligência artificial com as maiores empresas do setor, mas o sociólogo Sérgio Amadeu, da UFABC, classificou a medida de ‘carta branca’ para as big techs.",
