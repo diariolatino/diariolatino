@@ -1,5 +1,36 @@
 [
   {
+    "id": "60b3f65d-b630-4386-bf28-5f51e3db88c8",
+    "titulo": "Especialistas criticam plano de autorregulação de IA anunciado por Trump como favorecimento às big tech",
+    "lead": "O governo dos Estados Unidos, liderado por Donald Trump, anunciou nesta terça‑feira (29) um acordo de autorregulação voluntária para a inteligência artificial com as maiores empresas do setor, mas o sociólogo Sérgio Amadeu, da UFABC, classificou a medida de ‘carta branca’ para as big techs.",
+    "categoria": "Política",
+    "pais": "América Latina",
+    "publicado_em": "2026-10-01T06:59:44.950360+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/autorregulacao-da-ia-de-trump-e-carta-branca-bigtechs-diz-professor",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/32203289/pexels-photo-32203289.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Ramaz Bluashvili",
+      "photographer_url": "https://www.pexels.com/@ramazphotos",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/historic-white-house-facade-in-summer-32203289/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Especialistas critican el plan de autorregulación de IA anunciado por Trump como favorecimiento a las big tech",
+        "lead": "El gobierno de Estados Unidos, liderado por Donald Trump, anunció este martes (29) un acuerdo de autorregulación voluntaria para la inteligencia artificial con las mayores empresas del sector, pero el sociólogo Sérgio Amadeu, de la UFABC, clasificó la medida como una 'carta blanca' para las big techs."
+      },
+      "en": {
+        "titulo": "Experts criticize Trump’s AI self‑regulation plan as a white paper for big tech",
+        "lead": "The United States government, led by Donald Trump, announced on Tuesday (Sept. 29) a voluntary self‑regulation agreement for artificial intelligence with the sector’s biggest firms, but UFABC sociologist Sérgio Amadeu called the measure a ‘white paper’ for big tech."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "cb5f98d6-061e-45b4-b9bc-96eb5f616310",
     "titulo": "Brasil e EUA criam grupo de trabalho para negociar tarifas comerciais",
     "lead": "Governos de Brasil e Estados Unidos anunciaram, nesta quarta‑feira (30), a formação de um grupo de trabalho destinado a discutir as tarifas impostas por Washington sobre produtos brasileiros.",
