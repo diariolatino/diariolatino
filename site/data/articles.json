@@ -1,5 +1,36 @@
 [
   {
+    "id": "92c2473c-b5ab-493a-af2c-4abe1a8f345d",
+    "titulo": "Arruabarrena passa por cirurgia e ficará fora dos gramados pelo resto do ano",
+    "lead": "O volante do Boca Juniors, Agustín Arruabarrena, será submetido a cirurgia e não terá condições de jogar até o final de 2026, conforme informou o clube argentino.",
+    "categoria": "Sociedade",
+    "pais": "Argentina",
+    "publicado_em": "2026-10-01T20:12:55.194531+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.cadena3.com/noticia/boca-juniors/duro-golpe-para-arruabarrena-un-mediocampista-de-boca-sera-operado-y-se-pierde-el-resto-del-ano_599690",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/61135/pexels-photo-61135.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Juan Salamanca",
+      "photographer_url": "https://www.pexels.com/@jsalamanca",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/football-stadium-61135/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Arruabarrena se somete a cirugía y quedará fuera de los campos por el resto del año",
+        "lead": "El volante de Boca Juniors, Agustín Arruabarrena, será operado y no podrá jugar hasta finales de 2026, según informó el club argentino."
+      },
+      "en": {
+        "titulo": "Arruabarrena Undergoes Surgery and Will Miss the Rest of the Year",
+        "lead": "Boca Juniors midfielder Agustín Arruabarrena is set to have surgery and will be unavailable to play until the end of 2026, the Argentine club announced."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "5b0425b4-f6a8-49c3-988b-eabd4298f91f",
     "titulo": "EUA destinam US$ 1 milhão a campanha contra o STF, aponta The Guardian",
     "lead": "Reportagem do The Guardian indica que o governo dos Estados Unidos teria reservado um milhão de dólares para financiar grupos da sociedade civil que se opõem ao Supremo Tribunal Federal brasileiro, sob a justificativa de combater \"lawfare\" e censura judicial.",
