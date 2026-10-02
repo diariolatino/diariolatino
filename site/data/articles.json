@@ -1,5 +1,36 @@
 [
   {
+    "id": "b49383d5-02d6-4506-a680-1495ab5b2b60",
+    "titulo": "Atualização: Bolívia prende procurador-geral que investigava caso Cerimedo",
+    "lead": "Na noite de 30 de outubro, autoridades bolivianas detiveram o procurador-geral da República, Roger Mariaca, acusado de liderar organização criminosa e de impedir investigações sobre o operador digital argentino Fernando Cerimedo.",
+    "categoria": "Política",
+    "pais": "Bolívia",
+    "publicado_em": "2026-10-02T13:41:11.346182+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/bolivia-prende-procurador-da-republica-que-investigava-caso-cerimedo",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Pixabay",
+      "photographer_url": "https://www.pexels.com/@pixabay",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/security-logo-60504/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Actualización: Bolivia detiene al fiscal general que investigaba el caso Cerimedo",
+        "lead": "En la noche del 30 de octubre, autoridades bolivianas detuvieron al fiscal general de la República, Roger Mariaca, acusado de liderar una organización criminal e impedir investigaciones sobre el operador digital argentino Fernando Cerimedo."
+      },
+      "en": {
+        "titulo": "Update: Bolivia arrests attorney general investigating the Cerimedo case",
+        "lead": "On the night of October 30, Bolivian authorities detained the country's attorney general, Roger Mariaca, accused of heading a criminal organization and obstructing investigations into Argentine digital operator Fernando Cerimedo."
+      }
+    },
+    "atualizacao_de": "4afd174e-ec68-4da6-b1a0-6ef3428416f0"
+  },
+  {
     "id": "ae276bad-9430-4e6e-8ae4-c9734b89201b",
     "titulo": "Homem é morto a tiros por sicário após perseguição em Sullana, Piura",
     "lead": "Um homem foi alvejado e morto por um sicário em Sullana, na região de Piura, depois de ser perseguido pelas ruas da cidade, conforme informou a polícia local.",
