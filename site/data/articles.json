@@ -1,5 +1,36 @@
 [
   {
+    "id": "1c1b877c-443a-43c4-84d4-fe1c18ab3f5a",
+    "titulo": "PF abre investigação sobre alegada ameaça à Embaixada dos Estados Unidos em território brasileiro",
+    "lead": "A Polícia Federal realizou duas buscas preventivas em São Paulo e na região do Distrito Federal após receber informações sobre um possível plano de ataque à Embaixada dos Estados Unidos no país.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-02T23:37:35.792828+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/policia-federal-investiga-suposta-ameaca-embaixada-dos-eua",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/33500646/pexels-photo-33500646.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Andres Figueroa",
+      "photographer_url": "https://www.pexels.com/@andres-figueroa-3326883",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/us-embassy-sign-in-new-york-city-street-33500646/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "PF abre investigación sobre supuesta amenaza a la Embajada de Estados Unidos en territorio brasileño",
+        "lead": "La Policía Federal realizó dos registros preventivos en São Paulo y en la zona del Distrito Federal tras recibir información sobre un posible plan de ataque a la Embajada de Estados Unidos en el país."
+      },
+      "en": {
+        "titulo": "Federal Police launches investigation into alleged threat to US Embassy on Brazilian soil",
+        "lead": "Brazil's Federal Police carried out two preventive raids in São Paulo and the Federal District area after receiving information about a possible attack plan against the United States Embassy in the country."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "3863bf79-2ea1-4665-a1e2-13b6ce784349",
     "titulo": "Guia 2026 apresenta os principais cassinos online para iniciantes na Argentina",
     "lead": "Um novo guia divulgado destaca as opções de cassinos virtuais mais recomendadas para quem está começando a apostar no país.",
