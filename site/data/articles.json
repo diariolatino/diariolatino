@@ -1,5 +1,36 @@
 [
   {
+    "id": "ae276bad-9430-4e6e-8ae4-c9734b89201b",
+    "titulo": "Homem é morto a tiros por sicário após perseguição em Sullana, Piura",
+    "lead": "Um homem foi alvejado e morto por um sicário em Sullana, na região de Piura, depois de ser perseguido pelas ruas da cidade, conforme informou a polícia local.",
+    "categoria": "Segurança",
+    "pais": "Peru",
+    "publicado_em": "2026-10-02T06:49:01.556256+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://rpp.pe/peru/piura/un-sicario-asesina-a-balazos-a-un-hombre-tras-perseguirlo-en-sullana-piura-noticia-1710425",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/37730158/pexels-photo-37730158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Joshuan Barboza",
+      "photographer_url": "https://www.pexels.com/@jbarbozameca",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/charming-pacasmayo-street-in-peru-37730158/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Hombre es asesinado a balazos por sicario tras persecución en Sullana, Piura",
+        "lead": "Un hombre fue alvejado y muerto por un sicario en Sullana, en la región de Piura, después de ser perseguido por las calles de la ciudad, según informó la policía local."
+      },
+      "en": {
+        "titulo": "Man killed in a shooting by hitman after chase in Sullana, Piura",
+        "lead": "A man was shot dead by a hitman in Sullana, in the Piura region, after being chased through the city's streets, according to local police reports."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "e24b5390-135d-4cb0-899d-2da568ec80a0",
     "titulo": "Observadores internacionais iniciam monitoramento das eleições brasileiras",
     "lead": "Delegações de sete organizações internacionais chegaram ao Brasil para acompanhar a preparação, a votação e a apuração das eleições gerais marcadas para 4 de outubro.",
