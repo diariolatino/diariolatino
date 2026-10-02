@@ -1,5 +1,36 @@
 [
   {
+    "id": "3863bf79-2ea1-4665-a1e2-13b6ce784349",
+    "titulo": "Guia 2026 apresenta os principais cassinos online para iniciantes na Argentina",
+    "lead": "Um novo guia divulgado destaca as opções de cassinos virtuais mais recomendadas para quem está começando a apostar no país.",
+    "categoria": "Economia",
+    "pais": "Argentina",
+    "publicado_em": "2026-10-02T19:04:17.769958+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://xhgts.com/los-mejores-casinos-online-argentina-guia-esencial-para-principiantes-en-2026/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/4677404/pexels-photo-4677404.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Aidan Howe",
+      "photographer_url": "https://www.pexels.com/@aidan-howe-2427444",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/dice-and-casino-tokens-4677404/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Guía 2026 presenta los principales casinos online para principiantes en Argentina",
+        "lead": "Un nuevo guía divulgado destaca las opciones de casinos virtuales más recomendadas para quienes comienzan a apostar en el país."
+      },
+      "en": {
+        "titulo": "2026 Guide Highlights Top Online Casinos for Beginners in Argentina",
+        "lead": "A newly released guide spotlights the most recommended virtual casino options for those starting to bet in the country."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "b49383d5-02d6-4506-a680-1495ab5b2b60",
     "titulo": "Atualização: Bolívia prende procurador-geral que investigava caso Cerimedo",
     "lead": "Na noite de 30 de outubro, autoridades bolivianas detiveram o procurador-geral da República, Roger Mariaca, acusado de liderar organização criminosa e de impedir investigações sobre o operador digital argentino Fernando Cerimedo.",
