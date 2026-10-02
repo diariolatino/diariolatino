@@ -1,5 +1,36 @@
 [
   {
+    "id": "e24b5390-135d-4cb0-899d-2da568ec80a0",
+    "titulo": "Observadores internacionais iniciam monitoramento das eleições brasileiras",
+    "lead": "Delegações de sete organizações internacionais chegaram ao Brasil para acompanhar a preparação, a votação e a apuração das eleições gerais marcadas para 4 de outubro.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-02T00:36:30.720574+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/observadores-internacionais-chegam-ao-brasil-para-monitorar-eleicoes",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/30596216/pexels-photo-30596216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Zelch Csaba",
+      "photographer_url": "https://www.pexels.com/@zelch",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/satellite-view-of-earth-highlighting-south-america-30596216/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Observadores internacionales inician monitoreo de las elecciones brasileñas",
+        "lead": "Delegaciones de siete organizaciones internacionales llegaron a Brasil para acompañar la preparación, la votación y el escrutinio de las elecciones generales programadas para el 4 de octubre."
+      },
+      "en": {
+        "titulo": "International observers begin monitoring Brazil's elections",
+        "lead": "Delegations from seven international organisations have arrived in Brazil to oversee the preparation, voting and counting of the general elections scheduled for October 4."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "92c2473c-b5ab-493a-af2c-4abe1a8f345d",
     "titulo": "Arruabarrena passa por cirurgia e ficará fora dos gramados pelo resto do ano",
     "lead": "O volante do Boca Juniors, Agustín Arruabarrena, será submetido a cirurgia e não terá condições de jogar até o final de 2026, conforme informou o clube argentino.",
