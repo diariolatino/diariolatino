@@ -1,5 +1,36 @@
 [
   {
+    "id": "087413e9-c7a6-468b-9c36-61d4d0e875f8",
+    "titulo": "Atualização: EUA destinam US$ 1 milhão a campanha contra o STF e revelam financiamento de US$ 176,9 milhões para projetos globais",
+    "lead": "Reportagem do The Guardian indica que o governo dos Estados Unidos alocou US$ 1 milhão ao Fundo de Direitos Humanos e Democracia para apoiar grupos civis que criticam o Supremo Tribunal Federal brasileiro, e revelou ainda um pacote de US$ 176,9 milhões destinado a 43 iniciativas em diversos países.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-03T22:46:10.911680+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/eua-destinam-us-1-milhao-para-campanha-contra-stf-diz-jornal",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/8899233/pexels-photo-8899233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Lara Jameson",
+      "photographer_url": "https://www.pexels.com/@lara-jameson",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/men-and-a-woman-protesting-in-front-of-the-supreme-court-of-the-united-states-8899233/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Actualización: EE.UU. destinan US$ 1 millón a campaña contra el STF y revelan financiamiento de US$ 176,9 millones para proyectos globales",
+        "lead": "Un informe de The Guardian indica que el gobierno de los Estados Unidos asignó US$ 1 millón al Fondo de Derechos Humanos y Democracia para apoyar a grupos civiles que critican al Supremo Tribunal Federal brasileño, y reveló además un paquete de US$ 176,9 millones destinado a 43 iniciativas en varios países."
+      },
+      "en": {
+        "titulo": "Update: US allocates US$ 1 million to campaign against Brazil's Supreme Court and reveals US$ 176.9 million global funding package",
+        "lead": "A The Guardian report indicates that the United States government earmarked US$ 1 million to the Human Rights and Democracy Fund to support civil groups opposing Brazil's Supreme Federal Court, and also disclosed a US$ 176.9 million package for 43 projects worldwide."
+      }
+    },
+    "atualizacao_de": "5b0425b4-f6a8-49c3-988b-eabd4298f91f"
+  },
+  {
     "id": "efd6fbea-80ae-424b-af75-f242299b8f97",
     "titulo": "Paraguai realiza eleições municipais com mais de 5 milhões de eleitores habilitados",
     "lead": "Cidadãos paraguaios comparecem neste domingo (4) às urnas para eleger prefeitos e vereadores em 263 municípios, em processo coordenado pelo Tribunal Superior de Justiça Eleitoral com o uso de urnas eletrônicas.",
