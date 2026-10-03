@@ -1,5 +1,36 @@
 [
   {
+    "id": "9b2b0cb6-6a8e-41ab-9b4a-720898d83091",
+    "titulo": "EUA e Austrália suspendem serviços consulares no Brasil antes da eleição",
+    "lead": "As missões diplomáticas dos Estados Unidos e da Austrália anunciaram, nesta sexta‑feira (2), o fechamento temporário de seus consulados em várias cidades brasileiras, alegando preocupações de segurança.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-03T10:17:50.105833+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/eua-e-australia-fecham-embaixadas-no-brasil-vesperas-da-eleicao",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/7312243/pexels-photo-7312243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "MART  PRODUCTION",
+      "photographer_url": "https://www.pexels.com/@mart-production",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/old-building-with-flags-hanging-on-balcony-7312243/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "EE. UU. y Australia suspenden servicios consulares en Brasil antes de la elección",
+        "lead": "Las misiones diplomáticas de Estados Unidos y Australia anunciaron, este viernes 2, el cierre temporal de sus consulados en varias ciudades brasileñas, alegando preocupaciones de seguridad."
+      },
+      "en": {
+        "titulo": "US and Australia suspend consular services in Brazil ahead of election",
+        "lead": "The diplomatic missions of the United States and Australia announced on Friday (Oct 2) the temporary closure of their consulates in several Brazilian cities, citing security concerns."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "b52e734d-6d36-4397-8623-bfb41f3f9699",
     "titulo": "Vice-presidente boliviano denuncia suposta trama para prisão e alerta sobre risco à sua vida",
     "lead": "Edmand Lara, vice-presidente da Bolívia, afirmou que o governo de Rodrigo Paz está preparando um processo fictício para prendê-lo e declarou temer por sua segurança enquanto está em viagem à Espanha.",
