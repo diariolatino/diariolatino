@@ -1,5 +1,36 @@
 [
   {
+    "id": "b52e734d-6d36-4397-8623-bfb41f3f9699",
+    "titulo": "Vice-presidente boliviano denuncia suposta trama para prisão e alerta sobre risco à sua vida",
+    "lead": "Edmand Lara, vice-presidente da Bolívia, afirmou que o governo de Rodrigo Paz está preparando um processo fictício para prendê-lo e declarou temer por sua segurança enquanto está em viagem à Espanha.",
+    "categoria": "Política",
+    "pais": "Bolívia",
+    "publicado_em": "2026-10-03T04:22:06.536280+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/vice-presidente-da-bolivia-acusa-governo-paz-de-tramar-prende-lo",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/3880204/pexels-photo-3880204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Antonio Prado",
+      "photographer_url": "https://www.pexels.com/@antonio-prado-1050855",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/man-in-suit-giving-speech-3880204/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Vicepresidente boliviano denuncia supuesta trama para prisión y alerta sobre riesgo a su vida",
+        "lead": "Edmand Lara, vicepresidente de Bolivia, afirmó que el gobierno de Rodrigo Paz está preparando un proceso ficticio para encarcelarlo y declaró temer por su seguridad mientras está de viaje a España."
+      },
+      "en": {
+        "titulo": "Bolivian vice president accuses government of plot to imprison him and warns of threat to his life",
+        "lead": "Edmand Lara, Bolivia's vice president, said President Rodrigo Paz's administration is preparing a fictitious legal case to arrest him and expressed fear for his safety while traveling in Spain."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "1c1b877c-443a-43c4-84d4-fe1c18ab3f5a",
     "titulo": "PF abre investigação sobre alegada ameaça à Embaixada dos Estados Unidos em território brasileiro",
     "lead": "A Polícia Federal realizou duas buscas preventivas em São Paulo e na região do Distrito Federal após receber informações sobre um possível plano de ataque à Embaixada dos Estados Unidos no país.",
