@@ -1,5 +1,36 @@
 [
   {
+    "id": "efd6fbea-80ae-424b-af75-f242299b8f97",
+    "titulo": "Paraguai realiza eleições municipais com mais de 5 milhões de eleitores habilitados",
+    "lead": "Cidadãos paraguaios comparecem neste domingo (4) às urnas para eleger prefeitos e vereadores em 263 municípios, em processo coordenado pelo Tribunal Superior de Justiça Eleitoral com o uso de urnas eletrônicas.",
+    "categoria": "Política",
+    "pais": "Paraguai",
+    "publicado_em": "2026-10-03T19:06:18.459837+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/paraguai-vai-urnas-para-eleicoes-municipais-neste-domingo",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/31093777/pexels-photo-31093777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Faruk Tokluoğlu",
+      "photographer_url": "https://www.pexels.com/@faruktokluoglu",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/fingerprint-authentication-in-afghanistan-voting-process-31093777/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Paraguay realiza elecciones municipales con más de 5 millones de electores habilitados",
+        "lead": "Ciudadanos paraguayos acuden este domingo (4) a las urnas para elegir alcaldes y concejales en 263 municipios, en un proceso coordinado por el Tribunal Superior de Justicia Electoral con el uso de urnas electrónicas."
+      },
+      "en": {
+        "titulo": "Paraguay holds municipal elections with over 5 million registered voters",
+        "lead": "Paraguayan citizens head to the polls this Sunday (4) to elect mayors and council members in 263 municipalities, in a process coordinated by the Superior Court of Electoral Justice using electronic ballot boxes."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "9b2b0cb6-6a8e-41ab-9b4a-720898d83091",
     "titulo": "EUA e Austrália suspendem serviços consulares no Brasil antes da eleição",
     "lead": "As missões diplomáticas dos Estados Unidos e da Austrália anunciaram, nesta sexta‑feira (2), o fechamento temporário de seus consulados em várias cidades brasileiras, alegando preocupações de segurança.",
