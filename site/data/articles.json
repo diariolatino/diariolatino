@@ -1,5 +1,36 @@
 [
   {
+    "id": "ae0b7ced-1473-4356-acf1-4644898d2297",
+    "titulo": "Colombia revoga ajuste de precios de gasolina tras orden presidencial",
+    "lead": "El presidente ordenó la revocación del último ajuste en los precios de la gasolina, acción que fue ejecutada por el Ministerio de Minas y Energía y el Ministerio de Hacienda.",
+    "categoria": "Política",
+    "pais": "Colombia",
+    "publicado_em": "2026-10-05T01:44:17.213549+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.radiosantafe.com/2026/10/02/acatando-orden-presidencial-minminas-y-minhacienda-reversan-reajuste-en-los-precios-de-la-gasolina/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/8266768/pexels-photo-8266768.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Erik Mclean",
+      "photographer_url": "https://www.pexels.com/@introspectivedsgn",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/price-of-fuel-on-station-8266768/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Colombia revoca ajuste de precios de gasolina tras orden presidencial",
+        "lead": "El presidente ordenó la revocación del último ajuste en los precios de la gasolina, acción que fue ejecutada por el Ministerio de Minas y Energía y el Ministerio de Hacienda."
+      },
+      "en": {
+        "titulo": "Colombia cancels gasoline price adjustment after presidential order",
+        "lead": "The president ordered the reversal of the recent gasoline price adjustment, a move carried out by the Ministry of Mines and Energy and the Ministry of Finance."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "087413e9-c7a6-468b-9c36-61d4d0e875f8",
     "titulo": "Atualização: EUA destinam US$ 1 milhão a campanha contra o STF e revelam financiamento de US$ 176,9 milhões para projetos globais",
     "lead": "Reportagem do The Guardian indica que o governo dos Estados Unidos alocou US$ 1 milhão ao Fundo de Direitos Humanos e Democracia para apoiar grupos civis que criticam o Supremo Tribunal Federal brasileiro, e revelou ainda um pacote de US$ 176,9 milhões destinado a 43 iniciativas em diversos países.",
