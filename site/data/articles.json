@@ -1,5 +1,36 @@
 [
   {
+    "id": "fe7f378f-9b45-4848-949e-692e07bcc584",
+    "titulo": "O Brasil ainda é literal nas artes, diz Lyz Parayzo, que rejeita ser capturada pela questão de identidade",
+    "lead": "Em entrevista ao GDELT, a artista brasileira Lyz Parayzo afirmou que a arte brasileira mantém sua literalidade e que ela não se deixa ser definida por debates sobre identidade.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-05T08:36:45.601201+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://oglobo.globo.com/cultura/artes-visuais/noticia/2026/10/02/o-brasil-ainda-e-literal-nas-artes-diz-lyz-parayzo-que-rejeita-ser-capturada-pela-questao-de-identidade.ghtml",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/39121250/pexels-photo-39121250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Joaquim Pacheco",
+      "photographer_url": "https://www.pexels.com/@joaquim-pacheco-1570917592",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/futuristic-museum-architecture-in-rio-de-janeiro-39121250/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasil sigue siendo literal en las artes, dice Lyz Parayzo, que rechaza ser capturada por la cuestión de identidad",
+        "lead": "En una entrevista a GDELT, la artista brasileña Lyz Parayzo afirmó que el arte brasileño mantiene su literalidad y que no desea ser definido por debates sobre identidad."
+      },
+      "en": {
+        "titulo": "Brazil remains literal in the arts, says Lyz Parayzo, who rejects being defined by identity issues",
+        "lead": "In an interview with GDELT, Brazilian artist Lyz Parayzo stated that Brazilian art retains its literalness and that she does not want to be defined by identity debates."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "ae0b7ced-1473-4356-acf1-4644898d2297",
     "titulo": "Colombia revoga ajuste de precios de gasolina tras orden presidencial",
     "lead": "El presidente ordenó la revocación del último ajuste en los precios de la gasolina, acción que fue ejecutada por el Ministerio de Minas y Energía y el Ministerio de Hacienda.",
