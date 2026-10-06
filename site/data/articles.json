@@ -1,5 +1,36 @@
 [
   {
+    "id": "89fa2310-8493-48a2-83ff-f8afdab7aaf9",
+    "titulo": "OMS revela que 66% dos jovens europeus sofreram abusos na infância",
+    "lead": "Relatório da Organização Mundial da Saúde indica que dois em cada três jovens na região enfrentaram violência ou negligência na infância, impactando sua saúde mental e inserção social.",
+    "categoria": "Sociedade",
+    "pais": "América Latina",
+    "publicado_em": "2026-10-06T14:52:55.939116+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/oms-dois-em-cada-tres-jovens-europeus-dizem-ter-sofrido-abusos",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/36729613/pexels-photo-36729613.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Vitaly Gariev",
+      "photographer_url": "https://www.pexels.com/@silverkblack",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/teen-counseling-session-in-modern-office-36729613/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "OMS revela que 66% de los jóvenes europeos sufrieron abusos en la infancia",
+        "lead": "Un informe de la Organización Mundial de la Salud indica que dos de cada tres jóvenes en la región enfrentaron violencia o negligencia en la infancia, impactando su salud mental e inserción social."
+      },
+      "en": {
+        "titulo": "WHO reveals 66% of European youth suffered abuse in childhood",
+        "lead": "A World Health Organization report indicates that two in three young people in the region faced violence or neglect in childhood, impacting their mental health and social integration."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "fe7f378f-9b45-4848-949e-692e07bcc584",
     "titulo": "O Brasil ainda é literal nas artes, diz Lyz Parayzo, que rejeita ser capturada pela questão de identidade",
     "lead": "Em entrevista ao GDELT, a artista brasileira Lyz Parayzo afirmou que a arte brasileira mantém sua literalidade e que ela não se deixa ser definida por debates sobre identidade.",
