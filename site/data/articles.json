@@ -1,5 +1,36 @@
 [
   {
+    "id": "7fb05e21-c2fe-4e3b-8164-856b26fc9b25",
+    "titulo": "Sites e aplicativos de apostas são retirados do ar no Brasil a partir de 6 de outubro",
+    "lead": "A partir desta terça‑feira (6), todos os sites e aplicativos de apostas esportivas e jogos online são bloqueados no território nacional, conforme determina a Medida Provisória 1.394/2026.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-06T20:04:31.759229+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/bets-comecam-sair-do-ar-nesta-terca-feira",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/35447973/pexels-photo-35447973.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Jonathan Borba",
+      "photographer_url": "https://www.pexels.com/@jonathanborba",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/lively-poker-game-at-a-casino-table-35447973/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Sitios y aplicaciones de apuestas son retirados de la red en Brasil a partir del 6 de octubre",
+        "lead": "A partir de este martes (6), todos los sitios y aplicaciones de apuestas deportivas y juegos en línea son bloqueados en el territorio nacional, según lo determina la Medida Provisional 1.394/2026."
+      },
+      "en": {
+        "titulo": "Betting sites and apps taken offline in Brazil starting October 6",
+        "lead": "From this Tuesday (6), all sports betting and online gaming sites and apps are blocked nationwide, as mandated by Provisional Measure 1.394/2026."
+      }
+    },
+    "atualizacao_de": "b43172b3-54c3-48df-91c6-5ce701b975d4"
+  },
+  {
     "id": "89fa2310-8493-48a2-83ff-f8afdab7aaf9",
     "titulo": "OMS revela que 66% dos jovens europeus sofreram abusos na infância",
     "lead": "Relatório da Organização Mundial da Saúde indica que dois em cada três jovens na região enfrentaram violência ou negligência na infância, impactando sua saúde mental e inserção social.",
