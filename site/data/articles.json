@@ -1,5 +1,36 @@
 [
   {
+    "id": "87570e86-4ae1-401b-b03a-21d2220a423d",
+    "titulo": "Físico belga Francis Halzen recebe Nobel de Física 2026 por descobertas no IceCube",
+    "lead": "O Prêmio Nobel de Física de 2026 foi concedido ao belga Francis Halzen, reconhecido por sua liderança no observatório de neutrinos IceCube e pela detecção de neutrinos de alta energia de origem astrofísica.",
+    "categoria": "Ciência & Ambiente",
+    "pais": "América Latina",
+    "publicado_em": "2026-10-07T06:58:23.415004+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/belga-que-descobriu-menor-particula-do-universo-recebe-nobel-da-fisica",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/13650146/pexels-photo-13650146.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Eduardo Torres",
+      "photographer_url": "https://www.pexels.com/@eduardo-torres-179321986",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/atomium-in-brussels-belgium-13650146/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Físico belga Francis Halzen recibe el Nobel de Física 2026 por descubrimientos en IceCube",
+        "lead": "El Premio Nobel de Física 2026 fue concedido al belga Francis Halzen, reconocido por su liderazgo en el observatorio de neutrinos IceCube y por la detección de neutrinos de alta energía de origen astrofísico."
+      },
+      "en": {
+        "titulo": "Belgian Physicist Francis Halzen Awarded 2026 Nobel Prize in Physics for IceCube Discoveries",
+        "lead": "The 2026 Nobel Prize in Physics was awarded to Belgian Francis Halzen, recognized for his leadership of the IceCube neutrino observatory and for detecting high‑energy astrophysical neutrinos."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "ccc568ab-76f7-4d1c-9c64-4acbc91ffcb3",
     "titulo": "Esposa de Maduro enfrenta problema cardíaco delicado",
     "lead": "Cilia Flores, esposa do presidente venezuelano Nicolás Maduro, foi diagnosticada com uma condição cardíaca grave, segundo informações divulgadas recentemente.",
