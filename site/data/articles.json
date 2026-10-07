@@ -1,5 +1,36 @@
 [
   {
+    "id": "97497a67-799a-4e7e-96d1-346fbd8abfa2",
+    "titulo": "Receita Federal envia cartas a quase 500 mil contribuintes com declaração na malha fina até 20 de outubro",
+    "lead": "A Receita Federal iniciou o envio de correspondências a 498 mil contribuintes cujas declarações do Imposto de Renda 2026 foram retidas na malha fina, com prazo final de 20 de outubro para regularização voluntária.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-07T20:29:03.256538+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/receita-envia-cartas-498-mil-que-estao-na-malha-fina-ate-o-dia-20",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/8970292/pexels-photo-8970292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Leeloo The First",
+      "photographer_url": "https://www.pexels.com/@leeloothefirst",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/times-to-pay-taxes-sign-by-documents-8970292/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "La Receita Federal envía cartas a casi 500 mil contribuyentes con declaración en la malha fina hasta el 20 de octubre",
+        "lead": "La Receita Federal comenzó a enviar correspondencia a 498 mil contribuyentes cuyas declaraciones del Impuesto a la Renta 2026 fueron retenidas en la malha fina, con fecha límite del 20 de octubre para la regularización voluntaria."
+      },
+      "en": {
+        "titulo": "Brazil tax authority sends letters to nearly 500,000 taxpayers in audit queue by October 20",
+        "lead": "Brazil's Receita Federal has begun mailing notices to 498,000 taxpayers whose 2026 individual income tax returns were placed in the audit queue, giving them until October 20 to regularise voluntarily."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "87570e86-4ae1-401b-b03a-21d2220a423d",
     "titulo": "Físico belga Francis Halzen recebe Nobel de Física 2026 por descobertas no IceCube",
     "lead": "O Prêmio Nobel de Física de 2026 foi concedido ao belga Francis Halzen, reconhecido por sua liderança no observatório de neutrinos IceCube e pela detecção de neutrinos de alta energia de origem astrofísica.",
