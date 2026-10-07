@@ -1,5 +1,36 @@
 [
   {
+    "id": "ccc568ab-76f7-4d1c-9c64-4acbc91ffcb3",
+    "titulo": "Esposa de Maduro enfrenta problema cardíaco delicado",
+    "lead": "Cilia Flores, esposa do presidente venezuelano Nicolás Maduro, foi diagnosticada com uma condição cardíaca grave, segundo informações divulgadas recentemente.",
+    "categoria": "Sociedade",
+    "pais": "Venezuela",
+    "publicado_em": "2026-10-07T00:28:37.015781+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.24horas.cl/internacional/deutsche-welle/esposa-de-maduro-con-un-problema-delicado-en-el-corazon",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/7535455/pexels-photo-7535455.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Los Muertos Crew",
+      "photographer_url": "https://www.pexels.com/@cristian-rojas",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-woman-holding-a-bouquet-of-flowers-7535455/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Esposa de Maduro enfrenta problema cardíaco delicado",
+        "lead": "Cilia Flores, esposa del presidente venezolano Nicolás Maduro, fue diagnosticada con una condición cardíaca grave, según informaciones divulgadas recientemente."
+      },
+      "en": {
+        "titulo": "Maduro's wife faces delicate heart problem",
+        "lead": "Cilia Flores, wife of Venezuelan President Nicolás Maduro, has been diagnosed with a serious heart condition, according to information released recently."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "7fb05e21-c2fe-4e3b-8164-856b26fc9b25",
     "titulo": "Sites e aplicativos de apostas são retirados do ar no Brasil a partir de 6 de outubro",
     "lead": "A partir desta terça‑feira (6), todos os sites e aplicativos de apostas esportivas e jogos online são bloqueados no território nacional, conforme determina a Medida Provisória 1.394/2026.",
