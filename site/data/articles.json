@@ -1,5 +1,36 @@
 [
   {
+    "id": "701cd8a0-b68d-49bf-9613-43719d784169",
+    "titulo": "Espanha antecipa eleições e sindicatos convocam greve geral por moradia",
+    "lead": "O governo de Pedro Sánchez anunciou eleições antecipadas para 29 de novembro, enquanto as centrais sindicais UGT e CCOO marcaram uma greve geral de 24 horas em 11 de novembro, protestando contra a crise habitacional.",
+    "categoria": "Sociedade",
+    "pais": "América Latina",
+    "publicado_em": "2026-10-08T00:48:50.910732+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/habitacao-espanha-antecipa-eleicoes-sindicatos-chamam-greve-geral",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/7965411/pexels-photo-7965411.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Wind Sun",
+      "photographer_url": "https://www.pexels.com/@wind-sun-3462411",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/people-walking-on-the-street-7965411/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "España anticipa elecciones y sindicatos convocan huelga general por vivienda",
+        "lead": "El gobierno de Pedro Sánchez anunció elecciones anticipadas para el 29 de noviembre, mientras las centrales sindicales UGT y CCOO programaron una huelga general de 24 horas el 11 de noviembre, protestando contra la crisis habitacional."
+      },
+      "en": {
+        "titulo": "Spain Calls Early Election and Unions Schedule General Strike Over Housing",
+        "lead": "Prime Minister Pedro Sánchez announced early elections for November 29, while the UGT and CCOO unions set a 24‑hour general strike for November 11 to protest the housing crisis."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "97497a67-799a-4e7e-96d1-346fbd8abfa2",
     "titulo": "Receita Federal envia cartas a quase 500 mil contribuintes com declaração na malha fina até 20 de outubro",
     "lead": "A Receita Federal iniciou o envio de correspondências a 498 mil contribuintes cujas declarações do Imposto de Renda 2026 foram retidas na malha fina, com prazo final de 20 de outubro para regularização voluntária.",
