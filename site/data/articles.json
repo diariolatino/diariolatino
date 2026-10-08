@@ -1,5 +1,36 @@
 [
   {
+    "id": "da97915a-4e33-49a2-8453-20664a1aa1ae",
+    "titulo": "Sete de outubro: o ponto de virada que redesenhou alianças no Oriente Médio",
+    "lead": "Três anos depois do ataque do Hamas a Israel, o Oriente Médio passou por uma série de conflitos e reorganizações de blocos que alteraram o equilíbrio de poder na região.",
+    "categoria": "Mundo",
+    "pais": "América Latina",
+    "publicado_em": "2026-10-08T21:07:55.600224+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/sete-de-outubro-do-hamas-redesenhou-aliancas-no-oriente-medio",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/36850181/pexels-photo-36850181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Monirul  Islam",
+      "photographer_url": "https://www.pexels.com/@monirulislam",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/massive-pro-palestine-demonstration-in-dhaka-36850181/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "El 7 de octubre: el punto de inflexión que redibujó las alianzas en Oriente Medio",
+        "lead": "Tres años después del ataque del Hamas a Israel, Oriente Medio experimentó una serie de conflictos y reorganizaciones de bloques que alteraron el equilibrio de poder en la región."
+      },
+      "en": {
+        "titulo": "October 7: The turning point that reshaped alliances in the Middle East",
+        "lead": "Three years after Hamas's attack on Israel, the Middle East experienced a series of conflicts and bloc reorganizations that altered the region's power balance."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "239c0004-cbd6-42ee-820c-a07e5218cc84",
     "titulo": "Incêndio na UFPE deixa prejuízo estimado em R$ 100 milhões",
     "lead": "Um incêndio que atingiu um prédio do campus Recife da Universidade Federal de Pernambuco (UFPE) nesta noite causou danos que o reitor estima em cerca de R$ 100 milhões, incluindo a perda de laboratórios e dados de 20 anos de pesquisa.",
