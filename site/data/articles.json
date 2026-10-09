@@ -1,5 +1,36 @@
 [
   {
+    "id": "be172d77-d05c-4a7a-8845-73ba1777daef",
+    "titulo": "Estados Unidos inicia missão em Argentina para impulsionar investimentos estratégicos",
+    "lead": "Em uma iniciativa que visa fortalecer laços econômicos, o governo dos Estados Unidos lançou uma missão em Buenos Aires para promover investimentos em setores estratégicos na Argentina.",
+    "categoria": "Política",
+    "pais": "Argentina",
+    "publicado_em": "2026-10-09T01:49:35.337988+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://elintransigente.com/2026/10/estados-unidos-mision-inversiones/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/4386395/pexels-photo-4386395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "https://kaboompics.com/",
+      "photographer_url": "https://www.pexels.com/@karola-g",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/unrecognizable-man-showing-20-american-dollars-4386395/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Estados Unidos inicia misión en Argentina para impulsar inversiones estratégicas",
+        "lead": "En una iniciativa destinada a fortalecer lazos económicos, el gobierno de Estados Unidos lanzó una misión en Buenos Aires para promover inversiones en sectores estratégicos en Argentina."
+      },
+      "en": {
+        "titulo": "United States launches mission in Argentina to boost strategic investments",
+        "lead": "In an effort to strengthen economic ties, the United States government has launched a mission in Buenos Aires to promote investments in Argentina's strategic sectors."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "da97915a-4e33-49a2-8453-20664a1aa1ae",
     "titulo": "Sete de outubro: o ponto de virada que redesenhou alianças no Oriente Médio",
     "lead": "Três anos depois do ataque do Hamas a Israel, o Oriente Médio passou por uma série de conflitos e reorganizações de blocos que alteraram o equilíbrio de poder na região.",
