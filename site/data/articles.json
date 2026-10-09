@@ -1,5 +1,36 @@
 [
   {
+    "id": "06fe4710-9fa6-4d1b-a9dc-2d963ecd1613",
+    "titulo": "Tlaxcala sediará o Primeiro Congresso Internacional da Talavera entre México e Espanha",
+    "lead": "O estado mexicano de Tlaxcala foi escolhido como palco do inaugural encontro internacional dedicado à tradição cerâmica da Talavera, reunindo especialistas e artesãos dos dois países.",
+    "categoria": "Sociedade",
+    "pais": "México",
+    "publicado_em": "2026-10-09T08:37:58.439598+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.sdpnoticias.com/estados/tlaxcala-sera-sede-del-primer-congreso-internacional-de-la-talavera-mexico-espana/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/36103767/pexels-photo-36103767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Dainé Zeferino",
+      "photographer_url": "https://www.pexels.com/@camiladainezl",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/colorful-talavera-pottery-in-cholula-mexico-36103767/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Tlaxcala será sede del Primer Congreso Internacional de Talavera México-España",
+        "lead": "El estado mexicano de Tlaxcala ha sido seleccionado como sede del primer encuentro internacional dedicado a la tradición cerámica de Talavera, reuniendo a expertos y artesanos de ambos países."
+      },
+      "en": {
+        "titulo": "Tlaxcala to Host the First International Talavera Congress Between Mexico and Spain",
+        "lead": "The Mexican state of Tlaxcala has been chosen as the venue for the inaugural international gathering dedicated to the Talavera ceramic tradition, bringing together experts and artisans from both countries."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "be172d77-d05c-4a7a-8845-73ba1777daef",
     "titulo": "Estados Unidos inicia missão em Argentina para impulsionar investimentos estratégicos",
     "lead": "Em uma iniciativa que visa fortalecer laços econômicos, o governo dos Estados Unidos lançou uma missão em Buenos Aires para promover investimentos em setores estratégicos na Argentina.",
