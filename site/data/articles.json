@@ -1,5 +1,36 @@
 [
   {
+    "id": "345738d2-2a7a-4433-a87c-33f6f42aed6e",
+    "titulo": "Nobel da Paz 2026 é concedido à jurista sul-africana Navi Pillay",
+    "lead": "O Comitê Nobel da Noruega anunciou nesta sexta‑feira (9 de outubro) que o prêmio de 2026 será entregue à jurista sul‑africana Navanethem “Navi” Pillay, de 85 anos, reconhecida por sua atuação em direito internacional e defesa dos direitos humanos. Pillay, ex‑presidente do Tribunal Penal Internacional para Ruanda e ex‑Alta‑Comissária da ONU para os Direitos Humanos, foi laureada por sua contribuição à paz global.",
+    "categoria": "Mundo",
+    "pais": "América Latina",
+    "publicado_em": "2026-10-09T15:55:13.682032+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/nobel-da-paz-e-concedido-jurista-sul-africana-navi-pillay",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/33552309/pexels-photo-33552309.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Kaybee Photography",
+      "photographer_url": "https://www.pexels.com/@kaybee-photography-664870201",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/three-military-officers-in-blue-uniforms-outdoors-33552309/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Nobel de la Paz 2026 es otorgado a la jurista sudafricana Navi Pillay",
+        "lead": "El Comité Nobel de Noruega anunció este viernes (9 de octubre) que el premio de 2026 será entregado a la jurista sudafricana Navanethem “Navi” Pillay, de 85 años, reconocida por su labor en derecho internacional y defensa de los derechos humanos. Pillay, ex‑presidenta del Tribunal Penal Internacional para Ruanda y ex‑Alta Comisionada de la ONU para los Derechos Humanos, fue laureada por su contribución a la paz global."
+      },
+      "en": {
+        "titulo": "2026 Nobel Peace Prize Awarded to South African Jurist Navi Pillay",
+        "lead": "The Norwegian Nobel Committee announced on Friday (October 9) that the 2026 prize will be presented to South African jurist Navanethem “Navi” Pillay, 85, recognized for her work in international law and human‑rights advocacy. Pillay, former president of the International Criminal Tribunal for Rwanda and former UN High Commissioner for Human Rights, was honored for her contribution to global peace."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "06fe4710-9fa6-4d1b-a9dc-2d963ecd1613",
     "titulo": "Tlaxcala sediará o Primeiro Congresso Internacional da Talavera entre México e Espanha",
     "lead": "O estado mexicano de Tlaxcala foi escolhido como palco do inaugural encontro internacional dedicado à tradição cerâmica da Talavera, reunindo especialistas e artesãos dos dois países.",
