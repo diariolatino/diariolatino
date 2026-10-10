@@ -1,5 +1,36 @@
 [
   {
+    "id": "3d2d5b08-9801-4f2b-a112-c28d15a7874b",
+    "titulo": "Chuva de meteoros Draconídeos ilumina o México: quando e como observar",
+    "lead": "A cada ano, a chuva de meteoros Draconídeos cruza o céu mexicano, oferecendo um espetáculo visível a olho nu nas noites de pico.",
+    "categoria": "Ciência & Ambiente",
+    "pais": "México",
+    "publicado_em": "2026-10-10T00:34:40.294880+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://vanguardia.com.mx/informacion/pide-un-deseo-lluvia-de-estrellas-draconidas-iluminara-mexico-cuando-y-como-verla-BB23990098",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/28583333/pexels-photo-28583333.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Eclipse Chasers",
+      "photographer_url": "https://www.pexels.com/@eclipse-chasers-716719984",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/stunning-meteor-shower-captured-at-night-28583333/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Lluvia de meteoros Dracónidos ilumina México: cuándo y cómo observar",
+        "lead": "Cada año, la lluvia de meteoros Dracónidos cruza el cielo mexicano, ofreciendo un espectáculo visible a simple vista en las noches de máximo."
+      },
+      "en": {
+        "titulo": "Draconid meteor shower lights up Mexico: when and how to watch",
+        "lead": "Each year the Draconid meteor shower crosses the Mexican sky, offering a naked‑eye spectacle on peak nights."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "1c8e0a4d-5749-4de9-b8d7-0b09767b4952",
     "titulo": "Brasileiras recorrem à embaixada em Varsóvia após ameaça de deputado polonês",
     "lead": "Duas cidadãs brasileiras na Polônia procuraram a Embaixada do Brasil em Varsóvia depois que o deputado de extrema‑direita Dominik Tarczyński pediu informações sobre elas em uma publicação no X.",
