@@ -1,5 +1,36 @@
 [
   {
+    "id": "6914caad-4c64-4c82-8a65-be22e1331c2f",
+    "titulo": "Piloto morre em acidente de avião no pátio de manutenção do Metrô de Belo Horizonte",
+    "lead": "Um piloto perdeu a vida quando um monomotor Embraer colidiu com estruturas do pátio de manutenção do Metrô de BH por volta das 11h15 da manhã desta sexta‑feira, 9 de outubro de 2026.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-10T06:47:45.034623+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/piloto-morre-apos-queda-de-aviao-em-patio-de-manutencao-do-metro-de-bh",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/35575192/pexels-photo-35575192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Jerson Martins",
+      "photographer_url": "https://www.pexels.com/@jersonmfotos",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/train-worker-on-freight-locomotive-in-brazil-35575192/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Piloto muere tras caída de avión en patio de mantenimiento del metro de Belo Horizonte",
+        "lead": "Un piloto perdió la vida cuando un monomotor Embraer chocó con estructuras del patio de mantenimiento del Metro de BH alrededor de las 11:15 de la mañana del viernes 9 de octubre de 2026."
+      },
+      "en": {
+        "titulo": "Pilot dies after aircraft crash in Belo Horizonte metro maintenance yard",
+        "lead": "A pilot lost his life when an Embraer monoplane collided with structures in the Belo Horizonte metro maintenance yard around 11:15 a.m. on Friday, October 9, 2026."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "3d2d5b08-9801-4f2b-a112-c28d15a7874b",
     "titulo": "Chuva de meteoros Draconídeos ilumina o México: quando e como observar",
     "lead": "A cada ano, a chuva de meteoros Draconídeos cruza o céu mexicano, oferecendo um espetáculo visível a olho nu nas noites de pico.",
