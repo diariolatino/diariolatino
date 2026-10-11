@@ -1,5 +1,36 @@
 [
   {
+    "id": "57af74f3-7b28-417b-96db-ab97bffea9e0",
+    "titulo": "Papa Leão XIV será operado para remoção de nódulo pulmonar",
+    "lead": "O pontífice anunciou que será submetido a cirurgia nos primeiros dias da próxima semana no Hospital Policlínico Gemelli, em Roma, após identificar um nódulo em fase inicial no pulmão.",
+    "categoria": "Sociedade",
+    "pais": "América Latina",
+    "publicado_em": "2026-10-11T15:28:41.404276+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/papa-leao-xiv-fara-cirurgia-para-retirar-nodulo-no-pulmao",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/31741852/pexels-photo-31741852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Dirk Pothen",
+      "photographer_url": "https://www.pexels.com/@dirk-pothen-2149332904",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/apostolic-palace-and-colonnade-in-vatican-city-31741852/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "El Papa León XIV será operado para extirpar un nódulo pulmonar",
+        "lead": "El pontífice anunció que será sometido a cirugía a principios de la próxima semana en el Hospital Policlínico Gemelli, en Roma, tras identificar un nódulo en fase inicial en el pulmón."
+      },
+      "en": {
+        "titulo": "Pope Leo XIV to Undergo Surgery to Remove Lung Nodule",
+        "lead": "The pontiff announced he will undergo surgery in the early days of next week at Rome’s Hospital Polyclinic Gemelli after an early‑stage lung nodule was identified."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "6914caad-4c64-4c82-8a65-be22e1331c2f",
     "titulo": "Piloto morre em acidente de avião no pátio de manutenção do Metrô de Belo Horizonte",
     "lead": "Um piloto perdeu a vida quando um monomotor Embraer colidiu com estruturas do pátio de manutenção do Metrô de BH por volta das 11h15 da manhã desta sexta‑feira, 9 de outubro de 2026.",
