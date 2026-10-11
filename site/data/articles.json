@@ -1,5 +1,36 @@
 [
   {
+    "id": "d7bc9082-8a30-49d6-bde4-33a76a4faedd",
+    "titulo": "Brasil registra 11 empresas entre os melhores empregadores globais",
+    "lead": "Um ranking internacional revelou que onze companhias brasileiras foram incluídas entre as melhores organizações para se trabalhar no mundo.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-11T20:04:17.896775+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/10/brasil-tem-11-empresas-entre-os-melhores-empregadores-do-mundo-veja-a-lista.ghtml",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/35755227/pexels-photo-35755227.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Jitte Davidson",
+      "photographer_url": "https://www.pexels.com/@jitte-davidson-2159038077",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/award-ceremony-with-gift-presentation-35755227/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasil registra 11 empresas entre los mejores empleadores globales",
+        "lead": "Un ranking internacional reveló que once compañías brasileñas fueron incluidas entre las mejores organizaciones para trabajar en el mundo."
+      },
+      "en": {
+        "titulo": "Brazil records 11 companies among the world's top employers",
+        "lead": "An international ranking revealed that eleven Brazilian firms were placed among the world's best workplaces."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "57af74f3-7b28-417b-96db-ab97bffea9e0",
     "titulo": "Papa Leão XIV será operado para remoção de nódulo pulmonar",
     "lead": "O pontífice anunciou que será submetido a cirurgia nos primeiros dias da próxima semana no Hospital Policlínico Gemelli, em Roma, após identificar um nódulo em fase inicial no pulmão.",
