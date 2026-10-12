@@ -1,5 +1,36 @@
 [
   {
+    "id": "6a208c24-3f5e-44b5-bc01-08a3696bc1d3",
+    "titulo": "Jornalista brasileiro crítico a Milei é deportado da Argentina e tem residência revogada",
+    "lead": "O jornalista Rogério Tomaz Jr., conhecido por criticar o presidente Javier Milei, foi impedido de entrar na Argentina nesta segunda‑feira (12) e teve sua residência permanente cancelada, com proibição de retorno por cinco anos.",
+    "categoria": "Política",
+    "pais": "Argentina",
+    "publicado_em": "2026-10-12T21:38:48.961072+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/jornalista-brasileiro-critico-milei-e-deportado-da-argentina",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/29411162/pexels-photo-29411162.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Franco Monsalvo",
+      "photographer_url": "https://www.pexels.com/@franco-monsalvo-252430633",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/aerolineas-argentinas-plane-landing-scenic-view-29411162/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Periodista brasileño crítico a Milei es deportado de Argentina y le revocan la residencia",
+        "lead": "El periodista Rogério Tomaz Jr., conocido por criticar al presidente Javier Milei, fue impedido de entrar a Argentina este lunes (12) y se le canceló la residencia permanente, con prohibición de retorno por cinco años."
+      },
+      "en": {
+        "titulo": "Brazilian journalist critical of Milei deported from Argentina and residency revoked",
+        "lead": "Journalist Rogério Tomaz Jr., known for criticizing President Javier Milei, was barred from entering Argentina on Monday (Oct 12) and had his permanent residency cancelled, with a five‑year ban on re‑entry."
+      }
+    },
+    "atualizacao_de": "79565d62-9f0e-476a-9a52-367fda4596b1"
+  },
+  {
     "id": "d7bc9082-8a30-49d6-bde4-33a76a4faedd",
     "titulo": "Brasil registra 11 empresas entre os melhores empregadores globais",
     "lead": "Um ranking internacional revelou que onze companhias brasileiras foram incluídas entre as melhores organizações para se trabalhar no mundo.",
