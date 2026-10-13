@@ -1,5 +1,36 @@
 [
   {
+    "id": "8bafdc4c-55a9-4dd8-b488-9c9f9fd91a70",
+    "titulo": "Atualização: Papa Leão XIV chega ao Hospital Gemelli e é submetido à cirurgia para remoção de nódulo pulmonar",
+    "lead": "O pontífice, de 71 anos, chegou à instituição em Roma na terça-feira (13) para o procedimento cirúrgico, que foi confirmado como necessário pelos médicos após a identificação do nódulo em fase inicial.",
+    "categoria": "Mundo",
+    "pais": "América Latina",
+    "publicado_em": "2026-10-13T18:03:09.537584+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/papa-esta-internado-para-retirada-de-nodulo-no-pulmao",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/19824522/pexels-photo-19824522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Giuseppe  Di Maria",
+      "photographer_url": "https://www.pexels.com/@giuseppe-di-maria-163888120",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/statues-on-facade-of-st-peter-basilica-in-vatican-19824522/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Actualización: El papa León XIV llega al Hospital Gemelli y se somete a cirugía para la extirpación de un nódulo pulmonar",
+        "lead": "El pontífice, de 71 años, llegó a la institución en Roma el martes (13) para el procedimiento quirúrgico, confirmado como necesario por los médicos tras la identificación de un nódulo en fase inicial."
+      },
+      "en": {
+        "titulo": "Update: Pope Leo XIV arrives at Gemelli Hospital and undergoes surgery to remove lung nodule",
+        "lead": "The 71-year-old pontiff arrived at the institution in Rome on Tuesday (13) for the surgical procedure, which was confirmed as necessary by doctors after identifying a nodule in its early stages."
+      }
+    },
+    "atualizacao_de": "57af74f3-7b28-417b-96db-ab97bffea9e0"
+  },
+  {
     "id": "a3861249-c50b-48c8-a4e7-d0bb12e1e5d8",
     "titulo": "Polícia do Rio apreende armas após morte de subtenente do BOPE em troca de tiros",
     "lead": "A Delegacia de Homicídios da Capital investiga a morte do subtenente Glaucio Marcelo Fonseca da Silva, de 54 anos, durante troca de tiros com militares do batalhão de Jacarepaguá na madrugada de 11 de outubro.",
