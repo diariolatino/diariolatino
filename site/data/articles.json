@@ -1,5 +1,36 @@
 [
   {
+    "id": "45bc6f12-1ab8-44a3-9d47-d488a3635c43",
+    "titulo": "Planos de governo divergem sobre alinhamento geopolítico: Lula aposta no Sul Global, Flávio busca eixo com EUA",
+    "lead": "Os planos de governo dos candidatos Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) apresentam propostas antagônicas para a política externa brasileira, com ênfase respectiva no fortalecimento do Brics e da integração regional ou na aproximação com Estados Unidos, Israel e Argentina.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-13T23:14:25.168511+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/lula-defende-sul-global-flavio-quer-proximidade-com-eua-e-israel",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/5830428/pexels-photo-5830428.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Drew Anderson",
+      "photographer_url": "https://www.pexels.com/@drew-anderson-1821361",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/people-protest-on-city-street-5830428/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Planes de gobierno divergen sobre alineamiento geopolítico: Lula apuesta por el Sur Global, Flavio busca eje con EE. UU.",
+        "lead": "Los planes de gobierno de los candidatos Luiz Inácio Lula da Silva (PT) y Flavio Bolsonaro (PL) presentan propuestas antagónicas para la política exterior brasileña, con énfasis respectivo en el fortalecimiento del Brics y la integración regional o en la aproximación con Estados Unidos, Israel y Argentina."
+      },
+      "en": {
+        "titulo": "Government plans diverge on geopolitical alignment: Lula bets on the Global South, Flávio seeks axis with the US",
+        "lead": "The government plans of candidates Luiz Inácio Lula da Silva (PT) and Flávio Bolsonaro (PL) present antithetical proposals for Brazilian foreign policy, with emphasis respectively on strengthening BRICS and regional integration or on closer ties with the United States, Israel, and Argentina."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "8bafdc4c-55a9-4dd8-b488-9c9f9fd91a70",
     "titulo": "Atualização: Papa Leão XIV chega ao Hospital Gemelli e é submetido à cirurgia para remoção de nódulo pulmonar",
     "lead": "O pontífice, de 71 anos, chegou à instituição em Roma na terça-feira (13) para o procedimento cirúrgico, que foi confirmado como necessário pelos médicos após a identificação do nódulo em fase inicial.",
