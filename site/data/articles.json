@@ -1,5 +1,36 @@
 [
   {
+    "id": "a3861249-c50b-48c8-a4e7-d0bb12e1e5d8",
+    "titulo": "Polícia do Rio apreende armas após morte de subtenente do BOPE em troca de tiros",
+    "lead": "A Delegacia de Homicídios da Capital investiga a morte do subtenente Glaucio Marcelo Fonseca da Silva, de 54 anos, durante troca de tiros com militares do batalhão de Jacarepaguá na madrugada de 11 de outubro.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-13T02:55:22.819424+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/policia-do-rio-apreende-armas-apos-morte-de-suboficial-do-bope",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/29894761/pexels-photo-29894761.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Mak Cézar",
+      "photographer_url": "https://www.pexels.com/@mak-cezar-2148024480",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/vibrant-day-at-ipanema-beach-in-rio-29894761/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Policía de Río apreende armas tras la muerte de subteniente del BOPE en intercambio de disparos",
+        "lead": "La Delegación de Homicidios de la Capital investiga la muerte del subteniente Glaucio Marcelo Fonseca da Silva, de 54 años, durante un intercambio de disparos con militares del batallón de Jacarepaguá en la madrugada del 11 de octubre."
+      },
+      "en": {
+        "titulo": "Rio Police Seize Weapons After BOPE Sub‑Lieutenant Killed in Shootout",
+        "lead": "The Capital Homicide Division is investigating the death of Sub‑Lieutenant Glaucio Marcelo Fonseca da Silva, 54, during a gunfight with Jacarepaguá battalion officers on the morning of October 11."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "6a208c24-3f5e-44b5-bc01-08a3696bc1d3",
     "titulo": "Jornalista brasileiro crítico a Milei é deportado da Argentina e tem residência revogada",
     "lead": "O jornalista Rogério Tomaz Jr., conhecido por criticar o presidente Javier Milei, foi impedido de entrar na Argentina nesta segunda‑feira (12) e teve sua residência permanente cancelada, com proibição de retorno por cinco anos.",
