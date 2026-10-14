@@ -1,5 +1,36 @@
 [
   {
+    "id": "70d37a37-4cc0-4a56-9d80-3d14e1197384",
+    "titulo": "ONU aprova declaração política para reforçar cooperação em pandemias",
+    "lead": "A Assembleia Geral das Nações Unidas adotou, na segunda‑feira (12), um texto que convoca os Estados‑membros a intensificar a colaboração na prevenção, preparação e resposta a futuras crises sanitárias.",
+    "categoria": "Política",
+    "pais": "América Latina",
+    "publicado_em": "2026-10-14T14:57:20.515412+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/pandemias-onu-aprova-declaracao-por-mais-cooperacao-entre-paises",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/29982340/pexels-photo-29982340.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Magda Ehlers",
+      "photographer_url": "https://www.pexels.com/@magda-ehlers-pexels",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/assorted-international-flags-hanging-29982340/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "La ONU aprueba declaración política para reforzar la cooperación en pandemias",
+        "lead": "La Asamblea General de las Naciones Unidas adoptó, el lunes (12), un texto que convoca a los Estados miembros a intensificar la colaboración en la prevención, preparación y respuesta a futuras crisis sanitarias."
+      },
+      "en": {
+        "titulo": "UN adopts political declaration to boost pandemic cooperation",
+        "lead": "The United Nations General Assembly adopted, on Monday (12), a text that urges member states to intensify collaboration on prevention, preparation and response to future health crises."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "f9c8e55a-5cc4-4f18-8075-c7068a3f7133",
     "titulo": "Feriadão de Nossa Senhora Aparecida registra 68 óbitos nas rodovias brasileiras",
     "lead": "A Polícia Rodoviária Federal (PRF) informou que 68 pessoas morreram e 969 ficaram feridas em acidentes de trânsito durante o feriado prolongado de 9 a 12 de outubro.",
