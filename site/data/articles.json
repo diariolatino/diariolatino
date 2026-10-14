@@ -1,5 +1,36 @@
 [
   {
+    "id": "2202b5b0-05d7-4d63-9970-ada46d8f0080",
+    "titulo": "Teto do corredor da Câmara dos Deputados desaba sem causar feridos",
+    "lead": "Na madrugada desta quarta‑feira (14), parte do reboco do teto do corredor conhecido como “túnel do tempo”, que liga o Anexo II ao Salão Verde, desabou, obrigando o fechamento da passagem.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-14T19:15:19.989132+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/parte-do-teto-de-tunel-da-camara-desabou-nesta-quarta-feira",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/9788301/pexels-photo-9788301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Henrique Morais",
+      "photographer_url": "https://www.pexels.com/@henriquemorais",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/silhouette-of-busy-people-on-a-public-place-9788301/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Se derrumba parte del techo del corredor de la Cámara de Diputados sin causar heridos",
+        "lead": "En la madrugada de este miércoles (14), una parte del revoque del techo del corredor conocido como “túnel del tiempo”, que une el Anexo II con el Salón Verde, se derrumbó, obligando al cierre del paso."
+      },
+      "en": {
+        "titulo": "Ceiling section of the Chamber of Deputies corridor collapses without injuries",
+        "lead": "In the early hours of Wednesday (the 14th), a portion of the plaster ceiling of the corridor known as the “tunnel of time”, which links Annex II to the Green Hall, collapsed, forcing the passage to be closed."
+      }
+    },
+    "atualizacao_de": "8a2d6987-139e-4892-b629-c7c6b6998e76"
+  },
+  {
     "id": "70d37a37-4cc0-4a56-9d80-3d14e1197384",
     "titulo": "ONU aprova declaração política para reforçar cooperação em pandemias",
     "lead": "A Assembleia Geral das Nações Unidas adotou, na segunda‑feira (12), um texto que convoca os Estados‑membros a intensificar a colaboração na prevenção, preparação e resposta a futuras crises sanitárias.",
