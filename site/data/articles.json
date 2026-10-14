@@ -1,5 +1,36 @@
 [
   {
+    "id": "152f75c0-d7fb-42e1-a0fd-4ee9f1e7e6a4",
+    "titulo": "120 anos de Pacho Galán: legado musical que ainda ecoa",
+    "lead": "Neste ano, a música do compositor colombiano Pacho Galán completa 120 anos, reforçando sua influência na cultura popular da América Latina.",
+    "categoria": "Sociedade",
+    "pais": "Colômbia",
+    "publicado_em": "2026-10-14T23:03:05.841442+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.elheraldo.co/editoriales/2026/10/10/120-anos-de-pacho-galan-un-rico-legado-que-no-puede-dejar-de-sonar/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/4218028/pexels-photo-4218028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "george charry",
+      "photographer_url": "https://www.pexels.com/@george-charry-2643329",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/crowd-watching-on-a-live-concert-4218028/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "120 años de Pacho Galán: legado musical que aún resuena",
+        "lead": "Este año, la música del compositor colombiano Pacho Galán cumple 120 años, reforzando su influencia en la cultura popular de América Latina."
+      },
+      "en": {
+        "titulo": "120 Years of Pacho Galán: A Musical Legacy That Still Resonates",
+        "lead": "This year, the music of Colombian composer Pacho Galán reaches its 120th anniversary, underscoring his lasting impact on Latin America's popular culture."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "2202b5b0-05d7-4d63-9970-ada46d8f0080",
     "titulo": "Teto do corredor da Câmara dos Deputados desaba sem causar feridos",
     "lead": "Na madrugada desta quarta‑feira (14), parte do reboco do teto do corredor conhecido como “túnel do tempo”, que liga o Anexo II ao Salão Verde, desabou, obrigando o fechamento da passagem.",
