@@ -1,5 +1,36 @@
 [
   {
+    "id": "d68b48f4-0566-4a2a-9dfd-deab2f215a4b",
+    "titulo": "Reforma de Javier Milei diminui em 53% número de novos pensionistas na Argentina",
+    "lead": "Dados do Boletim Estatístico da Previdência Social (BESS) mostram que o fim da moratória e a nova fórmula de cálculo reduziram de 213,9 mil para 99,6 mil o ingresso de aposentados entre o 1º semestre de 2024 e o mesmo período de 2026.",
+    "categoria": "Economia",
+    "pais": "Argentina",
+    "publicado_em": "2026-10-14T04:01:47.833194+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/ajuste-de-milei-reduz-numero-de-novos-aposentados-em-53-na-argentina",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/36480610/pexels-photo-36480610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Juan Moccagatta",
+      "photographer_url": "https://www.pexels.com/@juan-moccagatta-2159466094",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/argentinian-street-protest-for-pension-rights-36480610/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Reforma de Javier Milei disminuye en un 53 % el número de nuevos pensionistas en Argentina",
+        "lead": "Datos del Boletín Estadístico de la Seguridad Social (BESS) muestran que el fin de la moratoria y la nueva fórmula de cálculo redujeron de 213,9 mil a 99,6 mil la incorporación de jubilados entre el primer semestre de 2024 y el mismo período de 2026."
+      },
+      "en": {
+        "titulo": "Javier Milei’s reform cuts new retirees by 53 % in Argentina",
+        "lead": "Data from the Social Security Statistical Bulletin (BESS) show that ending the pension moratorium and a new benefit‑calculation formula reduced new retiree entries from 213.9 thousand to 99.6 thousand between the first half of 2024 and the same period in 2026."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "45bc6f12-1ab8-44a3-9d47-d488a3635c43",
     "titulo": "Planos de governo divergem sobre alinhamento geopolítico: Lula aposta no Sul Global, Flávio busca eixo com EUA",
     "lead": "Os planos de governo dos candidatos Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) apresentam propostas antagônicas para a política externa brasileira, com ênfase respectiva no fortalecimento do Brics e da integração regional ou na aproximação com Estados Unidos, Israel e Argentina.",
