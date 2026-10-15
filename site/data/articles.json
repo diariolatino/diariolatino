@@ -1,5 +1,36 @@
 [
   {
+    "id": "b0710ec4-7e0c-42df-a06e-9108562b83fa",
+    "titulo": "Operação YellowCode prende suspeitos de tráfico interestadual de drogas e lavagem de dinheiro",
+    "lead": "Na manhã desta quinta‑feira (15), a Polícia Federal e o Ministério Público de São Paulo realizaram a Operação YellowCode, que resultou na prisão temporária de 14 indivíduos e em buscas em cinco cidades dos estados de São Paulo e Paraná.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-15T14:07:32.509918+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/policia-federal-e-mpsp-fazem-operacao-contra-trafico-de-drogas",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/31656581/pexels-photo-31656581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Cristiano Silva",
+      "photographer_url": "https://www.pexels.com/@cristianossilva",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/mounted-police-on-patrol-in-sao-paulo-street-31656581/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Operación YellowCode detiene a sospechosos de tráfico interestatal de drogas y lavado de dinero",
+        "lead": "En la mañana de este jueves (15), la Policía Federal y el Ministerio Público de São Paulo llevaron a cabo la Operación YellowCode, que resultó en la detención temporal de 14 individuos y en registros en cinco ciudades de los estados de São Paulo y Paraná."
+      },
+      "en": {
+        "titulo": "YellowCode operation detains suspects of interstate drug trafficking and money laundering",
+        "lead": "On the morning of Thursday (15), Brazil's Federal Police and the São Paulo Public Prosecutor's Office launched Operation YellowCode, leading to the temporary arrest of 14 individuals and searches in five cities across São Paulo and Paraná states."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "168b205b-cbbc-4cd4-8144-6b03b60ddf73",
     "titulo": "Noia se aproxima da ferida de Jimbee, que atinge o fundo",
     "lead": "Informações limitadas indicam que Noia teria se aproximado da ferida de Jimbee, que se encontra em situação de vulnerabilidade extrema.",
