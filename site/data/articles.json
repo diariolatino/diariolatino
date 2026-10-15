@@ -1,5 +1,36 @@
 [
   {
+    "id": "168b205b-cbbc-4cd4-8144-6b03b60ddf73",
+    "titulo": "Noia se aproxima da ferida de Jimbee, que atinge o fundo",
+    "lead": "Informações limitadas indicam que Noia teria se aproximado da ferida de Jimbee, que se encontra em situação de vulnerabilidade extrema.",
+    "categoria": "Sociedade",
+    "pais": "América Latina",
+    "publicado_em": "2026-10-15T09:00:20.718039+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.laverdad.es/deportes/futbol-sala-cartagena/noia-hurga-herida-jimbee-toca-fondo-20261009233432-nt.html",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/6520100/pexels-photo-6520100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "RDNE Stock project",
+      "photographer_url": "https://www.pexels.com/@rdne",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/person-helping-a-man-place-his-arm-on-chest-6520100/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Noia se acerca a la herida de Jimbee, que llega al fondo",
+        "lead": "Información limitada indica que Noia habría acudido a la herida de Jimbee, quien se encuentra en una situación de vulnerabilidad extrema."
+      },
+      "en": {
+        "titulo": "Noia Approaches Jimbee's Wound as He Hits Rock Bottom",
+        "lead": "Limited information indicates that Noia has approached Jimbee's wound, who is in an extreme state of vulnerability."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "db2a6ab8-da59-489e-99f0-b68cd2519c9d",
     "titulo": "Mega-Sena acumula para R$ 170 milhões após concurso sem ganhadores",
     "lead": "No sorteio realizado na quarta‑feira (14) no Espaço da Sorte, em São Paulo, nenhuma aposta acertou as seis dezenas, elevando o prêmio para R$ 170 milhões no próximo concurso.",
