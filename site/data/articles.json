@@ -1,5 +1,36 @@
 [
   {
+    "id": "db2a6ab8-da59-489e-99f0-b68cd2519c9d",
+    "titulo": "Mega-Sena acumula para R$ 170 milhões após concurso sem ganhadores",
+    "lead": "No sorteio realizado na quarta‑feira (14) no Espaço da Sorte, em São Paulo, nenhuma aposta acertou as seis dezenas, elevando o prêmio para R$ 170 milhões no próximo concurso.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-15T03:43:31.433141+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-acumula-para-r-170-milhoes-confira-os-numeros-sorteados",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/5550130/pexels-photo-5550130.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Waldemar Brandt",
+      "photographer_url": "https://www.pexels.com/@wb2008",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/close-up-photo-of-lottery-ticket-5550130/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Mega-Sena acumula a R$ 170 millones después de sorteo sin ganadores",
+        "lead": "En el sorteo realizado el miércoles 14 en el Espaço da Sorte, en São Paulo, ninguna apuesta acertó los seis números, elevando el premio a R$ 170 millones para el próximo concurso."
+      },
+      "en": {
+        "titulo": "Mega-Sena rolls over to R$ 170 million after draw with no winners",
+        "lead": "In the draw held on Wednesday (14) at the Espaço da Sorte in São Paulo, no ticket matched all six numbers, pushing the jackpot to R$ 170 million for the next contest."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "152f75c0-d7fb-42e1-a0fd-4ee9f1e7e6a4",
     "titulo": "120 anos de Pacho Galán: legado musical que ainda ecoa",
     "lead": "Neste ano, a música do compositor colombiano Pacho Galán completa 120 anos, reforçando sua influência na cultura popular da América Latina.",
