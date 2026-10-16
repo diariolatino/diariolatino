@@ -1,5 +1,36 @@
 [
   {
+    "id": "1d62c485-0a7e-433e-a83e-28e9f3538b37",
+    "titulo": "Inesperado: assim fechou o preço do dólar na Colômbia em 16 de outubro de 2026",
+    "lead": "O dólar americano encerrou o pregão de 16 de outubro de 2026 em nível inesperado na Colômbia, segundo dados divulgados pelos mercados cambiais locais.",
+    "categoria": "Economia",
+    "pais": "Colômbia",
+    "publicado_em": "2026-10-16T22:40:51.800877+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.noticiasrcn.com/economia/precio-del-dolar-en-colombia-en-el-cierre-de-hoy-16-de-octubre-de-2026-1072349",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/13651750/pexels-photo-13651750.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Dmytro Glazunov",
+      "photographer_url": "https://www.pexels.com/@glazun0v",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/close-up-shot-of-paper-money-13651750/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Inesperado: así cerró el precio del dólar en Colombia el 16 de octubre de 2026",
+        "lead": "El dólar estadounidense terminó la jornada del 16 de octubre de 2026 en un nivel inesperado en Colombia, según los datos publicados por los mercados cambiarios locales."
+      },
+      "en": {
+        "titulo": "Unexpected: How the Dollar Closed in Colombia on October 16, 2026",
+        "lead": "The US dollar ended the trading day of October 16, 2026 at an unexpected level in Colombia, according to data released by local currency markets."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "b0710ec4-7e0c-42df-a06e-9108562b83fa",
     "titulo": "Operação YellowCode prende suspeitos de tráfico interestadual de drogas e lavagem de dinheiro",
     "lead": "Na manhã desta quinta‑feira (15), a Polícia Federal e o Ministério Público de São Paulo realizaram a Operação YellowCode, que resultou na prisão temporária de 14 indivíduos e em buscas em cinco cidades dos estados de São Paulo e Paraná.",
