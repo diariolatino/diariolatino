@@ -1,5 +1,36 @@
 [
   {
+    "id": "66a7652d-9ea1-4546-8ff7-394d3cccfb83",
+    "titulo": "Brasil ocupa a segunda posição em importação de pesticidas proibidos na UE, aponta Oxfam",
+    "lead": "Um relatório da Oxfam divulgado no Dia Mundial da Alimentação revela que o Brasil foi o segundo maior importador de agrotóxicos vetados pela União Europeia em 2024, com cerca de 15 mil toneladas, atrás apenas dos Estados Unidos.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-17T01:10:58.052477+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/brasil-e-2o-maior-importador-de-pesticidas-proibidos-na-ue-diz-oxfam",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/19062398/pexels-photo-19062398.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Leandro Bezerra",
+      "photographer_url": "https://www.pexels.com/@leandrobez",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/freight-ship-in-sea-19062398/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasil ocupa el segundo lugar en importación de pesticidas prohibidos en la UE, según Oxfam",
+        "lead": "Un informe de Oxfam publicado en el Día Mundial de la Alimentación revela que Brasil fue el segundo mayor importador de agroquímicos vetados por la Unión Europea en 2024, con alrededor de 15 mil toneladas, solo detrás de Estados Unidos."
+      },
+      "en": {
+        "titulo": "Brazil ranks second in importing EU‑banned pesticides, Oxfam reports",
+        "lead": "An Oxfam report released on World Food Day reveals that Brazil was the second‑largest importer of pesticides prohibited by the European Union in 2024, receiving about 15,000 tonnes, behind only the United States."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "1d62c485-0a7e-433e-a83e-28e9f3538b37",
     "titulo": "Inesperado: assim fechou o preço do dólar na Colômbia em 16 de outubro de 2026",
     "lead": "O dólar americano encerrou o pregão de 16 de outubro de 2026 em nível inesperado na Colômbia, segundo dados divulgados pelos mercados cambiais locais.",
