@@ -1,5 +1,36 @@
 [
   {
+    "id": "ba9481ea-4d30-45b6-a09f-84cd52ac9983",
+    "titulo": "Província de Neuquén registra crescimento econômico de 32% em três anos",
+    "lead": "Dados divulgados recentemente indicam que a economia da província argentina de Neuquén avançou 32% no período de três anos, segundo indicadores oficiais.",
+    "categoria": "Economia",
+    "pais": "Argentina",
+    "publicado_em": "2026-10-18T13:05:06.254319+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.rionegro.com.ar/politica/el-salto-economico-de-neuquen-crecio-un-32-en-tres-anos/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/19104651/pexels-photo-19104651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Nano Erdozain",
+      "photographer_url": "https://www.pexels.com/@nano-erdozain-120534369",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/footprint-center-in-phoenix-in-arizona-19104651/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Provincia de Neuquén registra crecimiento económico del 32% en tres años",
+        "lead": "Datos publicados recientemente indican que la economía de la provincia argentina de Neuquén avanzó un 32% en un período de tres años, según indicadores oficiales."
+      },
+      "en": {
+        "titulo": "Neuquén Province records 32% economic growth over three years",
+        "lead": "Recent data show that the economy of Argentina's Neuquén province expanded by 32% over a three‑year period, according to official indicators."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "ea0a8a32-ad1b-4b11-b002-2bdd080d2c50",
     "titulo": "México e França: 1808‑2026 – dois séculos de amizade e conflitos",
     "lead": "A relação bilateral entre México e França, que se estende de 1808 a 2026, alterna fases de cooperação cultural e econômica com episódios de divergência política.",
