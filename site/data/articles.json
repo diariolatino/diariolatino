@@ -1,5 +1,36 @@
 [
   {
+    "id": "5bbbf021-6766-4489-ad3c-3e9ef0f37263",
+    "titulo": "Aprovada a PEC que elimina a escala 6x1: imprensa estrangeira vê vitória de Lula",
+    "lead": "A votação que põe fim à jornada de trabalho 6x1 e reduz a carga horária semanal para 40 horas recebeu destaque na mídia internacional, que a interpretou como um ganho político para o presidente Luiz Inácio Lula da Silva antes do segundo turno das eleições.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-18T17:09:48.586060+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/imprensa-estrangeira-ve-vitoria-de-lula-em-aprovacao-do-fim-da-6x1",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/15434151/pexels-photo-15434151.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Czapp Árpád",
+      "photographer_url": "https://www.pexels.com/@czapp-arpad-3647289",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/the-interior-of-a-large-building-with-a-dome-15434151/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Aprobada la PEC que elimina la escala 6x1: prensa extranjera ve victoria de Lula",
+        "lead": "La votación que pone fin a la jornada laboral 6x1 y reduce la carga horaria semanal a 40 horas recibió destaque en los medios internacionales, que la interpretaron como un beneficio político para el presidente Luiz Inácio Lula da Silva antes de la segunda vuelta electoral."
+      },
+      "en": {
+        "titulo": "Senate approves PEC ending 6x1 schedule: foreign press sees Lula win",
+        "lead": "The vote that ends the 6x1 work schedule and cuts the weekly hours to 40 received attention from international media, which interpreted it as a political gain for President Luiz Inácio Lula da Silva ahead of the runoff election."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "ba9481ea-4d30-45b6-a09f-84cd52ac9983",
     "titulo": "Província de Neuquén registra crescimento econômico de 32% em três anos",
     "lead": "Dados divulgados recentemente indicam que a economia da província argentina de Neuquén avançou 32% no período de três anos, segundo indicadores oficiais.",
