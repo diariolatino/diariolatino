@@ -1,5 +1,36 @@
 [
   {
+    "id": "81f13495-1f55-4e0b-b45e-96b4722e4e89",
+    "titulo": "Participante 8 é eliminado de Exatlón México; veja horário da transmissão ao vivo",
+    "lead": "O reality show Exatlón México divulgou hoje a eliminação do competidor número 8, que perdeu o duelo de sobrevivência.",
+    "categoria": "Sociedade",
+    "pais": "México",
+    "publicado_em": "2026-10-18T22:52:35.616263+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.elfinanciero.com.mx/entretenimiento/2026/10/18/quien-es-el-eliminado-8-de-exatlon-mexico-2026/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/39106186/pexels-photo-39106186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Veronika Andrews",
+      "photographer_url": "https://www.pexels.com/@veronika-andrews-2153322013",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/greater-yellowlegs-wading-in-shallow-water-39106186/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Participante 8 es eliminado de Exatlón México; vea la hora de la transmisión en vivo",
+        "lead": "El reality show Exatlón México anunció hoy la eliminación del competidor número 8, que perdió el duelo de supervivencia."
+      },
+      "en": {
+        "titulo": "Contestant 8 eliminated from Exatlón Mexico; see live broadcast time",
+        "lead": "The reality show Exatlón Mexico announced today the elimination of contestant number 8, who lost the survival duel."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "5bbbf021-6766-4489-ad3c-3e9ef0f37263",
     "titulo": "Aprovada a PEC que elimina a escala 6x1: imprensa estrangeira vê vitória de Lula",
     "lead": "A votação que põe fim à jornada de trabalho 6x1 e reduz a carga horária semanal para 40 horas recebeu destaque na mídia internacional, que a interpretou como um ganho político para o presidente Luiz Inácio Lula da Silva antes do segundo turno das eleições.",
