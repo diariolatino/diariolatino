@@ -1,5 +1,36 @@
 [
   {
+    "id": "ea0a8a32-ad1b-4b11-b002-2bdd080d2c50",
+    "titulo": "México e França: 1808‑2026 – dois séculos de amizade e conflitos",
+    "lead": "A relação bilateral entre México e França, que se estende de 1808 a 2026, alterna fases de cooperação cultural e econômica com episódios de divergência política.",
+    "categoria": "Política",
+    "pais": "México",
+    "publicado_em": "2026-10-18T08:41:28.415696+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.eluniversal.com.mx/cultura/confabulario/mexico-francia-1808-2026-una-historia-de-amistad-y-conflictos/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/17178100/pexels-photo-17178100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Gintare K.",
+      "photographer_url": "https://www.pexels.com/@gintare-k-11923111",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/flags-of-european-union-countries-17178100/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "México y Francia: 1808‑2026 – dos siglos de amistad y conflictos",
+        "lead": "La relación bilateral entre México y Francia, que se extiende de 1808 a 2026, alterna fases de cooperación cultural y económica con episodios de divergencia política."
+      },
+      "en": {
+        "titulo": "Mexico and France: 1808‑2026 – Two Centuries of Friendship and Conflict",
+        "lead": "The bilateral relationship between Mexico and France, spanning from 1808 to 2026, alternates between phases of cultural and economic cooperation and episodes of political divergence."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "66a7652d-9ea1-4546-8ff7-394d3cccfb83",
     "titulo": "Brasil ocupa a segunda posição em importação de pesticidas proibidos na UE, aponta Oxfam",
     "lead": "Um relatório da Oxfam divulgado no Dia Mundial da Alimentação revela que o Brasil foi o segundo maior importador de agrotóxicos vetados pela União Europeia em 2024, com cerca de 15 mil toneladas, atrás apenas dos Estados Unidos.",
