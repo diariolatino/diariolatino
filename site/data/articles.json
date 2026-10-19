@@ -1,5 +1,36 @@
 [
   {
+    "id": "cab5430c-443a-41e3-bf77-44c58808ea69",
+    "titulo": "Atualização: Mega‑Sena pode chegar a R$ 185 milhões no próximo sorteio",
+    "lead": "O concurso 3.071 da Mega‑Sena, realizado no domingo (18), não teve nenhum bilhete premiado com as seis dezenas, elevando a estimativa do prêmio para o próximo concurso, marcado para terça‑feira (20), a cerca de R$ 185 milhões.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-19T00:56:31.332675+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-acumula-premio-pode-chegar-r-185-milhoes-na-terca-feira",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/8266775/pexels-photo-8266775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Erik Mclean",
+      "photographer_url": "https://www.pexels.com/@introspectivedsgn",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-person-holding-lottery-tickets-8266775/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Actualización: Mega‑Sena podría alcanzar los 185 millones de reales en el próximo sorteo",
+        "lead": "El concurso 3.071 de la Mega‑Sena, realizado el domingo (18), no tuvo ningún boleto premiado con las seis cifras, lo que eleva la estimación del premio para el próximo concurso, programado para el martes (20), a aproximadamente 185 millones de reales."
+      },
+      "en": {
+        "titulo": "Update: Mega‑Sena Prize Could Reach R$ 185 Million in Next Draw",
+        "lead": "The Mega‑Sena contest 3,071 held on Sunday (October 18) had no ticket matching all six numbers, raising the estimated prize for the next draw, scheduled for Tuesday (October 20), to about R$ 185 million."
+      }
+    },
+    "atualizacao_de": "db2a6ab8-da59-489e-99f0-b68cd2519c9d"
+  },
+  {
     "id": "81f13495-1f55-4e0b-b45e-96b4722e4e89",
     "titulo": "Participante 8 é eliminado de Exatlón México; veja horário da transmissão ao vivo",
     "lead": "O reality show Exatlón México divulgou hoje a eliminação do competidor número 8, que perdeu o duelo de sobrevivência.",
