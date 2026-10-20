@@ -1,5 +1,36 @@
 [
   {
+    "id": "3b14a6d1-ad0e-463b-b96a-b0b1bd72acab",
+    "titulo": "México e Estados Unidos próximos de fechar acordo comercial, indica fonte",
+    "lead": "Fontes indicam que as negociações entre México e Estados Unidos avançam rumo a um novo acordo comercial, embora ainda não haja confirmação oficial.",
+    "categoria": "Economia",
+    "pais": "México",
+    "publicado_em": "2026-10-20T19:02:12.338279+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.expreso.com.mx/noticias/mexico/mexico-y-estados-unidos-cerca-de-cerrar-acuerdo-comercial/266788",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/5489419/pexels-photo-5489419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Leonid Altman",
+      "photographer_url": "https://www.pexels.com/@altman",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/the-flags-of-mexico-and-california-state-under-the-blue-sky-5489419/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "México y Estados Unidos cerca de cerrar un acuerdo comercial, indica fuente",
+        "lead": "Fuentes indican que las negociaciones entre México y Estados Unidos avanzan hacia un nuevo acuerdo comercial, aunque aún no hay confirmación oficial."
+      },
+      "en": {
+        "titulo": "Mexico and United States Near Closing Trade Deal, Source Says",
+        "lead": "Sources indicate that negotiations between Mexico and the United States are advancing toward a new trade agreement, although no official confirmation has been made."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "49f3ffa1-93c8-43bf-99e2-2a297194c2d3",
     "titulo": "Justiça bloqueia bens da empresa de voos turísticos após queda de helicóptero no Rio",
     "lead": "A 26ª Vara da Justiça Federal do Rio de Janeiro determinou o bloqueio de até R$ 10 milhões em ativos da Voos Rio Panorâmico e Serviços Aeronáuticos, após a fatal queda de um helicóptero na Floresta da Tijuca que deixou quatro mortos.",
