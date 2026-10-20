@@ -1,5 +1,36 @@
 [
   {
+    "id": "49f3ffa1-93c8-43bf-99e2-2a297194c2d3",
+    "titulo": "Justiça bloqueia bens da empresa de voos turísticos após queda de helicóptero no Rio",
+    "lead": "A 26ª Vara da Justiça Federal do Rio de Janeiro determinou o bloqueio de até R$ 10 milhões em ativos da Voos Rio Panorâmico e Serviços Aeronáuticos, após a fatal queda de um helicóptero na Floresta da Tijuca que deixou quatro mortos.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-20T09:18:45.350523+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/justica-bloqueia-bens-de-empresa-por-queda-de-helicoptero-no-rio",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/9569083/pexels-photo-9569083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Fabio Teixeira",
+      "photographer_url": "https://www.pexels.com/@fabio-teixeira-1889543",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/silhouette-of-a-statue-9569083/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Justicia bloquea bienes de la empresa de vuelos turísticos tras caída de helicóptero en Río",
+        "lead": "La 26ª Vara de la Justicia Federal de Río de Janeiro ordenó el bloqueo de hasta 10 millones de reales en activos de Voos Rio Panorâmico y Servicios Aeronáuticos, tras la fatal caída de un helicóptero en la Floresta da Tijuca que dejó cuatro muertos."
+      },
+      "en": {
+        "titulo": "Court blocks assets of tourist flight company after helicopter crash in Rio",
+        "lead": "The 26th Federal Court in Rio de Janeiro ordered the freezing of up to R$ 10 million in assets of Voos Rio Panorâmico and Aeronautical Services, following the fatal helicopter crash in the Tijuca Forest that killed four people."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "26687355-5d79-42b7-8aa7-ac21d7bd8b3b",
     "titulo": "Especialista aponta ausência de plano integrado para a Amazônia peruana",
     "lead": "Samuel Dyer, analista de políticas ambientais, afirmou que o Peru ainda não dispõe de um plano abrangente para a gestão da Amazônia, ressaltando lacunas na coordenação entre diferentes setores.",
