@@ -1,5 +1,36 @@
 [
   {
+    "id": "26687355-5d79-42b7-8aa7-ac21d7bd8b3b",
+    "titulo": "Especialista aponta ausência de plano integrado para a Amazônia peruana",
+    "lead": "Samuel Dyer, analista de políticas ambientais, afirmou que o Peru ainda não dispõe de um plano abrangente para a gestão da Amazônia, ressaltando lacunas na coordenação entre diferentes setores.",
+    "categoria": "Ciência & Ambiente",
+    "pais": "Peru",
+    "publicado_em": "2026-10-20T03:57:39.699337+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://canaln.pe/actualidad/samuel-dyer-no-hay-plan-integral-amazonia-peruana-n495730",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/27010824/pexels-photo-27010824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Bill Salazar",
+      "photographer_url": "https://www.pexels.com/@billsalazar",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-group-of-women-wearing-traditional-clothing-standing-by-the-tree-in-a-forest-27010824/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Especialista señala ausencia de plan integrado para la Amazonía peruana",
+        "lead": "Samuel Dyer, analista de políticas ambientales, afirmó que Perú aún no cuenta con un plan integral para la gestión de la Amazonía, resaltando brechas en la coordinación entre distintos sectores."
+      },
+      "en": {
+        "titulo": "Expert points to lack of integrated plan for Peru's Amazon",
+        "lead": "Samuel Dyer, environmental policy analyst, said Peru still lacks a comprehensive plan for managing the Amazon, highlighting gaps in coordination across sectors."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "cab5430c-443a-41e3-bf77-44c58808ea69",
     "titulo": "Atualização: Mega‑Sena pode chegar a R$ 185 milhões no próximo sorteio",
     "lead": "O concurso 3.071 da Mega‑Sena, realizado no domingo (18), não teve nenhum bilhete premiado com as seis dezenas, elevando a estimativa do prêmio para o próximo concurso, marcado para terça‑feira (20), a cerca de R$ 185 milhões.",
