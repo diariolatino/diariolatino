@@ -1,5 +1,36 @@
 [
   {
+    "id": "549a9693-5043-4607-a2f0-25bcc969f0b5",
+    "titulo": "Orionídeas 2026: horários e dicas para observar o espetáculo celeste no Chile",
+    "lead": "A chuva de meteoros Orionídeas de 2026 será visível em todo o território chileno, com informações de horário e recomendações de observação divulgadas pelos observatórios locais.",
+    "categoria": "Ciência & Ambiente",
+    "pais": "Chile",
+    "publicado_em": "2026-10-20T23:00:46.473387+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.24horas.cl/tendencias/tecnologia-y-ciencias/cometa-halley-lluvia-meteoros-orionidas-chile",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/39884324/pexels-photo-39884324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "bum's kim",
+      "photographer_url": "https://www.pexels.com/@bum-s-kim-2164276877",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/starlit-night-sky-with-visible-meteor-shower-39884324/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Oriónidas 2026: horarios y consejos para observar el espectáculo celeste en Chile",
+        "lead": "La lluvia de meteoros Oriónidas de 2026 será visible en todo el territorio chileno, con información de horarios y recomendaciones de observación divulgadas por los observatorios locales."
+      },
+      "en": {
+        "titulo": "Orionids 2026: timings and tips to watch the celestial show in Chile",
+        "lead": "The 2026 Orionids meteor shower will be visible across Chile, with schedule details and viewing recommendations released by local observatories."
+      }
+    },
+    "atualizacao_de": "3d2d5b08-9801-4f2b-a112-c28d15a7874b"
+  },
+  {
     "id": "3b14a6d1-ad0e-463b-b96a-b0b1bd72acab",
     "titulo": "México e Estados Unidos próximos de fechar acordo comercial, indica fonte",
     "lead": "Fontes indicam que as negociações entre México e Estados Unidos avançam rumo a um novo acordo comercial, embora ainda não haja confirmação oficial.",
