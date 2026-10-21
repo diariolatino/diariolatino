@@ -1,5 +1,36 @@
 [
   {
+    "id": "1486ece1-1dec-4fa0-94aa-8015f361db3d",
+    "titulo": "Esquema de cursos falsos para sargentos da reserva facilitava compra irregular de armas no Rio",
+    "lead": "A Polícia Civil, por meio da Delegacia Especializada em Armas, Munições e Explosivos, desarticulou um grupo que simulava cursos de formação de sargentos da reserva para emitir documentos militares falsos e adquirir armamento ilegalmente.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-21T13:34:59.463574+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/curso-falso-para-sargentos-da-reserva-era-usado-para-compra-de-armas",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/5966347/pexels-photo-5966347.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Lukáš Trstenský",
+      "photographer_url": "https://www.pexels.com/@lukas-trstensky-647538",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/black-machine-gun-on-the-table-5966347/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Esquema de cursos falsos para sargentos de la reserva facilitaba la compra irregular de armas en Río",
+        "lead": "La Policía Civil, a través de la Delegación Especializada en Armas, Municiones y Explosivos, desarticuló un grupo que simulaba cursos de formación de sargentos de la reserva para emitir documentos militares falsos y adquirir armamento ilegalmente."
+      },
+      "en": {
+        "titulo": "Fake reserve sergeant courses facilitated illegal weapons purchases in Rio",
+        "lead": "The Civil Police, via the Specialized Weapons, Ammunition and Explosives Delegacy (Desarme), dismantled a group that simulated reserve sergeant training courses to issue forged military documents and acquire firearms illegally."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "6d823993-ffcc-4ab6-93c6-168704bd2266",
     "titulo": "Milei apresenta plano para demitir até 21 mil servidores públicos na Argentina",
     "lead": "O governo argentino, liderado por Javier Milei, publicou nesta segunda‑feira (19) um decreto que abre um programa de demissão voluntária para cerca de 21 mil funcionários do serviço público federal, como parte da política de corte de gastos.",
