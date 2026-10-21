@@ -1,5 +1,36 @@
 [
   {
+    "id": "6d823993-ffcc-4ab6-93c6-168704bd2266",
+    "titulo": "Milei apresenta plano para demitir até 21 mil servidores públicos na Argentina",
+    "lead": "O governo argentino, liderado por Javier Milei, publicou nesta segunda‑feira (19) um decreto que abre um programa de demissão voluntária para cerca de 21 mil funcionários do serviço público federal, como parte da política de corte de gastos.",
+    "categoria": "Economia",
+    "pais": "Argentina",
+    "publicado_em": "2026-10-21T07:15:14.482510+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/milei-lanca-plano-para-demitir-21-mil-servidores-na-argentina",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/40179419/pexels-photo-40179419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Alankrit Saini",
+      "photographer_url": "https://www.pexels.com/@alankrit-saini-14865083",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/urban-scene-with-sector-17-sign-and-worker-40179419/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Milei presenta plan para despedir a hasta 21 mil servidores públicos en Argentina",
+        "lead": "El gobierno argentino, encabezado por Javier Milei, publicó este lunes 19 un decreto que abre un programa de desvinculación voluntaria para alrededor de 21 mil empleados del sector público federal, como parte de la política de recorte de gastos."
+      },
+      "en": {
+        "titulo": "Milei unveils plan to lay off up to 21,000 public servants in Argentina",
+        "lead": "Argentina's government, led by President Javier Milei, issued a decree on Monday (Oct 19) that opens a voluntary lay‑off program for roughly 21,000 federal public‑sector employees, part of its cost‑cutting agenda."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "9807dbb6-daa5-4f20-990d-9366eaa55072",
     "titulo": "Itamaraty acusa presidente argentino Milei de tentar interferir nas eleições brasileiras",
     "lead": "O Ministério das Relações Exteriores do Brasil denunciou nesta terça‑feira (20) que o presidente da Argentina, Javier Milei, teria usado as redes sociais para insinuar fraude no segundo turno da eleição presidencial brasileira, marcado para 25 de outubro.",
