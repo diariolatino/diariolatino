@@ -1,5 +1,36 @@
 [
   {
+    "id": "9807dbb6-daa5-4f20-990d-9366eaa55072",
+    "titulo": "Itamaraty acusa presidente argentino Milei de tentar interferir nas eleições brasileiras",
+    "lead": "O Ministério das Relações Exteriores do Brasil denunciou nesta terça‑feira (20) que o presidente da Argentina, Javier Milei, teria usado as redes sociais para insinuar fraude no segundo turno da eleição presidencial brasileira, marcado para 25 de outubro.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-21T01:28:28.810548+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/itamaraty-acusa-milei-de-tentar-interferir-na-eleicao-brasileira",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/26832251/pexels-photo-26832251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Pablo Ezequiel Nieva",
+      "photographer_url": "https://www.pexels.com/@pablo-ezequiel-nieva-933807",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/rooster-walking-on-grass-26832251/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Itamaraty acusa al presidente argentino Milei de intentar interferir en las elecciones brasileñas",
+        "lead": "El Ministerio de Relaciones Exteriores de Brasil denunció este martes (20) que el presidente de Argentina, Javier Milei, habría usado las redes sociales para insinuar fraude en la segunda vuelta de la elección presidencial brasileña, programada para el 25 de octubre."
+      },
+      "en": {
+        "titulo": "Itamaraty accuses Argentine President Milei of trying to interfere in Brazil's elections",
+        "lead": "Brazil's Ministry of Foreign Affairs denounced on Tuesday (Oct 20) that Argentine President Javier Milei used social media to hint at fraud in the second round of Brazil's presidential election, scheduled for Oct 25."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "549a9693-5043-4607-a2f0-25bcc969f0b5",
     "titulo": "Orionídeas 2026: horários e dicas para observar o espetáculo celeste no Chile",
     "lead": "A chuva de meteoros Orionídeas de 2026 será visível em todo o território chileno, com informações de horário e recomendações de observação divulgadas pelos observatórios locais.",
