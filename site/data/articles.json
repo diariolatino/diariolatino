@@ -1,5 +1,36 @@
 [
   {
+    "id": "dc120d60-a64b-4927-9e6e-372ee4befad9",
+    "titulo": "Metrô de São Paulo incorpora Pix nas máquinas de autoatendimento",
+    "lead": "A partir de 20 de outubro, as catracas da Linha 1‑Azul passaram a aceitar pagamentos via Pix, com expansão prevista para as demais linhas ao longo da semana.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-22T07:17:01.004973+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/metro-de-sao-paulo-amplia-uso-do-pix-no-autoatendimento",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/5357198/pexels-photo-5357198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Roberto Hund",
+      "photographer_url": "https://www.pexels.com/@roberto-hund",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/woman-using-an-automated-teller-machine-5357198/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Metro de São Paulo incorpora Pix en las máquinas de auto‑servicio",
+        "lead": "Desde el 20 de octubre, las catracas de la Línea 1‑Azul aceptan pagos vía Pix, con expansión prevista para las demás líneas durante la semana."
+      },
+      "en": {
+        "titulo": "São Paulo Metro adds Pix to self‑service machines",
+        "lead": "Starting on October 20, the turnstiles on Line 1‑Blue began accepting Pix payments, with rollout to the remaining lines scheduled throughout the week."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "b20bd99c-6e9c-4616-8897-5b6babeedfb6",
     "titulo": "Pentágono autoriza teste de rayo de calor na fronteira EUA‑México",
     "lead": "O Departamento de Segurança dos Estados Unidos recebeu permissão do Pentágono para experimentar um dispositivo de emissão de calor intenso ao longo da fronteira com o México, como parte de um programa de modernização da segurança fronteiriça.",
