@@ -1,5 +1,36 @@
 [
   {
+    "id": "b20bd99c-6e9c-4616-8897-5b6babeedfb6",
+    "titulo": "Pentágono autoriza teste de rayo de calor na fronteira EUA‑México",
+    "lead": "O Departamento de Segurança dos Estados Unidos recebeu permissão do Pentágono para experimentar um dispositivo de emissão de calor intenso ao longo da fronteira com o México, como parte de um programa de modernização da segurança fronteiriça.",
+    "categoria": "Segurança",
+    "pais": "México",
+    "publicado_em": "2026-10-22T01:21:33.973406+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://lajornadasanluis.com.mx/pentagono-autoriza-al-departamento-de-seguridad-probar-rayo-de-calor-en-la-frontera-con-mexico/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/35745869/pexels-photo-35745869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "B. Kane",
+      "photographer_url": "https://www.pexels.com/@b-kane-513841",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/welcome-to-new-mexico-roadside-sign-on-desert-highway-35745869/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Pentágono autoriza prueba de rayo de calor en la frontera EE.UU.-México",
+        "lead": "El Departamento de Seguridad de Estados Unidos recibió permiso del Pentágono para experimentar un dispositivo de emisión de calor intenso a lo largo de la frontera con México, como parte de un programa de modernización de la seguridad fronteriza."
+      },
+      "en": {
+        "titulo": "Pentagon authorizes heat‑ray test on US‑Mexico border",
+        "lead": "The U.S. Department of Security has received permission from the Pentagon to experiment with a high‑intensity heat‑ray device along the Mexico border, as part of a border‑security modernization program."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "1486ece1-1dec-4fa0-94aa-8015f361db3d",
     "titulo": "Esquema de cursos falsos para sargentos da reserva facilitava compra irregular de armas no Rio",
     "lead": "A Polícia Civil, por meio da Delegacia Especializada em Armas, Munições e Explosivos, desarticulou um grupo que simulava cursos de formação de sargentos da reserva para emitir documentos militares falsos e adquirir armamento ilegalmente.",
