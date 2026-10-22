@@ -1,5 +1,36 @@
 [
   {
+    "id": "b525a141-2e5b-4db4-ad92-4d6d65d1e0d1",
+    "titulo": "França proíbe protestos considerados ilegítimos e impõe toque de recolher",
+    "lead": "Em 22 de outubro, o presidente Emmanuel Macron anunciou a proibição de manifestações avaliadas como ilegítimas e a adoção de medidas de segurança reforçadas em várias cidades francesas.",
+    "categoria": "Política",
+    "pais": "América Latina",
+    "publicado_em": "2026-10-22T13:36:25.649374+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/presidente-anuncia-proibicao-de-protestos-ilegitimos",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/11421039/pexels-photo-11421039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Mathias Reding",
+      "photographer_url": "https://www.pexels.com/@matreding",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/protesters-holding-placards-11421039/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Francia prohíbe protestas consideradas ilegítimas y establece toque de queda",
+        "lead": "El jueves 22 de octubre, el presidente Emmanuel Macron anunció la prohibición de manifestaciones calificadas como ilegítimas y la adopción de medidas de seguridad reforzadas en varias ciudades francesas."
+      },
+      "en": {
+        "titulo": "France bans protests deemed illegitimate and imposes curfew",
+        "lead": "On Thursday, October 22, President Emmanuel Macron announced the prohibition of demonstrations deemed \"illegitimate\" and the rollout of reinforced security measures in several French cities."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "dc120d60-a64b-4927-9e6e-372ee4befad9",
     "titulo": "Metrô de São Paulo incorpora Pix nas máquinas de autoatendimento",
     "lead": "A partir de 20 de outubro, as catracas da Linha 1‑Azul passaram a aceitar pagamentos via Pix, com expansão prevista para as demais linhas ao longo da semana.",
