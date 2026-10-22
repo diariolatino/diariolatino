@@ -1,5 +1,36 @@
 [
   {
+    "id": "1b771c9e-7c06-4a82-822e-0b24ce87f978",
+    "titulo": "Economia da Argentina recua 1,7% em agosto de 2026, aponta risco de recessão",
+    "lead": "Dados do INDEC revelam queda de 1,74% no PIB em agosto de 2026 em relação ao mesmo período de 2025, alimentando temores de recessão no país.",
+    "categoria": "Economia",
+    "pais": "Argentina",
+    "publicado_em": "2026-10-22T18:24:27.340251+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/economia-da-argentina-recua-17-em-agosto-sob-risco-de-recessao",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/4636069/pexels-photo-4636069.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Maxi Gagliano",
+      "photographer_url": "https://www.pexels.com/@maxi-gagliano-1882897",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/close-up-photo-of-money-4636069/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Economía de Argentina retrocede 1,7% en agosto de 2026, señala riesgo de recesión",
+        "lead": "Datos del INDEC revelan una caída del 1,74% en el PIB en agosto de 2026 respecto al mismo período de 2025, alimentando temores de recesión en el país."
+      },
+      "en": {
+        "titulo": "Argentina's Economy Shrinks 1.7% in August 2026, Raising Recession Concerns",
+        "lead": "INDEC data show a 1.74% drop in GDP for August 2026 compared with the same month in 2025, fueling fears of a recession in the country."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "b525a141-2e5b-4db4-ad92-4d6d65d1e0d1",
     "titulo": "França proíbe protestos considerados ilegítimos e impõe toque de recolher",
     "lead": "Em 22 de outubro, o presidente Emmanuel Macron anunciou a proibição de manifestações avaliadas como ilegítimas e a adoção de medidas de segurança reforçadas em várias cidades francesas.",
