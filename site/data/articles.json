@@ -1,5 +1,36 @@
 [
   {
+    "id": "05e5f6b3-d76c-4cc5-9899-7f638bb87835",
+    "titulo": "Caixa Loterias adia sorteios para sábado, 24, devido ao segundo turno eleitoral",
+    "lead": "A Caixa Loterias antecipou os sorteios programados para domingo, 25 de outubro, para o sábado, 24, a fim de não conflitar com o segundo turno das eleições no Brasil.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-22T22:12:07.398783+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/caixa-loterias-anuncia-antecipacao-de-sorteios-para-sabado",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/27639883/pexels-photo-27639883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Jonathan Cooper",
+      "photographer_url": "https://www.pexels.com/@theshuttervision",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/confetti-on-the-ground-with-the-words-happy-birthday-27639883/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Caixa Loterías adelanta sorteos al sábado 24 por conflicto con la segunda vuelta electoral",
+        "lead": "La Caixa Loterías adelantó los sorteos programados para el domingo 25 de octubre al sábado 24, para no coincidir con la segunda vuelta de las elecciones en Brasil."
+      },
+      "en": {
+        "titulo": "Caixa Loterias moves draws to Saturday, Oct 24, to avoid clash with election runoff",
+        "lead": "Caixa Loterias has shifted the lottery draws scheduled for Sunday, Oct 25, to Saturday, Oct 24, so they do not coincide with Brazil’s second‑round elections."
+      }
+    },
+    "atualizacao_de": "efd6fbea-80ae-424b-af75-f242299b8f97"
+  },
+  {
     "id": "1b771c9e-7c06-4a82-822e-0b24ce87f978",
     "titulo": "Economia da Argentina recua 1,7% em agosto de 2026, aponta risco de recessão",
     "lead": "Dados do INDEC revelam queda de 1,74% no PIB em agosto de 2026 em relação ao mesmo período de 2025, alimentando temores de recessão no país.",
