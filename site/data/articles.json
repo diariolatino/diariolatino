@@ -1,5 +1,36 @@
 [
   {
+    "id": "b9af26a2-5e75-4182-b530-c422d6448897",
+    "titulo": "Projeto cultural comemora 20 anos no México com universo de neve e clown",
+    "lead": "Uma iniciativa artística celebra duas décadas de presença no país, apresentando um universo visual que combina neve e a estética de clown.",
+    "categoria": "Sociedade",
+    "pais": "México",
+    "publicado_em": "2026-10-23T07:09:21.748341+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.publimetro.com.mx/plus/2026/10/22/slavas-snowshow-celebra-20-anos-en-mexico-con-su-particular-universo-de-nieve-y-clown/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/35091810/pexels-photo-35091810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "eduardo199o9",
+      "photographer_url": "https://www.pexels.com/@eduardo199o9-178988127",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/festive-christmas-clown-in-elf-costume-35091810/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Proyecto cultural celebra 20 años en México con universo de nieve y clown",
+        "lead": "Una iniciativa artística celebra dos décadas de presencia en el país, presentando un universo visual que combina nieve y la estética del clown."
+      },
+      "en": {
+        "titulo": "Cultural project marks 20 years in Mexico with snow and clown universe",
+        "lead": "An artistic initiative celebrates two decades of presence in the country, presenting a visual universe that blends snow and clown aesthetics."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "05e5f6b3-d76c-4cc5-9899-7f638bb87835",
     "titulo": "Caixa Loterias adia sorteios para sábado, 24, devido ao segundo turno eleitoral",
     "lead": "A Caixa Loterias antecipou os sorteios programados para domingo, 25 de outubro, para o sábado, 24, a fim de não conflitar com o segundo turno das eleições no Brasil.",
