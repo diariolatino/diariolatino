@@ -1,5 +1,36 @@
 [
   {
+    "id": "0c9427c6-e5a7-4e04-8585-1e31e52559e0",
+    "titulo": "Chile enfrenta recessão técnica e alta do desemprego sob governo Kast",
+    "lead": "O Chile registrou queda de 0,3% no PIB no terceiro trimestre de 2026 e aumento do desemprego para 9,6%, desafiando a agenda de austeridade do presidente José Antonio Kast, que enfrenta alta rejeição pública.",
+    "categoria": "Economia",
+    "pais": "Chile",
+    "publicado_em": "2026-10-23T21:56:10.584204+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/em-meio-ajuste-fiscal-chile-tem-queda-do-pib-e-desemprego-em-alta",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/27852910/pexels-photo-27852910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Marek Piwnicki",
+      "photographer_url": "https://www.pexels.com/@marek-piwnicki-3907296",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-large-industrial-plant-with-a-large-chimney-27852910/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Chile enfrenta recessão técnica e aumento del desempleo bajo el gobierno de Kast",
+        "lead": "Chile registró una caída del 0,3% del PIB en el tercer trimestre de 2026 y un aumento del desempleo al 9,6%, desafiando la agenda de austeridad del presidente José Antonio Kast, que enfrenta alta reprobación pública."
+      },
+      "en": {
+        "titulo": "Chile faces technical recession and rising unemployment under Kast government",
+        "lead": "Chile recorded a 0.3% GDP contraction in the third quarter of 2026 and a rise in unemployment to 9.6%, challenging the austerity agenda of President José Antonio Kast, who faces high public disapproval."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "a3463fe0-2209-4a41-883c-10c6cf4a59bd",
     "titulo": "Atualização: Mega‑Sena acumula para R$ 230 milhões após concurso sem ganhadores",
     "lead": "No sorteio da Mega‑Sena realizado nesta quinta‑feira (22), nenhuma aposta acertou as seis dezenas, elevando o prêmio acumulado para R$ 230 milhões no próximo concurso.",
