@@ -1,5 +1,36 @@
 [
   {
+    "id": "a3463fe0-2209-4a41-883c-10c6cf4a59bd",
+    "titulo": "Atualização: Mega‑Sena acumula para R$ 230 milhões após concurso sem ganhadores",
+    "lead": "No sorteio da Mega‑Sena realizado nesta quinta‑feira (22), nenhuma aposta acertou as seis dezenas, elevando o prêmio acumulado para R$ 230 milhões no próximo concurso.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-23T13:12:03.199735+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-acumula-para-r-230-milhoes-confira-os-numeros-sorteados",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/19774993/pexels-photo-19774993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "João Saplak",
+      "photographer_url": "https://www.pexels.com/@saplak",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/dam-on-river-itaipu-dam-parana-paraguay-19774993/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Actualización: Mega‑Sena acumula a 230 millones de reales después de sorteo sin ganadores",
+        "lead": "En el sorteo de la Mega‑Sena realizado este jueves (22), ningún boleto acertó los seis números, lo que elevó el premio acumulado a 230 millones de reales para el próximo concurso."
+      },
+      "en": {
+        "titulo": "Update: Mega‑Sena rolls over to R$ 230 million after draw with no winners",
+        "lead": "In the Mega‑Sena draw held this Thursday (22), no ticket matched all six numbers, pushing the jackpot to R$ 230 million for the next contest."
+      }
+    },
+    "atualizacao_de": "db2a6ab8-da59-489e-99f0-b68cd2519c9d"
+  },
+  {
     "id": "b9af26a2-5e75-4182-b530-c422d6448897",
     "titulo": "Projeto cultural comemora 20 anos no México com universo de neve e clown",
     "lead": "Uma iniciativa artística celebra duas décadas de presença no país, apresentando um universo visual que combina neve e a estética de clown.",
