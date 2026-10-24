@@ -1,5 +1,36 @@
 [
   {
+    "id": "bc737ca7-f7bc-460d-9d16-01a7a35e1157",
+    "titulo": "Polícia Civil de SP apreende produtos em operação contra distribuidora de bebidas falsificadas em Guarulhos",
+    "lead": "Uma operação conjunta realizada nesta quinta-feira (22) em Guarulhos, no interior de São Paulo, resultou na busca e apreensão de mercadorias em uma distribuidora suspeita de comercializar bebidas falsificadas e de utilizar laranjas para ocultar o verdadeiro controlador do negócio.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-24T00:22:32.586498+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/policia-civil-investiga-distribuidora-de-bebidas-em-guarulhos-sp",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/25185499/pexels-photo-25185499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "fabianoshow4",
+      "photographer_url": "https://www.pexels.com/@fabianoshow4-564869275",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/aerial-view-of-presidente-dutra-highway-in-guarulhos-brazil-25185499/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Policía Civil de SP allana distribuidora de bebidas falsificadas en Guarulhos",
+        "lead": "Una operación conjunta realizada el jueves (22) en Guarulhos, en el interior de São Paulo, resultó en la incautación de mercancías de una distribuidora sospechosa de comercializar bebidas falsificadas y de utilizar testaferros para ocultar al verdadero controlador del negocio."
+      },
+      "en": {
+        "titulo": "SP Civil Police Raid Beverage Distributor Suspected of Counterfeiting in Guarulhos",
+        "lead": "A joint operation carried out on Thursday (22) in Guarulhos, in the interior of São Paulo, resulted in the seizure of goods from a beverage distributor suspected of selling counterfeit products and using straw men to hide the true controller of the business."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "0c9427c6-e5a7-4e04-8585-1e31e52559e0",
     "titulo": "Chile enfrenta recessão técnica e alta do desemprego sob governo Kast",
     "lead": "O Chile registrou queda de 0,3% no PIB no terceiro trimestre de 2026 e aumento do desemprego para 9,6%, desafiando a agenda de austeridade do presidente José Antonio Kast, que enfrenta alta rejeição pública.",
