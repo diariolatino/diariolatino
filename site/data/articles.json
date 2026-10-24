@@ -1,5 +1,36 @@
 [
   {
+    "id": "eb923044-0461-4224-a0f2-557db1a5e3ed",
+    "titulo": "Cartórios disponibilizam nova plataforma nacional de consulta a imóveis",
+    "lead": "A partir de outubro de 2026, o Operador Nacional do Sistema de Registro Eletrônico de Imóveis (ONR) lançou a Pesquisa Nacional de Bens, ferramenta que permite buscar vínculos de CPFs e CNPJs a imóveis em todo o território brasileiro.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-24T17:57:23.307438+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/cartorios-lancam-ferramenta-que-permite-pesquisar-imoveis-no-pais",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/4160092/pexels-photo-4160092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Markus Winkler",
+      "photographer_url": "https://www.pexels.com/@markus-winkler-1430818",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/close-up-shot-of-a-typewriter-4160092/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Los registros de la propiedad ponen a disposición una nueva plataforma nacional de consulta de inmuebles",
+        "lead": "A partir de octubre de 2026, el Operador Nacional del Sistema de Registro Electrónico de Inmuebles (ONR) lanzó la Búsqueda Nacional de Bienes, herramienta que permite buscar vínculos de CPF y CNPJ con inmuebles en todo el territorio brasileño."
+      },
+      "en": {
+        "titulo": "Brazilian registries unveil new national property search platform",
+        "lead": "Starting in October 2026, the National Operator of the Electronic Property Registry System (ONR) launched the National Asset Search, a tool that allows users to look up CPF and CNPJ links to real estate across Brazil."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "46e1fa81-b57e-4558-afb5-2c0af0beb167",
     "titulo": "Japão procura trabalhadores peruanos devido ao envelhecimento da população",
     "lead": "Com a população japonesa cada vez mais envelhecida, autoridades do país estão voltando os olhos para o Peru em busca de imigrantes que possam suprir a demanda por mão‑de‑obra.",
