@@ -1,5 +1,36 @@
 [
   {
+    "id": "46e1fa81-b57e-4558-afb5-2c0af0beb167",
+    "titulo": "Japão procura trabalhadores peruanos devido ao envelhecimento da população",
+    "lead": "Com a população japonesa cada vez mais envelhecida, autoridades do país estão voltando os olhos para o Peru em busca de imigrantes que possam suprir a demanda por mão‑de‑obra.",
+    "categoria": "Sociedade",
+    "pais": "Peru",
+    "publicado_em": "2026-10-24T14:20:58.555726+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://acento.com.do/rfi/pueblo-japones-busca-peruanos-ante-el-envejecimiento-de-su-poblacion-9776763.html",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/36503564/pexels-photo-36503564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Joshuan Barboza",
+      "photographer_url": "https://www.pexels.com/@jbarbozameca",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/urban-worker-in-trujillo-street-scenery-36503564/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Japón busca peruanos ante el envejecimiento de su población",
+        "lead": "Con una población japonesa cada vez más envejecida, las autoridades del país están mirando al Perú en busca de inmigrantes que puedan cubrir la demanda de mano de obra."
+      },
+      "en": {
+        "titulo": "Japan seeks Peruvians amid its aging population",
+        "lead": "With Japan's population rapidly aging, authorities are turning to Peru in search of immigrants who can fill labor shortages."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "bc737ca7-f7bc-460d-9d16-01a7a35e1157",
     "titulo": "Polícia Civil de SP apreende produtos em operação contra distribuidora de bebidas falsificadas em Guarulhos",
     "lead": "Uma operação conjunta realizada nesta quinta-feira (22) em Guarulhos, no interior de São Paulo, resultou na busca e apreensão de mercadorias em uma distribuidora suspeita de comercializar bebidas falsificadas e de utilizar laranjas para ocultar o verdadeiro controlador do negócio.",

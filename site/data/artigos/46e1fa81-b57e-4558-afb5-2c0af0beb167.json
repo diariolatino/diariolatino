@@ -1,0 +1,34 @@
+{
+  "id": "46e1fa81-b57e-4558-afb5-2c0af0beb167",
+  "titulo": "Japão procura trabalhadores peruanos devido ao envelhecimento da população",
+  "lead": "Com a população japonesa cada vez mais envelhecida, autoridades do país estão voltando os olhos para o Peru em busca de imigrantes que possam suprir a demanda por mão‑de‑obra.",
+  "corpo": "O Japão enfrenta um rápido envelhecimento demográfico, resultado de baixas taxas de natalidade e aumento da expectativa de vida. Esse cenário tem gerado escassez de trabalhadores em diversos setores da economia, pressionando o governo a buscar soluções externas. Em meio a esse contexto, fontes oficiais indicam que o país está considerando a contratação de imigrantes peruanos, aproveitando laços históricos existentes entre as duas nações. O interesse não se restringe a uma única área; setores como agricultura, serviços de saúde e construção teriam vagas que poderiam ser preenchidas por trabalhadores provenientes do Peru. Ainda não há detalhes sobre metas numéricas ou prazos definidos, mas a iniciativa sinaliza uma mudança na tradicional política migratória japonesa, que até então mantinha critérios bastante restritos. A medida, se implementada, poderia representar uma nova fase nas relações bilaterais, ampliando fluxos migratórios entre o Japão e a América Latina.",
+  "categoria": "Sociedade",
+  "pais": "Peru",
+  "publicado_em": "2026-10-24T14:20:58.555726+00:00",
+  "fontes": [
+    "GDELT"
+  ],
+  "url_fonte_original": "https://acento.com.do/rfi/pueblo-japones-busca-peruanos-ante-el-envejecimiento-de-su-poblacion-9776763.html",
+  "imagem": {
+    "url": "https://images.pexels.com/photos/36503564/pexels-photo-36503564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "photographer": "Joshuan Barboza",
+    "photographer_url": "https://www.pexels.com/@jbarbozameca",
+    "fonte_nome": "Pexels",
+    "fonte_url": "https://www.pexels.com/photo/urban-worker-in-trujillo-street-scenery-36503564/"
+  },
+  "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+  "traducoes": {
+    "es": {
+      "titulo": "Japón busca peruanos ante el envejecimiento de su población",
+      "lead": "Con una población japonesa cada vez más envejecida, las autoridades del país están mirando al Perú en busca de inmigrantes que puedan cubrir la demanda de mano de obra.",
+      "corpo": "Japón enfrenta un rápido envejecimiento demográfico, consecuencia de bajas tasas de natalidad y mayor esperanza de vida. Este escenario ha generado escasez de trabajadores en varios sectores de la economía, presionando al gobierno a buscar soluciones externas. En este contexto, fuentes oficiales indican que el país está considerando la contratación de inmigrantes peruanos, aprovechando los lazos históricos existentes entre ambas naciones. El interés no se limita a un solo sector; áreas como la agricultura, la salud y la construcción tendrían vacantes que podrían ser ocupadas por trabajadores provenientes del Perú. Aún no se han divulgado metas numéricas ni plazos definidos, pero la iniciativa señala un cambio en la tradicional política migratoria japonesa, que hasta ahora mantenía criterios muy restrictivos. La medida, de implementarse, podría representar una nueva fase en las relaciones bilaterales, ampliando los flujos migratorios entre Japón y América Latina."
+    },
+    "en": {
+      "titulo": "Japan seeks Peruvians amid its aging population",
+      "lead": "With Japan's population rapidly aging, authorities are turning to Peru in search of immigrants who can fill labor shortages.",
+      "corpo": "Japan is confronting a swift demographic aging, driven by low birth rates and rising life expectancy. This situation has created a shortage of workers across various economic sectors, prompting the government to look for external solutions. In this context, official sources indicate that the country is considering hiring Peruvian immigrants, leveraging historic ties between the two nations. The interest spans multiple areas; agriculture, healthcare and construction are among the sectors with vacancies that could be filled by workers from Peru. No specific numeric targets or timelines have been announced yet, but the initiative marks a shift in Japan's traditionally restrictive migration policy. If implemented, the move could usher in a new phase of bilateral relations, expanding migration flows between Japan and Latin America."
+    }
+  },
+  "atualizacao_de": null
+}
