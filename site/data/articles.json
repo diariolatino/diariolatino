@@ -1,5 +1,36 @@
 [
   {
+    "id": "d0715e67-a052-493f-b3a4-625521a573a7",
+    "titulo": "Gol esclarece boatos sobre cancelamentos em massa de voos para o Nordeste",
+    "lead": "A companhia aérea Gol negou alegações de redes sociais sobre cancelamentos em massa de voos de Porto Alegre para o Nordeste durante o segundo turno das eleições, confirmando apenas uma interrupção por problemas técnicos.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-25T21:32:53.913026+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/gol-nega-cancelamento-de-voos-em-massa-para-o-nordeste",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/14212023/pexels-photo-14212023.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Lucas Oliveira",
+      "photographer_url": "https://www.pexels.com/@cais",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/people-sitting-inside-the-airport-terminal-14212023/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Gol desmiente rumores de cancelamientos masivos de vuelos al Nordeste",
+        "lead": "La aerolínea Gol negó las alegaciones en redes sociales sobre cancelamientos masivos de vuelos desde Porto Alegre hacia el Nordeste durante la segunda vuelta electoral, confirmando solo una interrupción por problemas técnicos."
+      },
+      "en": {
+        "titulo": "Gol denies mass flight cancellations to Brazil's Northeast",
+        "lead": "Airlines Gol denied social media allegations of mass flight cancellations from Porto Alegre to the Northeast during the election runoff, confirming only one interruption due to technical issues."
+      }
+    },
+    "atualizacao_de": "ae0b7ced-1473-4356-acf1-4644898d2297"
+  },
+  {
     "id": "21a60b9f-f5bd-488d-9e30-38268513fc86",
     "titulo": "Seleção Sub-15 da Argentina recupera o equilíbrio no Mundial após derrota para a Argélia",
     "lead": "Depois de estrear com uma derrota para a Argélia, a equipe argentina de futebol base venceu os confrontos contra China Taipéi e Omã, garantindo a continuidade da campanha no torneio juvenil.",
