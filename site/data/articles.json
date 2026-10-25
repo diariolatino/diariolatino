@@ -1,5 +1,36 @@
 [
   {
+    "id": "21a60b9f-f5bd-488d-9e30-38268513fc86",
+    "titulo": "Seleção Sub-15 da Argentina recupera o equilíbrio no Mundial após derrota para a Argélia",
+    "lead": "Depois de estrear com uma derrota para a Argélia, a equipe argentina de futebol base venceu os confrontos contra China Taipéi e Omã, garantindo a continuidade da campanha no torneio juvenil.",
+    "categoria": "Sociedade",
+    "pais": "Argentina",
+    "publicado_em": "2026-10-25T18:47:57.417529+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.ole.com.ar/seleccion/derrota-argelia-argentina-gano-chinataipei-oman-mundial-sub-15_0_9jWYCQNCqO.html",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/37996644/pexels-photo-37996644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Franco Monsalvo",
+      "photographer_url": "https://www.pexels.com/@franco-monsalvo-252430633",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/dynamic-youth-soccer-match-action-shot-37996644/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "La selección Sub-15 de Argentina recupera el equilibrio en el Mundial tras la derrota ante Argelia",
+        "lead": "Después de estrear con una derrota contra Argelia, el equipo argentino de fútbol base ganó los enfrentamientos contra China Taipéi y Omán, asegurando la continuidad de su campaña en el torneo juvenil."
+      },
+      "en": {
+        "titulo": "Argentina U-15 Team Regains Balance at World Cup After Loss to Algeria",
+        "lead": "After a disappointing opening loss to Algeria, the Argentine youth football team secured victories against Chinese Taipei and Oman, keeping their campaign alive in the tournament."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "eb923044-0461-4224-a0f2-557db1a5e3ed",
     "titulo": "Cartórios disponibilizam nova plataforma nacional de consulta a imóveis",
     "lead": "A partir de outubro de 2026, o Operador Nacional do Sistema de Registro Eletrônico de Imóveis (ONR) lançou a Pesquisa Nacional de Bens, ferramenta que permite buscar vínculos de CPFs e CNPJs a imóveis em todo o território brasileiro.",
