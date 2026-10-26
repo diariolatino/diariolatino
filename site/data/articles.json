@@ -1,5 +1,36 @@
 [
   {
+    "id": "cd277626-d179-44f0-a2bd-a0983ce01793",
+    "titulo": "Voluntad Popular pede união após retorno de María Corina Machado à Venezuela",
+    "lead": "O partido de oposição convocou a população a consolidar a unidade política depois que a figura central da oposição, María Corina Machado, voltou ao país.",
+    "categoria": "Política",
+    "pais": "Venezuela",
+    "publicado_em": "2026-10-26T03:47:51.365825+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.ntn24.com/noticias-actualidad/el-pueblo-te-estaba-esperando-voluntad-popular-insta-a-consolidar-la-unidad-tras-el-regreso-de-maria-corina-machado-a-venezuela-661143",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/27857269/pexels-photo-27857269.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Altamart",
+      "photographer_url": "https://www.pexels.com/@altamar",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-sign-that-says-haistat-final-27857269/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Voluntad Popular pide unidad tras el regreso de María Corina Machado a Venezuela",
+        "lead": "El partido de oposición convoca a la población a consolidar la unidad política tras el retorno de María Corina Machado al país."
+      },
+      "en": {
+        "titulo": "Voluntad Popular Calls for Unity Following María Corina Machado’s Return to Venezuela",
+        "lead": "The opposition party urged the public to consolidate political unity after María Corina Machado returned to the country."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "d0715e67-a052-493f-b3a4-625521a573a7",
     "titulo": "Gol esclarece boatos sobre cancelamentos em massa de voos para o Nordeste",
     "lead": "A companhia aérea Gol negou alegações de redes sociais sobre cancelamentos em massa de voos de Porto Alegre para o Nordeste durante o segundo turno das eleições, confirmando apenas uma interrupção por problemas técnicos.",
