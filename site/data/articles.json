@@ -1,5 +1,36 @@
 [
   {
+    "id": "b494d848-e224-45e7-9759-a990da532820",
+    "titulo": "Lula recebe cumprimentos de líderes latino-americanos nas redes sociais",
+    "lead": "Em poucos minutos após a confirmação de sua reeleição, vários chefes de Estado da região postaram mensagens de parabéns ao presidente brasileiro.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-26T09:53:50.066879+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/nas-redes-sociais-lideres-latino-americanos-saudam-lula-pela-vitoria",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/40266282/pexels-photo-40266282.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Rô Acunha",
+      "photographer_url": "https://www.pexels.com/@roacunha",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/night-political-rally-with-supporters-waving-flags-40266282/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Lula recibe saludos de líderes latinoamericanos en redes sociales",
+        "lead": "En pocos minutos tras la confirmación de su reelección, varios jefes de Estado de la región publicaron mensajes de felicitación al presidente brasileño."
+      },
+      "en": {
+        "titulo": "Lula receives congratulations from Latin American leaders on social media",
+        "lead": "Within minutes of his re-election being confirmed, several regional heads of state posted congratulatory messages to the newly elected Brazilian president."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "cd277626-d179-44f0-a2bd-a0983ce01793",
     "titulo": "Voluntad Popular pede união após retorno de María Corina Machado à Venezuela",
     "lead": "O partido de oposição convocou a população a consolidar a unidade política depois que a figura central da oposição, María Corina Machado, voltou ao país.",
