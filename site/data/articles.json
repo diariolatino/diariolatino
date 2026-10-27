@@ -1,5 +1,36 @@
 [
   {
+    "id": "70a1e1fe-7876-4093-9689-2b8cd093f7a2",
+    "titulo": "CDMX prorroga prazo para emissão de licença permanente de condutor até dezembro de 2026",
+    "lead": "A Secretaria de Governo da Cidade do México estendeu o prazo para a renovação e emissão de licenças permanentes de condutor, permitindo que motoristas finalizem o processo até o final de 2026.",
+    "categoria": "Sociedade",
+    "pais": "México",
+    "publicado_em": "2026-10-27T14:08:17.623913+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.publimetro.com.mx/noticias/2026/10/27/gobierno-de-la-cdmx-amplia-hasta-diciembre-tramite-de-licencia-permanente/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/5455623/pexels-photo-5455623.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Chengxin Zhao",
+      "photographer_url": "https://www.pexels.com/@chengxin-zhao-1218017",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/cars-on-road-during-evening-5455623/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "CDMX extiende plazo para emisión de licencia permanente de conductor hasta diciembre de 2026",
+        "lead": "La Secretaría de Gobierno de la Ciudad de México prorrogó el plazo para la renovación y emisión de licencias permanentes de conductor, permitiendo a los conductores finalizar el trámite hasta finales de 2026."
+      },
+      "en": {
+        "titulo": "Mexico City extends deadline for permanent driver's license issuance until December 2026",
+        "lead": "The Mexico City Government Secretariat has extended the deadline for renewing and issuing permanent driver's licenses, allowing drivers to complete the process by the end of 2026."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "b494d848-e224-45e7-9759-a990da532820",
     "titulo": "Lula recebe cumprimentos de líderes latino-americanos nas redes sociais",
     "lead": "Em poucos minutos após a confirmação de sua reeleição, vários chefes de Estado da região postaram mensagens de parabéns ao presidente brasileiro.",
