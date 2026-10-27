@@ -1,5 +1,36 @@
 [
   {
+    "id": "361f00f0-3c35-4f8d-b3d4-f097e41981be",
+    "titulo": "Israelenses escolhem governo em eleição marcada pela guerra e risco de instabilidade política",
+    "lead": "Cerca de 7 milhões de eleitores israelenses votam nesta terça-feira (27) em um pleito que pode encerrar a longa gestão de Benjamin Netanyahu, mas com favoritos alinhados à linha-dura militar e rejeição ao Estado palestino.",
+    "categoria": "Mundo",
+    "pais": "América Latina",
+    "publicado_em": "2026-10-27T19:55:18.491828+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/israelenses-vao-as-urnas-em-eleicao-que-pode-tirar-netanyahu-do-poder",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/7103129/pexels-photo-7103129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Edmond Dantès",
+      "photographer_url": "https://www.pexels.com/@edmond-dantes",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-man-wearing-a-earpod-7103129/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Israelíes eligen gobierno en elección marcada por la guerra y riesgo de inestabilidad política",
+        "lead": "Cerca de 7 millones de votantes israelíes votan este martes (27) en una elección que podría poner fin a la larga gestión de Benjamin Netanyahu, pero con favoritos alineados con la línea dura militar y rechazo al Estado palestino."
+      },
+      "en": {
+        "titulo": "Israelis choose government in election marked by war and political instability risk",
+        "lead": "About 7 million Israeli voters are casting ballots on Tuesday (27) in an election that could end Benjamin Netanyahu's long tenure, but with favorites aligned with the military hardline stance and rejection of a Palestinian state."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "70a1e1fe-7876-4093-9689-2b8cd093f7a2",
     "titulo": "CDMX prorroga prazo para emissão de licença permanente de condutor até dezembro de 2026",
     "lead": "A Secretaria de Governo da Cidade do México estendeu o prazo para a renovação e emissão de licenças permanentes de condutor, permitindo que motoristas finalizem o processo até o final de 2026.",
