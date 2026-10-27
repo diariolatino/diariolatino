@@ -1,5 +1,36 @@
 [
   {
+    "id": "7081365a-fc7d-47b2-afdf-49a17658637f",
+    "titulo": "Anistia Internacional levará queixas contra Milei à ONU e CIDH por ataques à imprensa",
+    "lead": "A ONG decidiu denunciar o presidente argentino após declarações que incitaram violência contra jornalistas, no contexto do arquivamento do caso 'criptogate'.",
+    "categoria": "Sociedade",
+    "pais": "Argentina",
+    "publicado_em": "2026-10-27T23:37:40.117599+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/anistia-internacional-denunciara-milei-onu-por-ataque-jornalistas",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/6950208/pexels-photo-6950208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Werner Pfennig",
+      "photographer_url": "https://www.pexels.com/@werner-pfennig",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/an-elderly-man-having-a-speech-in-front-of-the-microphone-of-a-podium-6950208/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Amnistía Internacional presentará queja contra Milei ante la ONU y la CIDH por ataques a la prensa",
+        "lead": "La ONG decidió denunciar al presidente argentino tras declaraciones que incitaron a la violencia contra periodistas, en el contexto del archivo del caso 'criptogate'."
+      },
+      "en": {
+        "titulo": "Amnesty International to file complaint against Milei with UN and IACHR over press attacks",
+        "lead": "The NGO decided to denounce the Argentine president following statements that incited violence against journalists, in the context of the dismissal of the 'cryptogate' case."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "361f00f0-3c35-4f8d-b3d4-f097e41981be",
     "titulo": "Israelenses escolhem governo em eleição marcada pela guerra e risco de instabilidade política",
     "lead": "Cerca de 7 milhões de eleitores israelenses votam nesta terça-feira (27) em um pleito que pode encerrar a longa gestão de Benjamin Netanyahu, mas com favoritos alinhados à linha-dura militar e rejeição ao Estado palestino.",
