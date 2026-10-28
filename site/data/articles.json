@@ -1,5 +1,36 @@
 [
   {
+    "id": "781528b2-9e51-494a-a5dd-f2a44178c977",
+    "titulo": "Trump se recusa a comentar carta de Flávio Bolsonaro e cita 'eleição estranha'",
+    "lead": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (28) que não se envolverá nas questões internas do Brasil após a publicação de uma carta pelo senador Flávio Bolsonaro, em que este se declara líder do país.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-28T22:59:39.941309+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/trump-diz-que-nao-vai-se-envolver-apos-carta-de-flavio-bolsonaro",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/6950206/pexels-photo-6950206.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Werner Pfennig",
+      "photographer_url": "https://www.pexels.com/@werner-pfennig",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/men-in-business-attire-looking-at-the-woman-talking-near-the-podium-6950206/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Trump se niega a comentar carta de Flávio Bolsonaro y cita 'elección extraña'",
+        "lead": "El presidente de Estados Unidos, Donald Trump, afirmó el miércoles (28) que no se involucrará en los asuntos internos de Brasil tras la publicación de una carta por el senador Flávio Bolsonaro, en la que se declara líder del país."
+      },
+      "en": {
+        "titulo": "Trump refuses to comment on Flávio Bolsonaro's letter, cites 'strange election'",
+        "lead": "US President Donald Trump stated on Wednesday (28) that he would not get involved in Brazil's internal affairs following the publication of a letter by Senator Flávio Bolsonaro, in which he declared himself the country's leader."
+      }
+    },
+    "atualizacao_de": "57af74f3-7b28-417b-96db-ab97bffea9e0"
+  },
+  {
     "id": "6fcf8a93-81ab-45cc-a7cf-6c6a11a50ca6",
     "titulo": "Brasil expressa condolências após colisão de trens na Espanha matar mais de 60 pessoas",
     "lead": "O Ministério das Relações Exteriores brasileiro manifestou consternação e solidariedade à Espanha após a colisão entre dois trens de alta velocidade na província de Toledo, que deixou ao menos 64 mortos.",
