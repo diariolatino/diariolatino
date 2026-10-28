@@ -1,5 +1,36 @@
 [
   {
+    "id": "6fcf8a93-81ab-45cc-a7cf-6c6a11a50ca6",
+    "titulo": "Brasil expressa condolências após colisão de trens na Espanha matar mais de 60 pessoas",
+    "lead": "O Ministério das Relações Exteriores brasileiro manifestou consternação e solidariedade à Espanha após a colisão entre dois trens de alta velocidade na província de Toledo, que deixou ao menos 64 mortos.",
+    "categoria": "Mundo",
+    "pais": "América Latina",
+    "publicado_em": "2026-10-28T18:02:45.596462+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/brasil-lamenta-acidente-com-trem-na-espanha-em-que-mais-de-60-morreram",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/31166113/pexels-photo-31166113.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Explorando la provincia de Cádiz",
+      "photographer_url": "https://www.pexels.com/@explorando-la-provincia-de-cadiz-1579305",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/modern-high-speed-train-at-cadiz-station-31166113/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasil expresa condolencias tras colisión de trenes en España que deja más de 60 muertos",
+        "lead": "El Ministerio de Relaciones Exteriores de Brasil expresó su consternación y solidaridad con España tras la colisión entre dos trenes de alta velocidad en la provincia de Toledo, que dejó al menos 64 muertos."
+      },
+      "en": {
+        "titulo": "Brazil expresses condolences after train collision in Spain kills over 60",
+        "lead": "Brazil's Foreign Ministry expressed deep consternation and solidarity with Spain following a high-speed train collision in Toledo province that left at least 64 people dead."
+      }
+    },
+    "atualizacao_de": "6914caad-4c64-4c82-8a65-be22e1331c2f"
+  },
+  {
     "id": "1ce92a7a-10d0-4cce-902c-79955d1f422f",
     "titulo": "Lula garante quarto mandato e atrai atenção da imprensa europeia e asiática",
     "lead": "No domingo, 25 de outubro de 2026, Luiz Inácio Lula da Silva venceu o segundo turno das eleições presidenciais brasileiras, revertendo a desvantagem inicial e suscitando ampla cobertura em veículos da Europa e da Ásia.",
