@@ -1,5 +1,36 @@
 [
   {
+    "id": "1ce92a7a-10d0-4cce-902c-79955d1f422f",
+    "titulo": "Lula garante quarto mandato e atrai atenção da imprensa europeia e asiática",
+    "lead": "No domingo, 25 de outubro de 2026, Luiz Inácio Lula da Silva venceu o segundo turno das eleições presidenciais brasileiras, revertendo a desvantagem inicial e suscitando ampla cobertura em veículos da Europa e da Ásia.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-28T04:38:42.185231+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/vitoria-de-lula-repercute-na-imprensa-europeia-e-asiatica",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/40266279/pexels-photo-40266279.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Rô Acunha",
+      "photographer_url": "https://www.pexels.com/@roacunha",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/protesters-marching-with-signs-in-city-street-40266279/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Lula asegura su cuarto mandato y capta la atención de la prensa europea y asiática",
+        "lead": "El domingo 25 de octubre de 2026, Luiz Inácio Lula da Silva ganó la segunda vuelta de las elecciones presidenciales de Brasil, revirtiendo la desventaja inicial y generando una amplia cobertura en medios de Europa y Asia."
+      },
+      "en": {
+        "titulo": "Lula secures fourth term and draws attention from European and Asian press",
+        "lead": "On Sunday, October 25, 2026, Luiz Inácio Lula da Silva won Brazil's presidential runoff, overturning an initial deficit and prompting extensive coverage in European and Asian media outlets."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "7081365a-fc7d-47b2-afdf-49a17658637f",
     "titulo": "Anistia Internacional levará queixas contra Milei à ONU e CIDH por ataques à imprensa",
     "lead": "A ONG decidiu denunciar o presidente argentino após declarações que incitaram violência contra jornalistas, no contexto do arquivamento do caso 'criptogate'.",
