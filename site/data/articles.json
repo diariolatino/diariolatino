@@ -1,5 +1,36 @@
 [
   {
+    "id": "a6995255-967e-4cb3-ad88-a14820cf63f9",
+    "titulo": "Comitê Democrata critica Trump por conceder visto a Flávio Bolsonaro após fuga",
+    "lead": "A ala democrata da Câmara dos EUA classificou a concessão de visto a Flávio Bolsonaro como uma violação da política migratória, contrastando-a com a recusa de asilo a refugiados de conflitos ativos.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-29T09:34:27.350629+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/democratas-condenam-decisao-de-trump-de-conceder-visto-flavio",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/36984941/pexels-photo-36984941.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Mark Stebnicki",
+      "photographer_url": "https://www.pexels.com/@nc-farm-bureau-mark",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/us-department-of-agriculture-building-and-washington-monument-36984941/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Comité Demócrata critica a Trump por otorgar visa a Flavio Bolsonaro tras su fuga",
+        "lead": "La bancada demócrata de la Cámara de Representantes de EE.UU. calificó la concesión del visado a Flavio Bolsonaro como una violación de la política migratoria, contrastándola con la denegación de asilo a refugiados de conflictos activos."
+      },
+      "en": {
+        "titulo": "Democratic Committee Criticizes Trump for Granting Visa to Flavio Bolsonaro After Flight",
+        "lead": "The Democratic wing of the US House of Representatives labeled the visa grant to Flavio Bolsonaro a violation of immigration policy, contrasting it with the denial of asylum to refugees from active conflicts."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "0c0bfa32-d4de-44fc-a22d-a3c240f6ebcf",
     "titulo": "ONU aprova resolução contra embargo dos EUA a Cuba com menor apoio em 30 anos",
     "lead": "A Assembleia Geral das Nações Unidas aprovou nesta quarta-feira (29) uma resolução que condena o bloqueio econômico dos Estados Unidos a Cuba, em votação que marcou o menor número de votos favoráveis à medida em três décadas.",
