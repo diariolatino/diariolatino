@@ -1,5 +1,36 @@
 [
   {
+    "id": "0c0bfa32-d4de-44fc-a22d-a3c240f6ebcf",
+    "titulo": "ONU aprova resolução contra embargo dos EUA a Cuba com menor apoio em 30 anos",
+    "lead": "A Assembleia Geral das Nações Unidas aprovou nesta quarta-feira (29) uma resolução que condena o bloqueio econômico dos Estados Unidos a Cuba, em votação que marcou o menor número de votos favoráveis à medida em três décadas.",
+    "categoria": "Política",
+    "pais": "Cuba",
+    "publicado_em": "2026-10-29T02:19:15.369308+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/onu-aprova-resolucao-contra-embargo-dos-eua-cuba",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/3687918/pexels-photo-3687918.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Matthias Oben",
+      "photographer_url": "https://www.pexels.com/@matthias-oben-2060028",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/blue-and-white-flag-on-pole-3687918/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "ONU aprueba resolución contra el embargo de EE.UU. a Cuba con el menor respaldo en 30 años",
+        "lead": "La Asamblea General de las Naciones Unidas aprobó este miércoles (29) una resolución que condena el bloqueo económico de Estados Unidos a Cuba, en una votación que marcó el menor número de votos a favor de la medida en tres décadas."
+      },
+      "en": {
+        "titulo": "UN approves resolution against US embargo on Cuba with lowest support in 30 years",
+        "lead": "The United Nations General Assembly approved a resolution this Wednesday (29) condemning the economic blockade imposed by the United States on Cuba, in a vote that marked the lowest number of favorable votes for the measure in three decades."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "781528b2-9e51-494a-a5dd-f2a44178c977",
     "titulo": "Trump se recusa a comentar carta de Flávio Bolsonaro e cita 'eleição estranha'",
     "lead": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta quarta-feira (28) que não se envolverá nas questões internas do Brasil após a publicação de uma carta pelo senador Flávio Bolsonaro, em que este se declara líder do país.",
