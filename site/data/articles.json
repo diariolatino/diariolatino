@@ -1,5 +1,36 @@
 [
   {
+    "id": "1dc98fb7-ae89-4249-a988-8f55e65af8ad",
+    "titulo": "Cuba celebra aprovação de resolução da ONU contra bloqueio dos EUA sob pressão de Trump",
+    "lead": "O embaixador cubano no Brasil, Victor Manuel Cairo Palomo, comemorou a aprovação, na Assembleia Geral da ONU, de uma resolução que condena o embargo econômico dos Estados Unidos à ilha, apesar da campanha de pressão do governo Trump.",
+    "categoria": "Política",
+    "pais": "Cuba",
+    "publicado_em": "2026-10-29T21:38:46.318293+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/sob-pressao-de-trump-cuba-comemora-aprovacao-na-onu-contra-bloqueio",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/7103198/pexels-photo-7103198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Edmond Dantès",
+      "photographer_url": "https://www.pexels.com/@edmond-dantes",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-person-holding-an-official-election-ballot-7103198/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Cuba celebra la aprobación de una resolución de la ONU contra el bloqueo de EE. UU. bajo presión de Trump",
+        "lead": "El embajador cubano en Brasil, Victor Manuel Cairo Palomo, celebró la aprobación, en la Asamblea General de la ONU, de una resolución que condena el embargo económico de Estados Unidos a la isla, a pesar de la campaña de presión del gobierno de Trump."
+      },
+      "en": {
+        "titulo": "Cuba celebrates UN resolution approval against US embargo under Trump pressure",
+        "lead": "Cuban ambassador to Brazil, Victor Manuel Cairo Palomo, welcomed the United Nations General Assembly's approval of a resolution condemning the United States' economic embargo on the island, despite the Trump administration's pressure campaign."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "12efef6f-ca16-46ff-ab0e-a87e362165a4",
     "titulo": "Israel: eleições sem vencedor definido e partidos iniciam negociações para coalizão",
     "lead": "Com 85% das urnas apuradas, nenhum bloco alcançou a maioria necessária na Câmara dos Deputados israelense, obrigando partidos a buscar alianças para formar governo.",
