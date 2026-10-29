@@ -1,5 +1,36 @@
 [
   {
+    "id": "12efef6f-ca16-46ff-ab0e-a87e362165a4",
+    "titulo": "Israel: eleições sem vencedor definido e partidos iniciam negociações para coalizão",
+    "lead": "Com 85% das urnas apuradas, nenhum bloco alcançou a maioria necessária na Câmara dos Deputados israelense, obrigando partidos a buscar alianças para formar governo.",
+    "categoria": "Política",
+    "pais": "América Latina",
+    "publicado_em": "2026-10-29T16:44:06.555973+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/israel-sem-vencedor-declarado-partidos-discutem-coligacoes",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/5926409/pexels-photo-5926409.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Sora Shimazaki",
+      "photographer_url": "https://www.pexels.com/@sora-shimazaki",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/us-voting-badges-on-white-surface-5926409/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Israel: elecciones sin ganador definido y partidos inician negociaciones de coalición",
+        "lead": "Con el 85% de las urnas escrutadas, ningún bloque alcanzó la mayoría necesaria en la Cámara de Diputados israelí, obligando a los partidos a buscar alianzas para formar gobierno."
+      },
+      "en": {
+        "titulo": "Israel: elections without a declared winner and parties begin coalition talks",
+        "lead": "With 85% of the ballots counted, no bloc has reached the majority needed in Israel's parliament, forcing parties to seek alliances to form a government."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "a6995255-967e-4cb3-ad88-a14820cf63f9",
     "titulo": "Comitê Democrata critica Trump por conceder visto a Flávio Bolsonaro após fuga",
     "lead": "A ala democrata da Câmara dos EUA classificou a concessão de visto a Flávio Bolsonaro como uma violação da política migratória, contrastando-a com a recusa de asilo a refugiados de conflitos ativos.",
