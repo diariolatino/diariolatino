@@ -1,5 +1,36 @@
 [
   {
+    "id": "896a6253-7586-47b2-a9bb-460cf14b2f20",
+    "titulo": "EBC garante R$ 23 milhões para impulsionar a TV 3.0 no Brasil",
+    "lead": "A diretoria da Empresa Brasil de Comunicação (EBC) recebeu, nesta terça‑feira, R$ 23 milhões da Anatel/GIRED para financiar a implantação da infraestrutura necessária à nova geração da TV aberta, a TV 3.0.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-30T01:40:59.194426+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/ebc-conquista-mais-r-23-milhoes-para-investimento-na-tv-30-no-brasil",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/19738401/pexels-photo-19738401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Yiğit  KARAALİOĞLU",
+      "photographer_url": "https://www.pexels.com/@ygtphoto",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/two-antennas-on-a-roof-19738401/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "EBC asegura 23 millones de reales para impulsar la TV 3.0 en Brasil",
+        "lead": "La directiva de la Empresa Brasil de Comunicación (EBC) recibió, este martes, 23 millones de reales de la Anatel/GIRED para financiar la implementación de la infraestructura necesaria para la nueva generación de la TV abierta, la TV 3.0."
+      },
+      "en": {
+        "titulo": "EBC secures R$ 23 million to boost TV 3.0 in Brazil",
+        "lead": "The board of Brazil's public broadcaster (EBC) received, on Tuesday, R$ 23 million from Anatel/GIRED to fund the infrastructure needed for the new generation of free‑to‑air television, TV 3.0."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "1dc98fb7-ae89-4249-a988-8f55e65af8ad",
     "titulo": "Cuba celebra aprovação de resolução da ONU contra bloqueio dos EUA sob pressão de Trump",
     "lead": "O embaixador cubano no Brasil, Victor Manuel Cairo Palomo, comemorou a aprovação, na Assembleia Geral da ONU, de uma resolução que condena o embargo econômico dos Estados Unidos à ilha, apesar da campanha de pressão do governo Trump.",
