@@ -1,5 +1,36 @@
 [
   {
+    "id": "fbf7f7c3-a05e-4e8e-92d3-6d1c5a49d682",
+    "titulo": "Flamengo perde para o Atlético Mineiro mas mantém liderança no Brasileirão",
+    "lead": "Em confronto direto, o Flamengo foi derrotado pelo Atlético Mineiro e, apesar do revés, continua na primeira colocação do Campeonato Brasileiro.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-30T20:31:21.060410+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.prensafutbol.cl/flamengo-pulgar-triunfo-mineiro-brasileirao/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/31228528/pexels-photo-31228528.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Andre Dantas",
+      "photographer_url": "https://www.pexels.com/@andredantasfotografia",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/vibrant-flamengo-fans-at-maracana-stadium-31228528/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Flamengo pierde ante Atlético Mineiro pero mantiene el liderato en el Brasileirão",
+        "lead": "En un enfrentamiento directo, el Flamengo fue derrotado por el Atlético Mineiro y, a pesar del revés, sigue en la primera posición del Campeonato Brasileño."
+      },
+      "en": {
+        "titulo": "Flamengo loses to Atlético Mineiro but stays top of Brazil's Serie A",
+        "lead": "In a direct clash, Flamengo was beaten by Atlético Mineiro and, despite the setback, remains in first place in the Brazilian Championship."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "69beae30-4154-45f2-90d3-d1f4f47c6770",
     "titulo": "Oposição israelense precisa de partidos árabes para derrubar Netanyahu",
     "lead": "Com a apuração final das urnas em 30 de outubro, a oposição em Israel depende de uma aliança com partidos árabes para alcançar a maioria necessária à formação de governo e substituir Benjamin Netanyahu, que governa há 19 anos.",
