@@ -1,5 +1,36 @@
 [
   {
+    "id": "69beae30-4154-45f2-90d3-d1f4f47c6770",
+    "titulo": "Oposição israelense precisa de partidos árabes para derrubar Netanyahu",
+    "lead": "Com a apuração final das urnas em 30 de outubro, a oposição em Israel depende de uma aliança com partidos árabes para alcançar a maioria necessária à formação de governo e substituir Benjamin Netanyahu, que governa há 19 anos.",
+    "categoria": "Política",
+    "pais": "América Latina",
+    "publicado_em": "2026-10-30T15:41:50.463023+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/oposicao-em-israel-depende-dos-arabes-para-tirar-netanyahu-do-poder",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/8846624/pexels-photo-8846624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Mikhail Nilov",
+      "photographer_url": "https://www.pexels.com/@mikhail-nilov",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/vote-badges-on-person-s-fingers-8846624/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "La oposición israelí necesita partidos árabes para derrocar a Netanyahu",
+        "lead": "Con la publicación de los resultados finales el 30 de octubre, la oposición en Israel depende de una alianza con partidos árabes para alcanzar la mayoría necesaria y reemplazar a Benjamin Netanyahu, que lleva 19 años en el poder."
+      },
+      "en": {
+        "titulo": "Israeli opposition needs Arab parties to oust Netanyahu",
+        "lead": "With final election results released on October 30, Israel's opposition depends on an alliance with Arab parties to reach the majority needed to replace Benjamin Netanyahu, who has governed for 19 years."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "896a6253-7586-47b2-a9bb-460cf14b2f20",
     "titulo": "EBC garante R$ 23 milhões para impulsionar a TV 3.0 no Brasil",
     "lead": "A diretoria da Empresa Brasil de Comunicação (EBC) recebeu, nesta terça‑feira, R$ 23 milhões da Anatel/GIRED para financiar a implantação da infraestrutura necessária à nova geração da TV aberta, a TV 3.0.",
