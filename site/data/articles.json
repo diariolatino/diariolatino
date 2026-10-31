@@ -1,5 +1,36 @@
 [
   {
+    "id": "c7fd48c3-2b5a-4fb5-a044-fd99c1787904",
+    "titulo": "Viúva do médico morto no acidente da TAM lembra luto permanente e avanços da Abrapavaa",
+    "lead": "Sandra Assali, presidente da Associação Brasileira de Parentes e Amigos de Vítimas de Acidentes Aéreos, declara que o luto pela perda do marido, falecido no desastre com o Fokker 100 da TAM em 1996, continua permanente e que a entidade tem assegurado assistência às famílias das vítimas.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-10-31T13:26:19.968704+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/luto-e-permanente-diz-viuva-30-anos-apos-acidente-com-fokker-da-tam",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/4669433/pexels-photo-4669433.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Jonathan Borba",
+      "photographer_url": "https://www.pexels.com/@jonathanborba",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/crashed-airplane-on-land-under-bright-sky-in-evening-4669433/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Viuda del médico fallecido en el accidente de la TAM recuerda el duelo permanente y los avances de Abrapavaa",
+        "lead": "Sandra Assali, presidenta de la Asociación Brasileña de Parientes y Amigos de Víctimas de Accidentes Aéreos, declara que el duelo por la pérdida de su esposo, fallecido en el desastre del Fokker 100 de la TAM en 1996, sigue permanente y que la entidad ha asegurado asistencia a las familias de las víctimas."
+      },
+      "en": {
+        "titulo": "Widow of doctor killed in TAM crash recalls permanent grief and Abrapavaa's progress",
+        "lead": "Sandra Assali, president of the Brazilian Association of Relatives and Friends of Air Accident Victims, says the grief over her husband's death in the 1996 TAM Fokker 100 disaster remains permanent and that the organization has secured assistance for victims' families."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "54dce313-404d-4820-9656-243c07186748",
     "titulo": "Embaixador cubano no Brasil alerta para risco real de invasão dos EUA",
     "lead": "Victor Manuel Cairo Palomo, embaixador de Cuba no Brasil, afirmou que a ilha enfrenta um risco concreto de invasão militar pelos Estados Unidos, após a retórica agressiva do governo de Donald Trump.",
