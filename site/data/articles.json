@@ -1,5 +1,36 @@
 [
   {
+    "id": "54dce313-404d-4820-9656-243c07186748",
+    "titulo": "Embaixador cubano no Brasil alerta para risco real de invasão dos EUA",
+    "lead": "Victor Manuel Cairo Palomo, embaixador de Cuba no Brasil, afirmou que a ilha enfrenta um risco concreto de invasão militar pelos Estados Unidos, após a retórica agressiva do governo de Donald Trump.",
+    "categoria": "Política",
+    "pais": "Cuba",
+    "publicado_em": "2026-10-31T06:46:02.810420+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/risco-de-invasao-de-cuba-pelos-eua-e-real-avalia-embaixador",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/35638920/pexels-photo-35638920.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Gardênia  Alves",
+      "photographer_url": "https://www.pexels.com/@gardenia-alves-2154573042",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/street-photography-scene-with-two-men-and-camera-35638920/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Embajador cubano en Brasil advierte sobre riesgo real de invasión de EE.UU.",
+        "lead": "Victor Manuel Cairo Palomo, embajador de Cuba en Brasil, afirmó que la isla enfrenta un riesgo concreto de invasión militar por parte de Estados Unidos, tras la retórica agresiva del gobierno de Donald Trump."
+      },
+      "en": {
+        "titulo": "Cuban ambassador in Brazil warns of real US invasion risk",
+        "lead": "Victor Manuel Cairo Palomo, Cuba's ambassador to Brazil, said the island faces a concrete risk of a US military invasion after the aggressive rhetoric of Donald Trump's administration."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "472fc5ab-6a5c-4659-9c32-dbf7c4953c63",
     "titulo": "América Latina e Caribe têm chance histórica de assumir protagonismo na ONU",
     "lead": "Especialistas apontam que a região latino‑caribenha está em posição privilegiada para exercer maior influência nas decisões da Organização das Nações Unidas.",
