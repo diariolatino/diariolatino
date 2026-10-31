@@ -1,5 +1,36 @@
 [
   {
+    "id": "472fc5ab-6a5c-4659-9c32-dbf7c4953c63",
+    "titulo": "América Latina e Caribe têm chance histórica de assumir protagonismo na ONU",
+    "lead": "Especialistas apontam que a região latino‑caribenha está em posição privilegiada para exercer maior influência nas decisões da Organização das Nações Unidas.",
+    "categoria": "Política",
+    "pais": "América Latina",
+    "publicado_em": "2026-10-31T00:32:24.433467+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://elpais.com/opinion/2026-10-27/america-latina-y-el-caribe-tienen-una-oportunidad-historica-para-liderar-la-onu.html",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/29695597/pexels-photo-29695597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Humam Musawwir",
+      "photographer_url": "https://www.pexels.com/@humammusawwir",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/cuban-flag-waving-against-blue-sky-29695597/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "América Latina y el Caribe tienen una oportunidad histórica para liderar la ONU",
+        "lead": "Expertos señalan que la región latino‑caribeña está en una posición privilegiada para ejercer mayor influencia en las decisiones de la Organización de las Naciones Unidas."
+      },
+      "en": {
+        "titulo": "Latin America and the Caribbean have a historic opportunity to lead the UN",
+        "lead": "Experts note that the Latin‑Caribbean region is in a privileged position to exert greater influence over United Nations decisions."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "fbf7f7c3-a05e-4e8e-92d3-6d1c5a49d682",
     "titulo": "Flamengo perde para o Atlético Mineiro mas mantém liderança no Brasileirão",
     "lead": "Em confronto direto, o Flamengo foi derrotado pelo Atlético Mineiro e, apesar do revés, continua na primeira colocação do Campeonato Brasileiro.",
