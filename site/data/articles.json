@@ -1,5 +1,36 @@
 [
   {
+    "id": "91576495-8bb7-4146-8e63-ee257066fee9",
+    "titulo": "Eleição de 2026 nos EUA pode determinar futuro de Trump e afetar relações com Brasil",
+    "lead": "Na terça‑feira, 3 de outubro, mais de 210 milhões de americanos votarão para escolher a Câmara dos Representantes, o Senado e governadores, decisão que pode mudar o cenário político de Donald Trump e ter repercussões no Brasil.",
+    "categoria": "Política",
+    "pais": "América Latina",
+    "publicado_em": "2026-11-01T20:25:23.786891+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/eleicao-nos-estados-unidos-define-futuro-de-trump-nesta-terca-feira",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/1464202/pexels-photo-1464202.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Rosemary Ketchum",
+      "photographer_url": "https://www.pexels.com/@ketchumcommunity",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/people-protesting-outside-building-1464202/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Elección de 2026 en EE.UU. podría determinar el futuro de Trump y afectar relaciones con Brasil",
+        "lead": "El martes 3 de octubre, más de 210 millones de estadounidenses votarán para elegir a los 435 diputados de la Cámara, 35 senadores y gobernadores, decisión que podría cambiar el escenario político de Donald Trump y tener repercusiones en Brasil."
+      },
+      "en": {
+        "titulo": "2026 US Election May Define Trump's Future and Affect Brazil Relations",
+        "lead": "On Tuesday, October 3, more than 210 million Americans will vote to elect the 435 House Representatives, 35 senators, and governors, a decision that could reshape Donald Trump's political landscape and have repercussions in Brazil."
+      }
+    },
+    "atualizacao_de": "3b14a6d1-ad0e-463b-b96a-b0b1bd72acab"
+  },
+  {
     "id": "c7fd48c3-2b5a-4fb5-a044-fd99c1787904",
     "titulo": "Viúva do médico morto no acidente da TAM lembra luto permanente e avanços da Abrapavaa",
     "lead": "Sandra Assali, presidente da Associação Brasileira de Parentes e Amigos de Vítimas de Acidentes Aéreos, declara que o luto pela perda do marido, falecido no desastre com o Fokker 100 da TAM em 1996, continua permanente e que a entidade tem assegurado assistência às famílias das vítimas.",
