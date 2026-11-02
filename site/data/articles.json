@@ -1,5 +1,36 @@
 [
   {
+    "id": "541b0259-da75-4cfe-8d04-4cdbd68a0e64",
+    "titulo": "Mega‑Sena acumula; prêmio estimado em R$46 milhões para sorteio de quarta",
+    "lead": "No concurso 3080, realizado neste domingo (1º), a Mega‑Sena não teve vencedor de seis dezenas, fazendo o prêmio acumular para R$46 milhões no próximo sorteio de quarta-feira (4).",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-02T00:25:32.507234+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/mega-sena-acumula-premio-para-sorteio-de-quarta-vai-r-46-milhoes",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/8879592/pexels-photo-8879592.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Polina ⠀",
+      "photographer_url": "https://www.pexels.com/@polina-kovaleva",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-viva-brazil-paper-cut-outs-with-papaya-fruit-drawing-and-paper-leaves-8879592/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Mega‑Sena acumula; premio estimado en R$46 millones para sorteo de miércoles",
+        "lead": "En el concurso 3080, realizado este domingo (1º), Mega‑Sena no tuvo ganador de seis números, lo que hizo que el premio se acumulara a R$46 millones para el próximo sorteo del miércoles (4)."
+      },
+      "en": {
+        "titulo": "Mega‑Sena jackpot rolls over; prize set at $46 million for Wednesday draw",
+        "lead": "In contest 3080, held this Sunday (1st), Mega‑Sena had no jackpot winner, pushing the prize to $46 million for the next Wednesday draw."
+      }
+    },
+    "atualizacao_de": "db2a6ab8-da59-489e-99f0-b68cd2519c9d"
+  },
+  {
     "id": "91576495-8bb7-4146-8e63-ee257066fee9",
     "titulo": "Eleição de 2026 nos EUA pode determinar futuro de Trump e afetar relações com Brasil",
     "lead": "Na terça‑feira, 3 de outubro, mais de 210 milhões de americanos votarão para escolher a Câmara dos Representantes, o Senado e governadores, decisão que pode mudar o cenário político de Donald Trump e ter repercussões no Brasil.",
