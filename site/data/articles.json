@@ -1,5 +1,36 @@
 [
   {
+    "id": "800c54c6-c1fd-4247-b8a1-65cd27e8c4ff",
+    "titulo": "Manifestantes ocupam praças em Portugal reivindicando direito à moradia",
+    "lead": "Manifestações que começaram no Porto há três semanas se espalharam para a Praça do Rossio, em Lisboa, com acampamentos de tendas que enfrentam intervenções policiais e decisão judicial que autoriza a permanência até 24 de novembro.",
+    "categoria": "Sociedade",
+    "pais": "América Latina",
+    "publicado_em": "2026-11-03T21:39:42.830090+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/manifestantes-ocupam-pracas-em-portugal-por-direito-moradia",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/31825641/pexels-photo-31825641.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Jose Cruz",
+      "photographer_url": "https://www.pexels.com/@cruz-in-portugal",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/lisbon-s-rossio-square-with-column-and-statues-31825641/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Manifestantes ocupan plazas en Portugal reclamando el derecho a la vivienda",
+        "lead": "Manifestaciones que comenzaron en Oporto hace tres semanas se extendieron a la Plaza del Rossio, en Lisboa, con campamentos de carpas que enfrentan intervenciones policiales y una decisión judicial que autoriza su permanencia hasta el 24 de noviembre."
+      },
+      "en": {
+        "titulo": "Protesters occupy squares in Portugal demanding the right to housing",
+        "lead": "Demonstrations that began in Porto three weeks ago have spread to Lisbon's Rossio Square, with tent camps facing police interventions and a court ruling that allows the occupation to remain until November 24."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "8773115b-a669-4153-81a5-b01ed787bf78",
     "titulo": "Acidente com asa-delta deixa duas vítimas fatais na praia de São Conrado",
     "lead": "Na segunda‑feira (2 de novembro), um acidente com asa‑delta na praia de São Conrado, no Rio de Janeiro, resultou na morte de dois passageiros, e a Polícia Civil já iniciou a investigação.",
