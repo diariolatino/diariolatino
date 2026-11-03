@@ -1,5 +1,36 @@
 [
   {
+    "id": "12127edd-783e-4f62-b34c-20f5047e3086",
+    "titulo": "ONU destaca necessidade de proteger jornalistas e garantir acesso à informação",
+    "lead": "Em 2 de novembro de 2026, o secretário‑geral das Nações Unidas, António Guterres, ressaltou a importância de salvaguardar a vida dos profissionais de imprensa e de assegurar o direito à informação, em comemoração ao Dia Internacional pelo Fim da Impunidade dos Crimes contra Jornalistas.",
+    "categoria": "Segurança",
+    "pais": "América Latina",
+    "publicado_em": "2026-11-03T00:51:21.462226+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/onu-ressalta-importancia-de-proteger-jornalistas-e-acesso-informacao",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/3880204/pexels-photo-3880204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Antonio Prado",
+      "photographer_url": "https://www.pexels.com/@antonio-prado-1050855",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/man-in-suit-giving-speech-3880204/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "ONU destaca la necesidad de proteger a los periodistas y garantizar el acceso a la información",
+        "lead": "El 2 de noviembre de 2026, el secretario general de las Naciones Unidas, António Guterres, resaltó la importancia de salvaguardar la vida de los profesionales de prensa y asegurar el derecho a la información, con motivo del Día Internacional por el Fin de la Impunidad de los Crímenes contra Periodistas."
+      },
+      "en": {
+        "titulo": "UN Emphasizes Need to Protect Journalists and Ensure Access to Information",
+        "lead": "On November 2, 2026, United Nations Secretary‑General António Guterres underscored the importance of safeguarding journalists’ lives and ensuring the right to information, in observance of the International Day for the Elimination of Impunity for Crimes against Journalists."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "541b0259-da75-4cfe-8d04-4cdbd68a0e64",
     "titulo": "Mega‑Sena acumula; prêmio estimado em R$46 milhões para sorteio de quarta",
     "lead": "No concurso 3080, realizado neste domingo (1º), a Mega‑Sena não teve vencedor de seis dezenas, fazendo o prêmio acumular para R$46 milhões no próximo sorteio de quarta-feira (4).",
