@@ -1,5 +1,36 @@
 [
   {
+    "id": "8773115b-a669-4153-81a5-b01ed787bf78",
+    "titulo": "Acidente com asa-delta deixa duas vítimas fatais na praia de São Conrado",
+    "lead": "Na segunda‑feira (2 de novembro), um acidente com asa‑delta na praia de São Conrado, no Rio de Janeiro, resultou na morte de dois passageiros, e a Polícia Civil já iniciou a investigação.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-03T07:42:15.236107+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/policia-investiga-acidente-com-asa-delta-que-deixou-dois-mortos-no-rio",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/9957257/pexels-photo-9957257.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Murilo Fonseca",
+      "photographer_url": "https://www.pexels.com/@murilo-fonseca-123879922",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/photo-of-a-wave-9957257/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Accidente con ala delta deja dos víctimas mortales en la playa de São Conrado",
+        "lead": "El lunes 2 de noviembre, un accidente con ala delta en la playa de São Conrado, Río de Janeiro, resultó en la muerte de dos pasajeros, y la Policía Civil ya inició la investigación."
+      },
+      "en": {
+        "titulo": "Delta‑wing crash kills two passengers on São Conrado beach",
+        "lead": "On Monday, November 2, a delta‑wing accident on São Conrado beach in Rio de Janeiro resulted in the deaths of two passengers, and the Civil Police has begun an investigation."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "12127edd-783e-4f62-b34c-20f5047e3086",
     "titulo": "ONU destaca necessidade de proteger jornalistas e garantir acesso à informação",
     "lead": "Em 2 de novembro de 2026, o secretário‑geral das Nações Unidas, António Guterres, ressaltou a importância de salvaguardar a vida dos profissionais de imprensa e de assegurar o direito à informação, em comemoração ao Dia Internacional pelo Fim da Impunidade dos Crimes contra Jornalistas.",
