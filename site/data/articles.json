@@ -1,5 +1,36 @@
 [
   {
+    "id": "cad525e4-dbf3-45ee-be84-ab1c864cc16c",
+    "titulo": "Mazda CX‑90 PHEV 2027: teste no México revela curta autonomia elétrica",
+    "lead": "O SUV híbrido plug‑in da Mazda, modelo CX‑90 2027, foi submetido a testes no México, onde se destacou pela limitada autonomia elétrica, apontando um ponto crítico para a marca no mercado latino‑americano.",
+    "categoria": "Economia",
+    "pais": "México",
+    "publicado_em": "2026-11-04T17:03:18.035779+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.eleconomista.com.mx/autos/mazda-cx-90-phev-2027-prueba-mexico-suv-hibrida-cuyo-mayor-pecado-autonomia-electrica-20261103-841991.html",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/16028417/pexels-photo-16028417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "saav",
+      "photographer_url": "https://www.pexels.com/@saav-495849469",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/red-mazda-3-16028417/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Mazda CX‑90 PHEV 2027: prueba en México revela autonomía eléctrica limitada",
+        "lead": "El SUV híbrido enchufable de Mazda, modelo CX‑90 2027, fue sometido a pruebas en México, donde destacó por su autonomía eléctrica reducida, señalando un punto crítico para la marca en el mercado latinoamericano."
+      },
+      "en": {
+        "titulo": "Mazda CX‑90 PHEV 2027: Mexican Test Exposes Limited Electric Range",
+        "lead": "Mazda’s plug‑in hybrid SUV, the CX‑90 2027 model, was tested in Mexico, where its short electric‑only range emerged as a key flaw, raising questions about its competitiveness in Latin America."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "f14f4af1-e97c-4b61-9a90-a27bdafd96d3",
     "titulo": "Polícia Federal inaugura laboratório de geoquímica forense para rastrear ouro ilegal na Amazônia",
     "lead": "Nesta terça‑feira (3 de novembro), a Polícia Federal deu início ao Laboratório de Geoquímica Forense para Rastreabilidade Mineral, instalado no Instituto Nacional de Criminalística em Brasília, como parte do Programa Ouro Alvo.",
