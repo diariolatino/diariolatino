@@ -1,5 +1,36 @@
 [
   {
+    "id": "6f6a3787-fcd5-4bbf-bf18-f760e78d8738",
+    "titulo": "Sete brasileiros ganham assentos nas assembleias estaduais dos EUA",
+    "lead": "Na terça-feira (3 de novembro), sete candidatos nascidos no Brasil foram eleitos para as assembleias estaduais de quatro estados americanos, todos do Partido Democrata.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-04T23:21:55.860399+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/sete-brasileiros-sao-eleitos-para-assembleias-estaduais-nos-eua",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/11838861/pexels-photo-11838861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Josh Hild",
+      "photographer_url": "https://www.pexels.com/@josh-hild-1270765",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/museum-building-with-dome-roof-11838861/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Siete brasileños ganan asientos en las asambleas estatales de EE.UU.",
+        "lead": "El martes 3 de noviembre, siete candidatos nacidos en Brasil fueron elegidos para las asambleas estatales de cuatro estados estadounidenses, todos del Partido Demócrata."
+      },
+      "en": {
+        "titulo": "Seven Brazilians win seats in U.S. state legislatures",
+        "lead": "On Tuesday, November 3, seven candidates born in Brazil were elected to state assemblies in four U.S. states, all of them Democrats."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "cad525e4-dbf3-45ee-be84-ab1c864cc16c",
     "titulo": "Mazda CX‑90 PHEV 2027: teste no México revela curta autonomia elétrica",
     "lead": "O SUV híbrido plug‑in da Mazda, modelo CX‑90 2027, foi submetido a testes no México, onde se destacou pela limitada autonomia elétrica, apontando um ponto crítico para a marca no mercado latino‑americano.",
