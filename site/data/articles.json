@@ -1,5 +1,36 @@
 [
   {
+    "id": "f14f4af1-e97c-4b61-9a90-a27bdafd96d3",
+    "titulo": "Polícia Federal inaugura laboratório de geoquímica forense para rastrear ouro ilegal na Amazônia",
+    "lead": "Nesta terça‑feira (3 de novembro), a Polícia Federal deu início ao Laboratório de Geoquímica Forense para Rastreabilidade Mineral, instalado no Instituto Nacional de Criminalística em Brasília, como parte do Programa Ouro Alvo.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-04T01:59:51.525489+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/pf-inaugura-laboratorio-para-combater-o-garimpo-ilegal-na-amazonia",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/7231769/pexels-photo-7231769.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "MART  PRODUCTION",
+      "photographer_url": "https://www.pexels.com/@mart-production",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-person-wearing-a-latex-gloves-opening-a-package-7231769/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Policía Federal inaugura laboratorio de geoquímica forense para rastrear oro ilegal en la Amazonía",
+        "lead": "Este martes (3 de noviembre), la Policía Federal dio inicio al Laboratorio de Geoquímica Forense para Rastreabilidad Mineral, instalado en el Instituto Nacional de Criminalística en Brasilia, como parte del Programa Oro Objetivo."
+      },
+      "en": {
+        "titulo": "Federal Police inaugurates forensic geochemistry lab to trace illegal gold in the Amazon",
+        "lead": "On Tuesday, November 3, the Federal Police launched the Forensic Geochemistry Laboratory for Mineral Traceability, housed at the National Institute of Forensic Sciences in Brasília, as part of the Gold Target Program."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "800c54c6-c1fd-4247-b8a1-65cd27e8c4ff",
     "titulo": "Manifestantes ocupam praças em Portugal reivindicando direito à moradia",
     "lead": "Manifestações que começaram no Porto há três semanas se espalharam para a Praça do Rossio, em Lisboa, com acampamentos de tendas que enfrentam intervenções policiais e decisão judicial que autoriza a permanência até 24 de novembro.",
