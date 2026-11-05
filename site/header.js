@@ -1,5 +1,5 @@
 /* ============================================================
-   Diário Latino — cabeçalho compartilhado (topbar + masthead)
+   Diario Latino — cabeçalho compartilhado (topbar + masthead)
    ------------------------------------------------------------
    Um único lugar pra manter a home e todas as outras páginas
    com o mesmo header, sempre — sem precisar copiar/colar HTML.
@@ -30,8 +30,8 @@ function montarCabecalho() {
       <div class="kicker" id="masthead-kicker"></div>
       <div class="masthead-titulo">
         <a href="index.html" class="masthead-link">
-          <img src="diariolatino-logo.png" alt="Diário Latino" class="masthead-logo masthead-logo--home">
-          <h1>Diário Latino</h1>
+          <img src="diariolatino-logo.png" alt="Diario Latino" class="masthead-logo masthead-logo--home">
+          <h1>Diario Latino</h1>
         </a>
       </div>
       <div class="tagline" id="masthead-tagline"></div>
