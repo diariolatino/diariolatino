@@ -1,5 +1,36 @@
 [
   {
+    "id": "ff8fc761-fcbf-46f5-8cd4-5874786d8d9f",
+    "titulo": "Derrota de Trump nos EUA pode limitar intervenções na América Latina e aliviar tensões comerciais com o Brasil",
+    "lead": "A perda da maioria republicana no Congresso americano abre espaço para restrições orçamentárias à política externa dos EUA, o que especialistas apontam como um freio às ações intervencionistas na região e uma oportunidade para o Brasil negociar a retirada de tarifas punitivas.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-05T14:14:48.980781+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/derrota-de-trump-pode-frear-politica-de-intervencoes-na-america-latina",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/14320543/pexels-photo-14320543.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Chris",
+      "photographer_url": "https://www.pexels.com/@chris-221718132",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/black-ad-photo-of-the-white-house-in-washington-dc-14320543/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Derrota de Trump en EE.UU. podría limitar intervenciones en América Latina y aliviar tensiones comerciales con Brasil",
+        "lead": "La pérdida de la mayoría republicana en el Congreso estadounidense abre espacio para restricciones presupuestarias a la política exterior de EE.UU., lo que los analistas señalan como un freno a las acciones intervencionistas en la región y una oportunidad para que Brasil negocie la retirada de aranceles punitivos."
+      },
+      "en": {
+        "titulo": "Trump's Defeat in the US Could Limit Interventions in Latin America and Ease Trade Tensions with Brazil",
+        "lead": "The loss of the Republican majority in the US Congress opens the door for budgetary restrictions on US foreign policy, which experts point to as a brake on interventionist actions in the region and an opportunity for Brazil to negotiate the removal of punitive tariffs."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "4f2aaad9-3908-4e88-843c-0db772b431af",
     "titulo": "Eleições de meio de mandato nos EUA marcam vitórias históricas de minorias sub-representadas",
     "lead": "Nas eleições de meio de mandato de 2026, candidatos de grupos historicamente marginalizados conquistaram cargos estaduais e federais nos Estados Unidos, estabelecendo novos recordes de representatividade.",
