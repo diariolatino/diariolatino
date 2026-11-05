@@ -1,5 +1,5 @@
 /* ============================================================
-   Diário Latino — i18n compartilhado (pt / es / en)
+   Diario Latino — i18n compartilhado (pt / es / en)
    ============================================================ */
 
 const IDIOMAS = ["pt", "es", "en"];
@@ -18,7 +18,7 @@ const I18N = {
     ultimas: "Últimas",
     maisNoticias: "Mais notícias",
     leiaTambem: "Continue lendo",
-    redacao: "Redação Diário Latino",
+    redacao: "Redação Diario Latino",
     estadoVazio: "Ainda não há notícias publicadas. O pipeline roda a cada hora — volte em breve.",
     semResultados: "Nenhuma matéria encontrada para esse filtro.",
     fontes: "Fontes",
@@ -63,7 +63,7 @@ const I18N = {
     ultimas: "Últimas",
     maisNoticias: "Más noticias",
     leiaTambem: "Sigue leyendo",
-    redacao: "Redacción Diário Latino",
+    redacao: "Redacción Diario Latino",
     estadoVazio: "Todavía no hay noticias publicadas. El proceso se ejecuta cada hora — vuelve pronto.",
     semResultados: "No se encontraron noticias para ese filtro.",
     fontes: "Fuentes",
@@ -108,7 +108,7 @@ const I18N = {
     ultimas: "Latest",
     maisNoticias: "More stories",
     leiaTambem: "Keep reading",
-    redacao: "Diário Latino Newsroom",
+    redacao: "Diario Latino Newsroom",
     estadoVazio: "No stories published yet. The pipeline runs every hour — check back soon.",
     semResultados: "No stories found for this filter.",
     fontes: "Sources",
