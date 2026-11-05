@@ -4,7 +4,7 @@ Portal de notícias da América Latina, com recorte geopolítico do Sul. Cobre p
 
 O site não tem redação no sentido clássico. A cada hora, um pipeline coleta pauta pública, pede a uma IA que escreva uma matéria original a partir só de título e resumo, checa se o texto não copia a fonte, ilustra com foto licenciada e publica. Sem banco de dados, sem servidor de aplicação: o resultado vira HTML estático.
 
-Site: diariolatino.com.br
+Site: https://diariolatino.com.br
 
 ## O que é (e o que não é)
 
