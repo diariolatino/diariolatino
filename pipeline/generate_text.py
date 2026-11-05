@@ -56,7 +56,7 @@ BLOQUEIO_REVALIDAR_SEGUNDOS = 30 * 24 * 60 * 60  # 30 dias
 # "esquentar".
 MAX_MODELOS_TENTADOS = 6
 
-PROMPT_SISTEMA = """Você é o redator do Diário Latino, portal de notícias que cobre \
+PROMPT_SISTEMA = """Você é o redator do Diario Latino, portal de notícias que cobre \
 toda a América Latina, com curadoria geopolítica focada em América Latina, Brics, \
 Mercosul, G20 e Sul Global.
 
@@ -109,7 +109,7 @@ matéria for sobre um bloco regional ou tema continental sem um país central, u
 "América Latina".
 8. Às vezes o material que você recebe inclui, além do TÍTULO/RESUMO da fonte, um \
 bloco "NOTÍCIA JÁ PUBLICADA ANTERIORMENTE SOBRE O MESMO ASSUNTO" com o título e o \
-lead de uma matéria que o Diário Latino já publicou. Quando isso acontecer:
+lead de uma matéria que o Diario Latino já publicou. Quando isso acontecer:
    - Se o material novo trouxer um fato genuinamente novo em relação ao que já foi \
 publicado (novo desdobramento, nova decisão, novo número, nova declaração, mudança \
 de status), escreva a matéria normalmente seguindo as regras acima, MAS o título \
