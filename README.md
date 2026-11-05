@@ -1,94 +1,43 @@
-# Diário Latino — pipeline automatizado
+# Diario Latino
 
-Portal de notícias com curadoria geopolítica brasileira, publicado sozinho
-via GitHub Actions, $0 de custo.
+Portal de notícias da América Latina, com recorte geopolítico do Sul. Cobre política, economia, diplomacia, segurança e sociedade da região — Brics, Mercosul, G20, Celac — em português, espanhol e inglês.
 
-## Como colocar pra rodar (passo a passo)
+O site não tem redação no sentido clássico. A cada hora, um pipeline coleta pauta pública, pede a uma IA que escreva uma matéria original a partir só de título e resumo, checa se o texto não copia a fonte, ilustra com foto licenciada e publica. Sem banco de dados, sem servidor de aplicação: o resultado vira HTML estático.
 
-### 1. Criar o repositório
-Suba esta pasta inteira num repositório novo no GitHub (pode ser privado).
+Site: diariolatino.com.br
 
-### 2. Ativar o GitHub Pages (pra servir o site)
-Settings → Pages → Source: "Deploy from a branch" → branch `main`, pasta `/site`.
-Depois de alguns minutos o site fica em `https://SEU-USUARIO.github.io/SEU-REPO/`
-(ou no domínio próprio, se você configurar `diariolatino.com.br` como custom domain
-nessa mesma tela).
+## O que é (e o que não é)
 
-### 3. Conseguir as duas chaves gratuitas
+Diario Latino é um jornal digital automatizado sobre a América Latina, escrito sob a perspectiva da própria região — não um agregador de manchetes, nem um clone de agência.
 
-**Gemini (Google AI Studio)**
-1. Acesse https://aistudio.google.com/apikey
-2. Crie uma chave gratuita (tier gratuito, sem cartão de crédito)
-3. Copie a chave
+O texto publicado é sempre uma matéria nova. O pipeline nunca recebe o texto integral de jornal fechado. As únicas fontes que viram insumo de conteúdo são:
 
-**Pexels**
-1. Acesse https://www.pexels.com/api/
-2. Crie uma conta e peça sua chave de API (aprovação é praticamente instantânea)
-3. Copie a chave
+- **GDELT** — metadados abertos (título, veículo, link). Sem corpo da matéria original.
+- **Agência Brasil** — título e resumo, licença CC BY 2.5, com crédito. Itens assinados por Reuters (e equivalentes bloqueados no feed) são descartados.
 
-### 4. Guardar as chaves como Secrets no GitHub
-No repositório: Settings → Secrets and variables → Actions → New repository secret
-- `GEMINI_API_KEY` → cole a chave do Gemini
-- `PEXELS_API_KEY` → cole a chave do Pexels
+Feeds da BBC, MercoPress, Al Jazeera, DW e outros entram só como **radar de manchete**: sinalizam que algo aconteceu. Esse texto nunca vai para o gerador.
 
-**Nunca** coloque essas chaves direto no código.
+Cada matéria sai com selo de que foi redigida com auxílio de IA, a partir de fontes verificadas, e com o link da fonte original no rodapé.
 
-### 5. Rodar pela primeira vez
-Vá na aba **Actions** do repositório → workflow "Publicar notícias Diário Latino"
-→ "Run workflow" (isso dispara manualmente, sem esperar a próxima hora cheia).
+## Como o site funciona
 
-Se tudo estiver certo, em 1–2 minutos o `site/data/articles.json` vai ser
-atualizado com os primeiros artigos e o site (via GitHub Pages) vai mostrar
-as notícias.
+A pasta `site/` é o jornal inteiro: HTML, CSS e JavaScript estáticos. A home lê `site/data/articles.json` (índice enxuto, sem o corpo das matérias). Abrir uma notícia busca `site/data/artigos/<id>.json`, com texto completo e traduções.
 
-Depois disso, o workflow roda sozinho a cada hora (`cron: "0 * * * *"` no
-arquivo `.github/workflows/publicar.yml`).
+Não há CMS, API nem banco. Publicar é commitar JSON no repositório. O frontend faz o resto: categorias, busca, filtro por país, paginação, seletor de idioma (pt / es / en) e tempo de leitura.
 
-## Como testar localmente (opcional, antes de subir pro GitHub)
+O site pode ser servido por qualquer host estático. No GitHub Pages a pasta publicada é `/site`. Na Vercel, o Root Directory do projeto precisa ser `site` — o `requirements.txt` na raiz é do pipeline, não de um app Python.
 
-```bash
-pip install -r requirements.txt
-export GEMINI_API_KEY="sua_chave"
-export PEXELS_API_KEY="sua_chave"
-python -m pipeline.main
-```
+## Como nasce uma notícia
 
-Depois abra `site/index.html` num servidor local simples (o `fetch` do
-articles.json não funciona abrindo o arquivo direto no navegador via
-`file://`):
+O workflow `.github/workflows/publicar.yml` roda a cada hora (UTC) e também pode ser disparado na aba Actions.
 
-```bash
-cd site && python3 -m http.server 8000
-# depois abra http://localhost:8000
-```
+1. **Coleta** candidatos no GDELT e nos RSS da Agência Brasil.
+2. **Filtra** por relevância geopolítica (América Latina, Brics, Mercosul, diplomacia, comércio, segurança etc.).
+3. **Descarta** o que já foi visto (`site/data/seen_ids.json`) e intercala tema e país para a cobertura não ficar presa num só lugar.
+4. **Gera** a matéria com a Groq: fatos extraídos do título/resumo, texto original em português, traduções para espanhol latino-americano e inglês, categoria, país e termos de busca da foto. No máximo 1 artigo por execução (e poucas tentativas de IA), para não estourar cota gratuita.
+5. **Deduplica**. Se for o mesmo fato de uma matéria recente, só publica se houver desdobramento novo — e o título deixa isso explícito. Sem fato novo, descarta.
+6. **Checa originalidade** contra o material de origem (`difflib`; embeddings são opcionais). Texto demais parecido vai para `site/data/review_queue.json` e não entra no ar.
+7. **Ilustra** com Pexels, Pixabay, Unsplash ou Openverse, evitando repetir foto recente, e guarda crédito do fotógrafo.
+8. **Grava** o arquivo da matéria, atualiza o índice e commita `site/data` de volta no repositório. A Vercel ou o GitHub Pages republicam sozinhos.
 
-## O que o pipeline faz a cada execução (resumo)
-
-1. Coleta metadados no **GDELT** (aberto) e título+resumo na **Agência
-   Brasil** (CC BY 2.5) — nunca copia texto de jornal fechado.
-2. Filtra por relevância geopolítica (Brics, Mercosul, América Latina etc).
-3. Ignora o que já foi publicado antes (`seen_ids.json`).
-4. Pede pro Gemini extrair fatos e escrever uma matéria original (até
-   `MAX_ARTIGOS_POR_EXECUCAO`, hoje 3, pra não estourar cota gratuita).
-5. Roda o checador de similaridade (`difflib`, sempre; embeddings, se
-   `USAR_EMBEDDING_CHECK=true`). Se ficar parecido demais com a fonte,
-   vai pra `review_queue.json` em vez de publicar.
-6. Busca imagem no Pexels, evitando repetir as últimas 20 usadas
-   (`used_images.json`), e guarda o crédito do fotógrafo.
-7. Grava tudo em `site/data/articles.json`, que o site lê direto — sem
-   banco de dados, sem servidor.
-
-## Coisas que ainda dependem de você (não são automáticas)
-
-- **`review_queue.json`**: precisa ser revisado manualmente de vez em
-  quando — artigos que caíram ali não foram publicados.
-- **Comunicados oficiais (Itamaraty, Mercosul, cúpulas do Brics)**: ainda
-  não têm um coletor automático neste pipeline (cada órgão tem seu próprio
-  formato de site, sem feed padronizado) — hoje é um coletor a menos, pode
-  ser adicionado depois seguindo o mesmo padrão de `sources_rss.py`.
-- **Licença de outras agências oficiais latino-americanas** (Andina,
-  Prensa Latina etc.): já verificamos que a maioria é fechada — por isso
-  não entraram como fonte de conteúdo, só a Agência Brasil.
-- **Ativar `USAR_EMBEDDING_CHECK`**: deixa a checagem de originalidade mais
-  forte, mas deixa a Action mais lenta (baixa um modelo na primeira vez).
-  Ative no `publicar.yml` quando quiser essa camada extra.
+Trav
