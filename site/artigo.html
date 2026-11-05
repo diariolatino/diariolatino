@@ -28,7 +28,9 @@
   .materia .lead-materia { font-size: 18px; color: #3d3d38; margin-bottom: 18px; }
   .materia figure { margin: 0 0 22px; }
   .materia img { width: 100%; height: 380px; object-fit: cover; filter: grayscale(15%) contrast(1.05); }
-  .materia .corpo { font-size: 17px; line-height: 1.75; white-space: pre-line; }
+  .materia .corpo { font-size: 17px; line-height: 1.75; } 
+  .materia .corpo p { margin: 0 0 1.15em; } 
+  .materia .corpo p:last-child { margin-bottom: 0; }
   .materia .voltar { display: inline-block; margin-bottom: 18px; font-size: 13px; color: var(--verde); }
   .materia .voltar:hover { color: var(--terracota); }
   .rodape-materia {
@@ -82,6 +84,90 @@ let ARTIGO_ATUAL = null;
 
 function linkMateria(artigo) {
   return `artigo.html?id=${encodeURIComponent(artigo.id)}`;
+}
+
+function escaparHtml(texto) {
+  return String(texto)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function quebrarEmFrases(texto) {
+  const partes = texto.match(/[^.!?]+[.!?]+(?:["”»')\]]+)?|\s*[^.!?]+$/g);
+  if (!partes) return [texto.trim()].filter(Boolean);
+  return partes.map(p => p.trim()).filter(Boolean);
+}
+
+function agruparFrasesEmParagrafos(frases) {
+  if (frases.length <= 1) return frases;
+  if (frases.length === 2) return frases;
+
+  const alvo = 40;
+  const paragrafos = [];
+  let atual = [];
+  let palavras = 0;
+
+  for (const frase of frases) {
+    const n = frase.split(/\s+/).filter(Boolean).length;
+    if (atual.length && palavras + n > alvo && palavras >= 18) {
+      paragrafos.push(atual.join(' '));
+      atual = [frase];
+      palavras = n;
+    } else {
+      atual.push(frase);
+      palavras += n;
+    }
+  }
+  if (atual.length) paragrafos.push(atual.join(' '));
+
+  if (paragrafos.length === 1 && frases.length >= 2) {
+    const meio = Math.ceil(frases.length / 2);
+    return [frases.slice(0, meio).join(' '), frases.slice(meio).join(' ')];
+  }
+  return paragrafos;
+}
+
+function dividirBlocoUnico(texto) {
+  const frases = quebrarEmFrases(texto);
+  let blocos = agruparFrasesEmParagrafos(frases);
+  if (blocos.length >= 2) return blocos;
+
+  const porPausa = texto.split(/(?<=[;:])\s+/).map(p => p.trim()).filter(Boolean);
+  if (porPausa.length >= 2) {
+    const meio = Math.ceil(porPausa.length / 2);
+    return [porPausa.slice(0, meio).join(' '), porPausa.slice(meio).join(' ')];
+  }
+
+  const porVirgula = texto.split(/(?<=,)\s+/).map(p => p.trim()).filter(Boolean);
+  if (porVirgula.length >= 2) {
+    const meio = Math.ceil(porVirgula.length / 2);
+    return [porVirgula.slice(0, meio).join(' '), porVirgula.slice(meio).join(' ')];
+  }
+
+  const palavras = texto.split(/\s+/).filter(Boolean);
+  if (palavras.length >= 2) {
+    const meio = Math.ceil(palavras.length / 2);
+    return [palavras.slice(0, meio).join(' '), palavras.slice(meio).join(' ')];
+  }
+
+  return blocos.length ? blocos : [texto];
+}
+
+function formatarCorpo(corpo) {
+  if (!corpo) return '';
+  const texto = String(corpo).replace(/\r\n/g, '\n').trim();
+  let blocos = texto.split(/\n\s*\n/).map(b => b.replace(/\n/g, ' ').trim()).filter(Boolean);
+  if (blocos.length < 2) {
+    const linhas = texto.split(/\n/).map(l => l.trim()).filter(Boolean);
+    if (linhas.length >= 2) {
+      blocos = linhas;
+    } else {
+      blocos = dividirBlocoUnico(blocos[0] || texto.replace(/\n/g, ' ').trim());
+    }
+  }
+  return blocos.map(p => `<p>${escaparHtml(p)}</p>`).join('');
 }
 
 function figuraImagem(imagem) {
@@ -183,7 +269,7 @@ function renderizarMateria() {
         <button type="button" id="botao-compartilhar">${t('compartilhar')}</button>
       </div>
     </div>
-    <div class="corpo">${corpo}</div>
+    <div class="corpo">${formatarCorpo(corpo)}</div>
   `;
 
   document.getElementById('botao-compartilhar').addEventListener('click', (e) => compartilhar(e.currentTarget));
