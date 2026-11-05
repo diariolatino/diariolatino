@@ -1,5 +1,36 @@
 [
   {
+    "id": "4f2aaad9-3908-4e88-843c-0db772b431af",
+    "titulo": "Eleições de meio de mandato nos EUA marcam vitórias históricas de minorias sub-representadas",
+    "lead": "Nas eleições de meio de mandato de 2026, candidatos de grupos historicamente marginalizados conquistaram cargos estaduais e federais nos Estados Unidos, estabelecendo novos recordes de representatividade.",
+    "categoria": "Política",
+    "pais": "América Latina",
+    "publicado_em": "2026-11-05T05:41:41.664100+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/eleicoes-nos-eua-tem-vitorias-historicas-de-minorias-sub-representadas",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/39941447/pexels-photo-39941447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Jaime Hernandez Erives",
+      "photographer_url": "https://www.pexels.com/@jaime-hernandez-erives-311817347",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/texas-state-capitol-dome-framed-by-trees-in-austin-39941447/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Elecciones de medio período en EE.UU. marcan victorias históricas de minorías subrepresentadas",
+        "lead": "En las elecciones de medio período de 2026, candidatos de grupos históricamente marginados lograron cargos estatales y federales en Estados Unidos, estableciendo nuevos récords de representatividad."
+      },
+      "en": {
+        "titulo": "U.S. midterm elections mark historic victories for underrepresented minorities",
+        "lead": "In the 2026 midterm elections, candidates from historically marginalized groups won state and federal offices in the United States, setting new records of representation."
+      }
+    },
+    "atualizacao_de": "472fc5ab-6a5c-4659-9c32-dbf7c4953c63"
+  },
+  {
     "id": "6f6a3787-fcd5-4bbf-bf18-f760e78d8738",
     "titulo": "Sete brasileiros ganham assentos nas assembleias estaduais dos EUA",
     "lead": "Na terça-feira (3 de novembro), sete candidatos nascidos no Brasil foram eleitos para as assembleias estaduais de quatro estados americanos, todos do Partido Democrata.",
