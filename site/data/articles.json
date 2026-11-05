@@ -1,5 +1,36 @@
 [
   {
+    "id": "779c5231-d27e-4290-ba48-350366a5b656",
+    "titulo": "Derrota republicana nos EUA expõe custo político da aliança com Israel",
+    "lead": "A perda das maiorias na Câmara e no Senado pelos republicanos em 2026 colocou em xeque a relação histórica entre Washington e Tel Aviv, após o presidente Donald Trump suspender ajuda militar bilionária ao país do Oriente Médio.",
+    "categoria": "Mundo",
+    "pais": "América Latina",
+    "publicado_em": "2026-11-05T21:22:47.257455+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/derrota-de-trump-coloca-em-xeque-relacao-historica-dos-eua-com-israel",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/4468974/pexels-photo-4468974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Mathias Reding",
+      "photographer_url": "https://www.pexels.com/@matreding",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/flag-of-different-countries-un-members-4468974/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Derrota republicana en EE.UU. expone el costo político de la alianza con Israel",
+        "lead": "La pérdida de las mayorías en la Cámara y el Senado por los republicanos en 2026 puso en jaque la relación histórica entre Washington y Tel Aviv, tras la suspensión de la ayuda militar millonaria al país del Medio Oriente por el presidente Donald Trump."
+      },
+      "en": {
+        "titulo": "Republican defeat in the US exposes the political cost of the alliance with Israel",
+        "lead": "The loss of majorities in the House and Senate by Republicans in 2026 put the historic relationship between Washington and Tel Aviv at stake, after President Donald Trump suspended billion-dollar military aid to the Middle Eastern country."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "ff8fc761-fcbf-46f5-8cd4-5874786d8d9f",
     "titulo": "Derrota de Trump nos EUA pode limitar intervenções na América Latina e aliviar tensões comerciais com o Brasil",
     "lead": "A perda da maioria republicana no Congresso americano abre espaço para restrições orçamentárias à política externa dos EUA, o que especialistas apontam como um freio às ações intervencionistas na região e uma oportunidade para o Brasil negociar a retirada de tarifas punitivas.",
