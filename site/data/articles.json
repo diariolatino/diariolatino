@@ -1,5 +1,36 @@
 [
   {
+    "id": "67daf39e-fa1a-4433-ad6a-d9d1c343c8a5",
+    "titulo": "Presidente do Paraguai renuncia em meio a crise bancária; vice assume",
+    "lead": "Santiago Peña anunciou sua renúncia nesta quinta‑feira (5) de novembro, alegando a necessidade de preservar a estabilidade institucional, enquanto o vice‑presidente Pedro Allana foi empossado como chefe de Estado.",
+    "categoria": "Política",
+    "pais": "Paraguai",
+    "publicado_em": "2026-11-06T10:31:46.590721+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/presidente-do-paraguai-renuncia-em-meio-crise-bancaria-vice-assume",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/10218461/pexels-photo-10218461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Juliano Astc",
+      "photographer_url": "https://www.pexels.com/@juliano-astc-1623739",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/laughing-and-celebrating-men-on-party-10218461/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Presidente de Paraguay renuncia en medio de crisis bancaria; vice asume",
+        "lead": "Santiago Peña anunció su renuncia este jueves 5 de noviembre, alegando la necesidad de preservar la estabilidad institucional, mientras el vicepresidente Pedro Allana fue investido como jefe de Estado."
+      },
+      "en": {
+        "titulo": "Paraguayan President Resigns Amid Banking Crisis; Vice President Takes Office",
+        "lead": "Santiago Peña announced his resignation on Thursday, November 5, citing the need to preserve institutional stability, while Vice President Pedro Allana was sworn in as head of state."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "0278eb3b-4b62-4a1e-a5c3-e28bb0395604",
     "titulo": "TV Brasil debate impacto das eleições nos EUA e geopolítica global em episódio final",
     "lead": "O programa 'Brasil no Mundo' exibe nesta quinta-feira (5) sua última edição da temporada, analisando os desdobramentos das eleições de meio de mandato nos Estados Unidos e seus reflexos para a América Latina e as relações internacionais.",
