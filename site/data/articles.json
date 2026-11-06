@@ -1,5 +1,36 @@
 [
   {
+    "id": "56ee9371-5390-4c68-a75f-97ee43e1dae4",
+    "titulo": "Flávio Bolsonaro vota remotamente na sessão do Senado dos EUA",
+    "lead": "O senador Flávio Bolsonaro (PL-RJ) registrou presença e votou a favor da PEC da Segurança Pública durante a sessão ordinária do Senado dos Estados Unidos, mesmo estando fora do Brasil.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-06T22:50:50.680882+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/nos-eua-flavio-bolsonaro-vota-remotamente-favor-da-pec-da-seguranca",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/7103192/pexels-photo-7103192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Edmond Dantès",
+      "photographer_url": "https://www.pexels.com/@edmond-dantes",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-person-casting-a-vote-7103192/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Flavio Bolsonaro vota remotamente en la sesión del Senado de EE.UU.",
+        "lead": "El senador Flavio Bolsonaro (PL-RJ) registró su presencia y votó a favor de la PEC de Seguridad Pública durante la sesión ordinaria del Senado de los Estados Unidos, a pesar de estar fuera de Brasil."
+      },
+      "en": {
+        "titulo": "Flavio Bolsonaro votes remotely in U.S. Senate session",
+        "lead": "Senator Flavio Bolsonaro (PL-RJ) logged his presence and voted in favor of the Public Security Constitutional Amendment during the U.S. Senate's ordinary session, despite being outside Brazil."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "04f9cdde-6824-4160-9d71-73ded7fbc470",
     "titulo": "Atualização: Eleitores dos EUA rejeitam projetos de big tech e ações de IA despencam",
     "lead": "Nos plebiscitos locais realizados em 41 municípios de dez estados na terça‑feira (3), 40 votaram contra a instalação de data centers de grandes empresas de tecnologia, impulsionando queda nas ações de IA.",
