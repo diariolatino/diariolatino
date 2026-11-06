@@ -1,5 +1,36 @@
 [
   {
+    "id": "04f9cdde-6824-4160-9d71-73ded7fbc470",
+    "titulo": "Atualização: Eleitores dos EUA rejeitam projetos de big tech e ações de IA despencam",
+    "lead": "Nos plebiscitos locais realizados em 41 municípios de dez estados na terça‑feira (3), 40 votaram contra a instalação de data centers de grandes empresas de tecnologia, impulsionando queda nas ações de IA.",
+    "categoria": "Política",
+    "pais": "América Latina",
+    "publicado_em": "2026-11-06T17:51:24.872863+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/eleitores-dos-eua-derrotam-big-techs-e-acoes-de-ia-despencam",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/5926283/pexels-photo-5926283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Sora Shimazaki",
+      "photographer_url": "https://www.pexels.com/@sora-shimazaki",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-white-ballot-box-5926283/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Actualización: Electores de EE.UU. rechazan proyectos de big tech y caen las acciones de IA",
+        "lead": "En los referéndums locales realizados en 41 municipios de diez estados el martes (3), 40 votaron contra la instalación de centros de datos de grandes empresas tecnológicas, impulsando la caída de las acciones de IA."
+      },
+      "en": {
+        "titulo": "Update: US Voters Reject Big Tech Projects and AI Stocks Plummet",
+        "lead": "In local referendums held in 41 municipalities across ten states on Tuesday (Nov 3), 40 voted against the installation of data centers by major tech firms, triggering a drop in AI‑related stocks."
+      }
+    },
+    "atualizacao_de": "91576495-8bb7-4146-8e63-ee257066fee9"
+  },
+  {
     "id": "67daf39e-fa1a-4433-ad6a-d9d1c343c8a5",
     "titulo": "Presidente do Paraguai renuncia em meio a crise bancária; vice assume",
     "lead": "Santiago Peña anunciou sua renúncia nesta quinta‑feira (5) de novembro, alegando a necessidade de preservar a estabilidade institucional, enquanto o vice‑presidente Pedro Allana foi empossado como chefe de Estado.",
