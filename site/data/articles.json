@@ -1,5 +1,36 @@
 [
   {
+    "id": "0278eb3b-4b62-4a1e-a5c3-e28bb0395604",
+    "titulo": "TV Brasil debate impacto das eleições nos EUA e geopolítica global em episódio final",
+    "lead": "O programa 'Brasil no Mundo' exibe nesta quinta-feira (5) sua última edição da temporada, analisando os desdobramentos das eleições de meio de mandato nos Estados Unidos e seus reflexos para a América Latina e as relações internacionais.",
+    "categoria": "Mundo",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-06T02:03:51.716706+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/brasil-no-mundo-analisa-eleicoes-nos-eua-e-geopolitica-internacional",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/6950156/pexels-photo-6950156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Werner Pfennig",
+      "photographer_url": "https://www.pexels.com/@werner-pfennig",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/woman-standing-at-a-rostrum-and-talking-during-a-political-conference-6950156/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "TV Brasil debate impacto das elecciones en EE.UU. y geopolítica global en episodio final",
+        "lead": "El programa 'Brasil no Mundo' emite este jueves (5) su última edición de la temporada, analizando los desdoblamientos de las elecciones de medio término en Estados Unidos y sus reflexos para América Latina y las relaciones internacionales."
+      },
+      "en": {
+        "titulo": "TV Brasil debates impact of US elections and global geopolitics in final episode",
+        "lead": "The program 'Brasil no Mundo' airs its final episode of the season on Thursday (5), analyzing the developments of the US midterm elections and their implications for Latin America and international relations."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "779c5231-d27e-4290-ba48-350366a5b656",
     "titulo": "Derrota republicana nos EUA expõe custo político da aliança com Israel",
     "lead": "A perda das maiorias na Câmara e no Senado pelos republicanos em 2026 colocou em xeque a relação histórica entre Washington e Tel Aviv, após o presidente Donald Trump suspender ajuda militar bilionária ao país do Oriente Médio.",
