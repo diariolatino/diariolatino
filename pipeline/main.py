@@ -6,16 +6,13 @@ from .diversidade import intercalar_por_categoria_e_pais
 from .generate_text import gerar_materia, CotaIAExcedida
 from .similarity_check import checar_originalidade
 from .deduplicacao import encontrar_materia_relacionada
-from .image_search import buscar_imagem
+from .image_wikimedia import buscar_imagem_relevante
 from .publish import ja_publicado, marcar_como_visto, publicar, enviar_para_revisao, carregar_artigos_publicados
 
 
 def rodar():
     if not config.GROQ_API_KEY:
         raise SystemExit("GROQ_API_KEY não configurada (confira os GitHub Secrets).")
-    if not (config.PEXELS_API_KEY or config.PIXABAY_API_KEY or config.UNSPLASH_ACCESS_KEY):
-        print("[aviso] nenhuma chave de banco de imagem paga configurada (Pexels/Pixabay/Unsplash) — "
-              "seguindo só com Openverse, que não exige chave.")
 
     print("Coletando candidatos...")
     candidatos = coletar_gdelt() + coletar_agencia_brasil()
@@ -89,7 +86,7 @@ def rodar():
             enviar_para_revisao(materia, candidato, resultado_check["detalhes"])
             continue
 
-        imagem = buscar_imagem(materia.get("palavras_chave_imagem", []), pais=materia.get("pais"))
+        imagem = buscar_imagem_relevante(materia, artigos_publicados)
         artigo = publicar(materia, candidato, imagem, materia_relacionada)
         artigos_publicados.insert(0, artigo)
         categorias_usadas_nesta_execucao.add(categoria)
