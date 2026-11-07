@@ -3,7 +3,7 @@ name: Publicar notícias Diário Latino
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "*/30 * * * *"     # tenta a cada 30 min; só roda de verdade se houver tokens (ver "Verificar orçamento")
+    - cron: "15 * * * *"     # tenta a cada 30 min; só roda de verdade se houver tokens (ver "Verificar orçamento")
 
 concurrency:
   group: publicar-noticias
