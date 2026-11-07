@@ -122,3 +122,10 @@ RADAR_FEEDS = [
     # organismos multilaterais
     "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
 ]
+
+# ---- imagens (Wikimedia Commons, só CC0/domínio público) ----
+PERMITIR_IMAGEM_GENERICA_FALLBACK = False   # True volta ao Pexels/etc. quando não achar foto específica
+IMAGEM_RELEVANCIA_MINIMA = 0.6              # % das palavras do nome que precisam aparecer na foto
+IMAGEM_JANELA_NAO_REPETIR = 40              # não repete foto dos últimos N posts
+IMAGEM_LARGURA_MINIMA = 900
+SITE_URL = "https://diariolatino.github.io/diariolatino/"
