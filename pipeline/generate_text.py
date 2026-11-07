@@ -39,6 +39,7 @@ import re
 import time
 import requests
 from . import config
+from . import config, orcamento_ia
 
 LIST_MODELS_ENDPOINT = "https://api.groq.com/openai/v1/models"
 CHAT_COMPLETIONS_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
@@ -276,7 +277,10 @@ def _pontuar_modelo(nome_completo: str) -> float:
     return pontos
 
 
-def _listar_modelos_candidatos() -> list:
+PONTUACAO_MINIMA_GERACAO = 30
+
+
+def _listar_modelos_candidatos(para: str = "geracao") -> list:
     try:
         resp = requests.get(
             LIST_MODELS_ENDPOINT,
@@ -292,7 +296,7 @@ def _listar_modelos_candidatos() -> list:
     agora = time.time()
     bloqueados = _carregar_bloqueados()
 
-    candidatos = []
+    todos = []
     for m in modelos:
         nome = m.get("id", "")
         if not nome:
@@ -306,10 +310,17 @@ def _listar_modelos_candidatos() -> list:
 
         pontuacao = _pontuar_modelo(nome)
         if pontuacao > -1000:
-            candidatos.append((pontuacao, nome))
+            todos.append((pontuacao, nome))
 
-    candidatos.sort(key=lambda x: x[0], reverse=True)
-    return [nome for _, nome in candidatos]
+    todos.sort(key=lambda x: x[0], reverse=True)
+    grandes = [n for p, n in todos if p >= PONTUACAO_MINIMA_GERACAO]
+    pequenos = [n for p, n in todos if p < PONTUACAO_MINIMA_GERACAO]
+
+    if para == "triagem":
+        return pequenos
+    nomes = grandes or [n for _, n in todos]
+    orcamento_ia.definir_candidatos(nomes)  # o controle de orçamento precisa saber quais modelos escrevem matéria
+    return nomes
 
 
 def _chamar_chat_completion(nome_modelo: str, corpo_requisicao: dict) -> dict:
@@ -322,8 +333,12 @@ def _chamar_chat_completion(nome_modelo: str, corpo_requisicao: dict) -> dict:
         json={**corpo_requisicao, "model": nome_modelo},
         timeout=45,
     )
+    if resp.status_code == 429:
+        orcamento_ia.registrar_429(nome_modelo, resp)  # aprende se é limite diário e até quando
     resp.raise_for_status()
-    return resp.json()
+    dados = resp.json()
+    orcamento_ia.registrar_uso(nome_modelo, dados.get("usage"))
+    return dados
 
 
 def _obter_resposta_ia(corpo_requisicao: dict) -> dict:
@@ -331,22 +346,22 @@ def _obter_resposta_ia(corpo_requisicao: dict) -> dict:
     modelo_cache = None
     if cache and (time.time() - cache.get("descoberto_em", 0)) < CACHE_VALIDADE_SEGUNDOS:
         modelo_cache = cache["modelo"]
-        try:
-            return _chamar_chat_completion(modelo_cache, corpo_requisicao)
-        except Exception as e:
-            if _eh_erro_definitivo(e):
-                status = getattr(getattr(e, "response", None), "status_code", None)
-                _salvar_bloqueado(modelo_cache, f"{status} no modelo em cache")
-                motivo = "sem permissão pra essa chave" if status in (401, 403) else "modelo não existe mais"
-            else:
-                motivo = "cota/limite de taxa atingido" if _eh_erro_de_cota(e) else str(e)
-            print(f"[groq] modelo em cache '{modelo_cache}' falhou ({motivo}); tentando outros modelos...")
-            # IMPORTANTE: não desiste aqui mesmo se for erro de cota — a
-            # cota da Groq é POR MODELO, não geral da conta. Um 429 no
-            # modelo em cache não significa que os outros também estejam
-            # esgotados.
+        if orcamento_ia.modelo_esgotado(modelo_cache):
+            print(f"[groq] modelo em cache '{modelo_cache}' está sem cota agora; indo direto pros outros...")
+        else:
+            try:
+                return _chamar_chat_completion(modelo_cache, corpo_requisicao)
+            except Exception as e:
+                if _eh_erro_definitivo(e):
+                    status = getattr(getattr(e, "response", None), "status_code", None)
+                    _salvar_bloqueado(modelo_cache, f"{status} no modelo em cache")
+                    motivo = "sem permissão pra essa chave" if status in (401, 403) else "modelo não existe mais"
+                else:
+                    motivo = "cota/limite de taxa atingido" if _eh_erro_de_cota(e) else str(e)
+                print(f"[groq] modelo em cache '{modelo_cache}' falhou ({motivo}); tentando outros modelos...")
+                # a cota da Groq é POR MODELO: um 429 aqui não esgota os outros.
 
-    candidatos = _listar_modelos_candidatos()
+    candidatos = _listar_modelos_candidatos("geracao")
     if modelo_cache:
         candidatos = [c for c in candidatos if c != modelo_cache]
     if not candidatos:
@@ -354,7 +369,14 @@ def _obter_resposta_ia(corpo_requisicao: dict) -> dict:
 
     ultimo_erro = None
     algum_erro_de_cota = False
-    for nome_modelo in candidatos[:MAX_MODELOS_TENTADOS]:
+    tentados = 0
+    for nome_modelo in candidatos:
+        if tentados >= MAX_MODELOS_TENTADOS:
+            break
+        if orcamento_ia.modelo_esgotado(nome_modelo):
+            algum_erro_de_cota = True
+            continue  # sem cota agora: nem gasta tentativa
+        tentados += 1
         try:
             dados = _chamar_chat_completion(nome_modelo, corpo_requisicao)
             _salvar_cache(nome_modelo)
@@ -376,8 +398,6 @@ def _obter_resposta_ia(corpo_requisicao: dict) -> dict:
             f"cota/limite de taxa da Groq atingido em todos os modelos testados. Último erro: {ultimo_erro}"
         )
     raise RuntimeError(f"todos os modelos candidatos falharam. Último erro: {ultimo_erro}")
-
-
 def _extrair_json(texto: str) -> dict:
     texto = texto.strip()
     texto = re.sub(r"^```json|^```|```$", "", texto, flags=re.MULTILINE).strip()
