@@ -1,5 +1,58 @@
 [
   {
+    "id": "2777bfe9-fb4d-4ace-bf43-4e6ed673b502",
+    "titulo": "Democratas conquistam vitória nas eleições de meio de mandato de 2026 com lideranças progressistas e de minorias",
+    "lead": "Nas eleições de meio de mandato de novembro de 2026, o Partido Democrata recuperou o controle do Congresso ao eleger candidatos jovens, de minorias étnicas e religiosas, marcando uma guinada contra a agenda de Donald Trump.",
+    "categoria": "Política",
+    "pais": "América Latina",
+    "publicado_em": "2026-11-07T09:44:22.402648+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/progressistas-e-minorias-renovam-democratas-em-vitoria-sobre-trump",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/P20210319AS-1671_%2851131083315%29.jpg/1280px-P20210319AS-1671_%2851131083315%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "autor": "The White House",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:P20210319AS-1671_(51131083315).jpg",
+      "entidade": "Keisha Lance Bottoms",
+      "photographer": "The White House",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:P20210319AS-1671_(51131083315).jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:P20210319AS-1671_(51131083315).jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:P20210319AS-1671_(51131083315).jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Keisha Lance Bottoms",
+        "Deb Haaland",
+        "James Talarico",
+        "Abdul El‑Sayed"
+      ],
+      "palavras_chave": [
+        "United States 2026 midterm election Keisha Lance Bottoms",
+        "United States 2026 midterm election",
+        "midterm election"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Demócratas logran victoria en las elecciones de medio mandato de 2026 con liderazgos progresistas y de minorías",
+        "lead": "En las elecciones de medio mandato de noviembre de 2026, el Partido Demócrata recuperó el control del Congreso al elegir candidatos jóvenes, de minorías étnicas y religiosas, marcando un giro contra la agenda de Donald Trump.",
+        "en": {
+          "titulo": "Democrats secure win in 2026 midterm elections with progressive and minority leadership",
+          "lead": "In the November 2026 midterm elections, the Democratic Party reclaimed congressional control by electing young, ethnically and religiously diverse candidates, marking a shift against Donald Trump’s agenda.",
+          "corpo": "The Democratic victory in the 2026 midterm elections was driven by a new generation of candidates that blends a progressive agenda with representation of historically under‑represented groups. The outcome reverses the party’s tarnished image after its 2024 loss to Donald Trump, when it was linked to economic elites and criticized for abandoning workers’ issues.\n\nAmong the highlighted figures, Keisha Lance Bottoms became the first Black woman elected governor of Georgia, pledging to expand state Medicare for those lacking health access. In New Mexico, Deb Haaland broke barriers as the first Indigenous governor of the United States. Chris Papas, elected senator from New Hampshire, became the first openly gay senator. In Texas, 37‑year‑old James Talarico won a Senate seat, delivering a progressive evangelical message that ties social justice to faith, while the state also elected its first Latina governor, Gina Hinojosa. In Michigan, Abdul El‑Sayed became the first Muslim senator, criticizing the pro‑Israel lobby and U.S. military spending.\n\nAnalysts note that the Democratic Party’s internal diversity allowed it to attract voters tired of Trump’s tax cuts for the ultra‑wealthy and anti‑immigration rhetoric. International relations professor Camila Vidal of UFSC emphasized that local party leaders’ flexibility enabled the nomination of candidates outside the traditional elite. The newly Democratic‑majority Congress will now confront President Trump and the Republican Party, which still holds the White House, in a polarized environment over universal health care, social assistance and the regulation of U.S. external military interventions, especially in Latin America."
+        }
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "6c812c07-2f5c-4135-b611-ff3aeeb52abb",
     "titulo": "Lula visita Filipinas para reforçar laços com a ASEAN",
     "lead": "O presidente Luiz Inácio Lula da Silva chegará a Manila em 14 de novembro para participar da cúpula da Associação das Nações do Sudeste Asiático (ASEAN) e estreitar a parceria entre Brasil e o bloco asiático.",
