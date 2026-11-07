@@ -1,16 +1,16 @@
 name: Publicar notícias Diário Latino
 
 on:
-  workflow_dispatch: {}        # permite rodar manualmente pelo botão "Run workflow"
+  workflow_dispatch: {}
   schedule:
-    - cron: "0 * * * *"        # roda automaticamente a cada hora cheia (UTC)
+    - cron: "*/30 * * * *"     # tenta a cada 30 min; só roda de verdade se houver tokens (ver "Verificar orçamento")
 
 concurrency:
   group: publicar-noticias
-  cancel-in-progress: false    # enfileira execuções sobrepostas em vez de rodar em paralelo
+  cancel-in-progress: false
 
 permissions:
-  contents: write              # necessário pra o job poder commitar o articles.json de volta
+  contents: write
 
 jobs:
   publicar:
@@ -19,22 +19,47 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v4
 
+      # estado do orçamento de tokens e cache da triagem: fica no cache do Actions
+      # (não vai pro git, então não dispara commit nem rebuild do Pages a cada execução)
+      - name: Restaurar estado
+        uses: actions/cache/restore@v4
+        with:
+          path: .estado
+          key: estado-${{ github.run_id }}
+          restore-keys: estado-
+
+      - name: Verificar orçamento de tokens
+        id: gate
+        run: python3 -m pipeline.orcamento_ia --verificar
+
       - name: Configurar Python
+        if: steps.gate.outputs.executar == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: pip
 
       - name: Instalar dependências
+        if: steps.gate.outputs.executar == 'true'
         run: pip install -r requirements.txt
 
       - name: Rodar pipeline
+        if: steps.gate.outputs.executar == 'true'
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           USAR_EMBEDDING_CHECK: "false"
         run: python -m pipeline.main
 
+      - name: Salvar estado
+        if: always() && steps.gate.outputs.executar == 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: .estado
+          key: estado-${{ github.run_id }}
+
       - name: Commitar novas notícias no repositório
+        if: steps.gate.outputs.executar == 'true'
         run: |
           git config user.name "diariolatino-bot"
           git config user.email "bot@diariolatino.local"
@@ -48,8 +73,7 @@ jobs:
             if git pull --rebase origin main && git push; then
               exit 0
             fi
-            echo "Push rejeitado (tentativa $tentativa/5) — outra execução deve ter" \
-                 "commitado ao mesmo tempo. Tentando de novo em 5s..."
+            echo "Push rejeitado (tentativa $tentativa/5) — tentando de novo em 5s..."
             sleep 5
           done
           echo "Não foi possível dar push depois de 5 tentativas." >&2
