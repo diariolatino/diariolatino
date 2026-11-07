@@ -1,5 +1,56 @@
 [
   {
+    "id": "6c812c07-2f5c-4135-b611-ff3aeeb52abb",
+    "titulo": "Lula visita Filipinas para reforçar laços com a ASEAN",
+    "lead": "O presidente Luiz Inácio Lula da Silva chegará a Manila em 14 de novembro para participar da cúpula da Associação das Nações do Sudeste Asiático (ASEAN) e estreitar a parceria entre Brasil e o bloco asiático.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-07T02:42:24.160296+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/lula-vai-filipinas-buscando-estreitar-vinculo-com-bloco-asiatico",
+    "imagem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Lu%C3%ADza_Erundina-M%C3%A1rio_Covas-Celso_Daniel-Lula_e_Jos%C3%A9_Dirceu_%281994%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "autor": "Sérgio Andrade",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Lu%C3%ADza_Erundina-M%C3%A1rio_Covas-Celso_Daniel-Lula_e_Jos%C3%A9_Dirceu_(1994).jpg",
+      "entidade": "Luiz Inácio Lula da Silva",
+      "photographer": "Sérgio Andrade",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Lu%C3%ADza_Erundina-M%C3%A1rio_Covas-Celso_Daniel-Lula_e_Jos%C3%A9_Dirceu_(1994).jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Lu%C3%ADza_Erundina-M%C3%A1rio_Covas-Celso_Daniel-Lula_e_Jos%C3%A9_Dirceu_(1994).jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Lu%C3%ADza_Erundina-M%C3%A1rio_Covas-Celso_Daniel-Lula_e_Jos%C3%A9_Dirceu_(1994).jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Luiz Inácio Lula da Silva",
+        "Manila",
+        "ASEAN Summit"
+      ],
+      "palavras_chave": [
+        "Lula Philippines ASEAN summit",
+        "Manila skyline diplomatic visit",
+        "Brazilian president meeting ASEAN leaders"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Lula visita Filipinas para reforzar lazos con la ASEAN",
+        "lead": "El presidente Luiz Inácio Lula da Silva llegará a Manila el 14 de noviembre para participar de la cumbre de la Asociación de Naciones del Sudeste Asiático (ASEAN) y estrechar la asociación entre Brasil y el bloque asiático."
+      },
+      "en": {
+        "titulo": "Lula visits Philippines to strengthen ties with ASEAN",
+        "lead": "President Luiz Inácio Lula da Silva will arrive in Manila on November 14 to attend the Association of Southeast Asian Nations (ASEAN) summit and deepen the partnership between Brazil and the Asian bloc."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "53b9ab03-ba27-48ed-977b-8337368680f8",
     "titulo": "Atualização: Entenda as eleições de meio de mandato nos EUA e os estados sem votação ao Senado em 2026",
     "lead": "As eleições de meio de mandato de 2026 nos Estados Unidos renovam toda a Câmara dos Representantes e um terço do Senado, com 15 estados sem disputa senatorial, e podem mudar o equilíbrio de poder em relação ao presidente Donald Trump.",
