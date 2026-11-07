@@ -134,7 +134,8 @@ def executar():
                ((a.get("imagem_anterior") or {}).get("entidade") and
                 [a["imagem_anterior"]["entidade"]]) or entidades_do_titulo(a.get("titulo"))
         buscas += 1
-        nova = buscar_imagem_wikimedia(ents, urls_recentes(indice))
+        contexto = f"{a.get('titulo', '')} {a.get('lead', '')}"
+        nova = buscar_imagem_wikimedia(ents, urls_recentes(indice), contexto)
         a["imagem_tentativas"] = (a.get("imagem_tentativas") or 0) + 1
         a["imagem_ultima_tentativa_em"] = _iso(agora())
         if nova:
