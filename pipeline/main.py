@@ -4,6 +4,8 @@ from .sources_rss import coletar_agencia_brasil, coletar_radar
 from .filter_relevance import filtrar
 from .diversidade import intercalar_por_categoria_e_pais
 from .generate_text import gerar_materia, CotaIAExcedida
+from . import orcamento_ia
+from .triagem import avaliar_e_filtrar
 from .similarity_check import checar_originalidade
 from .deduplicacao import encontrar_materia_relacionada
 from .image_wikimedia import buscar_imagem_relevante
@@ -14,6 +16,12 @@ def rodar():
     if not config.GROQ_API_KEY:
         raise SystemExit("GROQ_API_KEY não configurada (confira os GitHub Secrets).")
 
+    pode, motivo = orcamento_ia.pode_gerar()
+    if not pode:
+        print(f"[orçamento] sem fôlego de tokens agora ({motivo}) — esperando a próxima execução.")
+        return
+    print(f"[orçamento] ok: {motivo}")
+
     print("Coletando candidatos...")
     candidatos = coletar_gdelt() + coletar_agencia_brasil()
     _radar = coletar_radar()  # só logado/monitorado, nunca vira insumo de texto
@@ -23,6 +31,21 @@ def rodar():
     candidatos = [c for c in candidatos if not ja_publicado(c["id"])]
     candidatos = intercalar_por_categoria_e_pais(candidatos)  # varia tema E país desde a ordem de tentativa
     print(f"  {len(candidatos)} candidatos relevantes, inéditos e intercalados por tema")
+
+    # triagem editorial barata: só vira matéria o que o editor-IA considera que vale a pena
+    try:
+        avaliados = avaliar_e_filtrar(candidatos)
+    except CotaIAExcedida as e:
+        print(f"  [cota] triagem sem cota agora ({e}) — esperando a próxima execução.")
+        return
+    if avaliados is None:
+        print("  [triagem] não foi possível avaliar agora — esperando a próxima execução.")
+        return
+    candidatos = [c for c, _ in avaliados]
+    if not candidatos:
+        print("  [triagem] nenhuma notícia boa o bastante por enquanto — esperando a próxima.")
+        return
+    print(f"  {len(candidatos)} notícia(s) aprovada(s) na triagem (melhor nota primeiro)")
 
     artigos_publicados = carregar_artigos_publicados()
 
@@ -89,6 +112,7 @@ def rodar():
         imagem = buscar_imagem_relevante(materia, artigos_publicados)
         artigo = publicar(materia, candidato, imagem, materia_relacionada)
         artigos_publicados.insert(0, artigo)
+        orcamento_ia.registrar_post()
         categorias_usadas_nesta_execucao.add(categoria)
         publicados += 1
         print(f"  [publicado] {artigo['titulo']} — {categoria} — {pais}")
