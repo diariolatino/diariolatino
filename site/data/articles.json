@@ -1,5 +1,36 @@
 [
   {
+    "id": "53b9ab03-ba27-48ed-977b-8337368680f8",
+    "titulo": "Atualização: Entenda as eleições de meio de mandato nos EUA e os estados sem votação ao Senado em 2026",
+    "lead": "As eleições de meio de mandato de 2026 nos Estados Unidos renovam toda a Câmara dos Representantes e um terço do Senado, com 15 estados sem disputa senatorial, e podem mudar o equilíbrio de poder em relação ao presidente Donald Trump.",
+    "categoria": "Política",
+    "pais": "América Latina",
+    "publicado_em": "2026-11-07T02:37:00.847986+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/entenda-eleicoes-de-meio-de-mandato-do-presidente-nos-eua",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/4669102/pexels-photo-4669102.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "cottonbro studio",
+      "photographer_url": "https://www.pexels.com/@cottonbro",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/woman-with-an-american-flag-4669102/"
+    },
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Actualización: Entienda las elecciones de mitad de mandato en EE. UU. y los estados sin votación al Senado en 2026",
+        "lead": "Las elecciones de mitad de mandato de 2026 en Estados Unidos renuevan toda la Cámara de Representantes y un tercio del Senado, con 15 estados sin disputa senatorial, y pueden cambiar el equilibrio de poder respecto al presidente Donald Trump."
+      },
+      "en": {
+        "titulo": "Update: Understand the US Midterm Elections and the Senate‑Non‑Voting States in 2026",
+        "lead": "The 2026 US midterm elections renew the entire House of Representatives and a third of the Senate, with 15 states lacking a senatorial contest, and could shift the power balance relative to President Donald Trump."
+      }
+    },
+    "atualizacao_de": "4f2aaad9-3908-4e88-843c-0db772b431af"
+  },
+  {
     "id": "56ee9371-5390-4c68-a75f-97ee43e1dae4",
     "titulo": "Flávio Bolsonaro vota remotamente na sessão do Senado dos EUA",
     "lead": "O senador Flávio Bolsonaro (PL-RJ) registrou presença e votou a favor da PEC da Segurança Pública durante a sessão ordinária do Senado dos Estados Unidos, mesmo estando fora do Brasil.",
