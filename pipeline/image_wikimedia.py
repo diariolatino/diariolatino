@@ -104,6 +104,74 @@ def _relevancia(entidade, titulo, info):
     return sum(1 for t in alvo if t in tx) / len(alvo)
 
 
+# ---- verificação de pessoas e de época ----
+# Pessoas que NÃO podem aparecer na foto se a matéria não falar delas (evita
+# foto do Biden em matéria sobre o Trump). Lista editável: acrescente nomes em
+# config.IMAGEM_PESSOAS_EXTRAS = [("Nome", ["padrão normalizado", ...]), ...]
+PESSOAS_CONHECIDAS = [
+    ("Joe Biden", ["biden"]), ("Donald Trump", ["trump"]), ("Barack Obama", ["obama"]),
+    ("Kamala Harris", ["kamala harris"]), ("JD Vance", ["vance"]), ("Marco Rubio", ["rubio"]),
+    ("George W. Bush", ["george w bush", "george bush"]), ("Hillary Clinton", ["hillary clinton"]),
+    ("Lula", ["lula"]), ("Bolsonaro", ["bolsonaro"]), ("Dilma Rousseff", ["dilma"]),
+    ("Michel Temer", ["temer"]), ("Javier Milei", ["milei"]), ("Cristina Kirchner", ["kirchner"]),
+    ("Maduro", ["maduro"]), ("Chávez", ["chavez"]), ("Gustavo Petro", ["gustavo petro"]),
+    ("Boric", ["boric"]), ("Piñera", ["pinera"]), ("López Obrador", ["lopez obrador", "amlo"]),
+    ("Sheinbaum", ["sheinbaum"]), ("Bukele", ["bukele"]), ("Daniel Ortega", ["daniel ortega"]),
+    ("Díaz-Canel", ["diaz canel"]), ("Fidel/Raúl Castro", ["fidel castro", "raul castro"]),
+    ("Noboa", ["noboa"]), ("Guillermo Lasso", ["guillermo lasso"]), ("Evo Morales", ["evo morales"]),
+    ("Luis Arce", ["luis arce"]), ("Boluarte", ["boluarte"]), ("Pedro Castillo", ["pedro castillo"]),
+    ("Fujimori", ["fujimori"]), ("Santiago Peña", ["santiago pena"]), ("Orsi", ["orsi"]),
+    ("Lacalle Pou", ["lacalle"]), ("Putin", ["putin"]), ("Xi Jinping", ["xi jinping"]),
+    ("Zelensky", ["zelensky", "zelenskyy"]), ("Macron", ["macron"]), ("Merkel", ["merkel"]),
+    ("Netanyahu", ["netanyahu"]), ("Modi", ["narendra modi"]), ("Erdogan", ["erdogan"]),
+    ("Guterres", ["guterres"]), ("Papa Francisco", ["papa francisco", "pope francis"]),
+    ("Papa Leão XIV", ["leao xiv", "pope leo"]), ("Elon Musk", ["elon musk"]),
+]
+PESSOAS = PESSOAS_CONHECIDAS + list(_cfg("IMAGEM_PESSOAS_EXTRAS", []))
+
+PANDEMIA_PALAVRAS = re.compile(
+    r"\b(covid|covid 19|coronavirus|pandemi[ac]|pandemic|quarentena|cuarentena|lockdown|"
+    r"mascara|mascaras|mask|masks|vacina|vacuna|vaccine|vaccination|sars cov|distanciamento|"
+    r"distanciamiento|social distancing)\b")
+PANDEMIA_INICIO, PANDEMIA_FIM = (2020, 3), (2022, 6)
+
+
+def _tem_padrao(texto_norm, padrao):
+    return re.search(rf"\b{re.escape(padrao)}\b", texto_norm) is not None
+
+
+def _pessoas_em(texto):
+    t = _norm(texto)
+    return {nome for nome, pads in PESSOAS if any(_tem_padrao(t, p) for p in pads)}
+
+
+def _texto_foto(titulo, info):
+    return " ".join([titulo, _limpa_html(_meta(info, "ImageDescription")),
+                     _limpa_html(_meta(info, "ObjectName")),
+                     _limpa_html(_meta(info, "Categories")).replace("|", " ")])
+
+
+def pessoa_errada(titulo, info, contexto):
+    """True se a foto cita uma pessoa conhecida que a matéria não menciona."""
+    return bool(_pessoas_em(_texto_foto(titulo, info)) - _pessoas_em(contexto))
+
+
+def _data_foto(info):
+    m = re.search(r"(\d{4})(?:-(\d{2}))?", _meta(info, "DateTimeOriginal") or _meta(info, "DateTime"))
+    return (int(m.group(1)), int(m.group(2) or 6)) if m else None
+
+
+def epoca_pandemia(titulo, info):
+    if PANDEMIA_PALAVRAS.search(_norm(_texto_foto(titulo, info))):
+        return True
+    d = _data_foto(info)
+    return bool(d and PANDEMIA_INICIO <= d <= PANDEMIA_FIM)
+
+
+def materia_fala_de_pandemia(contexto):
+    return bool(PANDEMIA_PALAVRAS.search(_norm(contexto)))
+
+
 def _pesquisar(consulta):
     params = {
         "action": "query", "format": "json", "formatversion": 2,
@@ -111,7 +179,7 @@ def _pesquisar(consulta):
         "gsrnamespace": 6, "gsrlimit": LIMITE, "prop": "imageinfo",
         "iiprop": "url|size|mime|extmetadata", "iiurlwidth": 1280,
         "iiextmetadatafilter": "License|LicenseShortName|UsageTerms|AttributionRequired|"
-                               "Restrictions|NonFree|Artist|ImageDescription|ObjectName|Categories",
+                               "Restrictions|NonFree|Artist|ImageDescription|ObjectName|Categories|DateTimeOriginal|DateTime",
     }
     try:
         r = requests.get(API, params=params, headers={"User-Agent": UA}, timeout=20)
@@ -128,8 +196,10 @@ def _pesquisar(consulta):
     return saida
 
 
-def buscar_imagem_wikimedia(entidades, urls_usadas=()):
+def buscar_imagem_wikimedia(entidades, urls_usadas=(), contexto=""):
     usadas = set(urls_usadas or ())
+    contexto_total = f"{contexto} {' '.join(entidades or [])}"
+    pandemia_ok = materia_fala_de_pandemia(contexto_total)
     for ent in entidades or []:
         if not ent or entidade_generica(ent):
             continue
@@ -143,6 +213,12 @@ def buscar_imagem_wikimedia(entidades, urls_usadas=()):
                 if not licenca_sem_restricoes(info) or not _qualidade_ok(titulo, info):
                     continue
                 if _relevancia(ent, titulo, info) < RELEVANCIA_MIN:
+                    continue
+                if pessoa_errada(titulo, info, contexto_total):
+                    print(f"[commons] recusada (pessoa que a matéria não cita): {titulo}")
+                    continue
+                if not pandemia_ok and epoca_pandemia(titulo, info):
+                    print(f"[commons] recusada (época/tema de pandemia): {titulo}")
                     continue
                 autor = _limpa_html(_meta(info, "Artist")) or "Wikimedia Commons"
                 pagina = info.get("descriptionurl") or "https://commons.wikimedia.org"
@@ -171,7 +247,8 @@ def urls_recentes(artigos, n=None):
 
 def buscar_imagem_relevante(materia, artigos_publicados=()):
     ents = list(materia.get("imagem_entidades") or [])
-    img = buscar_imagem_wikimedia(ents, urls_recentes(artigos_publicados))
+    contexto = " ".join(str(materia.get(k) or "") for k in ("titulo", "lead", "corpo"))
+    img = buscar_imagem_wikimedia(ents, urls_recentes(artigos_publicados), contexto)
     if img or not _cfg("PERMITIR_IMAGEM_GENERICA_FALLBACK", False):
         return img
     from pipeline.image_search import buscar_imagem  # fallback opcional, desligado por padrão
