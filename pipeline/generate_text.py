@@ -140,12 +140,19 @@ Responda SOMENTE em JSON válido, neste formato exato, sem markdown, sem texto f
   "pais": "...",
   "prioridade_maxima": false,
   "palavras_chave_imagem": ["...", "..."],
+  "imagem_entidades": ["...", "..."],
   "fatos": {"o_que": "...", "quem": "...", "quando": "...", "onde": "...", "por_que": "..."},
   "traducoes": {
     "es": {"titulo": "...", "lead": "...", "corpo": "..."},
     "en": {"titulo": "...", "lead": "...", "corpo": "..."}
   }
 }
+
+10. Em "imagem_entidades", liste de 2 a 4 entidades CONCRETAS e FOTOGRAFÁVEIS \
+ligadas diretamente à matéria: pessoas, instituições, prédios, cidades, eventos. \
+Use o nome próprio completo, da mais específica para a mais geral (ex: \
+"Palácio do Planalto", "Banco Central do Brasil"). NUNCA use só o nome de um país \
+nem "América Latina". Se nada na matéria for fotografável por nome, devolva [].
 """
 
 
