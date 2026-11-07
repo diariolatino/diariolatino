@@ -49,6 +49,12 @@ def publicar(materia_gerada: dict, candidato: dict, imagem: dict | None, materia
         "fontes": fontes,
         "url_fonte_original": candidato.get("url_original"),
         "imagem": imagem,
+        "imagem_busca": {
+            "entidades": materia_gerada.get("imagem_entidades", []),
+            "palavras_chave": materia_gerada.get("palavras_chave_imagem", []),
+        },
+        "imagem_tentativas": 0 if imagem else 1,
+        "imagem_ultima_tentativa_em": None if imagem else datetime.now(timezone.utc).isoformat(),
         "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
         "traducoes": materia_gerada.get("traducoes", {}),
         "atualizacao_de": materia_relacionada["id"] if materia_relacionada else None,
