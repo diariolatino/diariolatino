@@ -129,3 +129,5 @@ IMAGEM_RELEVANCIA_MINIMA = 0.6              # % das palavras do nome que precisa
 IMAGEM_JANELA_NAO_REPETIR = 40              # não repete foto dos últimos N posts
 IMAGEM_LARGURA_MINIMA = 900
 SITE_URL = "https://diariolatino.github.io/diariolatino/"
+
+IMAGEM_PESSOAS_EXTRAS = [("Nome da pessoa", ["sobrenome sem acento"])]
