@@ -1,5 +1,56 @@
 [
   {
+    "id": "ffd0dd4a-7db3-4cff-80fb-3e16fc1a4bf0",
+    "titulo": "Teto desaba em loja no Brás e retém 20 pessoas em SP",
+    "lead": "Colapso estrutural na Rua Maria Joaquina mobiliza 51 bombeiros. Vinte pessoas estão presas em área isolada, mas sem ferimentos iniciais.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-07T13:54:18.110212+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/teto-de-loja-de-roupas-desaba-no-bras-em-sao-paulo",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Gr%C3%A1fico_da_Sucess%C3%A3o_de_Joaquim_de_Barros_Freire_e_Sua_Mulher%2C_Joaquina_Maria_ou_Joaquina_Euphrasia_%281826-1928%29_-_1_%282%29%2C_Acervo_do_Museu_Paulista_da_USP.jpg/1280px-Gr%C3%A1fico_da_Sucess%C3%A3o_de_Joaquim_de_Barros_Freire_e_Sua_Mulher%2C_Joaquina_Maria_ou_Joaquina_Euphrasia_%281826-1928%29_-_1_%282%29%2C_Acervo_do_Museu_Paulista_da_USP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "autor": "José Rosael/HélioNobre/Museu Paulista da USP",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Gr%C3%A1fico_da_Sucess%C3%A3o_de_Joaquim_de_Barros_Freire_e_Sua_Mulher,_Joaquina_Maria_ou_Joaquina_Euphrasia_(1826-1928)_-_1_(2),_Acervo_do_Museu_Paulista_da_USP.jpg",
+      "entidade": "Rua Maria Joaquina",
+      "photographer": "José Rosael/HélioNobre/Museu Paulista da USP",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Gr%C3%A1fico_da_Sucess%C3%A3o_de_Joaquim_de_Barros_Freire_e_Sua_Mulher,_Joaquina_Maria_ou_Joaquina_Euphrasia_(1826-1928)_-_1_(2),_Acervo_do_Museu_Paulista_da_USP.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Gr%C3%A1fico_da_Sucess%C3%A3o_de_Joaquim_de_Barros_Freire_e_Sua_Mulher,_Joaquina_Maria_ou_Joaquina_Euphrasia_(1826-1928)_-_1_(2),_Acervo_do_Museu_Paulista_da_USP.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Gr%C3%A1fico_da_Sucess%C3%A3o_de_Joaquim_de_Barros_Freire_e_Sua_Mulher,_Joaquina_Maria_ou_Joaquina_Euphrasia_(1826-1928)_-_1_(2),_Acervo_do_Museu_Paulista_da_USP.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Rua Maria Joaquina",
+        "Brás",
+        "Corpo de Bombeiros de São Paulo"
+      ],
+      "palavras_chave": [
+        "Brazil São Paulo Brás district building collapse rescue",
+        "Firefighters working at urban building debris site",
+        "Emergency response team at night city street"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Techo colapsa en tienda en el Brás y atrapa a 20 personas",
+        "lead": "El colapso estructural en la calle Maria Joaquina movilizó a 51 bomberos. Veinte personas están atrapadas en un área aislada, pero sin heridas iniciales."
+      },
+      "en": {
+        "titulo": "Roof collapses in Brás store, trapping 20 people in SP",
+        "lead": "Structural collapse on Maria Joaquina Street mobilized 51 firefighters. Twenty people are trapped in an isolated area but show no initial injuries."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "2777bfe9-fb4d-4ace-bf43-4e6ed673b502",
     "titulo": "Democratas conquistam vitória nas eleições de meio de mandato de 2026 com lideranças progressistas e de minorias",
     "lead": "Nas eleições de meio de mandato de novembro de 2026, o Partido Democrata recuperou o controle do Congresso ao eleger candidatos jovens, de minorias étnicas e religiosas, marcando uma guinada contra a agenda de Donald Trump.",
