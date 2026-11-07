@@ -25,7 +25,9 @@
     color: var(--verde);
     margin: 14px 0 16px;
   }
-  .materia .lead-materia { font-size: 18px; color: #3d3d38; margin-bottom: 18px; }
+  .materia .bloco-resumo { border-left: 4px solid var(--terracota); padding: 4px 0 4px 16px; margin: 0 0 22px; }
+  .materia .rotulo-resumo { display: inline-block; font-size: 11px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--terracota); margin-bottom: 4px; }
+  .materia .lead-materia { font-size: 20px; line-height: 1.45; font-weight: 600; color: #2b2b27; margin: 0; }
   .materia figure { margin: 0 0 22px; }
   .materia img { width: 100%; height: 380px; object-fit: cover; filter: grayscale(15%) contrast(1.05); }
   .materia .corpo { font-size: 17px; line-height: 1.75; } 
@@ -262,7 +264,7 @@ function renderizarMateria() {
     <span class="selo">${rotuloCategoriaPais(ARTIGO_ATUAL)}</span>
     <h1>${titulo}</h1>
     ${figuraImagem(ARTIGO_ATUAL.imagem)}
-    <p class="lead-materia">${lead}</p>
+    <div class="bloco-resumo"><span class="rotulo-resumo">${t('resumo')}</span><p class="lead-materia">${lead}</p></div>
     <div class="acoes-materia">
       <span>${formatarData(ARTIGO_ATUAL.publicado_em)}${minutos ? ' · ' + minutos + ' ' + t('minLeitura') : ''}</span>
       <div class="compartilhar-botoes">
