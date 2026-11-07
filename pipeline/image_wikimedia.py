@@ -153,6 +153,7 @@ def buscar_imagem_wikimedia(entidades, urls_usadas=()):
                     "autor": autor, "url_pagina": pagina, "entidade": ent,
                     # chaves antigas, para o front-end atual não quebrar
                     "photographer": autor, "photographer_url": pagina, "pexels_url": pagina,
+                    "fonte_nome": "Wikimedia Commons", "fonte_url": pagina,
                 }
             time.sleep(0.3)
     return None
