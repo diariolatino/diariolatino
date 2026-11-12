@@ -132,3 +132,6 @@ SITE_URL = "https://diariolatino.github.io/diariolatino/"
 IMAGEM_PESSOAS_EXTRAS = [("Nome da pessoa", ["sobrenome sem acento"])]
 IMAGEM_ACEITAR_CC_BY = True
 
+# ---- reparo de imagens ----
+REPARO_HORAS_ENTRE_TENTATIVAS = 6
+REPARO_MAX_TENTATIVAS_POR_POST = 6
