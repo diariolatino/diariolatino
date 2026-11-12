@@ -68,11 +68,10 @@
     "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/bc-do-paraguai-ja-ressarciu-93-dos-clientes-do-banco-ueno",
     "imagem": null,
     "imagem_busca": {
-      "entidades": [
-        "Banco Central del Paraguay",
-        "Banco Ueno (Paraguay)",
-        "Jorge Schreiner"
-      ],
+      "entidades": ["Banco Central del Paraguay", "Banco Ueno (Paraguay)", "Jorge Schreiner"],
+      "lugares": ["Asunción"],
+      "palavras_chave": ["Paraguay central bank building", "Ueno bank customers Paraguay", "Jorge Schreiner Paraguay"]
+    }
       "palavras_chave": [
         "Paraguay central bank building",
         "Ueno bank customers Paraguay",
