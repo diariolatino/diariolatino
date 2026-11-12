@@ -51,6 +51,7 @@ def publicar(materia_gerada: dict, candidato: dict, imagem: dict | None, materia
         "imagem": imagem,
         "imagem_busca": {
             "entidades": materia_gerada.get("imagem_entidades", []),
+            "lugares": materia_gerada.get("imagem_lugares", []),
             "palavras_chave": materia_gerada.get("palavras_chave_imagem", []),
         },
         "imagem_tentativas": 0 if imagem else 1,
