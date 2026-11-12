@@ -1,5 +1,46 @@
 [
   {
+    "id": "ec762aea-0b8c-4ee3-a086-31b2b9ea6fe9",
+    "titulo": "Paraguai ressarciu 93% dos clientes do banco Ueno",
+    "lead": "O Banco Central do Paraguai devolveu 2,126 trilhões de guaranis a 1,738,804 correntistas do Ueno, concluindo a maior parte do ressarcimento prometido após a crise bancária.",
+    "categoria": "Economia",
+    "pais": "Paraguai",
+    "publicado_em": "2026-11-12T18:07:03.506325+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/bc-do-paraguai-ja-ressarciu-93-dos-clientes-do-banco-ueno",
+    "imagem": null,
+    "imagem_busca": {
+      "entidades": [
+        "Banco Central del Paraguay",
+        "Banco Ueno (Paraguay)",
+        "Jorge Schreiner"
+      ],
+      "palavras_chave": [
+        "Paraguay central bank building",
+        "Ueno bank customers Paraguay",
+        "Jorge Schreiner Paraguay"
+      ]
+    },
+    "imagem_tentativas": 1,
+    "imagem_ultima_tentativa_em": "2026-11-12T18:07:03.506346+00:00",
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Paraguay reembolsó al 93% de los clientes del banco Ueno",
+        "lead": "El Banco Central de Paraguay devolvió 2,126 billones de guaraníes a 1.738.804 correntistas del Ueno, completando la mayor parte del reembolso prometido tras la crisis bancaria.",
+        "cuerpo": "Más de 1,7 millones de correntistas – el 93% de los clientes del Banco Ueno – ya recibieron el reembolso, totalizando 2,126 billones de guaraníes, alrededor de 1,92 mil millones de reales. El pago se finalizó el lunes (9), cumpliendo el cronograma establecido por el Banco Central de Paraguay (BCP).\n\nLa operación de devolución sigue a la intervención del BCP en el banco digital Ueno, desencadenada por la crisis sistémica que dejó miles de cuentas bloqueadas. Según la legislación, el plazo máximo para liquidar todos los valores es el miércoles (11), cuando el BCP debe concluir los pagos pendientes, incluidos a los clientes con Certificado de Depósito a Plazo y a quienes operan con la Agencia Financiera de Desarrollo.\n\nLa crisis también provocó cambios en la dirección del BCP. El economista Jorge Schreiner, ex‑director de la institución entre 1997 y 1999 y jefe de la comisión de valores mobiliarios hasta 2013, fue nombrado presidente del banco central ayer, sustituyendo a Carlos Carvallo, quien renunció al cargo al enfrentar las consecuencias de la intervención en Ueno.\n\nCarvallo y el ex‑presidente Santiago Peña, destituido tras el impeachment del Congreso, fueron detenidos y acusados de participación en la crisis que culminó con la intervención del mayor banco digital del país. Las investigaciones indican que la gestión de ambos políticos habría contribuido a prácticas irregulares que llevaron al colapso del Ueno.\n\nEl reembolso masivo representa un alivio para los usuarios que, durante meses, quedaron sin acceso a su dinero. Analistas del mercado financiero latinoamericano observan el caso como una prueba de la capacidad regulatoria de Paraguay para manejar crisis bancarias y preservar la confianza en el sistema financiero regional."
+      },
+      "en": {
+        "titulo": "Paraguay reimbursed 93% of Ueno bank customers",
+        "lead": "Paraguay's Central Bank returned 2.126 trillion guaranis to 1,738,804 Ueno clients, completing most of the promised reimbursement after the banking crisis.",
+        "cuerpo": "More than 1.7 million account holders – 93% of Ueno Bank’s customers – have already received the reimbursement, amounting to 2.126 trillion guaranis, roughly R$ 1.92 billion. The payment was completed by Monday (Nov 9), meeting the schedule set by the Central Bank of Paraguay (BCP).\n\nThe refund operation follows the BCP’s intervention in the digital Ueno Bank, triggered by a systemic crisis that left thousands of accounts frozen. Under the law, the final deadline for completing all payments is this Wednesday (Nov 11), when the BCP must finish pending settlements, including those for clients with Time Deposit Certificates and those operating with the Development Financial Agency.\n\nThe crisis also sparked a leadership change at the BCP. Economist Jorge Schreiner, a former director of the institution from 1997‑1999 and head of the securities commission until 2013, was appointed central bank president yesterday, replacing Carlos Carvallo, who stepped down amid the fallout from the Ueno intervention.\n\nCarvallo and former President Santiago Peña, removed after Congress approved his impeachment, have been arrested and charged with involvement in the crisis that led to the takeover of the country’s largest digital bank. Investigations suggest their administration contributed to irregular practices that caused Ueno’s collapse.\n\nThe massive reimbursement offers relief to users who were months without access to their funds. Latin‑American financial market analysts view the case as a test of Paraguay’s regulatory capacity to handle banking crises and maintain confidence in the regional financial system."
+      }
+    },
+    "atualizacao_de": "67daf39e-fa1a-4433-ad6a-d9d1c343c8a5"
+  },
+  {
     "id": "ffd0dd4a-7db3-4cff-80fb-3e16fc1a4bf0",
     "titulo": "Teto desaba em loja no Brás e retém 20 pessoas em SP",
     "lead": "Colapso estrutural na Rua Maria Joaquina mobiliza 51 bombeiros. Vinte pessoas estão presas em área isolada, mas sem ferimentos iniciais.",
