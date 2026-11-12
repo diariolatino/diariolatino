@@ -323,7 +323,7 @@
       const ultimas = resto.slice(0, 5);
       document.getElementById('lista-ultimas').innerHTML = ultimas.map(a => `
         <div class="item-ultima">
-          ${a.imagem ? `<a class="item-ultima-foto" href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : ''}
+          ${a.imagem ? `<a class="item-ultima-foto" href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : '<div class="capa-editorial"></div>'}
           <div class="item-ultima-corpo">
             <span class="selo">${rotuloCategoriaPais(a)}</span>
             <h4><a class="link-esticado" href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h4>
@@ -336,7 +336,7 @@
       const cartaoColuna = a => `
         <article class="coluna">
           <span class="selo">${rotuloCategoriaPais(a)}</span>
-          ${a.imagem ? `<a href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : ''}
+          ${a.imagem ? `<a href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : '<div class="capa-editorial"></div>'}
           <h3><a class="link-esticado" href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h3>
           <p class="dek">${campoIdioma(a, 'lead')}</p>
           <div class="meta"><span>${formatarData(a.publicado_em)}</span></div>
@@ -358,7 +358,7 @@
 
         const materiaGrande = a => `
           <span class="selo">${rotuloCategoriaPais(a)}</span>
-          ${a.imagem ? `<a href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : ''}
+          ${a.imagem ? `<a href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : '<div class="capa-editorial"></div>'}
           <h3><a class="link-esticado" href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h3>
           <p class="dek">${campoIdioma(a, 'lead')}</p>
           <div class="meta"><span>${formatarData(a.publicado_em)}</span></div>`;
@@ -392,7 +392,7 @@
         elDigest.style.display = 'block';
         document.getElementById('digest-grade').innerHTML = digest.map(a => `
           <div class="digest-item">
-            ${a.imagem ? `<a class="digest-foto" href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : ''}
+            ${a.imagem ? `<a class="digest-foto" href="${linkMateria(a)}"><img src="${a.imagem.url}" alt="" loading="lazy"></a>` : '<div class="capa-editorial"></div>'}
             <div class="digest-corpo">
               <span class="selo">${rotuloCategoriaPais(a)}</span>
               <h4><a class="link-esticado" href="${linkMateria(a)}">${campoIdioma(a, 'titulo')}</a></h4>
