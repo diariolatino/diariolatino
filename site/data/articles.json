@@ -1,5 +1,61 @@
 [
   {
+    "id": "ecf718ad-e904-4d62-8517-469fff15c9d7",
+    "titulo": "Inflação desacelera para 0,14% em outubro, conta de luz cai",
+    "lead": "A inflação oficial do Brasil registrou alta de apenas 0,14% em outubro, impulsionada pela queda da tarifa de energia elétrica e dos preços de transportes, embora o acumulado anual siga acima da meta.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-12T18:55:50.093000+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/inflacao-perde-forca-e-fica-em-014-em-outubro-conta-de-luz-cai",
+    "imagem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Emblema_do_Servi%C3%A7o_Gr%C3%A1fico_do_IBGE_em_1956.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "File:Mini book brazilian constitution (anverso).JPG",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Emblema_do_Servi%C3%A7o_Gr%C3%A1fico_do_IBGE_em_1956.jpg",
+      "entidade": "IBGE",
+      "verificada_em": "2026-11-12",
+      "photographer": "File:Mini book brazilian constitution (anverso).JPG",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Emblema_do_Servi%C3%A7o_Gr%C3%A1fico_do_IBGE_em_1956.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Emblema_do_Servi%C3%A7o_Gr%C3%A1fico_do_IBGE_em_1956.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Emblema_do_Servi%C3%A7o_Gr%C3%A1fico_do_IBGE_em_1956.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "IBGE",
+        "Banco Central do Brasil",
+        "Fernando Gonçalves"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Brazil electricity bill green flag October 2026",
+        "Brazil inflation data IBGE",
+        "Brazil economic news November 2026"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Inflación desacelera a 0,14% en octubre, factura de luz baja",
+        "lead": "La inflación oficial de Brasil registró un aumento de solo 0,14% en octubre, impulsado por la caída de la tarifa eléctrica y de los precios de transporte, aunque el acumulado anual sigue por encima de la meta."
+      },
+      "en": {
+        "titulo": "Inflation slows to 0.14% in October, electricity bill drops",
+        "lead": "Brazil's official inflation posted a modest 0.14% rise in October, driven by lower electricity tariffs and transport prices, while the yearly cumulative rate remains above the target."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "ec762aea-0b8c-4ee3-a086-31b2b9ea6fe9",
     "titulo": "Paraguai ressarciu 93% dos clientes do banco Ueno",
     "lead": "O Banco Central do Paraguai devolveu 2,126 trilhões de guaranis a 1,738,804 correntistas do Ueno, concluindo a maior parte do ressarcimento prometido após a crise bancária.",
