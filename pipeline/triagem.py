@@ -4,6 +4,7 @@ nota mínima vira matéria; o resto fica de lado e a execução espera a próxim
 notícia boa. As notas ficam em cache para não reavaliar a mesma notícia."""
 import json
 import os
+import re
 import time
 
 from . import config, orcamento_ia
@@ -51,11 +52,36 @@ def _gravar_cache(c):
         json.dump(c, f, ensure_ascii=False)
 
 
+# nomes que a Groq lista mas que NÃO são bons para esta tarefa (sistemas com ferramentas,
+# modelos de voz/árabe etc.) — antes eles entravam na frente do llama-3.1-8b-instant
+_NAO_TRIAGEM = re.compile(r"compound|orpheus|allam|playai|whisper|tts|guard|safeguard|embed", re.I)
+
+
 def _modelos_triagem():
-    pequenos = _listar_modelos_candidatos("triagem")
-    if pequenos:
-        return pequenos
-    return list(reversed(_listar_modelos_candidatos("geracao")))  # o menor dos grandes
+    pequenos = [m for m in _listar_modelos_candidatos("triagem") if not _NAO_TRIAGEM.search(m)]
+    pequenos.sort(key=lambda m: (0 if "instant" in m.lower() else 1))  # llama-3.1-8b-instant primeiro
+    reserva = list(reversed(_listar_modelos_candidatos("geracao")))      # o menor dos grandes primeiro
+    vistos, ordem = set(), []
+    for m in pequenos + reserva:
+        if m not in vistos and not orcamento_ia.modelo_esgotado(m):
+            vistos.add(m)
+            ordem.append(m)
+    return ordem
+
+
+def _interpretar(texto, n):
+    dados = _extrair_json(texto)
+    avs = dados if isinstance(dados, list) else (dados.get("avaliacoes") or dados.get("avaliações")
+                                                    or dados.get("evaluations") or [])
+    saida = {}
+    for a in avs:
+        try:
+            i = int(str(a.get("i", a.get("indice", ""))).strip().rstrip(".")) 
+            if 1 <= i <= n:
+                saida[i] = (float(str(a["nota"]).replace(",", ".")), str(a.get("motivo", "")))
+        except (ValueError, KeyError, TypeError, AttributeError):
+            continue
+    return saida
 
 
 def _pedir_notas(candidatos):
@@ -69,20 +95,30 @@ def _pedir_notas(candidatos):
     anterior, orcamento_ia.finalidade_atual = orcamento_ia.finalidade_atual, "triagem"
     cota = False
     try:
-        for modelo in _modelos_triagem()[:3]:
-            if orcamento_ia.modelo_esgotado(modelo):
-                cota = True
-                continue
-            try:
-                dados = _chamar_chat_completion(modelo, corpo)
-                avs = _extrair_json(dados["choices"][0]["message"]["content"]).get("avaliacoes", [])
-                return {candidatos[a["i"] - 1]["id"]: (float(a["nota"]), str(a.get("motivo", "")))
-                        for a in avs if 1 <= int(a.get("i", 0)) <= len(candidatos)}
-            except Exception as e:
-                if _eh_erro_definitivo(e):
-                    _salvar_bloqueado(modelo, "triagem")
-                cota = cota or _eh_erro_de_cota(e)
-                print(f"[triagem] modelo '{modelo}' falhou ({e})")
+        for modelo in _modelos_triagem()[:5]:
+            for usar_json_mode in (True, False):   # alguns modelos recusam response_format
+                req = corpo if usar_json_mode else {k: v for k, v in corpo.items() if k != "response_format"}
+                try:
+                    dados = _chamar_chat_completion(modelo, req)
+                    notas = _interpretar(dados["choices"][0]["message"]["content"], len(candidatos))
+                    if not notas:
+                        raise ValueError("resposta sem avaliações válidas")
+                    print(f"[triagem] avaliado com '{modelo}'")
+                    return {candidatos[i - 1]["id"]: v for i, v in notas.items()}
+                except Exception as e:
+                    resp = getattr(e, "response", None)
+                    detalhe = str(getattr(resp, "text", "") or "")[:200] if resp is not None else ""
+                    print(f"[triagem] modelo '{modelo}' falhou (json_mode={usar_json_mode}): {e} {detalhe}")
+                    if _eh_erro_definitivo(e):
+                        _salvar_bloqueado(modelo, "triagem")
+                        break
+                    if _eh_erro_de_cota(e):
+                        cota = True
+                        break
+                    status = getattr(resp, "status_code", None)
+                    if usar_json_mode and status == 400:
+                        continue  # tenta o mesmo modelo sem response_format
+                    break
     finally:
         orcamento_ia.finalidade_atual = anterior
     if cota:
