@@ -16,7 +16,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,900;1,600&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 <style>
-  .materia { max-width: 760px; margin: 0 auto; padding: 36px 20px 10px; }
+  .materia { 
+    max-width: 760px; 
+    margin: 0 auto; 
+    padding: 36px 20px 10px; }
   .materia h1 {
     font-family: 'Playfair Display', serif;
     font-weight: 700;
@@ -25,15 +28,46 @@
     color: var(--verde);
     margin: 14px 0 16px;
   }
-  .materia .bloco-resumo { border-left: 4px solid var(--terracota); padding: 4px 0 4px 16px; margin: 0 0 22px; }
-  .materia .rotulo-resumo { display: inline-block; font-size: 11px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--terracota); margin-bottom: 4px; }
-  .materia .lead-materia { font-size: 20px; line-height: 1.45; font-weight: 600; color: #2b2b27; margin: 0; }
+  .materia .bloco-resumo { 
+    border-left: 4px solid var(--terracota); 
+    padding: 4px 0 4px 16px; 
+    margin: 0 0 22px; 
+  }
+  .materia .rotulo-resumo { 
+    display: inline-block; 
+    font-size: 11px; 
+    font-weight: 700; 
+    letter-spacing: .12em; 
+    text-transform: uppercase; 
+    color: var(--terracota); 
+    margin-bottom: 4px; 
+  }
+  .materia .lead-materia { 
+    font-size: 20px; 
+    line-height: 1.45; 
+    font-weight: 600; 
+    color: #2b2b27; 
+    margin: 0; 
+  }
   .materia figure { margin: 0 0 22px; }
-  .materia img { width: 100%; height: 380px; object-fit: cover; filter: grayscale(15%) contrast(1.05); }
-  .materia .corpo { font-size: 17px; line-height: 1.75; } 
+  .materia img { 
+    width: 100%; 
+    height: 380px; 
+    object-fit: cover; 
+    filter: grayscale(15%) contrast(1.05); 
+  }
+  .materia .corpo { 
+    font-size: 17px; 
+    line-height: 1.75; 
+  } 
   .materia .corpo p { margin: 0 0 1.15em; } 
   .materia .corpo p:last-child { margin-bottom: 0; }
-  .materia .voltar { display: inline-block; margin-bottom: 18px; font-size: 13px; color: var(--verde); }
+  .materia .voltar { 
+    display: inline-block; 
+    margin-bottom: 18px; 
+    font-size: 13px; 
+    color: var(--verde); 
+  }
   .materia .voltar:hover { color: var(--terracota); }
   .rodape-materia {
     max-width: 760px;
@@ -43,6 +77,15 @@
     font-size: 11.5px;
     color: #8a8a80;
     line-height: 1.7;
+  }
+  .capa-editorial { 
+    height: 380px; 
+    display: flex; 
+    align-items: flex-end; 
+    padding: 24px; 
+    background: linear-gradient(135deg, var(--verde), #1f3b2d); 
+    color: #fff; 
+    font-family: 'Playfair Display', serif; font-size: 22px; 
   }
   .rodape-materia .selo-ia { font-style: italic; }
 </style>
@@ -172,13 +215,19 @@ function formatarCorpo(corpo) {
   return blocos.map(p => `<p>${escaparHtml(p)}</p>`).join('');
 }
 
-function figuraImagem(imagem) {
-  if (!imagem) return "";
-  const nomeFonte = imagem.fonte_nome || 'Pexels';
-  const linkFonte = imagem.fonte_url || imagem.pexels_url;
-  return `<figure><img src="${imagem.url}" alt="">
-    <figcaption class="credito-foto">Foto: <a href="${imagem.photographer_url}" target="_blank" rel="noopener">${imagem.photographer}</a> / <a href="${linkFonte}" target="_blank" rel="noopener">${nomeFonte}</a>${imagem.licenca ? ' · ' + imagem.licenca : ''}<br>${t('notaIlustrativa')}</figcaption></figure>`;
-}
+function capaEditorial(a) {
+     return `<div class="capa-editorial"><span>${rotuloCategoriaPais(a)}</span></div>`;
+   }
+function figuraImagem(imagem, artigo) {
+     if (!imagem) return `<figure>${capaEditorial(artigo)}</figure>`;
+     const nomeFonte = imagem.fonte_nome || 'Pexels';
+     const linkFonte = imagem.fonte_url || imagem.pexels_url;
+     const lic = imagem.licenca
+       ? ' · ' + (imagem.licenca_url ? `<a href="${imagem.licenca_url}" target="_blank" rel="noopener">${imagem.licenca}</a>` : imagem.licenca)
+       : '';
+     return `<figure><img src="${imagem.url}" alt="">
+       <figcaption class="credito-foto">Foto: <a href="${imagem.photographer_url}" target="_blank" rel="noopener">${imagem.photographer}</a> / <a href="${linkFonte}" target="_blank" rel="noopener">${nomeFonte}</a>${lic}<br>${t('notaIlustrativa')}</figcaption></figure>`;
+   }
 
 function linkFontes(artigo) {
   const nomes = (artigo.fontes && artigo.fontes.length) ? artigo.fontes.join(' · ') : '';
@@ -263,7 +312,7 @@ function renderizarMateria() {
     <a class="voltar" href="index.html">${t('voltar')}</a>
     <span class="selo">${rotuloCategoriaPais(ARTIGO_ATUAL)}</span>
     <h1>${titulo}</h1>
-    ${figuraImagem(ARTIGO_ATUAL.imagem)}
+    ${figuraImagem(ARTIGO_ATUAL.imagem, ARTIGO_ATUAL)}
     <div class="bloco-resumo"><span class="rotulo-resumo">${t('resumo')}</span><p class="lead-materia">${lead}</p></div>
     <div class="acoes-materia">
       <span>${formatarData(ARTIGO_ATUAL.publicado_em)}${minutos ? ' · ' + minutos + ' ' + t('minLeitura') : ''}</span>
