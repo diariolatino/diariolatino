@@ -84,6 +84,23 @@ def licenca_sem_restricoes(info):
     return True
 
 
+ACEITAR_CC_BY = _cfg("IMAGEM_ACEITAR_CC_BY", False)
+
+
+def licenca_cc_by(info):
+    """CC BY puro (uso comercial e adaptação permitidos, exige crédito). Sem SA/ND/NC."""
+    lic = _meta(info, "License").strip().lower()
+    if not re.match(r"^cc-by-\d", lic):
+        return False
+    if _meta(info, "NonFree").strip().lower() == "true" or _meta(info, "Restrictions").strip():
+        return False
+    return bool(_limpa_html(_meta(info, "Artist")))  # sem autor não dá para creditar
+
+
+def _licenca_aceita(info, nivel):
+    return licenca_sem_restricoes(info) if nivel == "sem_restricoes" else licenca_cc_by(info)
+
+
 def _qualidade_ok(titulo, info):
     if info.get("mime") not in MIMES_OK:
         return False
@@ -179,7 +196,7 @@ def _pesquisar(consulta):
         "gsrnamespace": 6, "gsrlimit": LIMITE, "prop": "imageinfo",
         "iiprop": "url|size|mime|extmetadata", "iiurlwidth": 1280,
         "iiextmetadatafilter": "License|LicenseShortName|UsageTerms|AttributionRequired|"
-                               "Restrictions|NonFree|Artist|ImageDescription|ObjectName|Categories|DateTimeOriginal|DateTime",
+                               "Restrictions|NonFree|LicenseUrl|Artist|ImageDescription|ObjectName|Categories|DateTimeOriginal|DateTime",
     }
     try:
         r = requests.get(API, params=params, headers={"User-Agent": UA}, timeout=20)
@@ -196,21 +213,20 @@ def _pesquisar(consulta):
     return saida
 
 
-def buscar_imagem_wikimedia(entidades, urls_usadas=(), contexto=""):
-    usadas = set(urls_usadas or ())
-    contexto_total = f"{contexto} {' '.join(entidades or [])}"
-    pandemia_ok = materia_fala_de_pandemia(contexto_total)
-    for ent in entidades or []:
+def _escolher(grupo, tipo, nivel, usadas, contexto_total, pandemia_ok, cache):
+    for ent in grupo or []:
         if not ent or entidade_generica(ent):
             continue
         for consulta in (f'"{ent}"', ent):
-            resultados = _pesquisar(consulta)
-            print(f"[commons] '{consulta}': {len(resultados)} resultado(s)")
-            for titulo, info in resultados:
+            if consulta not in cache:
+                cache[consulta] = _pesquisar(consulta)
+                print(f"[commons] '{consulta}': {len(cache[consulta])} resultado(s)")
+                time.sleep(0.3)
+            for titulo, info in cache[consulta]:
                 url = info.get("thumburl") or info.get("url")
                 if not url or url in usadas or info.get("url") in usadas:
                     continue
-                if not licenca_sem_restricoes(info) or not _qualidade_ok(titulo, info):
+                if not _licenca_aceita(info, nivel) or not _qualidade_ok(titulo, info):
                     continue
                 if _relevancia(ent, titulo, info) < RELEVANCIA_MIN:
                     continue
@@ -222,16 +238,34 @@ def buscar_imagem_wikimedia(entidades, urls_usadas=(), contexto=""):
                     continue
                 autor = _limpa_html(_meta(info, "Artist")) or "Wikimedia Commons"
                 pagina = info.get("descriptionurl") or "https://commons.wikimedia.org"
-                print(f"[commons] escolhida: {titulo}")
+                print(f"[commons] escolhida ({tipo}, {nivel}): {titulo}")
                 return {
                     "url": url, "fonte": "Wikimedia Commons",
                     "licenca": _meta(info, "LicenseShortName") or "CC0/Public domain",
+                    "licenca_url": _meta(info, "LicenseUrl"),
+                    "nivel_licenca": nivel, "tipo_busca": tipo,
                     "autor": autor, "url_pagina": pagina, "entidade": ent,
+                    "verificada_em": time.strftime("%Y-%m-%d"),
                     # chaves antigas, para o front-end atual não quebrar
                     "photographer": autor, "photographer_url": pagina, "pexels_url": pagina,
                     "fonte_nome": "Wikimedia Commons", "fonte_url": pagina,
                 }
-            time.sleep(0.3)
+    return None
+
+
+def buscar_imagem_wikimedia(entidades, urls_usadas=(), contexto="", lugares=()):
+    """Ordem: (1) entidades e (2) lugares só CC0/domínio público; depois, se
+    IMAGEM_ACEITAR_CC_BY=True, (3) entidades e (4) lugares em CC BY (com crédito)."""
+    usadas = set(urls_usadas or ())
+    contexto_total = f"{contexto} {' '.join(entidades or [])} {' '.join(lugares or [])}"
+    pandemia_ok = materia_fala_de_pandemia(contexto_total)
+    cache = {}
+    niveis = ["sem_restricoes"] + (["cc_by"] if ACEITAR_CC_BY else [])
+    for nivel in niveis:
+        for grupo, tipo in ((entidades, "entidade"), (lugares, "lugar")):
+            r = _escolher(grupo, tipo, nivel, usadas, contexto_total, pandemia_ok, cache)
+            if r:
+                return r
     return None
 
 
@@ -248,7 +282,8 @@ def urls_recentes(artigos, n=None):
 def buscar_imagem_relevante(materia, artigos_publicados=()):
     ents = list(materia.get("imagem_entidades") or [])
     contexto = " ".join(str(materia.get(k) or "") for k in ("titulo", "lead", "corpo"))
-    img = buscar_imagem_wikimedia(ents, urls_recentes(artigos_publicados), contexto)
+    img = buscar_imagem_wikimedia(ents, urls_recentes(artigos_publicados), contexto,
+                                  list(materia.get("imagem_lugares") or []))
     if img or not _cfg("PERMITIR_IMAGEM_GENERICA_FALLBACK", False):
         return img
     from pipeline.image_search import buscar_imagem  # fallback opcional, desligado por padrão
