@@ -111,14 +111,69 @@ def _qualidade_ok(titulo, info):
 
 
 def _relevancia(entidade, titulo, info):
+    """Parte das palavras do nome que aparece no TÍTULO ou na DESCRIÇÃO da foto.
+    (Categorias ficam de fora: são amplas demais e deixavam passar foto de outro assunto.)"""
     alvo = _tokens(entidade)
     if not alvo:
         return 0.0
     texto = " ".join([titulo, _limpa_html(_meta(info, "ImageDescription")),
-                      _limpa_html(_meta(info, "ObjectName")),
-                      _limpa_html(_meta(info, "Categories")).replace("|", " ")])
+                      _limpa_html(_meta(info, "ObjectName"))])
     tx = set(_tokens(texto))
     return sum(1 for t in alvo if t in tx) / len(alvo)
+
+
+def _tem_padrao(texto_norm, padrao):
+    return re.search(rf"\b{re.escape(padrao)}\b", texto_norm) is not None
+
+
+def _pessoas_em(texto):
+    t = _norm(texto)
+    return {nome for nome, pads in PESSOAS if any(_tem_padrao(t, p) for p in pads)}
+
+
+def _texto_foto(titulo, info):
+    return " ".join([titulo, _limpa_html(_meta(info, "ImageDescription")),
+                     _limpa_html(_meta(info, "ObjectName")),
+                     _limpa_html(_meta(info, "Categories")).replace("|", " ")])
+
+
+MESES = (r"janeiro|fevereiro|marco|abril|maio|junho|julho|agosto|setembro|outubro|novembro|dezembro|"
+         r"enero|febrero|abril|mayo|junio|julio|agosto|septiembre|setiembre|octubre|noviembre|diciembre|"
+         r"january|february|march|april|may|june|july|august|september|october|november|december")
+EVENTO_DATADO = re.compile(rf"\b(?:{MESES})\s+(?:de\s+|del\s+|of\s+)?(\d{{4}})\b|\b(\d{{4}})\s+(?:{MESES})\b")
+
+
+def evento_datado_fora_do_contexto(titulo, info, contexto):
+    """Foto de um EVENTO datado (ex.: 'Fevereiro de 2019') de ano anterior ao atual e que a
+    matéria não menciona: provavelmente é de outro acontecimento."""
+    texto = _norm(" ".join([titulo, _limpa_html(_meta(info, "ImageDescription"))]))
+    ano_atual = time.gmtime().tm_year
+    for m in EVENTO_DATADO.finditer(texto):
+        ano = int(m.group(1) or m.group(2))
+        if ano < ano_atual and str(ano) not in contexto:
+            return True
+    return False
+
+
+def pessoa_errada(titulo, info, contexto):
+    """True se a foto cita uma pessoa conhecida que a matéria não menciona."""
+    return bool(_pessoas_em(_texto_foto(titulo, info)) - _pessoas_em(contexto))
+
+
+def _data_foto(info):
+    m = re.search(r"(\d{4})(?:-(\d{2}))?", _meta(info, "DateTimeOriginal") or _meta(info, "DateTime"))
+    return (int(m.group(1)), int(m.group(2) or 6)) if m else None
+
+
+def epoca_pandemia(titulo, info):
+    if PANDEMIA_PALAVRAS.search(_norm(_texto_foto(titulo, info))):
+        return True
+    d = _data_foto(info)
+    return bool(d and PANDEMIA_INICIO <= d <= PANDEMIA_FIM)
+
+
+def materia_fala_de_pandemia(contexto):
+    return bool(PANDEMIA_PALAVRAS.search(_norm(contexto)))
 
 
 # ---- verificação de pessoas e de época ----
@@ -189,6 +244,25 @@ def materia_fala_de_pandemia(contexto):
     return bool(PANDEMIA_PALAVRAS.search(_norm(contexto)))
 
 
+
+MESES = (r"janeiro|fevereiro|marco|abril|maio|junho|julho|agosto|setembro|outubro|novembro|dezembro|"
+         r"enero|febrero|mayo|junio|julio|septiembre|setiembre|octubre|noviembre|diciembre|"
+         r"january|february|march|april|may|june|july|august|september|october|november|december")
+EVENTO_DATADO = re.compile(rf"\b(?:{MESES})\s+(?:de\s+|del\s+|of\s+)?(\d{{4}})\b|\b(\d{{4}})\s+(?:{MESES})\b")
+
+
+def evento_datado_fora_do_contexto(titulo, info, contexto):
+    """Foto de um EVENTO datado (ex.: 'Fevereiro de 2019') de ano anterior ao atual e que a
+    matéria não menciona: provavelmente é de outro acontecimento."""
+    texto = _norm(" ".join([titulo, _limpa_html(_meta(info, "ImageDescription"))]))
+    ano_atual = time.gmtime().tm_year
+    for m in EVENTO_DATADO.finditer(texto):
+        ano = int(m.group(1) or m.group(2))
+        if ano < ano_atual and str(ano) not in contexto:
+            return True
+    return False
+
+
 def _pesquisar(consulta):
     params = {
         "action": "query", "format": "json", "formatversion": 2,
@@ -232,6 +306,9 @@ def _escolher(grupo, tipo, nivel, usadas, contexto_total, pandemia_ok, cache):
                     continue
                 if pessoa_errada(titulo, info, contexto_total):
                     print(f"[commons] recusada (pessoa que a matéria não cita): {titulo}")
+                    continue
+                if evento_datado_fora_do_contexto(titulo, info, contexto_total):
+                    print(f"[commons] recusada (evento datado de outro ano): {titulo}")
                     continue
                 if not pandemia_ok and epoca_pandemia(titulo, info):
                     print(f"[commons] recusada (época/tema de pandemia): {titulo}")
