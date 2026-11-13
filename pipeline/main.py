@@ -116,7 +116,8 @@ def rodar():
 
         pais = materia.get("pais") or "América Latina"
         ultimo_pais_publicado = artigos_publicados[0]["pais"] if artigos_publicados else None
-        if pais == ultimo_pais_publicado and not materia.get("prioridade_maxima"):
+        if (pais == ultimo_pais_publicado and not materia.get("prioridade_maxima")
+                and horas_parado < getattr(config, "ROTACAO_LIBERAR_APOS_HORAS", 6)):
             # trava de verdade: usa o país que a IA realmente escolheu
             # (a intercalação por país só reduz a CHANCE de chegar aqui,
             # não garante — a IA pode classificar diferente do chute).
