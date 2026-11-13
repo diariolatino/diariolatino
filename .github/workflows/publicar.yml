@@ -3,7 +3,7 @@ name: Publicar notícias Diário Latino
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "15 * * * *"     # tenta a cada 30 min; só roda de verdade se houver tokens (ver "Verificar orçamento")
+    - cron: "*/30 * * * *"     # tenta a cada 30 min; só roda de verdade se houver tokens (ver "Verificar orçamento")
 
 concurrency:
   group: publicar-noticias
@@ -63,6 +63,7 @@ jobs:
         run: |
           git config user.name "diariolatino-bot"
           git config user.email "bot@diariolatino.local"
+          python3 -c "import json; json.load(open('site/data/articles.json', encoding='utf-8'))" || { echo "articles.json inválido — NÃO vou commitar" >&2; exit 1; }
           git add site/data
           if git diff --cached --quiet; then
             echo "Nada para commitar."
@@ -70,7 +71,7 @@ jobs:
           fi
           git commit -m "Atualiza notícias [automático]"
           for tentativa in 1 2 3 4 5; do
-            if git pull --rebase origin main && git push; then
+            if git pull --rebase origin main && python3 -c "import json; json.load(open('site/data/articles.json', encoding='utf-8'))" && git push; then
               exit 0
             fi
             echo "Push rejeitado (tentativa $tentativa/5) — tentando de novo em 5s..."
