@@ -9,13 +9,14 @@ from datetime import datetime, timedelta, timezone
 import requests
 
 from pipeline import config
+from pipeline.reconstruir_indice import ler_indice, escrever_json_atomico
 from pipeline.image_wikimedia import buscar_imagem_wikimedia, urls_recentes, UA
 
 MAX_VERIFICACOES = getattr(config, "REPARO_MAX_VERIFICACOES", 60)
 REVERIFICAR_DIAS = getattr(config, "REPARO_REVERIFICAR_DIAS", 14)
 MAX_TENTATIVAS = getattr(config, "REPARO_MAX_TENTATIVAS_POR_POST", 6)
 MAX_BUSCAS = getattr(config, "REPARO_MAX_BUSCAS", 12)
-HORAS_ENTRE = getattr(config, "REPARO_HORAS_ENTRE_TENTATIVAS", 20)
+HORAS_ENTRE = 0 if os.environ.get("REPARO_FORCAR") else getattr(config, "REPARO_HORAS_ENTRE_TENTATIVAS", 20)
 SITE_URL = getattr(config, "SITE_URL", "https://diariolatino.github.io/diariolatino/")
 
 
@@ -43,9 +44,7 @@ def _ler(p, padrao):
 
 
 def _gravar(p, d):
-    os.makedirs(os.path.dirname(p) or ".", exist_ok=True)
-    with open(p, "w", encoding="utf-8") as f:
-        json.dump(d, f, ensure_ascii=False, indent=2)
+    escrever_json_atomico(p, d)
 
 
 def imagem_quebrada(url):
@@ -90,7 +89,7 @@ def _salvar_nos_dois(indice_item, indice, caminho_indice):
 
 def executar():
     caminho = config.ARTICLES_PATH
-    indice = _ler(caminho, [])
+    indice = ler_indice()
     if not indice:
         print("[reparo] índice vazio")
         return
@@ -153,4 +152,3 @@ def executar():
 
 if __name__ == "__main__":
     executar()
-    
