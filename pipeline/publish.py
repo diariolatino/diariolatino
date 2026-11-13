@@ -3,6 +3,7 @@ import os
 import uuid
 from datetime import datetime, timezone
 from . import config
+from .reconstruir_indice import ler_indice, escrever_json_atomico
 
 
 def _carregar_json(caminho, padrao):
@@ -12,10 +13,8 @@ def _carregar_json(caminho, padrao):
     return padrao
 
 
-def _salvar_json(caminho, dados):
-    os.makedirs(os.path.dirname(caminho), exist_ok=True)
-    with open(caminho, "w", encoding="utf-8") as f:
-        json.dump(dados, f, ensure_ascii=False, indent=2)
+    def _salvar_json(caminho, dados):
+        escrever_json_atomico(caminho, dados)
 
 
 def ja_publicado(candidato_id: str) -> bool:
@@ -24,8 +23,7 @@ def ja_publicado(candidato_id: str) -> bool:
 
 
 def carregar_artigos_publicados() -> list:
-    return _carregar_json(config.ARTICLES_PATH, [])
-
+    return ler_indice()
 
 def marcar_como_visto(candidato_id: str):
     vistos = _carregar_json(config.SEEN_IDS_PATH, [])
@@ -73,7 +71,7 @@ def publicar(materia_gerada: dict, candidato: dict, imagem: dict | None, materia
     # precisa pra montar os cards e filtrar (sem o corpo, que é o que pesa
     # de verdade). É esse arquivo enxuto que o site inteiro busca de uma
     # vez; o texto completo só é buscado por artigo.html, um por vez.
-    indice = _carregar_json(config.ARTICLES_PATH, [])
+    indice = ler_indice()
     entrada_indice = {k: v for k, v in artigo.items() if k != "corpo"}
     entrada_indice["traducoes"] = {
         idioma: {k: v for k, v in campos.items() if k != "corpo"}
