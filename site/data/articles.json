@@ -56,46 +56,6 @@
     "atualizacao_de": null
   },
   {
-    "id": "ec762aea-0b8c-4ee3-a086-31b2b9ea6fe9",
-    "titulo": "Paraguai ressarciu 93% dos clientes do banco Ueno",
-    "lead": "O Banco Central do Paraguai devolveu 2,126 trilhões de guaranis a 1,738,804 correntistas do Ueno, concluindo a maior parte do ressarcimento prometido após a crise bancária.",
-    "categoria": "Economia",
-    "pais": "Paraguai",
-    "publicado_em": "2026-11-12T18:07:03.506325+00:00",
-    "fontes": [
-      "Agência Brasil"
-    ],
-    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/bc-do-paraguai-ja-ressarciu-93-dos-clientes-do-banco-ueno",
-    "imagem": null,
-    "imagem_busca": {
-      "entidades": ["Banco Central del Paraguay", "Banco Ueno (Paraguay)", "Jorge Schreiner"],
-      "lugares": ["Asunción"],
-      "palavras_chave": ["Paraguay central bank building", "Ueno bank customers Paraguay", "Jorge Schreiner Paraguay"]
-    }
-      "palavras_chave": [
-        "Paraguay central bank building",
-        "Ueno bank customers Paraguay",
-        "Jorge Schreiner Paraguay"
-      ]
-    },
-    "imagem_tentativas": 1,
-    "imagem_ultima_tentativa_em": "2026-11-12T18:07:03.506346+00:00",
-    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
-    "traducoes": {
-      "es": {
-        "titulo": "Paraguay reembolsó al 93% de los clientes del banco Ueno",
-        "lead": "El Banco Central de Paraguay devolvió 2,126 billones de guaraníes a 1.738.804 correntistas del Ueno, completando la mayor parte del reembolso prometido tras la crisis bancaria.",
-        "cuerpo": "Más de 1,7 millones de correntistas – el 93% de los clientes del Banco Ueno – ya recibieron el reembolso, totalizando 2,126 billones de guaraníes, alrededor de 1,92 mil millones de reales. El pago se finalizó el lunes (9), cumpliendo el cronograma establecido por el Banco Central de Paraguay (BCP).\n\nLa operación de devolución sigue a la intervención del BCP en el banco digital Ueno, desencadenada por la crisis sistémica que dejó miles de cuentas bloqueadas. Según la legislación, el plazo máximo para liquidar todos los valores es el miércoles (11), cuando el BCP debe concluir los pagos pendientes, incluidos a los clientes con Certificado de Depósito a Plazo y a quienes operan con la Agencia Financiera de Desarrollo.\n\nLa crisis también provocó cambios en la dirección del BCP. El economista Jorge Schreiner, ex‑director de la institución entre 1997 y 1999 y jefe de la comisión de valores mobiliarios hasta 2013, fue nombrado presidente del banco central ayer, sustituyendo a Carlos Carvallo, quien renunció al cargo al enfrentar las consecuencias de la intervención en Ueno.\n\nCarvallo y el ex‑presidente Santiago Peña, destituido tras el impeachment del Congreso, fueron detenidos y acusados de participación en la crisis que culminó con la intervención del mayor banco digital del país. Las investigaciones indican que la gestión de ambos políticos habría contribuido a prácticas irregulares que llevaron al colapso del Ueno.\n\nEl reembolso masivo representa un alivio para los usuarios que, durante meses, quedaron sin acceso a su dinero. Analistas del mercado financiero latinoamericano observan el caso como una prueba de la capacidad regulatoria de Paraguay para manejar crisis bancarias y preservar la confianza en el sistema financiero regional."
-      },
-      "en": {
-        "titulo": "Paraguay reimbursed 93% of Ueno bank customers",
-        "lead": "Paraguay's Central Bank returned 2.126 trillion guaranis to 1,738,804 Ueno clients, completing most of the promised reimbursement after the banking crisis.",
-        "cuerpo": "More than 1.7 million account holders – 93% of Ueno Bank’s customers – have already received the reimbursement, amounting to 2.126 trillion guaranis, roughly R$ 1.92 billion. The payment was completed by Monday (Nov 9), meeting the schedule set by the Central Bank of Paraguay (BCP).\n\nThe refund operation follows the BCP’s intervention in the digital Ueno Bank, triggered by a systemic crisis that left thousands of accounts frozen. Under the law, the final deadline for completing all payments is this Wednesday (Nov 11), when the BCP must finish pending settlements, including those for clients with Time Deposit Certificates and those operating with the Development Financial Agency.\n\nThe crisis also sparked a leadership change at the BCP. Economist Jorge Schreiner, a former director of the institution from 1997‑1999 and head of the securities commission until 2013, was appointed central bank president yesterday, replacing Carlos Carvallo, who stepped down amid the fallout from the Ueno intervention.\n\nCarvallo and former President Santiago Peña, removed after Congress approved his impeachment, have been arrested and charged with involvement in the crisis that led to the takeover of the country’s largest digital bank. Investigations suggest their administration contributed to irregular practices that caused Ueno’s collapse.\n\nThe massive reimbursement offers relief to users who were months without access to their funds. Latin‑American financial market analysts view the case as a test of Paraguay’s regulatory capacity to handle banking crises and maintain confidence in the regional financial system."
-      }
-    },
-    "atualizacao_de": "67daf39e-fa1a-4433-ad6a-d9d1c343c8a5"
-  },
-  {
     "id": "ffd0dd4a-7db3-4cff-80fb-3e16fc1a4bf0",
     "titulo": "Teto desaba em loja no Brás e retém 20 pessoas em SP",
     "lead": "Colapso estrutural na Rua Maria Joaquina mobiliza 51 bombeiros. Vinte pessoas estão presas em área isolada, mas sem ferimentos iniciais.",
@@ -144,8 +104,7 @@
         "lead": "Structural collapse on Maria Joaquina Street mobilized 51 firefighters. Twenty people are trapped in an isolated area but show no initial injuries."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:00+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "2777bfe9-fb4d-4ace-bf43-4e6ed673b502",
@@ -198,8 +157,7 @@
         }
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:25+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "6c812c07-2f5c-4135-b611-ff3aeeb52abb",
@@ -250,8 +208,7 @@
         "lead": "President Luiz Inácio Lula da Silva will arrive in Manila on November 14 to attend the Association of Southeast Asian Nations (ASEAN) summit and deepen the partnership between Brazil and the Asian bloc."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:25+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "53b9ab03-ba27-48ed-977b-8337368680f8",
@@ -282,8 +239,7 @@
         "lead": "The 2026 US midterm elections renew the entire House of Representatives and a third of the Senate, with 15 states lacking a senatorial contest, and could shift the power balance relative to President Donald Trump."
       }
     },
-    "atualizacao_de": "4f2aaad9-3908-4e88-843c-0db772b431af",
-    "imagem_verificada_em": "2026-11-07T13:23:26+00:00"
+    "atualizacao_de": "4f2aaad9-3908-4e88-843c-0db772b431af"
   },
   {
     "id": "56ee9371-5390-4c68-a75f-97ee43e1dae4",
@@ -314,8 +270,7 @@
         "lead": "Senator Flavio Bolsonaro (PL-RJ) logged his presence and voted in favor of the Public Security Constitutional Amendment during the U.S. Senate's ordinary session, despite being outside Brazil."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:26+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "04f9cdde-6824-4160-9d71-73ded7fbc470",
@@ -346,8 +301,7 @@
         "lead": "In local referendums held in 41 municipalities across ten states on Tuesday (Nov 3), 40 voted against the installation of data centers by major tech firms, triggering a drop in AI‑related stocks."
       }
     },
-    "atualizacao_de": "91576495-8bb7-4146-8e63-ee257066fee9",
-    "imagem_verificada_em": "2026-11-07T13:23:26+00:00"
+    "atualizacao_de": "91576495-8bb7-4146-8e63-ee257066fee9"
   },
   {
     "id": "67daf39e-fa1a-4433-ad6a-d9d1c343c8a5",
@@ -378,8 +332,7 @@
         "lead": "Santiago Peña announced his resignation on Thursday, November 5, citing the need to preserve institutional stability, while Vice President Pedro Allana was sworn in as head of state."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:26+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "0278eb3b-4b62-4a1e-a5c3-e28bb0395604",
@@ -410,8 +363,7 @@
         "lead": "The program 'Brasil no Mundo' airs its final episode of the season on Thursday (5), analyzing the developments of the US midterm elections and their implications for Latin America and international relations."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:27+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "779c5231-d27e-4290-ba48-350366a5b656",
@@ -442,8 +394,7 @@
         "lead": "The loss of majorities in the House and Senate by Republicans in 2026 put the historic relationship between Washington and Tel Aviv at stake, after President Donald Trump suspended billion-dollar military aid to the Middle Eastern country."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:27+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "ff8fc761-fcbf-46f5-8cd4-5874786d8d9f",
@@ -474,8 +425,7 @@
         "lead": "The loss of the Republican majority in the US Congress opens the door for budgetary restrictions on US foreign policy, which experts point to as a brake on interventionist actions in the region and an opportunity for Brazil to negotiate the removal of punitive tariffs."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:27+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "4f2aaad9-3908-4e88-843c-0db772b431af",
@@ -506,8 +456,7 @@
         "lead": "In the 2026 midterm elections, candidates from historically marginalized groups won state and federal offices in the United States, setting new records of representation."
       }
     },
-    "atualizacao_de": "472fc5ab-6a5c-4659-9c32-dbf7c4953c63",
-    "imagem_verificada_em": "2026-11-07T13:23:28+00:00"
+    "atualizacao_de": "472fc5ab-6a5c-4659-9c32-dbf7c4953c63"
   },
   {
     "id": "6f6a3787-fcd5-4bbf-bf18-f760e78d8738",
@@ -538,8 +487,7 @@
         "lead": "On Tuesday, November 3, seven candidates born in Brazil were elected to state assemblies in four U.S. states, all of them Democrats."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:28+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "cad525e4-dbf3-45ee-be84-ab1c864cc16c",
@@ -570,8 +518,7 @@
         "lead": "Mazda’s plug‑in hybrid SUV, the CX‑90 2027 model, was tested in Mexico, where its short electric‑only range emerged as a key flaw, raising questions about its competitiveness in Latin America."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:28+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "f14f4af1-e97c-4b61-9a90-a27bdafd96d3",
@@ -602,8 +549,7 @@
         "lead": "On Tuesday, November 3, the Federal Police launched the Forensic Geochemistry Laboratory for Mineral Traceability, housed at the National Institute of Forensic Sciences in Brasília, as part of the Gold Target Program."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:28+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "800c54c6-c1fd-4247-b8a1-65cd27e8c4ff",
@@ -634,8 +580,7 @@
         "lead": "Demonstrations that began in Porto three weeks ago have spread to Lisbon's Rossio Square, with tent camps facing police interventions and a court ruling that allows the occupation to remain until November 24."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:29+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "8773115b-a669-4153-81a5-b01ed787bf78",
@@ -666,8 +611,7 @@
         "lead": "On Monday, November 2, a delta‑wing accident on São Conrado beach in Rio de Janeiro resulted in the deaths of two passengers, and the Civil Police has begun an investigation."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:29+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "12127edd-783e-4f62-b34c-20f5047e3086",
@@ -698,8 +642,7 @@
         "lead": "On November 2, 2026, United Nations Secretary‑General António Guterres underscored the importance of safeguarding journalists’ lives and ensuring the right to information, in observance of the International Day for the Elimination of Impunity for Crimes against Journalists."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:29+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "541b0259-da75-4cfe-8d04-4cdbd68a0e64",
@@ -730,8 +673,7 @@
         "lead": "In contest 3080, held this Sunday (1st), Mega‑Sena had no jackpot winner, pushing the prize to $46 million for the next Wednesday draw."
       }
     },
-    "atualizacao_de": "db2a6ab8-da59-489e-99f0-b68cd2519c9d",
-    "imagem_verificada_em": "2026-11-07T13:23:30+00:00"
+    "atualizacao_de": "db2a6ab8-da59-489e-99f0-b68cd2519c9d"
   },
   {
     "id": "91576495-8bb7-4146-8e63-ee257066fee9",
@@ -762,8 +704,7 @@
         "lead": "On Tuesday, October 3, more than 210 million Americans will vote to elect the 435 House Representatives, 35 senators, and governors, a decision that could reshape Donald Trump's political landscape and have repercussions in Brazil."
       }
     },
-    "atualizacao_de": "3b14a6d1-ad0e-463b-b96a-b0b1bd72acab",
-    "imagem_verificada_em": "2026-11-07T13:23:30+00:00"
+    "atualizacao_de": "3b14a6d1-ad0e-463b-b96a-b0b1bd72acab"
   },
   {
     "id": "c7fd48c3-2b5a-4fb5-a044-fd99c1787904",
@@ -794,8 +735,7 @@
         "lead": "Sandra Assali, president of the Brazilian Association of Relatives and Friends of Air Accident Victims, says the grief over her husband's death in the 1996 TAM Fokker 100 disaster remains permanent and that the organization has secured assistance for victims' families."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:30+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "54dce313-404d-4820-9656-243c07186748",
@@ -826,8 +766,7 @@
         "lead": "Victor Manuel Cairo Palomo, Cuba's ambassador to Brazil, said the island faces a concrete risk of a US military invasion after the aggressive rhetoric of Donald Trump's administration."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:30+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "472fc5ab-6a5c-4659-9c32-dbf7c4953c63",
@@ -858,8 +797,7 @@
         "lead": "Experts note that the Latin‑Caribbean region is in a privileged position to exert greater influence over United Nations decisions."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:31+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "fbf7f7c3-a05e-4e8e-92d3-6d1c5a49d682",
@@ -890,8 +828,7 @@
         "lead": "In a direct clash, Flamengo was beaten by Atlético Mineiro and, despite the setback, remains in first place in the Brazilian Championship."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:31+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "69beae30-4154-45f2-90d3-d1f4f47c6770",
@@ -922,8 +859,7 @@
         "lead": "With final election results released on October 30, Israel's opposition depends on an alliance with Arab parties to reach the majority needed to replace Benjamin Netanyahu, who has governed for 19 years."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:31+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "896a6253-7586-47b2-a9bb-460cf14b2f20",
@@ -954,8 +890,7 @@
         "lead": "The board of Brazil's public broadcaster (EBC) received, on Tuesday, R$ 23 million from Anatel/GIRED to fund the infrastructure needed for the new generation of free‑to‑air television, TV 3.0."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:31+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "1dc98fb7-ae89-4249-a988-8f55e65af8ad",
@@ -986,8 +921,7 @@
         "lead": "Cuban ambassador to Brazil, Victor Manuel Cairo Palomo, welcomed the United Nations General Assembly's approval of a resolution condemning the United States' economic embargo on the island, despite the Trump administration's pressure campaign."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:32+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "12efef6f-ca16-46ff-ab0e-a87e362165a4",
@@ -1018,8 +952,7 @@
         "lead": "With 85% of the ballots counted, no bloc has reached the majority needed in Israel's parliament, forcing parties to seek alliances to form a government."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:32+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "a6995255-967e-4cb3-ad88-a14820cf63f9",
@@ -1050,8 +983,7 @@
         "lead": "The Democratic wing of the US House of Representatives labeled the visa grant to Flavio Bolsonaro a violation of immigration policy, contrasting it with the denial of asylum to refugees from active conflicts."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:32+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "0c0bfa32-d4de-44fc-a22d-a3c240f6ebcf",
@@ -1082,8 +1014,7 @@
         "lead": "The United Nations General Assembly approved a resolution this Wednesday (29) condemning the economic blockade imposed by the United States on Cuba, in a vote that marked the lowest number of favorable votes for the measure in three decades."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:33+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "781528b2-9e51-494a-a5dd-f2a44178c977",
@@ -1114,8 +1045,7 @@
         "lead": "US President Donald Trump stated on Wednesday (28) that he would not get involved in Brazil's internal affairs following the publication of a letter by Senator Flávio Bolsonaro, in which he declared himself the country's leader."
       }
     },
-    "atualizacao_de": "57af74f3-7b28-417b-96db-ab97bffea9e0",
-    "imagem_verificada_em": "2026-11-07T13:23:33+00:00"
+    "atualizacao_de": "57af74f3-7b28-417b-96db-ab97bffea9e0"
   },
   {
     "id": "6fcf8a93-81ab-45cc-a7cf-6c6a11a50ca6",
@@ -1146,8 +1076,7 @@
         "lead": "Brazil's Foreign Ministry expressed deep consternation and solidarity with Spain following a high-speed train collision in Toledo province that left at least 64 people dead."
       }
     },
-    "atualizacao_de": "6914caad-4c64-4c82-8a65-be22e1331c2f",
-    "imagem_verificada_em": "2026-11-07T13:23:33+00:00"
+    "atualizacao_de": "6914caad-4c64-4c82-8a65-be22e1331c2f"
   },
   {
     "id": "1ce92a7a-10d0-4cce-902c-79955d1f422f",
@@ -1178,8 +1107,7 @@
         "lead": "On Sunday, October 25, 2026, Luiz Inácio Lula da Silva won Brazil's presidential runoff, overturning an initial deficit and prompting extensive coverage in European and Asian media outlets."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:33+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "7081365a-fc7d-47b2-afdf-49a17658637f",
@@ -1210,8 +1138,7 @@
         "lead": "The NGO decided to denounce the Argentine president following statements that incited violence against journalists, in the context of the dismissal of the 'cryptogate' case."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:34+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "361f00f0-3c35-4f8d-b3d4-f097e41981be",
@@ -1242,8 +1169,7 @@
         "lead": "About 7 million Israeli voters are casting ballots on Tuesday (27) in an election that could end Benjamin Netanyahu's long tenure, but with favorites aligned with the military hardline stance and rejection of a Palestinian state."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:34+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "70a1e1fe-7876-4093-9689-2b8cd093f7a2",
@@ -1274,8 +1200,7 @@
         "lead": "The Mexico City Government Secretariat has extended the deadline for renewing and issuing permanent driver's licenses, allowing drivers to complete the process by the end of 2026."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:34+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "b494d848-e224-45e7-9759-a990da532820",
@@ -1306,8 +1231,7 @@
         "lead": "Within minutes of his re-election being confirmed, several regional heads of state posted congratulatory messages to the newly elected Brazilian president."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:34+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "cd277626-d179-44f0-a2bd-a0983ce01793",
@@ -1338,8 +1262,7 @@
         "lead": "The opposition party urged the public to consolidate political unity after María Corina Machado returned to the country."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:35+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "d0715e67-a052-493f-b3a4-625521a573a7",
@@ -1370,8 +1293,7 @@
         "lead": "Airlines Gol denied social media allegations of mass flight cancellations from Porto Alegre to the Northeast during the election runoff, confirming only one interruption due to technical issues."
       }
     },
-    "atualizacao_de": "ae0b7ced-1473-4356-acf1-4644898d2297",
-    "imagem_verificada_em": "2026-11-07T13:23:35+00:00"
+    "atualizacao_de": "ae0b7ced-1473-4356-acf1-4644898d2297"
   },
   {
     "id": "21a60b9f-f5bd-488d-9e30-38268513fc86",
@@ -1402,8 +1324,7 @@
         "lead": "After a disappointing opening loss to Algeria, the Argentine youth football team secured victories against Chinese Taipei and Oman, keeping their campaign alive in the tournament."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:35+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "eb923044-0461-4224-a0f2-557db1a5e3ed",
@@ -1434,8 +1355,7 @@
         "lead": "Starting in October 2026, the National Operator of the Electronic Property Registry System (ONR) launched the National Asset Search, a tool that allows users to look up CPF and CNPJ links to real estate across Brazil."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:36+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "46e1fa81-b57e-4558-afb5-2c0af0beb167",
@@ -1466,8 +1386,7 @@
         "lead": "With Japan's population rapidly aging, authorities are turning to Peru in search of immigrants who can fill labor shortages."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:36+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "bc737ca7-f7bc-460d-9d16-01a7a35e1157",
@@ -1498,8 +1417,7 @@
         "lead": "A joint operation carried out on Thursday (22) in Guarulhos, in the interior of São Paulo, resulted in the seizure of goods from a beverage distributor suspected of selling counterfeit products and using straw men to hide the true controller of the business."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:36+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "0c9427c6-e5a7-4e04-8585-1e31e52559e0",
@@ -1530,8 +1448,7 @@
         "lead": "Chile recorded a 0.3% GDP contraction in the third quarter of 2026 and a rise in unemployment to 9.6%, challenging the austerity agenda of President José Antonio Kast, who faces high public disapproval."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:37+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "a3463fe0-2209-4a41-883c-10c6cf4a59bd",
@@ -1562,8 +1479,7 @@
         "lead": "In the Mega‑Sena draw held this Thursday (22), no ticket matched all six numbers, pushing the jackpot to R$ 230 million for the next contest."
       }
     },
-    "atualizacao_de": "db2a6ab8-da59-489e-99f0-b68cd2519c9d",
-    "imagem_verificada_em": "2026-11-07T13:23:37+00:00"
+    "atualizacao_de": "db2a6ab8-da59-489e-99f0-b68cd2519c9d"
   },
   {
     "id": "b9af26a2-5e75-4182-b530-c422d6448897",
@@ -1594,8 +1510,7 @@
         "lead": "An artistic initiative celebrates two decades of presence in the country, presenting a visual universe that blends snow and clown aesthetics."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:37+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "05e5f6b3-d76c-4cc5-9899-7f638bb87835",
@@ -1626,8 +1541,7 @@
         "lead": "Caixa Loterias has shifted the lottery draws scheduled for Sunday, Oct 25, to Saturday, Oct 24, so they do not coincide with Brazil’s second‑round elections."
       }
     },
-    "atualizacao_de": "efd6fbea-80ae-424b-af75-f242299b8f97",
-    "imagem_verificada_em": "2026-11-07T13:23:38+00:00"
+    "atualizacao_de": "efd6fbea-80ae-424b-af75-f242299b8f97"
   },
   {
     "id": "1b771c9e-7c06-4a82-822e-0b24ce87f978",
@@ -1658,8 +1572,7 @@
         "lead": "INDEC data show a 1.74% drop in GDP for August 2026 compared with the same month in 2025, fueling fears of a recession in the country."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:38+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "b525a141-2e5b-4db4-ad92-4d6d65d1e0d1",
@@ -1690,8 +1603,7 @@
         "lead": "On Thursday, October 22, President Emmanuel Macron announced the prohibition of demonstrations deemed \"illegitimate\" and the rollout of reinforced security measures in several French cities."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:38+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "dc120d60-a64b-4927-9e6e-372ee4befad9",
@@ -1722,8 +1634,7 @@
         "lead": "Starting on October 20, the turnstiles on Line 1‑Blue began accepting Pix payments, with rollout to the remaining lines scheduled throughout the week."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:38+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "b20bd99c-6e9c-4616-8897-5b6babeedfb6",
@@ -1754,8 +1665,7 @@
         "lead": "The U.S. Department of Security has received permission from the Pentagon to experiment with a high‑intensity heat‑ray device along the Mexico border, as part of a border‑security modernization program."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:39+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "1486ece1-1dec-4fa0-94aa-8015f361db3d",
@@ -1786,8 +1696,7 @@
         "lead": "The Civil Police, via the Specialized Weapons, Ammunition and Explosives Delegacy (Desarme), dismantled a group that simulated reserve sergeant training courses to issue forged military documents and acquire firearms illegally."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:39+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "6d823993-ffcc-4ab6-93c6-168704bd2266",
@@ -1818,8 +1727,7 @@
         "lead": "Argentina's government, led by President Javier Milei, issued a decree on Monday (Oct 19) that opens a voluntary lay‑off program for roughly 21,000 federal public‑sector employees, part of its cost‑cutting agenda."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:39+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "9807dbb6-daa5-4f20-990d-9366eaa55072",
@@ -1850,8 +1758,7 @@
         "lead": "Brazil's Ministry of Foreign Affairs denounced on Tuesday (Oct 20) that Argentine President Javier Milei used social media to hint at fraud in the second round of Brazil's presidential election, scheduled for Oct 25."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:40+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "549a9693-5043-4607-a2f0-25bcc969f0b5",
@@ -1882,8 +1789,7 @@
         "lead": "The 2026 Orionids meteor shower will be visible across Chile, with schedule details and viewing recommendations released by local observatories."
       }
     },
-    "atualizacao_de": "3d2d5b08-9801-4f2b-a112-c28d15a7874b",
-    "imagem_verificada_em": "2026-11-07T13:23:40+00:00"
+    "atualizacao_de": "3d2d5b08-9801-4f2b-a112-c28d15a7874b"
   },
   {
     "id": "3b14a6d1-ad0e-463b-b96a-b0b1bd72acab",
@@ -1914,8 +1820,7 @@
         "lead": "Sources indicate that negotiations between Mexico and the United States are advancing toward a new trade agreement, although no official confirmation has been made."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:41+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "49f3ffa1-93c8-43bf-99e2-2a297194c2d3",
@@ -1946,8 +1851,7 @@
         "lead": "The 26th Federal Court in Rio de Janeiro ordered the freezing of up to R$ 10 million in assets of Voos Rio Panorâmico and Aeronautical Services, following the fatal helicopter crash in the Tijuca Forest that killed four people."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:41+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "26687355-5d79-42b7-8aa7-ac21d7bd8b3b",
@@ -1978,8 +1882,7 @@
         "lead": "Samuel Dyer, environmental policy analyst, said Peru still lacks a comprehensive plan for managing the Amazon, highlighting gaps in coordination across sectors."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:42+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "cab5430c-443a-41e3-bf77-44c58808ea69",
@@ -2010,8 +1913,7 @@
         "lead": "The Mega‑Sena contest 3,071 held on Sunday (October 18) had no ticket matching all six numbers, raising the estimated prize for the next draw, scheduled for Tuesday (October 20), to about R$ 185 million."
       }
     },
-    "atualizacao_de": "db2a6ab8-da59-489e-99f0-b68cd2519c9d",
-    "imagem_verificada_em": "2026-11-07T13:23:42+00:00"
+    "atualizacao_de": "db2a6ab8-da59-489e-99f0-b68cd2519c9d"
   },
   {
     "id": "81f13495-1f55-4e0b-b45e-96b4722e4e89",
@@ -2042,8 +1944,7 @@
         "lead": "The reality show Exatlón Mexico announced today the elimination of contestant number 8, who lost the survival duel."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:42+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "5bbbf021-6766-4489-ad3c-3e9ef0f37263",
@@ -2074,8 +1975,7 @@
         "lead": "The vote that ends the 6x1 work schedule and cuts the weekly hours to 40 received attention from international media, which interpreted it as a political gain for President Luiz Inácio Lula da Silva ahead of the runoff election."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:42+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "ba9481ea-4d30-45b6-a09f-84cd52ac9983",
@@ -2106,8 +2006,7 @@
         "lead": "Recent data show that the economy of Argentina's Neuquén province expanded by 32% over a three‑year period, according to official indicators."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-07T13:23:43+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "ea0a8a32-ad1b-4b11-b002-2bdd080d2c50",
@@ -2138,8 +2037,7 @@
         "lead": "The bilateral relationship between Mexico and France, spanning from 1808 to 2026, alternates between phases of cultural and economic cooperation and episodes of political divergence."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:01+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "66a7652d-9ea1-4546-8ff7-394d3cccfb83",
@@ -2170,8 +2068,7 @@
         "lead": "An Oxfam report released on World Food Day reveals that Brazil was the second‑largest importer of pesticides prohibited by the European Union in 2024, receiving about 15,000 tonnes, behind only the United States."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:01+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "1d62c485-0a7e-433e-a83e-28e9f3538b37",
@@ -2202,8 +2099,7 @@
         "lead": "The US dollar ended the trading day of October 16, 2026 at an unexpected level in Colombia, according to data released by local currency markets."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:02+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "b0710ec4-7e0c-42df-a06e-9108562b83fa",
@@ -2234,8 +2130,7 @@
         "lead": "On the morning of Thursday (15), Brazil's Federal Police and the São Paulo Public Prosecutor's Office launched Operation YellowCode, leading to the temporary arrest of 14 individuals and searches in five cities across São Paulo and Paraná states."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:02+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "168b205b-cbbc-4cd4-8144-6b03b60ddf73",
@@ -2266,8 +2161,7 @@
         "lead": "Limited information indicates that Noia has approached Jimbee's wound, who is in an extreme state of vulnerability."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:03+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "db2a6ab8-da59-489e-99f0-b68cd2519c9d",
@@ -2298,8 +2192,7 @@
         "lead": "In the draw held on Wednesday (14) at the Espaço da Sorte in São Paulo, no ticket matched all six numbers, pushing the jackpot to R$ 170 million for the next contest."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:03+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "152f75c0-d7fb-42e1-a0fd-4ee9f1e7e6a4",
@@ -2330,8 +2223,7 @@
         "lead": "This year, the music of Colombian composer Pacho Galán reaches its 120th anniversary, underscoring his lasting impact on Latin America's popular culture."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:03+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "2202b5b0-05d7-4d63-9970-ada46d8f0080",
@@ -2362,8 +2254,7 @@
         "lead": "In the early hours of Wednesday (the 14th), a portion of the plaster ceiling of the corridor known as the “tunnel of time”, which links Annex II to the Green Hall, collapsed, forcing the passage to be closed."
       }
     },
-    "atualizacao_de": "8a2d6987-139e-4892-b629-c7c6b6998e76",
-    "imagem_verificada_em": "2026-11-08T13:44:03+00:00"
+    "atualizacao_de": "8a2d6987-139e-4892-b629-c7c6b6998e76"
   },
   {
     "id": "70d37a37-4cc0-4a56-9d80-3d14e1197384",
@@ -2394,8 +2285,7 @@
         "lead": "The United Nations General Assembly adopted, on Monday (12), a text that urges member states to intensify collaboration on prevention, preparation and response to future health crises."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:04+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "f9c8e55a-5cc4-4f18-8075-c7068a3f7133",
@@ -2426,8 +2316,7 @@
         "lead": "The Federal Highway Police (PRF) reported that 68 people died and 969 were injured in traffic accidents during the extended holiday from October 9 to 12."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:04+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "d68b48f4-0566-4a2a-9dfd-deab2f215a4b",
@@ -2458,8 +2347,7 @@
         "lead": "Data from the Social Security Statistical Bulletin (BESS) show that ending the pension moratorium and a new benefit‑calculation formula reduced new retiree entries from 213.9 thousand to 99.6 thousand between the first half of 2024 and the same period in 2026."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:04+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "45bc6f12-1ab8-44a3-9d47-d488a3635c43",
@@ -2490,8 +2378,7 @@
         "lead": "The government plans of candidates Luiz Inácio Lula da Silva (PT) and Flávio Bolsonaro (PL) present antithetical proposals for Brazilian foreign policy, with emphasis respectively on strengthening BRICS and regional integration or on closer ties with the United States, Israel, and Argentina."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:05+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "8bafdc4c-55a9-4dd8-b488-9c9f9fd91a70",
@@ -2522,8 +2409,7 @@
         "lead": "The 71-year-old pontiff arrived at the institution in Rome on Tuesday (13) for the surgical procedure, which was confirmed as necessary by doctors after identifying a nodule in its early stages."
       }
     },
-    "atualizacao_de": "57af74f3-7b28-417b-96db-ab97bffea9e0",
-    "imagem_verificada_em": "2026-11-08T13:44:05+00:00"
+    "atualizacao_de": "57af74f3-7b28-417b-96db-ab97bffea9e0"
   },
   {
     "id": "a3861249-c50b-48c8-a4e7-d0bb12e1e5d8",
@@ -2554,8 +2440,7 @@
         "lead": "The Capital Homicide Division is investigating the death of Sub‑Lieutenant Glaucio Marcelo Fonseca da Silva, 54, during a gunfight with Jacarepaguá battalion officers on the morning of October 11."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:05+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "6a208c24-3f5e-44b5-bc01-08a3696bc1d3",
@@ -2586,8 +2471,7 @@
         "lead": "Journalist Rogério Tomaz Jr., known for criticizing President Javier Milei, was barred from entering Argentina on Monday (Oct 12) and had his permanent residency cancelled, with a five‑year ban on re‑entry."
       }
     },
-    "atualizacao_de": "79565d62-9f0e-476a-9a52-367fda4596b1",
-    "imagem_verificada_em": "2026-11-08T13:44:06+00:00"
+    "atualizacao_de": "79565d62-9f0e-476a-9a52-367fda4596b1"
   },
   {
     "id": "d7bc9082-8a30-49d6-bde4-33a76a4faedd",
@@ -2618,8 +2502,7 @@
         "lead": "An international ranking revealed that eleven Brazilian firms were placed among the world's best workplaces."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:06+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "57af74f3-7b28-417b-96db-ab97bffea9e0",
@@ -2650,8 +2533,7 @@
         "lead": "The pontiff announced he will undergo surgery in the early days of next week at Rome’s Hospital Polyclinic Gemelli after an early‑stage lung nodule was identified."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:07+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "6914caad-4c64-4c82-8a65-be22e1331c2f",
@@ -2682,8 +2564,7 @@
         "lead": "A pilot lost his life when an Embraer monoplane collided with structures in the Belo Horizonte metro maintenance yard around 11:15 a.m. on Friday, October 9, 2026."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:07+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "3d2d5b08-9801-4f2b-a112-c28d15a7874b",
@@ -2714,8 +2595,7 @@
         "lead": "Each year the Draconid meteor shower crosses the Mexican sky, offering a naked‑eye spectacle on peak nights."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:07+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "1c8e0a4d-5749-4de9-b8d7-0b09767b4952",
@@ -2746,8 +2626,7 @@
         "lead": "Two Brazilian citizens in Poland sought the Brazilian Embassy in Warsaw after far‑right deputy Dominik Tarczyński posted a request for information about them on X."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:08+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "345738d2-2a7a-4433-a87c-33f6f42aed6e",
@@ -2778,8 +2657,7 @@
         "lead": "The Norwegian Nobel Committee announced on Friday (October 9) that the 2026 prize will be presented to South African jurist Navanethem “Navi” Pillay, 85, recognized for her work in international law and human‑rights advocacy. Pillay, former president of the International Criminal Tribunal for Rwanda and former UN High Commissioner for Human Rights, was honored for her contribution to global peace."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:08+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "06fe4710-9fa6-4d1b-a9dc-2d963ecd1613",
@@ -2810,8 +2688,7 @@
         "lead": "The Mexican state of Tlaxcala has been chosen as the venue for the inaugural international gathering dedicated to the Talavera ceramic tradition, bringing together experts and artisans from both countries."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:08+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "be172d77-d05c-4a7a-8845-73ba1777daef",
@@ -2842,8 +2719,7 @@
         "lead": "In an effort to strengthen economic ties, the United States government has launched a mission in Buenos Aires to promote investments in Argentina's strategic sectors."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:09+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "da97915a-4e33-49a2-8453-20664a1aa1ae",
@@ -2874,8 +2750,7 @@
         "lead": "Three years after Hamas's attack on Israel, the Middle East experienced a series of conflicts and bloc reorganizations that altered the region's power balance."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:09+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "239c0004-cbd6-42ee-820c-a07e5218cc84",
@@ -2906,8 +2781,7 @@
         "lead": "A fire that struck a building on the Recife campus of the Federal University of Pernambuco (UFPE) this night caused damages the rector estimates at around 100 million reais, including the loss of laboratories and 20 years of research data."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:09+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "701cd8a0-b68d-49bf-9613-43719d784169",
@@ -2938,8 +2812,7 @@
         "lead": "Prime Minister Pedro Sánchez announced early elections for November 29, while the UGT and CCOO unions set a 24‑hour general strike for November 11 to protest the housing crisis."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:10+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "97497a67-799a-4e7e-96d1-346fbd8abfa2",
@@ -2970,8 +2843,7 @@
         "lead": "Brazil's Receita Federal has begun mailing notices to 498,000 taxpayers whose 2026 individual income tax returns were placed in the audit queue, giving them until October 20 to regularise voluntarily."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:10+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "87570e86-4ae1-401b-b03a-21d2220a423d",
@@ -3002,8 +2874,7 @@
         "lead": "The 2026 Nobel Prize in Physics was awarded to Belgian Francis Halzen, recognized for his leadership of the IceCube neutrino observatory and for detecting high‑energy astrophysical neutrinos."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:10+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "ccc568ab-76f7-4d1c-9c64-4acbc91ffcb3",
@@ -3034,8 +2905,7 @@
         "lead": "Cilia Flores, wife of Venezuelan President Nicolás Maduro, has been diagnosed with a serious heart condition, according to information released recently."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:11+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "7fb05e21-c2fe-4e3b-8164-856b26fc9b25",
@@ -3066,8 +2936,7 @@
         "lead": "From this Tuesday (6), all sports betting and online gaming sites and apps are blocked nationwide, as mandated by Provisional Measure 1.394/2026."
       }
     },
-    "atualizacao_de": "b43172b3-54c3-48df-91c6-5ce701b975d4",
-    "imagem_verificada_em": "2026-11-08T13:44:12+00:00"
+    "atualizacao_de": "b43172b3-54c3-48df-91c6-5ce701b975d4"
   },
   {
     "id": "89fa2310-8493-48a2-83ff-f8afdab7aaf9",
@@ -3098,8 +2967,7 @@
         "lead": "A World Health Organization report indicates that two in three young people in the region faced violence or neglect in childhood, impacting their mental health and social integration."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:12+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "fe7f378f-9b45-4848-949e-692e07bcc584",
@@ -3130,8 +2998,7 @@
         "lead": "In an interview with GDELT, Brazilian artist Lyz Parayzo stated that Brazilian art retains its literalness and that she does not want to be defined by identity debates."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:12+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "ae0b7ced-1473-4356-acf1-4644898d2297",
@@ -3162,8 +3029,7 @@
         "lead": "The president ordered the reversal of the recent gasoline price adjustment, a move carried out by the Ministry of Mines and Energy and the Ministry of Finance."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:13+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "087413e9-c7a6-468b-9c36-61d4d0e875f8",
@@ -3194,8 +3060,7 @@
         "lead": "A The Guardian report indicates that the United States government earmarked US$ 1 million to the Human Rights and Democracy Fund to support civil groups opposing Brazil's Supreme Federal Court, and also disclosed a US$ 176.9 million package for 43 projects worldwide."
       }
     },
-    "atualizacao_de": "5b0425b4-f6a8-49c3-988b-eabd4298f91f",
-    "imagem_verificada_em": "2026-11-08T13:44:13+00:00"
+    "atualizacao_de": "5b0425b4-f6a8-49c3-988b-eabd4298f91f"
   },
   {
     "id": "efd6fbea-80ae-424b-af75-f242299b8f97",
@@ -3226,8 +3091,7 @@
         "lead": "Paraguayan citizens head to the polls this Sunday (4) to elect mayors and council members in 263 municipalities, in a process coordinated by the Superior Court of Electoral Justice using electronic ballot boxes."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:14+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "9b2b0cb6-6a8e-41ab-9b4a-720898d83091",
@@ -3258,8 +3122,7 @@
         "lead": "The diplomatic missions of the United States and Australia announced on Friday (Oct 2) the temporary closure of their consulates in several Brazilian cities, citing security concerns."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:14+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "b52e734d-6d36-4397-8623-bfb41f3f9699",
@@ -3290,8 +3153,7 @@
         "lead": "Edmand Lara, Bolivia's vice president, said President Rodrigo Paz's administration is preparing a fictitious legal case to arrest him and expressed fear for his safety while traveling in Spain."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:14+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "1c1b877c-443a-43c4-84d4-fe1c18ab3f5a",
@@ -3322,8 +3184,7 @@
         "lead": "Brazil's Federal Police carried out two preventive raids in São Paulo and the Federal District area after receiving information about a possible attack plan against the United States Embassy in the country."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:15+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "3863bf79-2ea1-4665-a1e2-13b6ce784349",
@@ -3354,8 +3215,7 @@
         "lead": "A newly released guide spotlights the most recommended virtual casino options for those starting to bet in the country."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:15+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "b49383d5-02d6-4506-a680-1495ab5b2b60",
@@ -3386,8 +3246,7 @@
         "lead": "On the night of October 30, Bolivian authorities detained the country's attorney general, Roger Mariaca, accused of heading a criminal organization and obstructing investigations into Argentine digital operator Fernando Cerimedo."
       }
     },
-    "atualizacao_de": "4afd174e-ec68-4da6-b1a0-6ef3428416f0",
-    "imagem_verificada_em": "2026-11-08T13:44:15+00:00"
+    "atualizacao_de": "4afd174e-ec68-4da6-b1a0-6ef3428416f0"
   },
   {
     "id": "ae276bad-9430-4e6e-8ae4-c9734b89201b",
@@ -3418,8 +3277,7 @@
         "lead": "A man was shot dead by a hitman in Sullana, in the Piura region, after being chased through the city's streets, according to local police reports."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:16+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "e24b5390-135d-4cb0-899d-2da568ec80a0",
@@ -3450,8 +3308,7 @@
         "lead": "Delegations from seven international organisations have arrived in Brazil to oversee the preparation, voting and counting of the general elections scheduled for October 4."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:17+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "92c2473c-b5ab-493a-af2c-4abe1a8f345d",
@@ -3482,8 +3339,7 @@
         "lead": "Boca Juniors midfielder Agustín Arruabarrena is set to have surgery and will be unavailable to play until the end of 2026, the Argentine club announced."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:17+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "5b0425b4-f6a8-49c3-988b-eabd4298f91f",
@@ -3514,8 +3370,7 @@
         "lead": "A Guardian report indicates that the United States government has earmarked one million dollars to fund civil‑society groups opposing Brazil’s Supreme Federal Court, citing a fight against “lawfare” and judicial censorship."
       }
     },
-    "atualizacao_de": "cb5f98d6-061e-45b4-b9bc-96eb5f616310",
-    "imagem_verificada_em": "2026-11-08T13:44:17+00:00"
+    "atualizacao_de": "cb5f98d6-061e-45b4-b9bc-96eb5f616310"
   },
   {
     "id": "60b3f65d-b630-4386-bf28-5f51e3db88c8",
@@ -3546,8 +3401,7 @@
         "lead": "The United States government, led by Donald Trump, announced on Tuesday (Sept. 29) a voluntary self‑regulation agreement for artificial intelligence with the sector’s biggest firms, but UFABC sociologist Sérgio Amadeu called the measure a ‘white paper’ for big tech."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:18+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "cb5f98d6-061e-45b4-b9bc-96eb5f616310",
@@ -3578,8 +3432,7 @@
         "lead": "Brazilian and United States governments announced on Wednesday (Sept 30) the formation of a working group aimed at discussing the tariffs imposed by Washington on Brazilian products."
       }
     },
-    "atualizacao_de": "bc82dbd5-64c0-43f1-851c-d9ae45a829a2",
-    "imagem_verificada_em": "2026-11-08T13:44:18+00:00"
+    "atualizacao_de": "bc82dbd5-64c0-43f1-851c-d9ae45a829a2"
   },
   {
     "id": "4afd174e-ec68-4da6-b1a0-6ef3428416f0",
@@ -3610,8 +3463,7 @@
         "lead": "The US State Department revoked the visa of Roger Mariaca, Bolivia's attorney general, citing involvement in corruption and a threat to democracy in the region."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:18+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "b07567b3-db5f-4fb9-92e6-e10ac7eacf26",
@@ -3642,8 +3494,7 @@
         "lead": "Businesses in Mexico are incorporating AI solutions to streamline processes, though they report technical and training difficulties."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:18+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "a452bbf1-7b25-4617-9e2d-e84f64b7b29a",
@@ -3674,8 +3525,7 @@
         "lead": "Scientist Denise Pires de Carvalho, president of CAPES, will assume the UNESCO Vice‑Director‑General for Science in the coming days, becoming the first Brazilian to hold the post since the UN was founded in 1945."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:19+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "cf5e39a1-9ed5-43e4-af17-d629d0b888e2",
@@ -3706,8 +3556,7 @@
         "lead": "Influencer Imelda Tun departed Mexican territory after being accused of the alleged homicide of Julián Figueroa and, days later, posted a statement on social media."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:19+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "9945628b-4cbc-4f66-9542-a07acb647c6a",
@@ -3738,8 +3587,7 @@
         "lead": "An unexpected religious movement, calling itself a “holy war”, has entered the race and is influencing the landscape of Brazil's presidential elections."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:20+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "1f21b89c-26bc-4657-ab53-ede137050c23",
@@ -3770,8 +3618,7 @@
         "lead": "U.S. President Donald Trump made statements about the risk of military intervention in Latin American and Caribbean countries during the opening of the 81st UN General Assembly in New York on September 22, 2026."
       }
     },
-    "atualizacao_de": "9831c815-f201-47b2-b195-f0f298bbe237",
-    "imagem_verificada_em": "2026-11-08T13:44:21+00:00"
+    "atualizacao_de": "9831c815-f201-47b2-b195-f0f298bbe237"
   },
   {
     "id": "1fa4a383-6c12-4064-b734-14de2835adbc",
@@ -3802,8 +3649,7 @@
         "lead": "The communications chief of Venezuelan opposition, linked to leader María Corina Machado, has returned to the country after a period of absence, signaling a new phase in the campaign."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:21+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "75cfdd1a-497d-4ba7-94dd-35264659cf9e",
@@ -3834,8 +3680,7 @@
         "lead": "In the opening address of the 81st UN General Assembly, U.S. President Donald Trump rejected any attempt to limit artificial intelligence development and criticized global regulatory initiatives."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:21+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "1dc20c19-c34a-41cc-abf4-ca832112776a",
@@ -3866,8 +3711,7 @@
         "lead": "The Dominican political party País Posible and the Intergovernmental Organization of the Peoples of the Americas (COPPPAL) announced a new training program that will bring 30 Dominican leaders to Mexico, where they will receive governance and leadership training."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:22+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "79565d62-9f0e-476a-9a52-367fda4596b1",
@@ -3898,8 +3742,7 @@
         "lead": "During the opening of the 81st UN General Assembly, President Luiz Inácio Lula da Silva criticized external powers’ influence in Latin America and reaffirmed Brazil’s position as a sovereign nation."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:22+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "7fb12f23-033d-4bc8-a650-7d1e9d254135",
@@ -3930,8 +3773,7 @@
         "lead": "The President of Asturias, Marcial Marín, known as 'Barbón', embarked on a tour of South America with the aim of strengthening institutional and cultural relations with communities of Asturian origin in Argentina and Uruguay."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:22+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "bc82dbd5-64c0-43f1-851c-d9ae45a829a2",
@@ -3962,8 +3804,7 @@
         "lead": "On Thursday (Sept. 24), Brazil's Central Bank and the European Central Bank began a feasibility study that could connect Pix to the Target Instant Payment Settlement (TIPS), expanding instant payments between Brazil and the euro area."
       }
     },
-    "atualizacao_de": "3360f564-1d14-49db-8d9b-447139e7db8d",
-    "imagem_verificada_em": "2026-11-08T13:44:23+00:00"
+    "atualizacao_de": "3360f564-1d14-49db-8d9b-447139e7db8d"
   },
   {
     "id": "88f1e546-08bc-4441-836f-8e3bb20dafc8",
@@ -3994,8 +3835,7 @@
         "lead": "An OpenAI artificial intelligence system accessed the Australian Medicare portal, which holds public‑health statistics, in an incident that took place on July 18 2026, as disclosed by Prime Minister Anthony Albanese."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-08T13:44:23+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "30cd9567-7d73-4df1-9c20-727ebc8cf3fb",
@@ -4026,8 +3866,7 @@
         "lead": "According to Fundar's Monthly Business Monitor, between November 2023 and June 2026, 31.3 thousand companies shut down, eliminating 245 thousand formal jobs."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:17+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "d5095cbb-37c6-4e1e-99c6-0b4852103496",
@@ -4058,8 +3897,7 @@
         "lead": "Experts say the US‑led coalition of 15 Latin American countries is linking the fight against drug trafficking to the containment of China’s economic presence."
       }
     },
-    "atualizacao_de": "3c93e9ce-6a54-4919-9205-0615d49ebbe0",
-    "imagem_verificada_em": "2026-11-09T16:43:17+00:00"
+    "atualizacao_de": "3c93e9ce-6a54-4919-9205-0615d49ebbe0"
   },
   {
     "id": "8a2d6987-139e-4892-b629-c7c6b6998e76",
@@ -4090,8 +3928,7 @@
         "lead": "In the September 24 edition, the Brazil on the World program, broadcast by TV Brasil at 10:30 p.m., examined the UN’s role amid the escalation of international conflicts and discussed the agenda of the 81st General Assembly."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:18+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "3fa3c04c-3b3d-45ae-9050-e14e2d2bd997",
@@ -4122,8 +3959,7 @@
         "lead": "Guidelines broadcast by Peruvian media highlight preventive measures to block popular digital wallets like Yape and Plin following the loss or theft of mobile devices."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:18+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "8166c69b-7aae-48b7-824f-726d46ad2c5a",
@@ -4154,8 +3990,7 @@
         "lead": "The Committee on the Amazon and Indigenous and Traditional Peoples of the Chamber of Deputies will hold a public hearing to discuss the creation of the National Indigenous Truth Commission."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:19+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "5e2a1e1b-8a1b-4051-8b9d-f50c5796586b",
@@ -4186,8 +4021,7 @@
         "lead": "Candidates for the Presidency of the Republic carried out diverse campaign agendas on Wednesday (9), combining rallies, meetings with economic sectors, and social demonstrations across different regions of Brazil."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:19+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "8dcc1de3-698b-4b5c-9e67-44dadc94dcce",
@@ -4218,8 +4052,7 @@
         "lead": "President Luiz Inácio Lula da Silva has publicly advocated for the complete removal of confidentiality surrounding investigations into the so-called Master case. The statement comes amid a severe institutional crisis affecting the Supreme Federal Court."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:20+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "87bbd750-bc12-4e46-868d-00a6001e490b",
@@ -4250,8 +4083,7 @@
         "lead": "A Chilean astronomer contributed to a landmark scientific discovery by recording the orbital interaction between massive stars, a phenomenon known in academic circles as a stellar 'nuptial dance.'"
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:20+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "bf8cae71-b23b-4f66-849d-d53a151574d3",
@@ -4282,8 +4114,7 @@
         "lead": "The federal government announced on Wednesday expanded relief measures to curb gasoline and diesel prices in the country. The move comes in response to the recent surge in global crude oil prices driven by Middle Eastern tensions."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:20+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "7180254e-4522-49e5-a9bd-f43a810d96e2",
@@ -4314,8 +4145,7 @@
         "lead": "A São Paulo court rejected utility firm Enel's weather-related force majeure defense and recognized operational failures during the major blackout of December 2025."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:21+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "99608079-f991-48bd-bea0-5235801a486a",
@@ -4346,8 +4176,7 @@
         "lead": "Argentine singer Tini Stoessel has returned to media attention following speculation regarding the possible meanings behind high-end accessories worn during her recent public appearances."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:22+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "33d24d21-87dd-4747-9664-ce169fbcac99",
@@ -4378,8 +4207,7 @@
         "lead": "The mother of two siblings missing for more than eight months in Bacabal, Maranhão state, has asked the Federal Police to place the children on an Interpol Yellow Notice."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:23+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "aaab1182-1782-4ebc-9b51-2b52e6383fa9",
@@ -4410,8 +4238,7 @@
         "lead": "The Brazilian federal government unveiled a new set of tax cuts and subsidies to contain rising fuel prices, carrying an estimated cost of 7 billion reais per month."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:23+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "01e2a44c-a264-4913-9a83-361e328b4f09",
@@ -4442,8 +4269,7 @@
         "lead": "Unclaimed funds in Brazilian financial institutions reached R$ 5.65 billion in July, marking an increase compared to the previous month, according to Central Bank data."
       }
     },
-    "atualizacao_de": "582ae289-1406-48d0-8bb2-075130b36cfc",
-    "imagem_verificada_em": "2026-11-09T16:43:23+00:00"
+    "atualizacao_de": "582ae289-1406-48d0-8bb2-075130b36cfc"
   },
   {
     "id": "4180d608-44de-4f45-8303-7f0885e37aee",
@@ -4474,8 +4300,7 @@
         "lead": "Brazil's National Civil Aviation Agency has approved temporary operating extensions at Congonhas Airport in São Paulo to mitigate the impact of extraordinary disruptions across the air network."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:23+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "d7bbdcce-b4ef-462d-aa24-9a39d9cbdca7",
@@ -4506,8 +4331,7 @@
         "lead": "The Firjan Senai network installed the Triangulum II educational quantum computer at its information technology center to train professionals for strategic industrial sectors."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:24+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "1dc1a772-6f8e-4b6d-baa7-091e9fcf1d51",
@@ -4538,8 +4362,7 @@
         "lead": "The federal government has officialized the release of R$ 6.98 billion in extraordinary credits through two provisional measures published this Tuesday. The funds are intended to cover economic subsidies in the fuel sector and strengthen financial support for the country's small-scale farmers."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:24+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "5d4994d1-4307-45f7-a39b-f427871041f7",
@@ -4570,8 +4393,7 @@
         "lead": "The film \"PRK-30 – O Rádio pelo Avesso\" hits theaters, highlighting the legacy of one of the most iconic comedy shows from the Golden Age of Brazilian radio."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:24+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "0ddd47a8-767f-44f2-8b5b-ddce3161ff28",
@@ -4602,8 +4424,7 @@
         "lead": "The Civil Police of the State of Rio de Janeiro launched an operation on Wednesday (9) to combat the illegal promotion and sale of abortion medications through social media and messaging apps."
       }
     },
-    "atualizacao_de": "e41ea044-42be-4192-a895-b27ab1ed4c3a",
-    "imagem_verificada_em": "2026-11-09T16:43:25+00:00"
+    "atualizacao_de": "e41ea044-42be-4192-a895-b27ab1ed4c3a"
   },
   {
     "id": "b86eec44-f51b-4afa-9e30-70f13746bb61",
@@ -4634,8 +4455,7 @@
         "lead": "The Argentine women's blind football team, known as \"Las Murciélagas,\" has been crowned champion of the Americas after defeating the Brazilian national team in the final of the continental tournament."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:25+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "b0195d8b-529e-42a4-bea1-efe589d6f79f",
@@ -4666,8 +4486,7 @@
         "lead": "The Brazilian Federal Police launched an operation on Wednesday to dismantle a criminal organization suspected of stealing high-value postal packages in the states of Rio de Janeiro and São Paulo."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:26+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "e41ea044-42be-4192-a895-b27ab1ed4c3a",
@@ -4698,8 +4517,7 @@
         "lead": "Brazil's Federal Police launched an operation to combat Nazi propaganda in the city of Valença, in upstate Rio de Janeiro. The action executed search and seizure warrants against suspects publishing extremist content on social media."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:26+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "b43172b3-54c3-48df-91c6-5ce701b975d4",
@@ -4730,8 +4548,7 @@
         "lead": "The governments of Colombia and the United States signed the so-called Barranquilla Agreements, marking a new step in the bilateral cooperation agenda between the two nations."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:27+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "b9385bb2-de10-4255-8555-8c722f3dabee",
@@ -4762,8 +4579,7 @@
         "lead": "Uruguay's financial market is experiencing relative stability in the US dollar exchange rate during September, a scenario accompanied by robust investor demand for inflation-linked government debt securities."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:27+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "7e86b659-2cac-4751-94ba-9f8f69c68c97",
@@ -4794,8 +4610,7 @@
         "lead": "The Brazilian financial market recorded an optimistic session on Tuesday, with the US dollar closing at R$ 5.089, its lowest value in a month, while the Ibovespa index rose 1.20% driven by the energy sector."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:28+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "118131db-f134-469e-a401-c761315164fe",
@@ -4826,8 +4641,7 @@
         "lead": "No players matched all six numbers in draw 3.055 of the Mega-Sena lottery, held this Tuesday (8), causing the main jackpot to accumulate to R$ 76 million. The next draw of the Brazilian lottery is scheduled for Thursday (10)."
       }
     },
-    "atualizacao_de": "660d00ef-e523-4498-8784-d5f239012ea3",
-    "imagem_verificada_em": "2026-11-09T16:43:28+00:00"
+    "atualizacao_de": "660d00ef-e523-4498-8784-d5f239012ea3"
   },
   {
     "id": "8d841521-28fc-4e60-8736-c422eae92390",
@@ -4858,8 +4672,7 @@
         "lead": "Statements in the state of Puebla have reinforced political support for Mexican President Claudia Sheinbaum regarding initiatives aimed at safeguarding national sovereignty."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:28+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "6084bc93-5c84-4ed1-a6e6-5225fcadd2a7",
@@ -4890,8 +4703,7 @@
         "lead": "The board of the Securities and Exchange Commission imposed fines totaling 201 million reais on 16 defendants for irregularities involving the Brazil Realty fund."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:29+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "e306d481-1b8a-43a1-840f-9f43dcbe43f9",
@@ -4922,8 +4734,7 @@
         "lead": "Digital strategist and consultant Cerimedo spoke publicly after being transferred to a maximum-security prison facility in Bolivia."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:29+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "1bd56ee6-35a4-496d-80fc-9833736a7d16",
@@ -4954,8 +4765,7 @@
         "lead": "Mexican politician Ricardo Anaya strongly criticized Mexico's performance in the Programme for International Student Assessment (PISA), describing the country's educational outcomes as a true tragedy."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:30+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "eedb1d98-edf2-484a-9fad-dd1dcadf6ce5",
@@ -4986,8 +4796,7 @@
         "lead": "Rio de Janeiro Civil Police have concluded their investigation into the death of Cláudio Rafael Landeiro Moreira, indicting 13 individuals involved in the fatal beating of the victim, who was falsely accused of theft in Copacabana."
       }
     },
-    "atualizacao_de": "a4e315ab-26a9-49c5-8dc2-de94af06699d",
-    "imagem_verificada_em": "2026-11-09T16:43:30+00:00"
+    "atualizacao_de": "a4e315ab-26a9-49c5-8dc2-de94af06699d"
   },
   {
     "id": "84cc799f-a62d-4278-9bc4-8f9b0559b77a",
@@ -5018,8 +4827,7 @@
         "lead": "An investigation by the non-governmental organization Mercy For Animals documented the disposal of thousands of newborn male chicks in the Brazilian poultry industry, reigniting the debate over animal welfare and the adoption of alternative technologies in the country."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:31+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "d11c3801-a66a-4325-a80a-4c33792a52fc",
@@ -5050,8 +4858,7 @@
         "lead": "An engineering specialist has submitted a request to the executive leadership of Argentine state oil company YPF for the upgrade and expansion of National Route 5. The petition is driven by a significant rise in road traffic resulting from the operational surge at the Vaca Muerta oil and gas field."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:31+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "668ac9fa-7e77-43f1-be94-734d1773da8e",
@@ -5082,8 +4889,7 @@
         "lead": "Peruvian model and public figure Onelia Molina caught the attention of local media after an unexpected interaction with the ex-partner of her fiancé, Mario Irivarren, shortly after announcing their marriage engagement."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:32+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "bd048e5a-185c-4146-9de3-e263981ec73d",
@@ -5114,8 +4920,7 @@
         "lead": "Draw 3,055 of Brazil's Mega-Sena lottery is set to award an estimated jackpot of 70 million reais this Tuesday, after no players matched all six winning numbers in the previous round."
       }
     },
-    "atualizacao_de": "660d00ef-e523-4498-8784-d5f239012ea3",
-    "imagem_verificada_em": "2026-11-09T16:43:32+00:00"
+    "atualizacao_de": "660d00ef-e523-4498-8784-d5f239012ea3"
   },
   {
     "id": "500dfd28-af1d-4faa-ab1a-1581dccc484f",
@@ -5146,8 +4951,7 @@
         "lead": "Presidential hopefuls in Brazil are focusing their campaign activities this Tuesday on media interviews, political forums, and meetings with local leaders across several regions."
       }
     },
-    "atualizacao_de": "6c3fb8ef-435e-433c-b28d-26857e39bc47",
-    "imagem_verificada_em": "2026-11-09T16:43:32+00:00"
+    "atualizacao_de": "6c3fb8ef-435e-433c-b28d-26857e39bc47"
   },
   {
     "id": "ef525ea5-bc99-44eb-8834-520f1964a0be",
@@ -5178,8 +4982,7 @@
         "lead": "A member of Israel's cabinet has publicly backed Argentina's sovereignty claim over the Falkland Islands (Malvinas) and requested Prime Minister Benjamin Netanyahu to formally endorse Buenos Aires' position."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:33+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "bd3c8bb8-21ed-4bd0-a049-b184c3aaf1d1",
@@ -5210,8 +5013,7 @@
         "lead": "Financial market expectations for official inflation in Brazil fell to 5% this year, according to data released by the Central Bank in its Focus Bulletin."
       }
     },
-    "atualizacao_de": "263093d8-7a39-4352-b200-e2f2600c6b61",
-    "imagem_verificada_em": "2026-11-09T16:43:33+00:00"
+    "atualizacao_de": "263093d8-7a39-4352-b200-e2f2600c6b61"
   },
   {
     "id": "1738488c-581f-4f4c-aed6-8a6f687fb6b7",
@@ -5242,8 +5044,7 @@
         "lead": "A new legislative proposal in Colombia suggests the implementation of 20 modifications to the country's National Traffic Code, aiming to redefine mobility rules and directly impact the daily lives of drivers."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:34+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "0d79cb1e-ffa4-4e44-8e32-4aff9733e1ae",
@@ -5274,8 +5075,7 @@
         "lead": "Israel's National Security Minister, Itamar Ben Gvir, has requested Prime Minister Benjamin Netanyahu to officially recognize Argentina's sovereignty over the Malvinas Islands."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:35+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "9831c815-f201-47b2-b195-f0f298bbe237",
@@ -5306,8 +5106,7 @@
         "lead": "The term \"lying budget\" reflects a recurring criticism from analysts and opposition figures in Latin America regarding the lack of realism in governments' fiscal and revenue projections."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:35+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "6c3fb8ef-435e-433c-b28d-26857e39bc47",
@@ -5338,8 +5137,7 @@
         "lead": "The MiLoto game announced its latest drawn numbers in Colombia, highlighting the country's regulated lottery and gaming market."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:35+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "3360f564-1d14-49db-8d9b-447139e7db8d",
@@ -5370,8 +5168,7 @@
         "lead": "Contenders for Brazil's presidency carried out public campaign activities during the Independence Day holiday, delivering speeches focused on public security, judicial reform, and national sovereignty."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:36+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "92a1d59d-55a0-41ca-91d6-4c28d1e82e98",
@@ -5402,8 +5199,7 @@
         "lead": "A post shared by former US President Donald Trump has sparked strong regional reactions by displaying the United States flag covering the entire territories of Mexico, Canada, and Caribbean islands."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:36+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "de4fd25b-70d4-4c2f-a86b-31192ab588d0",
@@ -5434,8 +5230,7 @@
         "lead": "Despite the rain, thousands of spectators attended the civil-military parade on Presidente Vargas Avenue to celebrate Brazil's Independence Day."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:36+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "474c0d5a-1514-4a2c-82c7-a76219c30af8",
@@ -5466,8 +5261,7 @@
         "lead": "Grassroots movements and civil society organizations took to the streets on Independence Day to demand decent housing, social reforms, and measures against violence."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:37+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "efd84db2-20f1-4144-8883-f604073ad3c9",
@@ -5498,8 +5292,7 @@
         "lead": "A comprehensive survey of creative industries in Cochabamba has delivered strategic insights into the local cultural sector, placing the department firmly on Bolivia's Orange Economy map."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:37+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "5cf822c1-bdb9-48bc-901d-b018d58225b4",
@@ -5530,8 +5323,7 @@
         "lead": "Street vendors and informal workers capitalized on large crowds at the Esplanade of Ministries to secure extra income and provide for their families during the Independence Day holiday."
       }
     },
-    "atualizacao_de": "fe1f8aa2-e5b9-46be-ab6d-7d06d63f3d7c",
-    "imagem_verificada_em": "2026-11-09T16:43:38+00:00"
+    "atualizacao_de": "fe1f8aa2-e5b9-46be-ab6d-7d06d63f3d7c"
   },
   {
     "id": "9f9e1877-7bc2-4788-a445-6fed64a7a055",
@@ -5562,8 +5354,7 @@
         "lead": "Brazil's traditional Independence Day civic-military parade on the Esplanada dos Ministérios centers on national sovereignty, combating gender violence, and hosting the 2027 Women's World Cup."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:38+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "2a8abbe9-3acb-4d8a-9c27-8dd517e98f6d",
@@ -5594,8 +5385,7 @@
         "lead": "The traditional September 7th civic-military parade began this Monday morning at the Esplanade of Ministries in Brasilia, gathering the country's top officials under thematic pillars focused on sovereignty and social issues."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:39+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "38683c6b-f97f-4ee4-9e01-3a23656c3599",
@@ -5626,8 +5416,7 @@
         "lead": "Presidential hopefuls have set their schedules for this Monday, September 7, seizing Brazil's Independence Day holiday to hold political rallies, grant interviews, and join demonstrations."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:39+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "fef164b1-1f0c-447f-b482-c50412f52fe2",
@@ -5658,8 +5447,7 @@
         "lead": "Citizens from various parts of the country and outer districts of the Federal District gathered in the early hours of the morning at the Esplanada dos Ministérios in Brasília to watch the Independence Day parade."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:39+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "173d322c-c98a-4282-b266-d67cc42310d5",
@@ -5690,8 +5478,7 @@
         "lead": "The region of El Calafate, in Argentine Patagonia, attracts visitors with nature tourism options that include glacier trekking, forest trails, and visits to frozen waterfalls."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:40+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "249610ac-4f16-4def-b91d-32e5ed6979dc",
@@ -5722,8 +5509,7 @@
         "lead": "Presidential contenders held campaign events in various regions of Brazil on the 5th and 6th, highlighting proposals for education, public security, the economy, and health care."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:40+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "5ba41949-0822-468f-800c-851b4d9f1f7b",
@@ -5754,8 +5540,7 @@
         "lead": "In an official broadcast on the eve of Independence Day, President Luiz Inácio Lula da Silva stated that Brazil will not tolerate foreign interference in its political and trade decisions. The head of state emphasized national autonomy in managing strategic natural resources and international commerce."
       }
     },
-    "atualizacao_de": "b929be6b-9869-4a72-abb8-ed84f6f2e64d",
-    "imagem_verificada_em": "2026-11-09T16:43:41+00:00"
+    "atualizacao_de": "b929be6b-9869-4a72-abb8-ed84f6f2e64d"
   },
   {
     "id": "20eee842-be21-457f-a43d-4608e487ecc6",
@@ -5786,8 +5571,7 @@
         "lead": "Brazil's Institute of Geography and Statistics (IBGE) will make updated world map versions available on its online store starting September 7, aligning with a recent UN General Assembly decision to adopt a more proportional cartographic projection for the Global South."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:41+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "582ae289-1406-48d0-8bb2-075130b36cfc",
@@ -5818,8 +5602,7 @@
         "lead": "No ticket matched all six numbers in draw 3,054 of the Mega-Sena lottery in São Paulo, pushing the estimated jackpot to 70 million reais for the next drawing."
       }
     },
-    "atualizacao_de": "29219b6e-9063-43c0-91ae-102ae4e63a9a",
-    "imagem_verificada_em": "2026-11-09T16:43:41+00:00"
+    "atualizacao_de": "29219b6e-9063-43c0-91ae-102ae4e63a9a"
   },
   {
     "id": "3c93e9ce-6a54-4919-9205-0615d49ebbe0",
@@ -5850,8 +5633,7 @@
         "lead": "Consular staff in Mexico are undergoing specialized training focused on enhancing assistance and services provided to migrant citizens in the country."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-09T16:43:42+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "3a1403de-6550-4f25-a51b-c8076807d625",
@@ -5882,8 +5664,7 @@
         "lead": "The Esplanada dos Ministérios in Brasilia is set to host around 30,000 people for Brazil's Independence Day celebrations. The official operation features enhanced policing, traffic blockades, and free public transit."
       }
     },
-    "atualizacao_de": "76157359-33ca-4f08-9f4a-ce12f4e59023",
-    "imagem_verificada_em": "2026-11-09T16:43:43+00:00"
+    "atualizacao_de": "76157359-33ca-4f08-9f4a-ce12f4e59023"
   },
   {
     "id": "c74e3942-3659-4f82-9652-dccd6a718124",
@@ -5914,8 +5695,7 @@
         "lead": "A new form of identity fraud, dubbed the \"lookalike scam,\" utilizes facial comparison technology to identify victims who physically resemble the criminals themselves in an effort to bypass biometric systems."
       }
     },
-    "atualizacao_de": "9eb6fdef-5c92-420c-87d9-b79c02fffd41",
-    "imagem_verificada_em": "2026-11-09T16:43:43+00:00"
+    "atualizacao_de": "9eb6fdef-5c92-420c-87d9-b79c02fffd41"
   },
   {
     "id": "a4e315ab-26a9-49c5-8dc2-de94af06699d",
@@ -5946,8 +5726,7 @@
         "lead": "A major fire struck the fruit pavilion at the São Paulo General Warehouses and Supply Company (Ceagesp) on Saturday night, destroying nearly 320 commercial stalls without causing any casualties."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-10T15:06:16+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "781b1871-1369-4e50-aa1e-8ceaa44106f7",
@@ -5978,8 +5757,7 @@
         "lead": "Official statistics indicate an upward trend in Chile's purchases of Peruvian goods, reinforcing the commercial dynamism between the two neighboring countries."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-10T15:06:16+00:00"
+    "atualizacao_de": null
   },
   {
     "id": "263093d8-7a39-4352-b200-e2f2600c6b61",
@@ -6010,7 +5788,6 @@
         "lead": "Economic agents and the foreign exchange market are tracking the closing value of the US dollar against the Peruvian sol, reflecting the country's broader financial trends."
       }
     },
-    "atualizacao_de": null,
-    "imagem_verificada_em": "2026-11-10T15:06:17+00:00"
+    "atualizacao_de": null
   }
 ]
