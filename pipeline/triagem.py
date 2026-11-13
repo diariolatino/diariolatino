@@ -31,7 +31,17 @@ publieditorial, listas e curiosidades, clickbait, opinião sem fato novo, notas 
 policiais locais sem relevância regional, assunto sem ligação com a América Latina, \
 material vago ou curto demais, notícia requentada.
 
-Responda SOMENTE em JSON: {"avaliacoes": [{"i": 1, "nota": 8, "motivo": "até 12 palavras"}]}
+Além da nota, indique para cada candidato:
+- "pais": o país principal da notícia, escolhido EXATAMENTE entre: Argentina, Bolívia, \
+Brasil, Chile, Colômbia, Costa Rica, Cuba, Equador, El Salvador, Guatemala, Haiti, \
+Honduras, México, Nicarágua, Panamá, Paraguai, Peru, Porto Rico, República Dominicana, \
+Uruguai, Venezuela, ou "América Latina" (bloco regional/tema continental), ou "Outro" \
+(fora da região, sem ligação central com ela).
+- "urgente": true SÓ para fato excepcional e inequívoco (morte ou renúncia de chefe de \
+Estado, golpe, catástrofe com muitas vítimas, atentado, guerra, decisão histórica de corte \
+internacional). Na grande maioria dos casos é false.
+
+Responda SOMENTE em JSON: {"avaliacoes": [{"i": 1, "nota": 8, "pais": "Brasil", "urgente": false, "motivo": "até 12 palavras"}]}
 Use o número "i" de cada candidato exatamente como recebido."""
 
 
@@ -78,7 +88,9 @@ def _interpretar(texto, n):
         try:
             i = int(str(a.get("i", a.get("indice", ""))).strip().rstrip(".")) 
             if 1 <= i <= n:
-                saida[i] = (float(str(a["nota"]).replace(",", ".")), str(a.get("motivo", "")))
+                saida[i] = (float(str(a["nota"]).replace(",", ".")), str(a.get("motivo", "")),
+                            str(a.get("pais") or "").strip(),
+                            str(a.get("urgente")).strip().lower() == "true")
         except (ValueError, KeyError, TypeError, AttributeError):
             continue
     return saida
@@ -91,7 +103,7 @@ def _pedir_notas(candidatos):
                       f"   FONTE: {c.get('fonte', '?')}")
     corpo = {"messages": [{"role": "system", "content": PROMPT},
                           {"role": "user", "content": "\n".join(linhas)}],
-             "temperature": 0.2, "max_tokens": 900, "response_format": {"type": "json_object"}}
+             "temperature": 0.2, "max_tokens": 2500, "response_format": {"type": "json_object"}}
     anterior, orcamento_ia.finalidade_atual = orcamento_ia.finalidade_atual, "triagem"
     cota = False
     try:
@@ -130,23 +142,24 @@ def avaliar_e_filtrar(candidatos):
     """Devolve [(candidato, nota)] só com os que passaram, melhor nota primeiro.
     None = não foi possível avaliar agora (a execução deve esperar)."""
     cache = _ler_cache()
-    novos = [c for c in candidatos if c["id"] not in cache][:LOTE]
+    novos = [c for c in candidatos if c["id"] not in cache or "pais" not in cache[c["id"]]][:LOTE]  # nota antiga sem país = reavaliar
     if novos:
         notas = _pedir_notas(novos)
         if notas is None and not any(c["id"] in cache for c in candidatos):
             return None
-        for cid, (nota, motivo) in (notas or {}).items():
-            cache[cid] = {"nota": nota, "motivo": motivo, "em": time.time()}
+        for cid, (nota, motivo, pais, urgente) in (notas or {}).items():
+            cache[cid] = {"nota": nota, "motivo": motivo, "pais": pais, "urgente": urgente, "em": time.time()}
         _gravar_cache(cache)
     aprovados = []
     for pos, c in enumerate(candidatos):
         reg = cache.get(c["id"])
-        if reg is None:
+        if reg is None or "pais" not in reg:
             continue
         ok = reg["nota"] >= NOTA_MINIMA
         if c in novos:
             print(f"  [triagem] {reg['nota']:.0f}/10 {'✔' if ok else '✘'} {c.get('titulo', '')[:70]} — {reg['motivo']}")
         if ok:
+            c["_triagem"] = {"nota": reg["nota"], "pais": reg.get("pais", ""), "urgente": bool(reg.get("urgente"))}
             aprovados.append((-reg["nota"], pos, c, reg["nota"]))
     aprovados.sort(key=lambda t: (t[0], t[1]))
     return [(c, nota) for _, _, c, nota in aprovados]
