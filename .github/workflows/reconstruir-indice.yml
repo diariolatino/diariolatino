@@ -1,0 +1,34 @@
+name: Reconstruir índice de notícias
+
+on:
+  workflow_dispatch: {}
+
+concurrency:
+  group: publicar-noticias
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  reconstruir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Reconstruir articles.json
+        run: python -m pipeline.reconstruir_indice
+      - name: Commit
+        run: |
+          git config user.name "diario-latino-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add site/data
+          if git diff --cached --quiet; then echo "Índice já estava íntegro"; exit 0; fi
+          git commit -m "Reconstrói índice de notícias"
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep 5
+          done
+          exit 1
