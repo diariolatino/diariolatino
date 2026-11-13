@@ -13,8 +13,8 @@ def _carregar_json(caminho, padrao):
     return padrao
 
 
-    def _salvar_json(caminho, dados):
-        escrever_json_atomico(caminho, dados)
+def _salvar_json(caminho, dados):
+    escrever_json_atomico(caminho, dados)  # grava num temporário e troca: nunca deixa arquivo pela metade
 
 
 def ja_publicado(candidato_id: str) -> bool:
@@ -23,7 +23,8 @@ def ja_publicado(candidato_id: str) -> bool:
 
 
 def carregar_artigos_publicados() -> list:
-    return ler_indice()
+    return ler_indice()  # se o índice estiver corrompido, reconstrói a partir de artigos/
+
 
 def marcar_como_visto(candidato_id: str):
     vistos = _carregar_json(config.SEEN_IDS_PATH, [])
@@ -36,6 +37,7 @@ def publicar(materia_gerada: dict, candidato: dict, imagem: dict | None, materia
     if candidato.get("url_original"):
         pass  # o link original fica guardado, mas não é reproduzido como conteúdo
 
+    agora = datetime.now(timezone.utc).isoformat()
     artigo = {
         "id": str(uuid.uuid4()),
         "titulo": materia_gerada["titulo"],
@@ -43,34 +45,28 @@ def publicar(materia_gerada: dict, candidato: dict, imagem: dict | None, materia
         "corpo": materia_gerada["corpo"],
         "categoria": materia_gerada.get("categoria") or "Mundo",
         "pais": materia_gerada.get("pais") or "América Latina",
-        "publicado_em": datetime.now(timezone.utc).isoformat(),
+        "publicado_em": agora,
         "fontes": fontes,
         "url_fonte_original": candidato.get("url_original"),
         "imagem": imagem,
+        # dados para o sistema de reparo buscar nova foto pelo MESMO padrão se a atual sumir
         "imagem_busca": {
             "entidades": materia_gerada.get("imagem_entidades", []),
             "lugares": materia_gerada.get("imagem_lugares", []),
             "palavras_chave": materia_gerada.get("palavras_chave_imagem", []),
         },
         "imagem_tentativas": 0 if imagem else 1,
-        "imagem_ultima_tentativa_em": None if imagem else datetime.now(timezone.utc).isoformat(),
+        "imagem_ultima_tentativa_em": None if imagem else agora,
         "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
         "traducoes": materia_gerada.get("traducoes", {}),
         "atualizacao_de": materia_relacionada["id"] if materia_relacionada else None,
     }
 
-    # arquivo individual (site/data/artigos/<id>.json): a matéria INTEIRA,
-    # com corpo e traduções completas. Só é buscado quando alguém abre
-    # essa notícia específica — por isso pode crescer sem limite pra
-    # sempre sem pesar na home.
+    # arquivo individual (site/data/artigos/<id>.json): a matéria INTEIRA
     caminho_artigo = os.path.join(config.ARTIGOS_DIR, f"{artigo['id']}.json")
     _salvar_json(caminho_artigo, artigo)
 
-    # índice (site/data/articles.json): TODAS as matérias já publicadas,
-    # sempre — nunca apaga nada — mas cada uma só com o que a home/listagem
-    # precisa pra montar os cards e filtrar (sem o corpo, que é o que pesa
-    # de verdade). É esse arquivo enxuto que o site inteiro busca de uma
-    # vez; o texto completo só é buscado por artigo.html, um por vez.
+    # índice enxuto (site/data/articles.json): todas as matérias, sem o corpo
     indice = ler_indice()
     entrada_indice = {k: v for k, v in artigo.items() if k != "corpo"}
     entrada_indice["traducoes"] = {
