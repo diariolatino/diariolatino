@@ -1,5 +1,53 @@
 [
   {
+    "id": "5b7de173-5f66-4ebb-84a5-7d0505234d52",
+    "titulo": "Comércio varejista registra estabilidade com alta de 0,2% em setembro",
+    "lead": "Vendas subiram 0,2% entre agosto e setembro, mantendo o setor estável; o IBGE aponta recuo de -0,3% no trimestre e crescimento de 1,7% nos últimos 12 meses, sinalizando tendência cautelosa para a economia brasileira.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-13T21:27:51.351691+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/vendas-no-comercio-variam-02-em-setembro-ibge-mostra-estabilidade",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/19116639/pexels-photo-19116639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "fabianoshow4",
+      "photographer_url": "https://www.pexels.com/@fabianoshow4-564869275",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/bottles-of-alcohol-in-a-shop-19116639/"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Cristiano Santos",
+        "IBGE headquarters",
+        "Brazilian retail store"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Brazil IBGE retail sales presentation",
+        "Brazil retail store interior",
+        "Brazilian market stalls Rio de Janeiro"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Comercio minorista muestra estabilidad con alza del 0,2% en septiembre",
+        "lead": "Las ventas crecieron 0,2% entre agosto y septiembre, manteniendo el sector estable; el IBGE señala una caída de -0,3% en el trimestre y un aumento de 1,7% en los últimos 12 meses, indicando una tendencia cautelosa para la economía brasileña.",
+        "cuerpo": "Un aumento de 0,2% en las ventas del comercio minorista entre agosto y septiembre señala estabilidad en el consumo brasileño. Los datos, publicados este viernes 13 de noviembre por la Pesquisa Mensal de Comércio (PMC) del Instituto Brasileño de Geografía y Estadística (IBGE), también muestran una caída de 0,3% en el tercer trimestre respecto al anterior. En el acumulado de doce meses, el sector registra un crecimiento del 1,7%, aunque sigue 1% por debajo del pico alcanzado en marzo de 2026. Según el gerente de la investigación, Cristiano Santos, variaciones entre -0,5% y +0,5% son prácticamente neutras, reflejando un escenario de estabilidad tras una fase de descenso. La media móvil trimestral, que suaviza las oscilaciones mensuales, señaló una variación de -0,1% en el periodo de tres meses que terminó en septiembre, reforzando la percepción de casi estancamiento. De los ocho grupos de actividades analizados, cinco crecieron en septiembre: equipos de oficina, informática y comunicación (+7,6%); combustibles y lubricantes (+2,8%); tejidos, vestuario y calzado (+2,5%); artículos farmacéuticos (+1,0%); y libros y papelería (+0,8%). Los sectores que retrocedieron fueron muebles y electrodomésticos (-2,6%), hipermercados y supermercados (-0,5%) y otros artículos de uso personal y doméstico (-0,3%). Cuando se amplía al comercio minorista con mayorista, el indicador también subió 0,2% de agosto a septiembre, acumulando un avance del 1,3% en los últimos doce meses. Los datos llegan en medio de otro descenso del 0,8% en la producción industrial en el mismo periodo, mientras que el sector de servicios – mayor empleador del país – registró una caída de 0,1% en septiembre, pero un crecimiento del 1,9% en el año. Analistas señalan que la estabilidad en las ventas puede reflejar la cautela de los consumidores ante una inflación aún alta e incertidumbres en el crédito, factores que moldearán el ritmo de la recuperación económica en los próximos meses."
+      },
+      "en": {
+        "titulo": "Retail trade shows stability with 0.2% rise in September",
+        "lead": "Sales rose 0.2% between August and September, keeping the sector stable; the IBGE reports a 0.3% decline in the quarter and a 1.7% growth over the past 12 months, signaling a cautious trend for Brazil’s economy.",
+        "cuerpo": "A 0.2% increase in retail sales from August to September signals stability in Brazilian consumption. The figures, released on Friday November 13 by the Monthly Trade Survey (PMC) of the Brazilian Institute of Geography and Statistics (IBGE), also show a 0.3% drop in the third quarter compared with the previous quarter. Over the twelve‑month span, the sector posted a 1.7% gain, though it remains 1% below the peak reached in March 2026. According to the survey manager, Cristiano Santos, variations between -0.5% and +0.5% are essentially neutral, reflecting a stable scenario after a prior decline. The three‑month moving average, which smooths monthly swings, indicated a -0.1% change for the period ending in September, reinforcing the perception of near‑stagnation. Of the eight activity groups examined, five grew in September: office equipment, IT and communications (+7.6%); fuels and lubricants (+2.8%); textiles, clothing and footwear (+2.5%); pharmaceutical, medical and perfumery items (+1.0%); and books, newspapers, magazines and stationery (+0.8%). Declining sectors were furniture and appliances (-2.6%), hyper‑ and supermarkets (-0.5%) and other personal and household items (-0.3%). When expanded to include wholesale activities, the indicator also rose 0.2% from August to September, marking a 1.3% advance over the past year. The data arrive alongside a further 0.8% dip in industrial production for the same period, while the services sector – the country’s largest employer – fell 0.1% in September but grew 1.9% over the year. Analysts note that sales stability may reflect consumer caution amid still‑high inflation and credit uncertainties, factors likely to shape the pace of economic recovery in the coming months."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "ecf718ad-e904-4d62-8517-469fff15c9d7",
     "titulo": "Inflação desacelera para 0,14% em outubro, conta de luz cai",
     "lead": "A inflação oficial do Brasil registrou alta de apenas 0,14% em outubro, impulsionada pela queda da tarifa de energia elétrica e dos preços de transportes, embora o acumulado anual siga acima da meta.",
