@@ -1,3 +1,5 @@
+from datetime import datetime, timezone
+
 from . import config
 from .sources_gdelt import coletar_gdelt
 from .sources_rss import coletar_agencia_brasil, coletar_radar
@@ -46,6 +48,28 @@ def rodar():
         print("  [triagem] nenhuma notícia boa o bastante por enquanto — esperando a próxima.")
         return
     print(f"  {len(candidatos)} notícia(s) aprovada(s) na triagem (melhor nota primeiro)")
+
+    # rotação de países ANTES de gastar tokens de geração: a triagem já diz o país de cada
+    # candidato. Pula o mesmo país da última matéria publicada, salvo notícia urgente, e só
+    # enquanto a última publicação for recente (válvula: depois de ROTACAO_LIBERAR_APOS_HORAS
+    # o site não fica parado esperando outro país).
+    _pub = carregar_artigos_publicados()
+    ultimo_pais = (_pub[0].get("pais") if _pub else None)
+    horas_parado = 999.0
+    if _pub:
+        try:
+            horas_parado = (datetime.now(timezone.utc) - datetime.fromisoformat(_pub[0]["publicado_em"])).total_seconds() / 3600
+        except Exception:
+            pass
+    if ultimo_pais and ultimo_pais != "América Latina" and horas_parado < getattr(config, "ROTACAO_LIBERAR_APOS_HORAS", 6):
+        antes = len(candidatos)
+        candidatos = [c for c in candidatos
+                      if c.get("_triagem", {}).get("pais") != ultimo_pais or c.get("_triagem", {}).get("urgente")]
+        print(f"  [rotação] {antes - len(candidatos)} candidato(s) de '{ultimo_pais}' (mesmo país do último post) "
+              f"adiados sem gastar tokens; {len(candidatos)} restante(s)")
+        if not candidatos:
+            print("  [rotação] só há notícias do mesmo país do último post por enquanto — esperando outro país.")
+            return
 
     artigos_publicados = carregar_artigos_publicados()
 
