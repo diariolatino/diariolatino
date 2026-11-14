@@ -1,5 +1,63 @@
 [
   {
+    "id": "ec85dacb-e0f9-4e10-88bb-a2e4a742ed0b",
+    "titulo": "Caixa Seguridade tem ataque cibernético e vaza 7,6 mi dados",
+    "lead": "A subsidiária Caixa Vida e Previdência da Caixa Seguridade revelou que um ataque ocorrido em 6 de novembro expôs informações pessoais de 7,6 milhões de clientes, acionando a ANPD e medidas de proteção.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-14T07:47:01.459776+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/caixa-seguridade-informa-ataque-cibernetico-e-vazamento-de-dados",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_%2816785107813%29.jpg/1280px-CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_%2816785107813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC BY 2.0",
+      "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+      "nivel_licenca": "cc_by",
+      "tipo_busca": "entidade",
+      "autor": "Senado Federal",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_(16785107813).jpg",
+      "entidade": "Caixa Seguridade",
+      "verificada_em": "2026-11-14",
+      "photographer": "Senado Federal",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_(16785107813).jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_(16785107813).jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_(16785107813).jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Caixa Seguridade",
+        "Caixa Vida e Previdência",
+        "Autoridade Nacional de Proteção de Dados (ANPD)"
+      ],
+      "lugares": [
+        "Sede da Caixa Seguridade, Brasília"
+      ],
+      "palavras_chave": [
+        "Brazil data breach Caixa Seguridade",
+        "Brazil cyber attack personal data",
+        "data breach office building Brazil"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Caixa Seguridade sufre ciberataque y filtra 7,6 millones de datos",
+        "lead": "La subsidiaria Caixa Vida y Previsión de Caixa Seguridade reveló que un ataque ocurrido el 6 de noviembre expuso información personal de 7,6 millones de clientes, activando a la ANPD y medidas de protección."
+      },
+      "en": {
+        "titulo": "Caixa Seguridade suffers cyber attack and leaks 7.6 million records",
+        "lead": "The subsidiary Caixa Vida e Previdência of Caixa Seguridade disclosed that an attack on November 6 exposed personal information of 7.6 million customers, prompting the ANPD and protective measures."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "5b7de173-5f66-4ebb-84a5-7d0505234d52",
     "titulo": "Comércio varejista registra estabilidade com alta de 0,2% em setembro",
     "lead": "Vendas subiram 0,2% entre agosto e setembro, mantendo o setor estável; o IBGE aponta recuo de -0,3% no trimestre e crescimento de 1,7% nos últimos 12 meses, sinalizando tendência cautelosa para a economia brasileira.",

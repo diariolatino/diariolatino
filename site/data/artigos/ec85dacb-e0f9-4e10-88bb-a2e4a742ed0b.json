@@ -1,0 +1,61 @@
+{
+  "id": "ec85dacb-e0f9-4e10-88bb-a2e4a742ed0b",
+  "titulo": "Caixa Seguridade tem ataque cibernético e vaza 7,6 mi dados",
+  "lead": "A subsidiária Caixa Vida e Previdência da Caixa Seguridade revelou que um ataque ocorrido em 6 de novembro expôs informações pessoais de 7,6 milhões de clientes, acionando a ANPD e medidas de proteção.",
+  "corpo": "Mais de 7,6 milhões de brasileiros tiveram seus dados pessoais expostos após um ataque cibernético à Caixa Seguridade. O incidente, identificado em 6 de novembro, afetou clientes ativos e ex‑clientes da Caixa Vida e Previdência.\n\nForam copiados clandestinamente CPFs, endereços, telefones, e‑mails e datas de nascimento. A empresa afirma que não há indícios de comprometimento de dados financeiros, como valores de apólices, saldos de previdência, dados bancários ou senhas.\n\nEm comunicado, a Caixa Seguridade destacou que os mecanismos usados no ataque já foram bloqueados e que foram implementadas medidas adicionais de proteção, com apoio de consultoria externa especializada em perícia forense para investigar a origem e a extensão do vazamento.\n\nOs titulares dos dados foram notificados e recebem recomendações de proteção contra fraudes, além de um canal de comunicação exclusivo por e‑mail para esclarecer dúvidas.\n\nA Caixa Vida e Previdência notificou a Autoridade Nacional de Proteção de Dados (ANPD) em 11 de novembro, bem como outras autoridades competentes, conforme exige a Lei Geral de Proteção de Dados (LGPD).",
+  "categoria": "Segurança",
+  "pais": "Brasil",
+  "publicado_em": "2026-11-14T07:47:01.459776+00:00",
+  "fontes": [
+    "Agência Brasil"
+  ],
+  "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/caixa-seguridade-informa-ataque-cibernetico-e-vazamento-de-dados",
+  "imagem": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_%2816785107813%29.jpg/1280px-CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_%2816785107813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "fonte": "Wikimedia Commons",
+    "licenca": "CC BY 2.0",
+    "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+    "nivel_licenca": "cc_by",
+    "tipo_busca": "entidade",
+    "autor": "Senado Federal",
+    "url_pagina": "https://commons.wikimedia.org/wiki/File:CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_(16785107813).jpg",
+    "entidade": "Caixa Seguridade",
+    "verificada_em": "2026-11-14",
+    "photographer": "Senado Federal",
+    "photographer_url": "https://commons.wikimedia.org/wiki/File:CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_(16785107813).jpg",
+    "pexels_url": "https://commons.wikimedia.org/wiki/File:CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_(16785107813).jpg",
+    "fonte_nome": "Wikimedia Commons",
+    "fonte_url": "https://commons.wikimedia.org/wiki/File:CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_(16785107813).jpg"
+  },
+  "imagem_busca": {
+    "entidades": [
+      "Caixa Seguridade",
+      "Caixa Vida e Previdência",
+      "Autoridade Nacional de Proteção de Dados (ANPD)"
+    ],
+    "lugares": [
+      "Sede da Caixa Seguridade, Brasília"
+    ],
+    "palavras_chave": [
+      "Brazil data breach Caixa Seguridade",
+      "Brazil cyber attack personal data",
+      "data breach office building Brazil"
+    ]
+  },
+  "imagem_tentativas": 0,
+  "imagem_ultima_tentativa_em": null,
+  "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+  "traducoes": {
+    "es": {
+      "titulo": "Caixa Seguridade sufre ciberataque y filtra 7,6 millones de datos",
+      "lead": "La subsidiaria Caixa Vida y Previsión de Caixa Seguridade reveló que un ataque ocurrido el 6 de noviembre expuso información personal de 7,6 millones de clientes, activando a la ANPD y medidas de protección.",
+      "corpo": "Más de 7,6 millones de brasileños vieron sus datos personales expuestos tras un ciberataque a Caixa Seguridade. El incidente, identificado el 6 de noviembre, afectó a clientes activos y ex‑clientes de Caixa Vida y Previsión.\n\nSe copiaron clandestinamente CPF, direcciones, teléfonos, correos electrónicos y fechas de nacimiento. La empresa afirma que no hay indicios de compromiso de datos financieros, como valores de pólizas, saldos de pensiones, datos bancarios o contraseñas.\n\nEn comunicado, Caixa Seguridade destacó que los mecanismos usados en el ataque ya fueron bloqueados y que se implementaron medidas de protección adicionales, con apoyo de una consultora externa especializada en pericia forense para investigar el origen y la magnitud del filtrado.\n\nLos titulares de los datos fueron notificados y reciben recomendaciones de protección contra fraudes, además de un canal de comunicación exclusivo por correo electrónico para aclarar dudas.\n\nCaixa Vida y Previsión notificó a la Autoridad Nacional de Protección de Datos (ANPD) el 11 de noviembre, así como a otras autoridades competentes, según lo exige la Ley General de Protección de Datos (LGPD)."
+    },
+    "en": {
+      "titulo": "Caixa Seguridade suffers cyber attack and leaks 7.6 million records",
+      "lead": "The subsidiary Caixa Vida e Previdência of Caixa Seguridade disclosed that an attack on November 6 exposed personal information of 7.6 million customers, prompting the ANPD and protective measures.",
+      "corpo": "More than 7.6 million Brazilians had their personal data exposed after a cyber attack on Caixa Seguridade. The incident, identified on November 6, affected active and former clients of Caixa Vida e Previdência.\n\nCPFs, addresses, phone numbers, e‑mail addresses and dates of birth were illicitly copied. The company says there is no evidence that financial data—such as policy values, pension balances, bank details or passwords—were compromised.\n\nIn a statement, Caixa Seguridade said the mechanisms used in the attack have been blocked and additional protection measures have been put in place, with the help of an external forensic consultancy to investigate the origin and scope of the breach.\n\nAffected data subjects are being notified and are receiving fraud‑prevention recommendations, as well as a dedicated e‑mail channel for questions.\n\nCaixa Vida e Previdência notified the National Data Protection Authority (ANPD) on November 11, along with other competent authorities, as required by Brazil’s General Data Protection Law (LGPD)."
+    }
+  },
+  "atualizacao_de": null
+}
