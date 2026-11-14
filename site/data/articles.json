@@ -1,5 +1,61 @@
 [
   {
+    "id": "d5bba67f-c111-45f5-83f0-686cacf87b55",
+    "titulo": "Atualização: Venezuela retoma diálogo político sem María Corina Machado",
+    "lead": "O governo venezuelano anunciou a retomada das conversas políticas, mas a líder da oposição, María Corina Machado, não participou, gerando dúvidas sobre a efetividade do processo para a população.",
+    "categoria": "Política",
+    "pais": "Venezuela",
+    "publicado_em": "2026-11-14T14:40:08.181809+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://veja.abril.com.br/mundo/venezuela-retoma-dialogo-politico-sem-a-presenca-de-maria-corina-machado/",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Concentraci%C3%B3_a_Barcelona_davant_del_Consolat_Vene%C3%A7ol%C3%A0_a_favor_de_Nicol%C3%A1s_Maduro_20260103_04.jpg/1280px-Concentraci%C3%B3_a_Barcelona_davant_del_Consolat_Vene%C3%A7ol%C3%A0_a_favor_de_Nicol%C3%A1s_Maduro_20260103_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC0",
+      "licenca_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "Aniol",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Concentraci%C3%B3_a_Barcelona_davant_del_Consolat_Vene%C3%A7ol%C3%A0_a_favor_de_Nicol%C3%A1s_Maduro_20260103_04.jpg",
+      "entidade": "Presidente Nicolás Maduro",
+      "verificada_em": "2026-11-14",
+      "photographer": "Aniol",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Concentraci%C3%B3_a_Barcelona_davant_del_Consolat_Vene%C3%A7ol%C3%A0_a_favor_de_Nicol%C3%A1s_Maduro_20260103_04.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Concentraci%C3%B3_a_Barcelona_davant_del_Consolat_Vene%C3%A7ol%C3%A0_a_favor_de_Nicol%C3%A1s_Maduro_20260103_04.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Concentraci%C3%B3_a_Barcelona_davant_del_Consolat_Vene%C3%A7ol%C3%A0_a_favor_de_Nicol%C3%A1s_Maduro_20260103_04.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Presidente Nicolás Maduro",
+        "Assembleia Nacional da Venezuela",
+        "Banco Central da Venezuela"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Venezuela political dialogue meeting",
+        "María Corina Machado Venezuela",
+        "Venezuelan government building"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Actualización: Venezuela reanuda diálogo político sin María Corina Machado",
+        "lead": "El gobierno venezolano anunció la reanudación de las conversaciones políticas, pero la líder de la oposición, María Corina Machado, no participó, generando dudas sobre la efectividad del proceso para la población."
+      },
+      "en": {
+        "titulo": "Update: Venezuela Resumes Political Dialogue Without María Corina Machado",
+        "lead": "The Venezuelan government announced the resumption of political talks, but opposition leader María Corina Machado did not take part, raising doubts about the process’s effectiveness for the populace."
+      }
+    },
+    "atualizacao_de": "cd277626-d179-44f0-a2bd-a0983ce01793"
+  },
+  {
     "id": "ec85dacb-e0f9-4e10-88bb-a2e4a742ed0b",
     "titulo": "Caixa Seguridade tem ataque cibernético e vaza 7,6 mi dados",
     "lead": "A subsidiária Caixa Vida e Previdência da Caixa Seguridade revelou que um ataque ocorrido em 6 de novembro expôs informações pessoais de 7,6 milhões de clientes, acionando a ANPD e medidas de proteção.",
