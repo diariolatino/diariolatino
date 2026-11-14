@@ -1,5 +1,53 @@
 [
   {
+    "id": "6fc1debc-202d-4d01-a782-2858813d4efc",
+    "titulo": "Brasil e Espanha firmam acordo para taxar super‑ricos",
+    "lead": "Brasil e Espanha assinaram nesta terça‑feira (10) um memorando que visa intensificar a tributação de fortunas acima de US$ 100 milhões, buscando sistemas fiscais mais progressivos e pressionar outros países a seguir o exemplo.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-14T19:36:06.311366+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/brasil-e-espanha-firmam-acordo-para-estimular-taxacao-de-super-ricos",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/8296977/pexels-photo-8296977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Mikhail Nilov",
+      "photographer_url": "https://www.pexels.com/@mikhail-nilov",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/a-person-examining-a-document-8296977/"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Dario Durigan",
+        "Arcadi España",
+        "Ministério da Fazenda do Brasil",
+        "Ministério da Fazenda da Espanha"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Brazil Spain tax agreement signing",
+        "Dario Durigan Brazil finance minister",
+        "Arcadi España Spain finance minister"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasil y España firman acuerdo para gravar a los super‑ricos",
+        "lead": "Brasil y España firmaron este martes (10) un memorando que busca intensificar la tributación de fortunas superiores a US$ 100 millones, impulsando sistemas fiscales más progresivos y presionando a otros países a seguir el ejemplo.",
+        "es": ""
+      },
+      "en": {
+        "titulo": "Brazil and Spain sign pact to tax super‑rich",
+        "lead": "Brazil and Spain signed on Tuesday (Nov 10) a memorandum aimed at intensifying taxation of fortunes above US$ 100 million, pushing for more progressive tax systems and urging other nations to follow suit."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "d5bba67f-c111-45f5-83f0-686cacf87b55",
     "titulo": "Atualização: Venezuela retoma diálogo político sem María Corina Machado",
     "lead": "O governo venezuelano anunciou a retomada das conversas políticas, mas a líder da oposição, María Corina Machado, não participou, gerando dúvidas sobre a efetividade do processo para a população.",
