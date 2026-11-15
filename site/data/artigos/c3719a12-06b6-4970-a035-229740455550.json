@@ -1,0 +1,49 @@
+{
+  "id": "c3719a12-06b6-4970-a035-229740455550",
+  "titulo": "Papa Francisco celebra missa em vila andina peruana",
+  "lead": "O Papa Francisco celebrou uma missa em um pequeno povoado andino do Peru, reforçando a presença da Igreja Católica nas comunidades indígenas e atraindo a atenção regional para a fé e a cultura local.",
+  "corpo": "Fieis e moradores se reuniram na praça central do vilarejo para assistir ao rito celebrado pelo pontífice, que percorreu as ruas estreitas antes de subir ao altar improvisado. A celebração, marcada por cantos em língua quechua, destacou o compromisso da Igreja com as tradições locais e a necessidade de apoio espiritual nas áreas mais isoladas do país. Durante a homilia, o Papa enfatizou a importância da solidariedade e da justiça social, lembrando que a dignidade humana deve ser preservada em todas as regiões, inclusive nas montanhas peruanas. A presença do líder religioso também serviu como símbolo de unidade para a comunidade, que frequentemente enfrenta desafios como acesso limitado a serviços básicos e marginalização econômica. Observadores internacionais apontam que a visita reforça a estratégia da Santa Sé de fortalecer laços com populações indígenas da América Latina, sobretudo em tempos de crescente secularização. Apesar da cerimônia ter sido breve, o impacto simbólico permanece, alimentando esperanças de maior atenção às necessidades sociais e culturais das áreas andinas. A missa encerrou-se com uma bênção coletiva, enquanto os participantes espalharam flores sobre o altar, sinalizando gratidão e renovada fé.",
+  "categoria": "Sociedade",
+  "pais": "Peru",
+  "publicado_em": "2026-11-15T21:58:41.453821+00:00",
+  "fontes": [
+    "GDELT"
+  ],
+  "url_fonte_original": "https://www.perfil.com/edicion-impresa/el-papa-dio-misa-en-un-pueblo-andino-de-peru-aQo4y7j3GFQM",
+  "imagem": {
+    "url": "https://images.pexels.com/photos/35499790/pexels-photo-35499790.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "photographer": "Alex Pereyra",
+    "photographer_url": "https://www.pexels.com/@alex-pereyra-473897803",
+    "fonte_nome": "Pexels",
+    "fonte_url": "https://www.pexels.com/photo/vibrant-parade-with-traditional-costumes-35499790/"
+  },
+  "imagem_busca": {
+    "entidades": [
+      "Papa Francisco",
+      "Igreja do povoado andino",
+      "Comunidade local"
+    ],
+    "lugares": [],
+    "palavras_chave": [
+      "Pope Francis mass Peru Andean village",
+      "Pope Francis Peru Catholic mass",
+      "Andean village church Peru"
+    ]
+  },
+  "imagem_tentativas": 0,
+  "imagem_ultima_tentativa_em": null,
+  "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+  "traducoes": {
+    "es": {
+      "titulo": "Papa Francisco celebra misa en pueblo andino peruano",
+      "lead": "El Papa Francisco celebró una misa en un pequeño pueblo andino de Perú, reforzando la presencia de la Iglesia Católica en las comunidades indígenas y atrayendo la atención regional hacia la fe y la cultura local.",
+      "corpo": "Fieles y residentes se congregaron en la plaza central del poblado para presenciar el rito celebrado por el pontífice, quien recorrió las estrechas calles antes de subir al altar improvisado. La celebración, marcada por cantos en quechua, resaltó el compromiso de la Iglesia con las tradiciones locales y la necesidad de apoyo espiritual en las áreas más aisladas del país. Durante la homilía, el Papa enfatizó la importancia de la solidaridad y la justicia social, recordando que la dignidad humana debe preservarse en todas las regiones, incluidas las montañas peruanas. La presencia del líder religioso también sirvió como símbolo de unidad para la comunidad, que frecuentemente enfrenta desafíos como acceso limitado a servicios básicos y marginalización económica. Observadores internacionales señalan que la visita refuerza la estrategia de la Santa Sede de fortalecer lazos con poblaciones indígenas de América Latina, especialmente en tiempos de creciente secularización. Aunque la ceremonia fue breve, el impacto simbólico persiste, alimentando esperanzas de mayor atención a las necesidades sociales y culturales de las áreas andinas. La misa concluyó con una bendición colectiva, mientras los participantes esparcían flores sobre el altar, señalando gratitud y renovada fe."
+    },
+    "en": {
+      "titulo": "Pope Francis celebrates mass in Peruvian Andean village",
+      "lead": "Pope Francis celebrated a mass in a small Andean village in Peru, reinforcing the Catholic Church's presence in indigenous communities and drawing regional attention to local faith and culture.",
+      "corpo": "Believers and residents gathered in the village's central square to witness the rite led by the pontiff, who walked the narrow streets before ascending an improvised altar. The ceremony, highlighted by chants in Quechua, underscored the Church's commitment to local traditions and the need for spiritual support in the country's most isolated areas. In his homily, the Pope stressed the importance of solidarity and social justice, reminding that human dignity must be upheld everywhere, including Peru's mountainous regions. His presence also served as a unifying symbol for a community that often faces limited access to basic services and economic marginalization. International observers note that the visit reinforces the Holy See's strategy to strengthen ties with indigenous populations across Latin America, especially amid growing secularization. Though brief, the symbolic impact endures, fueling hopes for greater attention to the social and cultural needs of Andean areas. The mass concluded with a collective blessing as participants scattered flowers over the altar, expressing gratitude and renewed faith."
+    }
+  },
+  "atualizacao_de": null
+}

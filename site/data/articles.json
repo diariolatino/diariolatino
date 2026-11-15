@@ -1,5 +1,51 @@
 [
   {
+    "id": "c3719a12-06b6-4970-a035-229740455550",
+    "titulo": "Papa Francisco celebra missa em vila andina peruana",
+    "lead": "O Papa Francisco celebrou uma missa em um pequeno povoado andino do Peru, reforçando a presença da Igreja Católica nas comunidades indígenas e atraindo a atenção regional para a fé e a cultura local.",
+    "categoria": "Sociedade",
+    "pais": "Peru",
+    "publicado_em": "2026-11-15T21:58:41.453821+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.perfil.com/edicion-impresa/el-papa-dio-misa-en-un-pueblo-andino-de-peru-aQo4y7j3GFQM",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/35499790/pexels-photo-35499790.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Alex Pereyra",
+      "photographer_url": "https://www.pexels.com/@alex-pereyra-473897803",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/vibrant-parade-with-traditional-costumes-35499790/"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Papa Francisco",
+        "Igreja do povoado andino",
+        "Comunidade local"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Pope Francis mass Peru Andean village",
+        "Pope Francis Peru Catholic mass",
+        "Andean village church Peru"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Papa Francisco celebra misa en pueblo andino peruano",
+        "lead": "El Papa Francisco celebró una misa en un pequeño pueblo andino de Perú, reforzando la presencia de la Iglesia Católica en las comunidades indígenas y atrayendo la atención regional hacia la fe y la cultura local."
+      },
+      "en": {
+        "titulo": "Pope Francis celebrates mass in Peruvian Andean village",
+        "lead": "Pope Francis celebrated a mass in a small Andean village in Peru, reinforcing the Catholic Church's presence in indigenous communities and drawing regional attention to local faith and culture."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "6a96e246-d414-465c-b1ab-416cbe730c28",
     "titulo": "Governo encerra subsídio de R$1,40 ao diesel importado",
     "lead": "O Ministério da Fazenda anunciou que o benefício de R$ 1,40 por litro ao diesel importado não será renovado, o que pode elevar o preço do combustível para mais de 25% do consumo nacional.",
