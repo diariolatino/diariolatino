@@ -1,5 +1,65 @@
 [
   {
+    "id": "10796b56-6d03-409c-9654-13975e40aec0",
+    "titulo": "Brasil lança marco de financiamento climático para saúde na COP31",
+    "lead": "Na Conferência de Antália, o Brasil apresentou um plano que pode mobilizar bilhões para adaptar sistemas de saúde às mudanças climáticas, atendendo a demandas de países em desenvolvimento.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-15T10:09:08.115950+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/brasil-apresenta-marco-de-financiamento-para-area-de-saude-na-cop31",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Minist%C3%A9rio_da_Sa%C3%BAde_lan%C3%A7a_a%C3%A7%C3%B5es_para_combater_a_obesidade_%2835157532601%29.jpg/1280px-Minist%C3%A9rio_da_Sa%C3%BAde_lan%C3%A7a_a%C3%A7%C3%B5es_para_combater_a_obesidade_%2835157532601%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC BY 2.0",
+      "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+      "nivel_licenca": "cc_by",
+      "tipo_busca": "entidade",
+      "autor": "Agência Brasil Fotografias",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Minist%C3%A9rio_da_Sa%C3%BAde_lan%C3%A7a_a%C3%A7%C3%B5es_para_combater_a_obesidade_(35157532601).jpg",
+      "entidade": "Ministério da Saúde (Brasil)",
+      "verificada_em": "2026-11-15",
+      "photographer": "Agência Brasil Fotografias",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Minist%C3%A9rio_da_Sa%C3%BAde_lan%C3%A7a_a%C3%A7%C3%B5es_para_combater_a_obesidade_(35157532601).jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Minist%C3%A9rio_da_Sa%C3%BAde_lan%C3%A7a_a%C3%A7%C3%B5es_para_combater_a_obesidade_(35157532601).jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Minist%C3%A9rio_da_Sa%C3%BAde_lan%C3%A7a_a%C3%A7%C3%B5es_para_combater_a_obesidade_(35157532601).jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Ministério da Saúde (Brasil)",
+        "Alexandre Padilha",
+        "Organização Mundial da Saúde",
+        "Centro de Convenções de Antalya"
+      ],
+      "lugares": [
+        "Centro de Convenções de Antalya",
+        "Palácio do Ministério da Saúde, Brasília"
+      ],
+      "palavras_chave": [
+        "Brazil COP31 health financing framework",
+        "Alexandre Padilha COP31",
+        "World Health Organization Tedros Antalya"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasil lanza marco de financiación climática para salud en la COP31",
+        "lead": "En la Conferencia de Antalya, Brasil presentó un plan que podría movilizar miles de millones para adaptar los sistemas de salud al cambio climático, respondiendo a las necesidades de los países en desarrollo."
+      },
+      "en": {
+        "titulo": "Brazil launches climate financing framework for health at COP31",
+        "lead": "At the Antalya conference, Brazil unveiled a plan that could mobilize billions to adapt health systems to climate change, meeting the needs of developing nations."
+      }
+    },
+    "atualizacao_de": "6fc1debc-202d-4d01-a782-2858813d4efc"
+  },
+  {
     "id": "6c5a5487-258e-4ff3-8674-700413cabca2",
     "titulo": "Falha nos EUA cancela 7 voos e atrasa 14",
     "lead": "Sete voos do Brasil para os Estados Unidos foram cancelados e outros 14 atrasados após falha de comunicação nos centros de controle de tráfego aéreo americanos, afetando milhares de passageiros latino-americanos.",
