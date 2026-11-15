@@ -1,5 +1,66 @@
 [
   {
+    "id": "6c5a5487-258e-4ff3-8674-700413cabca2",
+    "titulo": "Falha nos EUA cancela 7 voos e atrasa 14",
+    "lead": "Sete voos do Brasil para os Estados Unidos foram cancelados e outros 14 atrasados após falha de comunicação nos centros de controle de tráfego aéreo americanos, afetando milhares de passageiros latino-americanos.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-15T02:59:56.969369+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/falha-aerea-nos-eua-cancela-sete-voos-e-atrasa-outros-14-no-brasil",
+    "imagem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/FAA_Potomac_Consolidated_TRACON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "Federal Aviation Administration",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:FAA_Potomac_Consolidated_TRACON.jpg",
+      "entidade": "FAA (Federal Aviation Administration)",
+      "verificada_em": "2026-11-15",
+      "photographer": "Federal Aviation Administration",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:FAA_Potomac_Consolidated_TRACON.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:FAA_Potomac_Consolidated_TRACON.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:FAA_Potomac_Consolidated_TRACON.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "FAA (Federal Aviation Administration)",
+        "L3Harris Technologies",
+        "ANAC (Agência Nacional de Aviação Civil)",
+        "Aeroporto Internacional de Guarulhos"
+      ],
+      "lugares": [
+        "Aeroporto Internacional de Guarulhos",
+        "São Paulo",
+        "Estados Unidos"
+      ],
+      "palavras_chave": [
+        "FAA air traffic control center",
+        "L3Harris technicians",
+        "Brazilian airport departure board"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Falla en EE.UU. cancela 7 vuelos y retrasa 14",
+        "lead": "Siete vuelos desde Brasil a Estados Unidos fueron cancelados y otros 14 retrasados tras una falla de comunicación en los centros de control de tráfico aéreo estadounidenses, afectando a miles de pasajeros latinoamericanos."
+      },
+      "en": {
+        "titulo": "US Failure Cancels 7 Flights and Delays 14",
+        "lead": "Seven flights from Brazil to the United States were cancelled and another 14 delayed after a communication failure at American air traffic control centers, affecting thousands of Latin American travelers."
+      }
+    },
+    "atualizacao_de": "d0715e67-a052-493f-b3a4-625521a573a7"
+  },
+  {
     "id": "6fc1debc-202d-4d01-a782-2858813d4efc",
     "titulo": "Brasil e Espanha firmam acordo para taxar super‑ricos",
     "lead": "Brasil e Espanha assinaram nesta terça‑feira (10) um memorando que visa intensificar a tributação de fortunas acima de US$ 100 milhões, buscando sistemas fiscais mais progressivos e pressionar outros países a seguir o exemplo.",
