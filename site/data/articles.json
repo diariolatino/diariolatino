@@ -1,5 +1,60 @@
 [
   {
+    "id": "088bcd8c-1c46-4de1-abbd-58295a00a1b5",
+    "titulo": "Sheinbaum chega à China para encontrar Xi e APEC",
+    "lead": "Claudia Sheinbaum, presidente do México, viaja a Pequim para se reunir com Xi Jinping e participar da cúpula da APEC, reforçando laços bilaterais e a agenda regional latino‑americana.",
+    "categoria": "Política",
+    "pais": "México",
+    "publicado_em": "2026-11-16T18:46:58.363077+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.elsiglodetorreon.com.mx/noticia/2026/sheinbaum-llega-a-china-para-reunirse-con-xi-jinping-y-participar-en-la-cumbre-de-apec.html",
+    "imagem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Asamblea_Informativa_en_Cuautla%2C_Morelos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "Claudia Shein",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Asamblea_Informativa_en_Cuautla,_Morelos.jpg",
+      "entidade": "Claudia Sheinbaum",
+      "verificada_em": "2026-11-16",
+      "photographer": "Claudia Shein",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Asamblea_Informativa_en_Cuautla,_Morelos.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Asamblea_Informativa_en_Cuautla,_Morelos.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Asamblea_Informativa_en_Cuautla,_Morelos.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Claudia Sheinbaum",
+        "Xi Jinping",
+        "Cúpula da APEC"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Claudia Sheinbaum meeting Xi Jinping",
+        "APEC summit Beijing"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Sheinbaum llega a China para encontrar a Xi y APEC",
+        "lead": "Claudia Sheinbaum, presidenta de México, viaja a Pekín para reunirse con Xi Jinping y participar de la cumbre de la APEC, reforzando los lazos bilaterales y la agenda regional latinoamericana."
+      },
+      "en": {
+        "titulo": "Sheinbaum Arrives in China to Meet Xi and Attend APEC",
+        "lead": "Mexico's President Claudia Sheinbaum travels to Beijing to meet Xi Jinping and take part in the APEC summit, strengthening bilateral ties and the Latin American regional agenda."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "b2599b86-792c-45c2-8336-dc08a8e9615a",
     "titulo": "Alckmin declara acordo Mercosul‑UE prioridade do governo",
     "lead": "Geraldo Alckmin afirmou que a assinatura do acordo comercial entre Mercosul e União Europeia está entre as principais metas do governo, sinalizando impulso nas negociações regionais.",
