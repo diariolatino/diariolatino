@@ -1,5 +1,65 @@
 [
   {
+    "id": "53bf59f4-3434-46c1-acdf-33afba8a9f15",
+    "titulo": "Dólar fecha estável, mas acumula alta de 2,63% na semana",
+    "lead": "O dólar encerrou a sexta-feira em R$ 5,65, mantendo estabilidade apesar de subir 2,63% ao longo da semana, reflexo das dúvidas sobre o pacote fiscal e da volatilidade global.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-16T01:33:24.741934+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-fecha-estavel-r-565-mas-sobe-263-na-semana",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Medalha_da_Inaugura%C3%A7%C3%A3o_do_Museu_de_Valores_do_Banco_Central.png/1280px-Medalha_da_Inaugura%C3%A7%C3%A3o_do_Museu_de_Valores_do_Banco_Central.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "Governo do Brasil/Museu de Valores do Banco Central do Brasil",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Medalha_da_Inaugura%C3%A7%C3%A3o_do_Museu_de_Valores_do_Banco_Central.png",
+      "entidade": "Banco Central do Brasil",
+      "verificada_em": "2026-11-16",
+      "photographer": "Governo do Brasil/Museu de Valores do Banco Central do Brasil",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Medalha_da_Inaugura%C3%A7%C3%A3o_do_Museu_de_Valores_do_Banco_Central.png",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Medalha_da_Inaugura%C3%A7%C3%A3o_do_Museu_de_Valores_do_Banco_Central.png",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Medalha_da_Inaugura%C3%A7%C3%A3o_do_Museu_de_Valores_do_Banco_Central.png"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Banco Central do Brasil",
+        "B3 – Brasil, Bolsa, Balcão",
+        "Senado Federal"
+      ],
+      "lugares": [
+        "Centro de Negócios da B3, São Paulo",
+        "São Paulo",
+        "Brasília"
+      ],
+      "palavras_chave": [
+        "Brazil dollar exchange market 2026",
+        "Brazil financial district",
+        "São Paulo stock exchange"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Dólar cierra estable, pero acumula alza del 2,63% en la semana",
+        "lead": "El dólar cerró el viernes en R$ 5,65, manteniendo estabilidad pese a subir 2,63% durante la semana, reflejo de dudas sobre el paquete fiscal y la volatilidad global."
+      },
+      "en": {
+        "titulo": "Dollar Holds Steady, Yet Gains 2.63% Over the Week",
+        "lead": "The dollar closed Friday at R$ 5.65, staying steady despite a 2.63% rise over the week, reflecting doubts about the fiscal package and global market volatility."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "c3719a12-06b6-4970-a035-229740455550",
     "titulo": "Papa Francisco celebra missa em vila andina peruana",
     "lead": "O Papa Francisco celebrou uma missa em um pequeno povoado andino do Peru, reforçando a presença da Igreja Católica nas comunidades indígenas e atraindo a atenção regional para a fé e a cultura local.",
