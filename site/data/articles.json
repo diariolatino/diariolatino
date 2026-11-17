@@ -1,5 +1,61 @@
 [
   {
+    "id": "2fc87068-2f6d-47d4-8e1e-9f34210b6765",
+    "titulo": "Senado aprova pacote de ajuste que economiza R$60 bi",
+    "lead": "Com 45 votos a favor e 31 contra, o Senado brasileiro aprovou o texto‑base de um pacote de ajuste fiscal que deve gerar entre R$ 50 e R$ 60 bilhões de economia em 2027.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-17T10:58:09.969519+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/2026-04-29_Tarcijany_Linhares_%C3%A9_eleita_Defensora_P%C3%BAblica-Geral_Federal%2C_014.jpg/1280px-2026-04-29_Tarcijany_Linhares_%C3%A9_eleita_Defensora_P%C3%BAblica-Geral_Federal%2C_014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC0",
+      "licenca_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "Defensoria Pública da União - DPU",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:2026-04-29_Tarcijany_Linhares_%C3%A9_eleita_Defensora_P%C3%BAblica-Geral_Federal,_014.jpg",
+      "entidade": "Senado Federal (Brasília)",
+      "verificada_em": "2026-11-17",
+      "photographer": "Defensoria Pública da União - DPU",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:2026-04-29_Tarcijany_Linhares_%C3%A9_eleita_Defensora_P%C3%BAblica-Geral_Federal,_014.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:2026-04-29_Tarcijany_Linhares_%C3%A9_eleita_Defensora_P%C3%BAblica-Geral_Federal,_014.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:2026-04-29_Tarcijany_Linhares_%C3%A9_eleita_Defensora_P%C3%BAblica-Geral_Federal,_014.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Senado Federal (Brasília)",
+        "Ministro da Fazenda Bruno Moretti",
+        "Senador Rogério Marinho"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Brazil Senate voting fiscal adjustment",
+        "Brazil Senate chamber",
+        "Brazil budget meeting"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Senado aprueba paquete de ajuste que ahorra R$60 mil millones",
+        "lead": "Con 45 votos a favor y 31 en contra, el Senado brasileño aprobó el texto base de un paquete de ajuste fiscal que debe generar entre R$ 50 y R$ 60 mil millones de ahorro en 2027."
+      },
+      "en": {
+        "titulo": "Senate approves adjustment package saving $60 billion",
+        "lead": "With 45 votes in favor and 31 against, Brazil's Senate approved the baseline text of a fiscal adjustment package that should generate between $50 billion and $60 billion in savings in 2027."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "ce9e53c0-8ca2-4295-a983-5f4cfe874d5b",
     "titulo": "Lula e Sánchez reforçam aliança contra a extrema‑direita",
     "lead": "Em Madrid, Lula e o presidente espanhol Pedro Sánchez lançam um apelo conjunto para conter o avanço da extrema‑direita, destacando a necessidade de democracia e cooperação multilateral entre América Latina e Europa.",
