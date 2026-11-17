@@ -1,5 +1,61 @@
 [
   {
+    "id": "294c77a3-30ed-410e-80d5-188dd245f59d",
+    "titulo": "Bukele lidera operação de 2 mil soldados no Haiti",
+    "lead": "Mais de dois mil militares salvadorenhos desembarcam em Porto Príncipe, enquanto multidões celebram o presidente Nayib Bukele, que usa a missão para projetar influência no Caribe antes das eleições de 2027.",
+    "categoria": "Política",
+    "pais": "El Salvador",
+    "publicado_em": "2026-11-17T19:33:23.823947+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/bukele-de-el-salvador-projeta-poder-no-caribe-com-operacao-no-haiti",
+    "imagem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Stade_Sylvio_Cator_after_earthquake_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "Mass Communication Specialist 2nd Class Joel Carlson (U.S. Navy)",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Stade_Sylvio_Cator_after_earthquake_2010.jpg",
+      "entidade": "Estádio Sylvio Cator",
+      "verificada_em": "2026-11-17",
+      "photographer": "Mass Communication Specialist 2nd Class Joel Carlson (U.S. Navy)",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Stade_Sylvio_Cator_after_earthquake_2010.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Stade_Sylvio_Cator_after_earthquake_2010.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Stade_Sylvio_Cator_after_earthquake_2010.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Soldados salvadorenhos em Porto Príncipe",
+        "Estádio Sylvio Cator",
+        "Presidente Nayib Bukele"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "El Salvador military operation Haiti",
+        "Nayib Bukele in Haiti",
+        "Port-au-Prince soldiers"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Bukele lidera operación de 2 mil soldados en Haití",
+        "lead": "Más de dos mil militares salvadoreños desembarcaron en Puerto Príncipe, mientras multitudes celebran al presidente Nayib Bukele, que usa la misión para proyectar influencia en el Caribe antes de las elecciones de 2027."
+      },
+      "en": {
+        "titulo": "Bukele leads 2,000‑soldier operation in Haiti",
+        "lead": "More than two thousand Salvadoran troops landed in Port‑au‑Prince as crowds celebrate President Nayib Bukele, who uses the mission to project Caribbean influence ahead of the 2027 elections."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "2fc87068-2f6d-47d4-8e1e-9f34210b6765",
     "titulo": "Senado aprova pacote de ajuste que economiza R$60 bi",
     "lead": "Com 45 votos a favor e 31 contra, o Senado brasileiro aprovou o texto‑base de um pacote de ajuste fiscal que deve gerar entre R$ 50 e R$ 60 bilhões de economia em 2027.",
