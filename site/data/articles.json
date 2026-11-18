@@ -1,5 +1,65 @@
 [
   {
+    "id": "03156bc8-8fb6-48f2-a4e9-8c2075aa2bff",
+    "titulo": "Atrasos no crédito aumentam na América Latina e EUA",
+    "lead": "Dados recentes mostram que a morosidade nos pagamentos de empréstimos está em alta não só na Argentina, mas em toda a América Latina e também nos Estados Unidos, pressionando bancos e consumidores.",
+    "categoria": "Economia",
+    "pais": "América Latina",
+    "publicado_em": "2026-11-18T18:18:49.976913+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.ambito.com/finanzas/la-morosidad-no-es-solo-un-fenomeno-argentino-que-crecen-los-atrasos-los-creditos-america-latina-y-eeuu-n6346111",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Banco_Central_do_Brasil_1966.jpg/1280px-Banco_Central_do_Brasil_1966.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "Governo do Brasil/Banco Central do Brasil/Museu de Valores do Banco Central do Brasil",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Banco_Central_do_Brasil_1966.jpg",
+      "entidade": "Banco Central do Brasil",
+      "verificada_em": "2026-11-18",
+      "photographer": "Governo do Brasil/Banco Central do Brasil/Museu de Valores do Banco Central do Brasil",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Banco_Central_do_Brasil_1966.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Banco_Central_do_Brasil_1966.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Banco_Central_do_Brasil_1966.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Banco Central da Argentina",
+        "Banco Central do Brasil",
+        "Federal Reserve"
+      ],
+      "lugares": [
+        "Casa Rosada, Buenos Aires",
+        "São Paulo, Brasil",
+        "Washington, D.C."
+      ],
+      "palavras_chave": [
+        "Latin America credit delinquency",
+        "Argentina loan defaults",
+        "US consumer debt"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Aumentan los atrasos de crédito en América Latina y EE.UU.",
+        "lead": "Datos recientes indican que la morosidad en pagos de préstamos crece no solo en Argentina, sino en toda América Latina y también en Estados Unidos, tensionando a bancos y consumidores."
+      },
+      "en": {
+        "titulo": "Credit Delinquency Rises Across Latin America and US",
+        "lead": "Recent data show that loan payment delays are climbing not only in Argentina but throughout Latin America and also in the United States, pressuring banks and consumers alike."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "1e16e54b-21ef-4961-b67b-c8e6188a4870",
     "titulo": "Brasil simplifica exportação de cosméticos na América Latina",
     "lead": "Um novo decreto internaliza o acordo da Aladi, elimina barreiras técnicas ao comércio de cosméticos sem mudar tarifas e abre um mercado regional de mais de US$ 55 bilhões para as empresas brasileiras.",

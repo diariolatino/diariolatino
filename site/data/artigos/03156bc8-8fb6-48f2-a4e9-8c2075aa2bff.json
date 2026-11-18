@@ -1,0 +1,63 @@
+{
+  "id": "03156bc8-8fb6-48f2-a4e9-8c2075aa2bff",
+  "titulo": "Atrasos no crédito aumentam na América Latina e EUA",
+  "lead": "Dados recentes mostram que a morosidade nos pagamentos de empréstimos está em alta não só na Argentina, mas em toda a América Latina e também nos Estados Unidos, pressionando bancos e consumidores.",
+  "corpo": "Os índices de inadimplência em operações de crédito registram crescimento inesperado, ultrapassando a tradicional concentração observada na Argentina. Analistas apontam que o fenômeno agora se espalha por diversos países latino‑americanos e já se faz presente nos Estados Unidos, sinalizando um cenário de maior risco ao sistema financeiro regional. \n\nEm economias como Brasil, México e Colômbia, instituições bancárias já reportam elevações nos atrasos de pagamentos, refletindo a fragilidade de poupanças familiares e a dificuldade de honrar compromissos diante de inflação persistente e juros elevados. Nos Estados Unidos, o aumento de empréstimos estudantis e de cartões de crédito também contribui para a escalada dos números de mora. \n\nO impacto se traduz em custos mais altos para novos tomadores, que enfrentam taxas de juros mais rígidas, e em maiores provisões de perdas para os bancos, que precisam reforçar seus balanços. Em resposta, alguns bancos centrais da região sinalizaram a revisão de políticas de crédito, enquanto o Federal Reserve dos EUA mantém a vigilância sobre o crédito ao consumidor. \n\nEspecialistas recomendam cautela aos consumidores que buscam financiamento, sugerindo a reavaliação de gastos e a priorização de dívidas com juros mais onerosos. Para o setor bancário, a tendência indica a necessidade de ajustes nos critérios de concessão e na gestão de risco, a fim de evitar um ciclo de inadimplência que possa comprometer a estabilidade econômica regional.",
+  "categoria": "Economia",
+  "pais": "América Latina",
+  "publicado_em": "2026-11-18T18:18:49.976913+00:00",
+  "fontes": [
+    "GDELT"
+  ],
+  "url_fonte_original": "https://www.ambito.com/finanzas/la-morosidad-no-es-solo-un-fenomeno-argentino-que-crecen-los-atrasos-los-creditos-america-latina-y-eeuu-n6346111",
+  "imagem": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Banco_Central_do_Brasil_1966.jpg/1280px-Banco_Central_do_Brasil_1966.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "fonte": "Wikimedia Commons",
+    "licenca": "Public domain",
+    "licenca_url": "",
+    "nivel_licenca": "sem_restricoes",
+    "tipo_busca": "entidade",
+    "autor": "Governo do Brasil/Banco Central do Brasil/Museu de Valores do Banco Central do Brasil",
+    "url_pagina": "https://commons.wikimedia.org/wiki/File:Banco_Central_do_Brasil_1966.jpg",
+    "entidade": "Banco Central do Brasil",
+    "verificada_em": "2026-11-18",
+    "photographer": "Governo do Brasil/Banco Central do Brasil/Museu de Valores do Banco Central do Brasil",
+    "photographer_url": "https://commons.wikimedia.org/wiki/File:Banco_Central_do_Brasil_1966.jpg",
+    "pexels_url": "https://commons.wikimedia.org/wiki/File:Banco_Central_do_Brasil_1966.jpg",
+    "fonte_nome": "Wikimedia Commons",
+    "fonte_url": "https://commons.wikimedia.org/wiki/File:Banco_Central_do_Brasil_1966.jpg"
+  },
+  "imagem_busca": {
+    "entidades": [
+      "Banco Central da Argentina",
+      "Banco Central do Brasil",
+      "Federal Reserve"
+    ],
+    "lugares": [
+      "Casa Rosada, Buenos Aires",
+      "São Paulo, Brasil",
+      "Washington, D.C."
+    ],
+    "palavras_chave": [
+      "Latin America credit delinquency",
+      "Argentina loan defaults",
+      "US consumer debt"
+    ]
+  },
+  "imagem_tentativas": 0,
+  "imagem_ultima_tentativa_em": null,
+  "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+  "traducoes": {
+    "es": {
+      "titulo": "Aumentan los atrasos de crédito en América Latina y EE.UU.",
+      "lead": "Datos recientes indican que la morosidad en pagos de préstamos crece no solo en Argentina, sino en toda América Latina y también en Estados Unidos, tensionando a bancos y consumidores.",
+      "corpo": "Los índices de morosidad en operaciones de crédito registran un crecimiento inesperado, superando la tradicional concentración observada en Argentina. Analistas señalan que el fenómeno ahora se extiende a varios países latinoamericanos y ya se percibe en Estados Unidos, indicando un escenario de mayor riesgo para el sistema financiero regional.\n\nEn economías como Brasil, México y Colombia, los bancos ya reportan aumentos en los atrasos de pagos, reflejando la fragilidad del ahorro familiar y la dificultad de cumplir compromisos ante una inflación persistente y tasas de interés elevadas. En EE.UU., el aumento de préstamos estudiantiles y de tarjetas de crédito también contribuye al alza de la morosidad.\n\nEl impacto se traduce en costos más altos para nuevos prestatarios, que enfrentan tasas de interés más estrictas, y en mayores provisiones de pérdida para los bancos, que deben reforzar sus balances. En respuesta, algunos bancos centrales de la región han señalado la revisión de políticas crediticias, mientras la Reserva Federal de EE.UU. mantiene la vigilancia sobre el crédito al consumidor.\n\nExpertos recomiendan cautela a los consumidores que buscan financiación, sugiriendo revaluar gastos y priorizar deudas con intereses más onerosos. Para el sector bancario, la tendencia indica la necesidad de ajustar los criterios de concesión y la gestión de riesgos, a fin de evitar un ciclo de morosidad que pueda comprometer la estabilidad económica regional."
+    },
+    "en": {
+      "titulo": "Credit Delinquency Rises Across Latin America and US",
+      "lead": "Recent data show that loan payment delays are climbing not only in Argentina but throughout Latin America and also in the United States, pressuring banks and consumers alike.",
+      "corpo": "Credit‑card and loan delinquency rates are registering an unexpected rise, surpassing the traditional concentration once seen in Argentina. Analysts note that the phenomenon now spreads across several Latin American countries and is already evident in the United States, signaling a higher‑risk scenario for the regional financial system.\n\nIn economies such as Brazil, Mexico and Colombia, banks are already reporting higher payment arrears, reflecting fragile household savings and the difficulty of meeting obligations amid persistent inflation and elevated interest rates. In the United States, rising student loans and credit‑card balances also contribute to the surge in defaults.\n\nThe impact translates into higher costs for new borrowers, who face tighter interest rates, and larger loss provisions for banks, which must shore up their balance sheets. In response, some central banks in the region have hinted at revising credit policies, while the US Federal Reserve continues to monitor consumer credit closely.\n\nExperts advise caution to consumers seeking financing, recommending a reassessment of spending and prioritization of high‑interest debt. For the banking sector, the trend points to the need for adjusted lending criteria and risk management to avoid a delinquency cycle that could jeopardize regional economic stability."
+    }
+  },
+  "atualizacao_de": null
+}
