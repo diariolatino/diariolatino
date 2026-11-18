@@ -1,5 +1,64 @@
 [
   {
+    "id": "1e16e54b-21ef-4961-b67b-c8e6188a4870",
+    "titulo": "Brasil simplifica exportação de cosméticos na América Latina",
+    "lead": "Um novo decreto internaliza o acordo da Aladi, elimina barreiras técnicas ao comércio de cosméticos sem mudar tarifas e abre um mercado regional de mais de US$ 55 bilhões para as empresas brasileiras.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-18T09:26:40.709939+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-simplifica-exportacao-de-cosmeticos-para-america-latina",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Palacio_do_Planalto.jpeg/1280px-Palacio_do_Planalto.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "lugar",
+      "autor": "Annemariebr at English Wikipedia",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Palacio_do_Planalto.jpeg",
+      "entidade": "Palácio do Planalto, Brasília",
+      "verificada_em": "2026-11-18",
+      "photographer": "Annemariebr at English Wikipedia",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Palacio_do_Planalto.jpeg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Palacio_do_Planalto.jpeg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Palacio_do_Planalto.jpeg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC)",
+        "Agência Nacional de Vigilância Sanitária (Anvisa)",
+        "Secretaria‑Geral da Aladi"
+      ],
+      "lugares": [
+        "Palácio do Planalto, Brasília",
+        "Ministério do Desenvolvimento, Indústria, Comércio e Serviços, Brasília"
+      ],
+      "palavras_chave": [
+        "Brazil cosmetics export agreement",
+        "Ministry of Development Brazil building",
+        "Aladi meeting Brazil"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasil simplifica exportación de cosméticos en América Latina",
+        "lead": "Un nuevo decreto internaliza el acuerdo de la Aladi, elimina barreras técnicas al comercio de cosméticos sin cambiar tarifas y abre un mercado regional de más de US$ 55 mil millones para las empresas brasileñas."
+      },
+      "en": {
+        "titulo": "Brazil streamlines cosmetics exports to Latin America",
+        "lead": "A new decree internalizes the Aladi agreement, removes technical trade barriers for cosmetics without changing tariffs, and opens a regional market of over US$ 55 billion for Brazilian firms."
+      }
+    },
+    "atualizacao_de": "10796b56-6d03-409c-9654-13975e40aec0"
+  },
+  {
     "id": "9d61a5c7-eaf5-4bba-b9b6-fd014d125658",
     "titulo": "Ecuadorianos sobreviventes de ataque dos EUA processam Trump",
     "lead": "Um grupo de pescadores do Equador, que escaparam de um ataque militar dos Estados Unidos, entrou com ação judicial contra o governo de Donald Trump, alegando violação de direitos humanos e danos materiais.",
