@@ -1,5 +1,63 @@
 [
   {
+    "id": "9d61a5c7-eaf5-4bba-b9b6-fd014d125658",
+    "titulo": "Ecuadorianos sobreviventes de ataque dos EUA processam Trump",
+    "lead": "Um grupo de pescadores do Equador, que escaparam de um ataque militar dos Estados Unidos, entrou com ação judicial contra o governo de Donald Trump, alegando violação de direitos humanos e danos materiais.",
+    "categoria": "Política",
+    "pais": "Equador",
+    "publicado_em": "2026-11-18T01:50:29.329325+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.elheraldo.hn/mundo/pescadores-ecuatorianos-sobrevivieron-ataque-estados-unidos-demandan-gobierno-trump-EA32677377",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/10_anos_da_Lei_Brasileira_de_Inclus%C3%A3o_da_Pessoa_com_Defici%C3%AAncia_%2854654531873%29.jpg/1280px-10_anos_da_Lei_Brasileira_de_Inclus%C3%A3o_da_Pessoa_com_Defici%C3%AAncia_%2854654531873%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC BY 4.0",
+      "licenca_url": "https://creativecommons.org/licenses/by/4.0",
+      "nivel_licenca": "cc_by",
+      "tipo_busca": "lugar",
+      "autor": "Agência Senado from Brasilia, Brazil",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:10_anos_da_Lei_Brasileira_de_Inclus%C3%A3o_da_Pessoa_com_Defici%C3%AAncia_(54654531873).jpg",
+      "entidade": "Tribunal Federal de Nova York",
+      "verificada_em": "2026-11-18",
+      "photographer": "Agência Senado from Brasilia, Brazil",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:10_anos_da_Lei_Brasileira_de_Inclus%C3%A3o_da_Pessoa_com_Defici%C3%AAncia_(54654531873).jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:10_anos_da_Lei_Brasileira_de_Inclus%C3%A3o_da_Pessoa_com_Defici%C3%AAncia_(54654531873).jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:10_anos_da_Lei_Brasileira_de_Inclus%C3%A3o_da_Pessoa_com_Defici%C3%AAncia_(54654531873).jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Navio de pesca equatoriano",
+        "Tribunal Federal dos EUA"
+      ],
+      "lugares": [
+        "Tribunal Federal de Nova York",
+        "Mar aberto ao largo da costa equatoriana"
+      ],
+      "palavras_chave": [
+        "Ecuadorian fishermen lawsuit United States",
+        "Ecuador fishing boat US attack",
+        "Trump administration legal case"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Ecuatorianos sobrevivientes de ataque de EE.UU. demandan a Trump",
+        "lead": "Un grupo de pescadores de Ecuador, que escaparon de un ataque militar de Estados Unidos, presentó una demanda contra el gobierno de Donald Trump, alegando violación de derechos humanos y daños materiales."
+      },
+      "en": {
+        "titulo": "Ecuadorian survivors of US attack sue Trump",
+        "lead": "A group of Ecuadorian fishermen who escaped a United States military attack have filed a lawsuit against Donald Trump's government, alleging human‑rights violations and material damages."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "294c77a3-30ed-410e-80d5-188dd245f59d",
     "titulo": "Bukele lidera operação de 2 mil soldados no Haiti",
     "lead": "Mais de dois mil militares salvadorenhos desembarcam em Porto Príncipe, enquanto multidões celebram o presidente Nayib Bukele, que usa a missão para projetar influência no Caribe antes das eleições de 2027.",
