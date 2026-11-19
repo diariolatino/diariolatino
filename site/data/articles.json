@@ -1,5 +1,63 @@
 [
   {
+    "id": "2006dab1-6002-4aff-97b1-de4c0485a884",
+    "titulo": "Dólar ultrapassa 19 pesos; peso mexicano atinge baixa",
+    "lead": "O dólar rompe a marca dos 19 pesos, arrastando o peso mexicano ao nível mais baixo em mais de um ano após a divulgação das minutas do Banxico, pressionando consumidores e empresas.",
+    "categoria": "Economia",
+    "pais": "México",
+    "publicado_em": "2026-11-19T23:44:52.231216+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.elimparcial.com/dinero/2026/11/19/dolar-rebasa-los-19-pesos-y-hunde-al-peso-mexicano-a-su-nivel-mas-bajo-en-mas-de-un-ano-tras-las-minutas-de-banxico/",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Jard%C3%ADn_de_la_plaza_de_armas_de_la_ciudad_de_M%C3%A9xico.jpg/1280px-Jard%C3%ADn_de_la_plaza_de_armas_de_la_ciudad_de_M%C3%A9xico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "lugar",
+      "autor": "C. Castro, G. Rodríguez é J. Campillo",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_de_la_plaza_de_armas_de_la_ciudad_de_M%C3%A9xico.jpg",
+      "entidade": "Plaza de la Constitución, Ciudad de México",
+      "verificada_em": "2026-11-19",
+      "photographer": "C. Castro, G. Rodríguez é J. Campillo",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_de_la_plaza_de_armas_de_la_ciudad_de_M%C3%A9xico.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_de_la_plaza_de_armas_de_la_ciudad_de_M%C3%A9xico.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_de_la_plaza_de_armas_de_la_ciudad_de_M%C3%A9xico.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Banco Central do México",
+        "Plaza de la Constitución"
+      ],
+      "lugares": [
+        "Banco Central do México, Ciudad de México",
+        "Plaza de la Constitución, Ciudad de México"
+      ],
+      "palavras_chave": [
+        "Mexico dollar exchange rate",
+        "Banxico headquarters",
+        "Mexican peso decline"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Dólar supera 19 pesos; peso mexicano toca baja",
+        "lead": "El dólar rompe la barrera de los 19 pesos, arrastrando al peso mexicano a su nivel más bajo en más de un año tras la publicación de las minutas de Banxico, presionando a consumidores y empresas."
+      },
+      "en": {
+        "titulo": "Dollar Passes 19 Pesos as Mexican Peso Hits One-Year Low",
+        "lead": "The dollar broke the 19‑peso barrier, dragging the Mexican peso to its lowest level in over a year after Banxico released its minutes, pressuring consumers and businesses."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "f4c781ad-fd7d-481f-8ada-6a6a49981234",
     "titulo": "Drones aumentam 132% ataques na Colômbia em 100 dias",
     "lead": "Nos primeiros 100 dias de governo de Abelardo de La Espriella, os ataques de drones cresceram 132%, com um incidente a cada 20 horas, elevando a mortalidade de militares e deslocando milhares.",
