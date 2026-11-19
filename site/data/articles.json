@@ -1,5 +1,64 @@
 [
   {
+    "id": "1809f36a-0b9c-4a56-bdc0-7ed733034dec",
+    "titulo": "Negros ocupam menos de um terço dos cargos gerenciais",
+    "lead": "Apesar de representarem 55% da força de trabalho, pretos e pardos têm apenas 30,7% dos postos de liderança no Brasil, revelam dados do IBGE de 2025.",
+    "categoria": "Sociedade",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-19T00:39:12.691633+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pretos-e-pardos-ocupam-apenas-307-dos-cargos-gerenciais-mostra-ibge",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Preparativos_da_mudan%C3%A7a_para_Bras%C3%ADlia%2C_DF_%281%29.jpg/1280px-Preparativos_da_mudan%C3%A7a_para_Bras%C3%ADlia%2C_DF_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "lugar",
+      "autor": "Wikimedia Commons",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Preparativos_da_mudan%C3%A7a_para_Bras%C3%ADlia,_DF_(1).jpg",
+      "entidade": "Brasília, DF",
+      "verificada_em": "2026-11-19",
+      "photographer": "Wikimedia Commons",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Preparativos_da_mudan%C3%A7a_para_Bras%C3%ADlia,_DF_(1).jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Preparativos_da_mudan%C3%A7a_para_Bras%C3%ADlia,_DF_(1).jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Preparativos_da_mudan%C3%A7a_para_Bras%C3%ADlia,_DF_(1).jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Leonardo Athias",
+        "Instituto Brasileiro de Geografia e Estatística (IBGE)",
+        "Sede do IBGE, Rio de Janeiro"
+      ],
+      "lugares": [
+        "Sede do IBGE, Rio de Janeiro",
+        "Brasília, DF"
+      ],
+      "palavras_chave": [
+        "Brazil black workers managerial positions",
+        "Brazil workplace racial inequality",
+        "Brazil labor market"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Negros ocupan menos de un tercio de los cargos gerenciales",
+        "lead": "A pesar de representar el 55 % de la fuerza laboral, los negros y pardos solo tienen el 30,7 % de los puestos de liderazgo en Brasil, según datos del IBGE de 2025."
+      },
+      "en": {
+        "titulo": "Blacks hold less than one third of managerial jobs",
+        "lead": "Despite making up 55% of the workforce, black and brown Brazilians hold only 30.7% of leadership positions, IBGE data for 2025 show."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "03156bc8-8fb6-48f2-a4e9-8c2075aa2bff",
     "titulo": "Atrasos no crédito aumentam na América Latina e EUA",
     "lead": "Dados recentes mostram que a morosidade nos pagamentos de empréstimos está em alta não só na Argentina, mas em toda a América Latina e também nos Estados Unidos, pressionando bancos e consumidores.",
