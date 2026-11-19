@@ -1,5 +1,64 @@
 [
   {
+    "id": "64570435-5e96-43c3-8d4e-a255a5707119",
+    "titulo": "México prende líder armado do Cártel Jalisco Nova Geração",
+    "lead": "Autoridades mexicanas detiveram a chefe do braço armado do Cártel Jalisco Nova Geração, intensificando a luta contra o crime organizado em território nacional.",
+    "categoria": "Segurança",
+    "pais": "México",
+    "publicado_em": "2026-11-19T08:08:33.493392+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://actualidad-rt.com/actualidad/638510-mexico-detener-lider-brazo-armado-cjng",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Colaboraci%C3%B3n_entre_Polic%C3%ADa_Federal_y_C5_IMG_2037_%2830791232758%29.jpg/1280px-Colaboraci%C3%B3n_entre_Polic%C3%ADa_Federal_y_C5_IMG_2037_%2830791232758%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC0",
+      "licenca_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "Gobierno CDMX",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Colaboraci%C3%B3n_entre_Polic%C3%ADa_Federal_y_C5_IMG_2037_(30791232758).jpg",
+      "entidade": "Policía Federal de México",
+      "verificada_em": "2026-11-19",
+      "photographer": "Gobierno CDMX",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Colaboraci%C3%B3n_entre_Polic%C3%ADa_Federal_y_C5_IMG_2037_(30791232758).jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Colaboraci%C3%B3n_entre_Polic%C3%ADa_Federal_y_C5_IMG_2037_(30791232758).jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Colaboraci%C3%B3n_entre_Polic%C3%ADa_Federal_y_C5_IMG_2037_(30791232758).jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Policía Federal de México",
+        "Cártel Jalisco Nueva Generación",
+        "Secretaría de Seguridad y Protección Ciudadana"
+      ],
+      "lugares": [
+        "Ciudad de México, Cuartel General de la Policía Federal",
+        "Ciudad de México"
+      ],
+      "palavras_chave": [
+        "Mexico CJNG leader arrest",
+        "Mexican police arrest cartel leader",
+        "Mexico drug cartel headquarters"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "México detiene a líder armado del Cártel Jalisco Nueva Generación",
+        "lead": "Las autoridades mexicanas capturaron a la cabeza del brazo armado del Cártel Jalisco Nueva Generación, intensificando la lucha contra el crimen organizado en el país."
+      },
+      "en": {
+        "titulo": "Mexico arrests armed leader of Jalisco New Generation Cartel",
+        "lead": "Mexican authorities have detained the head of the armed wing of the Jalisco New Generation Cartel, intensifying the fight against organized crime across the nation."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "1809f36a-0b9c-4a56-bdc0-7ed733034dec",
     "titulo": "Negros ocupam menos de um terço dos cargos gerenciais",
     "lead": "Apesar de representarem 55% da força de trabalho, pretos e pardos têm apenas 30,7% dos postos de liderança no Brasil, revelam dados do IBGE de 2025.",
