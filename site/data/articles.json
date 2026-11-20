@@ -1,5 +1,64 @@
 [
   {
+    "id": "8b22f69b-bb0e-488a-8f95-52c8dea882f1",
+    "titulo": "Brasil cria Sistema Estratégico de Satélites de Defesa",
+    "lead": "Decreto publicado em 17 de novembro oficializa o Sistema de Satélites de Defesa e Comunicações Estratégicas, integrando satélites governamentais e ampliando a capacidade tecnológica nacional.",
+    "categoria": "Segurança",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-20T21:41:11.529083+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/brasil-tera-sistema-de-satelites-de-defesa-e-comunicacoes-estrategica",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Inaugura%C3%A7%C3%A3o_da_escultura_do_Sat%C3%A9lite_Geoestacion%C3%A1rio_de_Defesa_e_Comunica%C3%A7%C3%B5es_Estrat%C3%A9gicas_%28SGDC%29_na_Ag%C3%AAncia_Espacial_Brasileira_%28AEB%29._Foto_Ricardo_Fonseca_%2840878173052%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC BY 2.0",
+      "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+      "nivel_licenca": "cc_by",
+      "tipo_busca": "entidade",
+      "autor": "Ministério da Ciência, Tecnologia e Inovação from Brasília - DF, Brasil",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Inaugura%C3%A7%C3%A3o_da_escultura_do_Sat%C3%A9lite_Geoestacion%C3%A1rio_de_Defesa_e_Comunica%C3%A7%C3%B5es_Estrat%C3%A9gicas_(SGDC)_na_Ag%C3%AAncia_Espacial_Brasileira_(AEB)._Foto_Ricardo_Fonseca_(40878173052).jpg",
+      "entidade": "Satélite Geoestacionário de Defesa e Comunicações Estratégicas (SGDC-1)",
+      "verificada_em": "2026-11-20",
+      "photographer": "Ministério da Ciência, Tecnologia e Inovação from Brasília - DF, Brasil",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Inaugura%C3%A7%C3%A3o_da_escultura_do_Sat%C3%A9lite_Geoestacion%C3%A1rio_de_Defesa_e_Comunica%C3%A7%C3%B5es_Estrat%C3%A9gicas_(SGDC)_na_Ag%C3%AAncia_Espacial_Brasileira_(AEB)._Foto_Ricardo_Fonseca_(40878173052).jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Inaugura%C3%A7%C3%A3o_da_escultura_do_Sat%C3%A9lite_Geoestacion%C3%A1rio_de_Defesa_e_Comunica%C3%A7%C3%B5es_Estrat%C3%A9gicas_(SGDC)_na_Ag%C3%AAncia_Espacial_Brasileira_(AEB)._Foto_Ricardo_Fonseca_(40878173052).jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Inaugura%C3%A7%C3%A3o_da_escultura_do_Sat%C3%A9lite_Geoestacion%C3%A1rio_de_Defesa_e_Comunica%C3%A7%C3%B5es_Estrat%C3%A9gicas_(SGDC)_na_Ag%C3%AAncia_Espacial_Brasileira_(AEB)._Foto_Ricardo_Fonseca_(40878173052).jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Satélite Geoestacionário de Defesa e Comunicações Estratégicas (SGDC-1)",
+        "Agência Espacial Brasileira (AEB)",
+        "Telebras"
+      ],
+      "lugares": [
+        "Centro de Controle da Telebras em Brasília",
+        "Instituto Nacional de Pesquisas Espaciais (INPE) – São José dos Campos"
+      ],
+      "palavras_chave": [
+        "Brazil satellite defense launch",
+        "Brazil Telebras satellite control center",
+        "Brazil space agency AEB"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasil crea Sistema Estratégico de Satélites de Defensa",
+        "lead": "Decreto publicado el 17 de noviembre oficializa el Sistema de Satélites de Defensa y Comunicaciones Estratégicas, integrando satélites gubernamentales y ampliando la capacidad tecnológica nacional."
+      },
+      "en": {
+        "titulo": "Brazil launches Strategic Defense Satellite System",
+        "lead": "Decree issued on November 17 formalizes the Defense and Strategic Communications Satellite System, integrating government satellites and expanding the nation's technological capacity."
+      }
+    },
+    "atualizacao_de": "1e16e54b-21ef-4961-b67b-c8e6188a4870"
+  },
+  {
     "id": "ab68561c-09cc-4128-bbbe-10516ce031ad",
     "titulo": "EUA reforça apoio a Equador contra narcoterrorismo",
     "lead": "Os Estados Unidos confirmaram novo apoio militar ao Equador para enfrentar o narcoterrorismo, reforçando a parceria de segurança entre os dois países em meio a crescentes ameaças na região.",
