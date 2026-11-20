@@ -1,5 +1,50 @@
 [
   {
+    "id": "ab68561c-09cc-4128-bbbe-10516ce031ad",
+    "titulo": "EUA reforça apoio a Equador contra narcoterrorismo",
+    "lead": "Os Estados Unidos confirmaram novo apoio militar ao Equador para enfrentar o narcoterrorismo, reforçando a parceria de segurança entre os dois países em meio a crescentes ameaças na região.",
+    "categoria": "Segurança",
+    "pais": "Equador",
+    "publicado_em": "2026-11-20T13:45:57.113276+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://laopinion.com/2026/11/19/pete-hegseth-reafirma-apoyo-de-ee-uu-a-ecuador-contra-el-narcoterrorismo-y-amplia-cooperacion-militar/",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/9845045/pexels-photo-9845045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "Matthew Hintz",
+      "photographer_url": "https://www.pexels.com/@matthew-hintz-834554",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/us-army-having-a-combat-training-9845045/"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Presidente de Equador",
+        "Embaixada dos Estados Unidos em Quito"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Ecuador US military cooperation",
+        "US embassy Quito",
+        "Ecuador border security"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "EE. UU. refuerza apoyo a Ecuador contra el narcoterrorismo",
+        "lead": "Estados Unidos confirmó un nuevo apoyo militar a Ecuador para enfrentar el narcoterrorismo, reforzando la asociación de seguridad entre ambos países ante crecientes amenazas en la región."
+      },
+      "en": {
+        "titulo": "US reinforces support to Ecuador against narco‑terrorism",
+        "lead": "The United States confirmed new military assistance to Ecuador to tackle narco‑terrorism, strengthening the security partnership between the two nations amid rising regional threats."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "de97a949-0417-4440-be3c-14c418dad247",
     "titulo": "APEC e COP31 marcam economia em transição",
     "lead": "Duas das maiores cúpulas internacionais do ano – APEC e COP31 – acontecem enquanto as economias participantes buscam equilibrar crescimento e sustentabilidade, tema central para a América Latina.",
