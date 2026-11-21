@@ -1,5 +1,62 @@
 [
   {
+    "id": "f8d3d1bd-9caa-4c2b-ad5f-1f1e04c833f9",
+    "titulo": "Especialista aponta 27 milhões sem cobertura previdenciária",
+    "lead": "Em 2024, cerca de 27 milhões de brasileiros entre 16 e 59 anos estavam sem proteção previdenciária, revelando que três décadas de reformas não garantiram equilíbrio fiscal nem inclusão social.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-21T22:35:26.035200+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/especialista-analisa-impacto-de-reformas-previdenciarias-no-pais",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Plen%C3%A1rio_do_Congresso_%2830816314813%29.jpg/1280px-Plen%C3%A1rio_do_Congresso_%2830816314813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC BY 2.0",
+      "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+      "nivel_licenca": "cc_by",
+      "tipo_busca": "entidade",
+      "autor": "Senado Federal",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Congresso_(30816314813).jpg",
+      "entidade": "Tribunal de Contas de Pernambuco",
+      "verificada_em": "2026-11-21",
+      "photographer": "Senado Federal",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Congresso_(30816314813).jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Congresso_(30816314813).jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Congresso_(30816314813).jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Ricardo Souza",
+        "Canal Rede Previdência",
+        "Tribunal de Contas de Pernambuco",
+        "Ministério da Previdência Social"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Ricardo Souza interview Brazil pension reform",
+        "Brazil pension system coverage",
+        "Brazil social security office"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Especialista señala 27 millones sin cobertura previdenciaria",
+        "lead": "En 2024, alrededor de 27 millones de brasileños entre 16 y 59 años carecían de protección previsional, demostrando que tres décadas de reformas no lograron equilibrio fiscal ni inclusión social."
+      },
+      "en": {
+        "titulo": "Specialist points to 27 million lacking pension coverage",
+        "lead": "In 2024, about 27 million Brazilians aged 16 to 59 lacked pension protection, showing that three decades of reforms failed to deliver fiscal balance or social inclusion."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "9126e96f-95c5-4a6a-8d27-a7d9dfc13e93",
     "titulo": "Universidades colombianas entram no top 20 de sustentabilidade",
     "lead": "Universidades da Colômbia chegaram ao top 20 mundial em sustentabilidade, refletindo avanços em gestão ambiental, energia renovável e responsabilidade social, e reforçando o papel do país na agenda verde da educação superior.",
