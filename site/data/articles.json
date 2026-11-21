@@ -1,5 +1,60 @@
 [
   {
+    "id": "b88f249e-49ad-4da0-82b6-9dae856c1134",
+    "titulo": "Cortes de energia atingem Honduras neste sábado",
+    "lead": "Autoridades hondureñas anunciaram interrupções no fornecimento elétrico para todo o país neste sábado, 21 de novembro, deixando milhares de residências e negócios sem luz e gerando preocupação sobre o impacto econômico imediato.",
+    "categoria": "Economia",
+    "pais": "Honduras",
+    "publicado_em": "2026-11-21T02:57:55.249943+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.elheraldo.hn/honduras/cortes-de-energia-honduras-este-sabado-21-de-noviembre-revisa-colonias-afectadas-tegucigalpa-GG32706154",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Tegucigalpa.JPG/1280px-Tegucigalpa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "lugar",
+      "autor": "Wikimedia Commons",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Tegucigalpa.JPG",
+      "entidade": "Tegucigalpa",
+      "verificada_em": "2026-11-21",
+      "photographer": "Wikimedia Commons",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Tegucigalpa.JPG",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Tegucigalpa.JPG",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Tegucigalpa.JPG"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Empresa Nacional de Energía Eléctrica (ENEE)",
+        "Ministério da Energia de Honduras",
+        "Subestação elétrica em Tegucigalpa"
+      ],
+      "lugares": [
+        "Tegucigalpa",
+        "Honduras"
+      ],
+      "palavras_chave": [
+        "Honduras power outage",
+        "Honduras electricity cut",
+        "Honduran power lines"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Cortes de energía afectan a Honduras este sábado",
+        "lead": "Autoridades hondureñas anunciaron interrupciones en el suministro eléctrico para todo el país este sábado 21 de noviembre, dejando a miles de hogares y negocios sin luz y generando preocupación por el impacto económico inmediato."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "8b22f69b-bb0e-488a-8f95-52c8dea882f1",
     "titulo": "Brasil cria Sistema Estratégico de Satélites de Defesa",
     "lead": "Decreto publicado em 17 de novembro oficializa o Sistema de Satélites de Defesa e Comunicações Estratégicas, integrando satélites governamentais e ampliando a capacidade tecnológica nacional.",

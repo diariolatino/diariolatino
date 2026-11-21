@@ -1,0 +1,57 @@
+{
+  "id": "b88f249e-49ad-4da0-82b6-9dae856c1134",
+  "titulo": "Cortes de energia atingem Honduras neste sábado",
+  "lead": "Autoridades hondureñas anunciaram interrupções no fornecimento elétrico para todo o país neste sábado, 21 de novembro, deixando milhares de residências e negócios sem luz e gerando preocupação sobre o impacto econômico imediato.",
+  "corpo": "Milhares de residências e empresas ficarão sem luz neste sábado, 21 de novembro, após anúncios de cortes de energia em todo o país. A medida, divulgada pelas autoridades, será aplicada em diferentes regiões, sem detalhamento prévio de horários específicos.\n\nOs responsáveis ainda não explicaram as razões que motivaram a decisão, embora cortes programados sejam frequentemente associados a manutenção de redes ou a ajustes na geração. A população tem sido orientada a preparar equipamentos de reserva e a reduzir o consumo nos períodos críticos.\n\nCom a economia hondureña já pressionada por inflação e dificuldades de abastecimento, a interrupção pode agravar a situação de pequenos comerciantes e indústrias que dependem de energia contínua. Analistas alertam para possíveis perdas de produção e aumento de custos operacionais nas horas afetadas.\n\nOrganizações de defesa do consumidor pedem maior transparência e comunicação antecipada, enquanto o setor empresarial busca alternativas temporárias, como geradores e baterias. A expectativa é que os cortes sejam limitados a algumas horas, mas a falta de informações detalhadas mantém a população em alerta.\n\nO governo ainda não divulgou um cronograma oficial nem indicou se haverá compensações ou medidas de apoio para os setores mais vulneráveis. A situação será acompanhada de perto pelos meios de comunicação e pelas autoridades reguladoras de energia, que prometem atualizar a população assim que houver novos desdobramentos.",
+  "categoria": "Economia",
+  "pais": "Honduras",
+  "publicado_em": "2026-11-21T02:57:55.249943+00:00",
+  "fontes": [
+    "GDELT"
+  ],
+  "url_fonte_original": "https://www.elheraldo.hn/honduras/cortes-de-energia-honduras-este-sabado-21-de-noviembre-revisa-colonias-afectadas-tegucigalpa-GG32706154",
+  "imagem": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Tegucigalpa.JPG/1280px-Tegucigalpa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "fonte": "Wikimedia Commons",
+    "licenca": "Public domain",
+    "licenca_url": "",
+    "nivel_licenca": "sem_restricoes",
+    "tipo_busca": "lugar",
+    "autor": "Wikimedia Commons",
+    "url_pagina": "https://commons.wikimedia.org/wiki/File:Tegucigalpa.JPG",
+    "entidade": "Tegucigalpa",
+    "verificada_em": "2026-11-21",
+    "photographer": "Wikimedia Commons",
+    "photographer_url": "https://commons.wikimedia.org/wiki/File:Tegucigalpa.JPG",
+    "pexels_url": "https://commons.wikimedia.org/wiki/File:Tegucigalpa.JPG",
+    "fonte_nome": "Wikimedia Commons",
+    "fonte_url": "https://commons.wikimedia.org/wiki/File:Tegucigalpa.JPG"
+  },
+  "imagem_busca": {
+    "entidades": [
+      "Empresa Nacional de Energía Eléctrica (ENEE)",
+      "Ministério da Energia de Honduras",
+      "Subestação elétrica em Tegucigalpa"
+    ],
+    "lugares": [
+      "Tegucigalpa",
+      "Honduras"
+    ],
+    "palavras_chave": [
+      "Honduras power outage",
+      "Honduras electricity cut",
+      "Honduran power lines"
+    ]
+  },
+  "imagem_tentativas": 0,
+  "imagem_ultima_tentativa_em": null,
+  "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+  "traducoes": {
+    "es": {
+      "titulo": "Cortes de energía afectan a Honduras este sábado",
+      "lead": "Autoridades hondureñas anunciaron interrupciones en el suministro eléctrico para todo el país este sábado 21 de noviembre, dejando a miles de hogares y negocios sin luz y generando preocupación por el impacto económico inmediato.",
+      "corpo": "Miles de residencias y empresas se quedarán sin luz este sábado, 21 de noviembre, tras los anuncios de cortes de energía en todo el país. La medida, divulgada por las autoridades, se aplicará en distintas regiones, sin detallar horarios específicos.\n\nLos responsables aún no explican las razones que motivaron la decisión, aunque los cortes programados suelen asociarse a mantenimientos de redes o ajustes en la generación. La población ha sido orientada a preparar equipos de reserva y a reducir el consumo en los periodos críticos.\n\nCon la economía hondureña ya bajo presión por la inflación y dificultades de abastecimiento, la interrupción podría agravar la situación de pequeños comerciantes e industrias que dependen de energía continua. Analistas advierten sobre posibles pérdidas de producción y aumento de costos operativos durante las horas afectadas.\n\nOrganizaciones de defensa del consumidor exigen mayor transparencia y comunicación anticipada, mientras el sector empresarial busca alternativas temporales, como generadores y baterías. Se espera que los cortes sean limitados a algunas horas, pero la falta de información detallada mantiene a la población en alerta.\n\nEl gobierno aún no ha divulgado un cronograma oficial ni ha indicado si habrá compensaciones o medidas de apoyo para los sectores más vulnerables. La situación será seguida de cerca por los medios y las autoridades reguladoras de energía, que prometen actualizar a la población cuando haya nuevos desarrollos."
+    }
+  },
+  "atualizacao_de": null
+}
