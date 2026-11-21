@@ -1,5 +1,61 @@
 [
   {
+    "id": "f969e04a-da3d-4e59-805a-d280b1dd633d",
+    "titulo": "BC do Paraguai denuncia alerta ignorado na falência do Ueno",
+    "lead": "O presidente do Banco Central do Paraguai afirmou que alertas prévios foram desconsiderados, contribuindo para a quebra do Ueno Bank, um caso que reacende o debate sobre a supervisão financeira no país.",
+    "categoria": "Economia",
+    "pais": "Paraguai",
+    "publicado_em": "2026-11-21T10:26:26.084271+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.prensalibre.com/internacional/banco-central-de-paraguay-presidente-afirma-que-se-ignoraron-alertas-antes-de-la-quiebra-de-ueno-bank/",
+    "imagem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Yes_concert_2010-12-01_%285253585821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC BY 2.0",
+      "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+      "nivel_licenca": "cc_by",
+      "tipo_busca": "entidade",
+      "autor": "lett -/\\= from Luque, Paraguay",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Yes_concert_2010-12-01_(5253585821).jpg",
+      "entidade": "Banco Central del Paraguay",
+      "verificada_em": "2026-11-21",
+      "photographer": "lett -/\\= from Luque, Paraguay",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Yes_concert_2010-12-01_(5253585821).jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Yes_concert_2010-12-01_(5253585821).jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Yes_concert_2010-12-01_(5253585821).jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Banco Central del Paraguay",
+        "Ueno Bank",
+        "Presidente del Banco Central del Paraguay"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Paraguay central bank building",
+        "Ueno Bank collapse",
+        "Paraguay financial district"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "BC de Paraguay denuncia alerta ignorado en la quiebra del Ueno",
+        "lead": "El presidente del Banco Central de Paraguay declaró que se ignoraron alertas previas, lo que contribuyó al colapso del Ueno Bank, reavivando el debate sobre la supervisión financiera en el país."
+      },
+      "en": {
+        "titulo": "Paraguay Central Bank cites ignored alert before Ueno Bank collapse",
+        "lead": "The president of Paraguay's Central Bank said prior alerts were ignored, contributing to the Ueno Bank failure, reigniting debate over financial supervision in the country."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "b88f249e-49ad-4da0-82b6-9dae856c1134",
     "titulo": "Cortes de energia atingem Honduras neste sábado",
     "lead": "Autoridades hondureñas anunciaram interrupções no fornecimento elétrico para todo o país neste sábado, 21 de novembro, deixando milhares de residências e negócios sem luz e gerando preocupação sobre o impacto econômico imediato.",
