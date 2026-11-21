@@ -1,5 +1,47 @@
 [
   {
+    "id": "9126e96f-95c5-4a6a-8d27-a7d9dfc13e93",
+    "titulo": "Universidades colombianas entram no top 20 de sustentabilidade",
+    "lead": "Universidades da Colômbia chegaram ao top 20 mundial em sustentabilidade, refletindo avanços em gestão ambiental, energia renovável e responsabilidade social, e reforçando o papel do país na agenda verde da educação superior.",
+    "categoria": "Ciência & Ambiente",
+    "pais": "Colômbia",
+    "publicado_em": "2026-11-21T17:45:13.225377+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "http://hsbnoticias.com/noticias/universidades-colombianas-ingresan-al-top-20-de-sostenibilidad",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/23732423/pexels-photo-23732423.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "K",
+      "photographer_url": "https://www.pexels.com/@kelly",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/aerial-view-of-the-federal-university-of-rio-de-janeiro-23732423/"
+    },
+    "imagem_busca": {
+      "entidades": [],
+      "lugares": [],
+      "palavras_chave": [
+        "Colombian university sustainability campus",
+        "green university campus Colombia",
+        "Latin America higher education sustainability"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Universidades colombianas ingresan al top 20 de sostenibilidad",
+        "lead": "Universidades de Colombia alcanzaron el top 20 mundial en sostenibilidad, reflejando avances en gestión ambiental, energía renovable y responsabilidad social, y reforzando el papel del país en la agenda verde de la educación superior."
+      },
+      "en": {
+        "titulo": "Colombian universities enter top 20 sustainability ranking",
+        "lead": "Colombian universities reached the world top 20 in sustainability, reflecting advances in environmental management, renewable energy and social responsibility, and reinforcing the country's role in the higher‑education green agenda."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "f969e04a-da3d-4e59-805a-d280b1dd633d",
     "titulo": "BC do Paraguai denuncia alerta ignorado na falência do Ueno",
     "lead": "O presidente do Banco Central do Paraguai afirmou que alertas prévios foram desconsiderados, contribuindo para a quebra do Ueno Bank, um caso que reacende o debate sobre a supervisão financeira no país.",
