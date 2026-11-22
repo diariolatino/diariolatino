@@ -1,5 +1,64 @@
 [
   {
+    "id": "9a9b5b45-6887-4aa3-9fdc-a110d8db1db4",
+    "titulo": "Ex-juiz e ex-militares integraram rede de narcotráfico Rompeolas",
+    "lead": "Autoridades revelaram que um ex-juiz, um ex-regidor municipal e ex-militares estão ligados à rede criminosa Rompeolas, ampliando o alerta sobre a infiltração de agentes públicos no tráfico de drogas na América Latina.",
+    "categoria": "Segurança",
+    "pais": "América Latina",
+    "publicado_em": "2026-11-22T23:03:36.096512+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://eldia.com.do/exjuez-exregidor-y-exmilitares-figuran-en-red-de-narcotrafico-rompeolas/",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Orquestra_Ligeira_do_Ex%C3%A9rcito_2.jpg/1280px-Orquestra_Ligeira_do_Ex%C3%A9rcito_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC0",
+      "licenca_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "Joseolgon",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Orquestra_Ligeira_do_Ex%C3%A9rcito_2.jpg",
+      "entidade": "Exército",
+      "verificada_em": "2026-11-22",
+      "photographer": "Joseolgon",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Orquestra_Ligeira_do_Ex%C3%A9rcito_2.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Orquestra_Ligeira_do_Ex%C3%A9rcito_2.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Orquestra_Ligeira_do_Ex%C3%A9rcito_2.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Polícia Federal",
+        "Tribunal de Justiça",
+        "Exército"
+      ],
+      "lugares": [
+        "Comissariado Central",
+        "Montevidéu"
+      ],
+      "palavras_chave": [
+        "ex-juiz prisão tráfico de drogas América Latina",
+        "investigação rede criminosa Rompeolas",
+        "autoridades policiais operação"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Exjuez y exmilitares integran red de narcotráfico Rompeolas",
+        "lead": "Autoridades revelaron que un exjuez, un exregidor municipal y exmilitares están vinculados a la red criminal Rompeolas, ampliando la alerta sobre la infiltración de agentes públicos en el narcotráfico en América Latina."
+      },
+      "en": {
+        "titulo": "Former Judge and Ex-Military Joined Rompeolas Drug Network",
+        "lead": "Authorities disclosed that a former judge, a former municipal councilor and ex‑military personnel are linked to the criminal organization Rompeolas, raising alarms about public‑official infiltration in drug trafficking across Latin America."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "c613d115-e7f8-4b89-8018-5ae62299530e",
     "titulo": "Senado aprova ajuste fiscal e rejeita emendas",
     "lead": "O Senado Federal aprovou o ajuste fiscal que pode gerar até R$ 56 bilhões de economia em 2027, ao mesmo tempo em que descartou três propostas da oposição, incluindo mudanças na Lei Kandir.",
