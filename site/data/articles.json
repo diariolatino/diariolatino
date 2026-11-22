@@ -1,5 +1,61 @@
 [
   {
+    "id": "d7478ff1-1a3b-4e72-99ea-5e44d3122cbb",
+    "titulo": "Milhares protestam contra reforma tributária na Colômbia",
+    "lead": "Cidadãos colombianos tomam as ruas em várias cidades para rejeitar a proposta de reforma tributária do governo de Abelardo de la Espriella, temendo aumento de impostos.",
+    "categoria": "Política",
+    "pais": "Colômbia",
+    "publicado_em": "2026-11-22T02:48:34.770771+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.elpinguino.com/internacional/miles-de-personas-marchan-en-colombia-contra-la-reforma-tributaria-del-gobierno-de-abelardo-de-la-espriella/",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Foto_antigua_del_Palacio_de_Nari%C3%B1o.jpg/1280px-Foto_antigua_del_Palacio_de_Nari%C3%B1o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "Unknown author Unknown author",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Foto_antigua_del_Palacio_de_Nari%C3%B1o.jpg",
+      "entidade": "Palacio de Nariño",
+      "verificada_em": "2026-11-22",
+      "photographer": "Unknown author Unknown author",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Foto_antigua_del_Palacio_de_Nari%C3%B1o.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Foto_antigua_del_Palacio_de_Nari%C3%B1o.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Foto_antigua_del_Palacio_de_Nari%C3%B1o.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Protestantes na Colômbia",
+        "Polícia Nacional da Colômbia",
+        "Palacio de Nariño"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Colombia tax reform protest",
+        "Colombia protest crowd",
+        "Bogota protest"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Miles de personas marchan contra la reforma tributaria en Colombia",
+        "lead": "Ciudadanos colombianos toman las calles en varias ciudades para rechazar la propuesta de reforma tributaria del gobierno de Abelardo de la Espriella, temiendo un aumento de impuestos."
+      },
+      "en": {
+        "titulo": "Thousands protest Colombia tax reform",
+        "lead": "Colombian citizens take to the streets in multiple cities to reject President Abelardo de la Espriella's tax reform proposal, fearing higher taxes."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "f8d3d1bd-9caa-4c2b-ad5f-1f1e04c833f9",
     "titulo": "Especialista aponta 27 milhões sem cobertura previdenciária",
     "lead": "Em 2024, cerca de 27 milhões de brasileiros entre 16 e 59 anos estavam sem proteção previdenciária, revelando que três décadas de reformas não garantiram equilíbrio fiscal nem inclusão social.",
