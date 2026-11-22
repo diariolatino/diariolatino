@@ -1,5 +1,64 @@
 [
   {
+    "id": "c613d115-e7f8-4b89-8018-5ae62299530e",
+    "titulo": "Senado aprova ajuste fiscal e rejeita emendas",
+    "lead": "O Senado Federal aprovou o ajuste fiscal que pode gerar até R$ 56 bilhões de economia em 2027, ao mesmo tempo em que descartou três propostas da oposição, incluindo mudanças na Lei Kandir.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-22T18:01:13.243829+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-rejeita-mudancas-no-texto-e-aprova-ajuste-fiscal-do-governo",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Congresso_Nacional_Bras%C3%ADlia.jpg/1280px-Congresso_Nacional_Bras%C3%ADlia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "Fbaraglia",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Congresso_Nacional_Bras%C3%ADlia.jpg",
+      "entidade": "Congresso Nacional",
+      "verificada_em": "2026-11-22",
+      "photographer": "Fbaraglia",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Congresso_Nacional_Bras%C3%ADlia.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Congresso_Nacional_Bras%C3%ADlia.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Congresso_Nacional_Bras%C3%ADlia.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Plenário do Senado Federal",
+        "Senador Eduardo Braga",
+        "Congresso Nacional"
+      ],
+      "lugares": [
+        "Plenário do Senado, Brasília",
+        "Congresso Nacional, Brasília"
+      ],
+      "palavras_chave": [
+        "Brazil Senate fiscal adjustment vote",
+        "Brazil Senate plenary",
+        "Brazil government budget meeting"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Senado aprueba ajuste fiscal y rechaza enmiendas",
+        "lead": "El Senado Federal aprobó el ajuste fiscal que puede generar hasta 56 mil millones de reales en 2027, al tiempo que descartó tres propuestas de la oposición, incluidas cambios en la Ley Kandir."
+      },
+      "en": {
+        "titulo": "Senate approves fiscal adjustment and rejects amendments",
+        "lead": "Brazil's Senate approved a fiscal adjustment that could generate up to 56 billion reais in savings in 2027, while discarding three opposition proposals, including changes to the Kandir Law."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "83658de1-9f43-4928-8f8f-9914420d49d8",
     "titulo": "Bolsonaro internado em UTI por abdômen agudo",
     "lead": "Jair Bolsonaro, ex‑presidente em prisão domiciliar, foi admitido na UTI do Hospital DF Star, em Brasília, com diagnóstico de abdômen agudo obstrutivo, permanecendo consciente e estável.",
