@@ -1,5 +1,61 @@
 [
   {
+    "id": "83658de1-9f43-4928-8f8f-9914420d49d8",
+    "titulo": "Bolsonaro internado em UTI por abdômen agudo",
+    "lead": "Jair Bolsonaro, ex‑presidente em prisão domiciliar, foi admitido na UTI do Hospital DF Star, em Brasília, com diagnóstico de abdômen agudo obstrutivo, permanecendo consciente e estável.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-22T10:30:22.643070+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ex-presidente-jair-bolsonaro-esta-internado-em-uti-no-distrito-federal",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Surgeons_operate_on_a_patient_at_the_363rd_Tactical_Hospital_during_the_multinational_joint_service_Exercise_Bright_Star_%2785_DF-ST-86-07989.jpg/1280px-Surgeons_operate_on_a_patient_at_the_363rd_Tactical_Hospital_during_the_multinational_joint_service_Exercise_Bright_Star_%2785_DF-ST-86-07989.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "Staff Sgt. David Nolan",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Surgeons_operate_on_a_patient_at_the_363rd_Tactical_Hospital_during_the_multinational_joint_service_Exercise_Bright_Star_%2785_DF-ST-86-07989.jpg",
+      "entidade": "Hospital DF Star",
+      "verificada_em": "2026-11-22",
+      "photographer": "Staff Sgt. David Nolan",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Surgeons_operate_on_a_patient_at_the_363rd_Tactical_Hospital_during_the_multinational_joint_service_Exercise_Bright_Star_%2785_DF-ST-86-07989.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Surgeons_operate_on_a_patient_at_the_363rd_Tactical_Hospital_during_the_multinational_joint_service_Exercise_Bright_Star_%2785_DF-ST-86-07989.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Surgeons_operate_on_a_patient_at_the_363rd_Tactical_Hospital_during_the_multinational_joint_service_Exercise_Bright_Star_%2785_DF-ST-86-07989.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Jair Bolsonaro",
+        "Hospital DF Star",
+        "Supremo Tribunal Federal"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Jair Bolsonaro hospital Brasília",
+        "Hospital DF Star intensive care",
+        "Brazil former president medical emergency"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Bolsonaro internado en UCI por abdomen agudo",
+        "lead": "Jair Bolsonaro, ex presidente bajo arresto domiciliario, fue ingresado en la UCI del Hospital DF Star en Brasilia con diagnóstico de abdomen agudo obstructivo, permaneciendo consciente y estable."
+      },
+      "en": {
+        "titulo": "Bolsonaro hospitalized in ICU for acute abdomen",
+        "lead": "Jair Bolsonaro, former president under house arrest, was admitted to the ICU at Hospital DF Star in Brasília with a diagnosis of acute obstructive abdomen, remaining conscious and stable."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "d7478ff1-1a3b-4e72-99ea-5e44d3122cbb",
     "titulo": "Milhares protestam contra reforma tributária na Colômbia",
     "lead": "Cidadãos colombianos tomam as ruas em várias cidades para rejeitar a proposta de reforma tributária do governo de Abelardo de la Espriella, temendo aumento de impostos.",
