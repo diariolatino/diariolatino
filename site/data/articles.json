@@ -1,5 +1,63 @@
 [
   {
+    "id": "8b593791-9407-46d5-ac46-22f48686a3b0",
+    "titulo": "Lula garante direitos e reafirma controle fiscal como prioridade",
+    "lead": "Em cerimônia no Palácio do Planalto, o presidente Lula afirmou que não haverá retrocesso nos direitos sociais e que o controle das contas públicas permanecerá como prioridade ao assinar o decreto da jornada 5x2.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-23T13:51:11.224628+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-promete-manter-direitos-e-diz-que-controle-fiscal-e-prioridade",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Obras_de_constru%C3%A7%C3%A3o_de_Bras%C3%ADlia_-_Pal%C3%A1cio_da_Alvorada_%281%29.jpg/1280px-Obras_de_constru%C3%A7%C3%A3o_de_Bras%C3%ADlia_-_Pal%C3%A1cio_da_Alvorada_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "lugar",
+      "autor": "Wikimedia Commons",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Obras_de_constru%C3%A7%C3%A3o_de_Bras%C3%ADlia_-_Pal%C3%A1cio_da_Alvorada_(1).jpg",
+      "entidade": "Brasília",
+      "verificada_em": "2026-11-23",
+      "photographer": "Wikimedia Commons",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Obras_de_constru%C3%A7%C3%A3o_de_Bras%C3%ADlia_-_Pal%C3%A1cio_da_Alvorada_(1).jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Obras_de_constru%C3%A7%C3%A3o_de_Bras%C3%ADlia_-_Pal%C3%A1cio_da_Alvorada_(1).jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Obras_de_constru%C3%A7%C3%A3o_de_Bras%C3%ADlia_-_Pal%C3%A1cio_da_Alvorada_(1).jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Luiz Inácio Lula da Silva",
+        "Palácio do Planalto"
+      ],
+      "lugares": [
+        "Palácio do Planalto, Brasília",
+        "Brasília"
+      ],
+      "palavras_chave": [
+        "Brazil President Lula signing decree at Planalto Palace",
+        "Brazil Planalto Palace ceremony",
+        "Brazil government meeting"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Lula asegura derechos y reafirma control fiscal como prioridad",
+        "lead": "En una ceremonia en el Palacio del Planalto, el presidente Lula declaró que no habrá retroceso en los derechos sociales y que el control de las cuentas públicas seguirá siendo prioritario al firmar el decreto de la jornada 5x2."
+      },
+      "en": {
+        "titulo": "Lula guarantees rights and reaffirms fiscal control as priority",
+        "lead": "In a ceremony at the Planalto Palace, President Lula said there will be no rollback of social rights and that fiscal control will remain a priority as he signs the 5x2 work‑week decree."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "5cc0c746-94ae-4547-8ee8-5b12199ca310",
     "titulo": "Atualização: Bolsonaro permanece em UTI sem alta prevista",
     "lead": "O ex‑presidente Jair Bolsonaro continua internado no Hospital DF Star, em Brasília, sem previsão de alta, enquanto o STF autoriza visita de seus filhos ao leito.",
