@@ -1,5 +1,61 @@
 [
   {
+    "id": "5cc0c746-94ae-4547-8ee8-5b12199ca310",
+    "titulo": "Atualização: Bolsonaro permanece em UTI sem alta prevista",
+    "lead": "O ex‑presidente Jair Bolsonaro continua internado no Hospital DF Star, em Brasília, sem previsão de alta, enquanto o STF autoriza visita de seus filhos ao leito.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-23T03:36:14.315069+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-segue-internado-na-uti-sem-previsao-de-alta",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Pr%C3%A9dio_do_Supremo_Tribunal_Federal_%28Brasilia%29.jpg/1280px-Pr%C3%A9dio_do_Supremo_Tribunal_Federal_%28Brasilia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "Alex Pereira",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Pr%C3%A9dio_do_Supremo_Tribunal_Federal_(Brasilia).jpg",
+      "entidade": "Supremo Tribunal Federal",
+      "verificada_em": "2026-11-23",
+      "photographer": "Alex Pereira",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Pr%C3%A9dio_do_Supremo_Tribunal_Federal_(Brasilia).jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Pr%C3%A9dio_do_Supremo_Tribunal_Federal_(Brasilia).jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Pr%C3%A9dio_do_Supremo_Tribunal_Federal_(Brasilia).jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Jair Bolsonaro",
+        "Hospital DF Star",
+        "Supremo Tribunal Federal"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Jair Bolsonaro hospital Brasília",
+        "Brazil former president ICU",
+        "Hospital DF Star interior"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Actualización: Bolsonaro sigue en UTI sin alta prevista",
+        "lead": "El ex presidente Jair Bolsonaro continúa internado en el Hospital DF Star de Brasilia sin fecha de alta, mientras el STF autoriza la visita de sus hijos a su cama."
+      },
+      "en": {
+        "titulo": "Update: Bolsonaro Remains in ICU with No Discharge Forecast",
+        "lead": "Former president Jair Bolsonaro stays hospitalized at Brasília’s Hospital DF Star with no discharge date, as Brazil’s Supreme Court permits his children to visit him."
+      }
+    },
+    "atualizacao_de": "83658de1-9f43-4928-8f8f-9914420d49d8"
+  },
+  {
     "id": "9a9b5b45-6887-4aa3-9fdc-a110d8db1db4",
     "titulo": "Ex-juiz e ex-militares integraram rede de narcotráfico Rompeolas",
     "lead": "Autoridades revelaram que um ex-juiz, um ex-regidor municipal e ex-militares estão ligados à rede criminosa Rompeolas, ampliando o alerta sobre a infiltração de agentes públicos no tráfico de drogas na América Latina.",
