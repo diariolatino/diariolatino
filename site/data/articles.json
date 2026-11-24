@@ -1,5 +1,64 @@
 [
   {
+    "id": "76cda269-7126-4e35-8505-de89c4928697",
+    "titulo": "Caixa paga 19 milhões de famílias com NIS 3‑0",
+    "lead": "A Caixa Econômica Federal liberou nesta quarta‑feira a parcela de outubro do Bolsa Família para 19,07 milhões de famílias cujo NIS termina de 3 a 0, totalizando gasto de R$ 14,88 bilhões.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-24T01:22:32.489652+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/bolsa-familia-caixa-paga-beneficiarios-com-nis-de-final-3-0",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Senado_Federal_do_Brasil_Fotos_produzidas_pelo_Senado_%2816446786380%29.jpg/1280px-Senado_Federal_do_Brasil_Fotos_produzidas_pelo_Senado_%2816446786380%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC BY 2.0",
+      "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+      "nivel_licenca": "cc_by",
+      "tipo_busca": "entidade",
+      "autor": "Senado Federal",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Senado_Federal_do_Brasil_Fotos_produzidas_pelo_Senado_(16446786380).jpg",
+      "entidade": "Caixa Econômica Federal headquarters",
+      "verificada_em": "2026-11-24",
+      "photographer": "Senado Federal",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Senado_Federal_do_Brasil_Fotos_produzidas_pelo_Senado_(16446786380).jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Senado_Federal_do_Brasil_Fotos_produzidas_pelo_Senado_(16446786380).jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Senado_Federal_do_Brasil_Fotos_produzidas_pelo_Senado_(16446786380).jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Caixa Econômica Federal headquarters",
+        "Caixa Tem mobile app screen",
+        "Bolsa Família logo"
+      ],
+      "lugares": [
+        "Caixa Econômica Federal – Agência Central, Brasília",
+        "São Paulo – agência da Caixa"
+      ],
+      "palavras_chave": [
+        "Caixa Econômica Federal payment office Brazil",
+        "Bolsa Família beneficiaries Brazil",
+        "Brazil social program payment"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Caixa paga 19 millones de familias con NIS 3‑0",
+        "lead": "La Caixa Económica Federal liberó este miércoles la cuota de octubre del Bolsa Família para 19,07 millones de familias cuyo NIS termina en 3 a 0, con un gasto total de 14,88 mil millones de reales."
+      },
+      "en": {
+        "titulo": "Caixa pays 19 million families with NIS 3‑0",
+        "lead": "Caixa Econômica Federal released on Wednesday the October installment of Bolsa Família for 19.07 million families whose NIS ends in 3 to 0, amounting to a total outlay of R$ 14.88 billion."
+      }
+    },
+    "atualizacao_de": "6c812c07-2f5c-4135-b611-ff3aeeb52abb"
+  },
+  {
     "id": "8b593791-9407-46d5-ac46-22f48686a3b0",
     "titulo": "Lula garante direitos e reafirma controle fiscal como prioridade",
     "lead": "Em cerimônia no Palácio do Planalto, o presidente Lula afirmou que não haverá retrocesso nos direitos sociais e que o controle das contas públicas permanecerá como prioridade ao assinar o decreto da jornada 5x2.",
