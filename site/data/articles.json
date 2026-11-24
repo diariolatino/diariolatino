@@ -1,5 +1,63 @@
 [
   {
+    "id": "ec0d3aa0-c0a5-49fb-ab3a-44c9a7daf95b",
+    "titulo": "Explosão na Governadoria de Meta deixa 21 feridos",
+    "lead": "Uma explosão atingiu a sede da Gobernación del Meta, em Villavicencio, deixando 21 pessoas feridas e provocando pânico na capital do departamento colombiano da região.",
+    "categoria": "Segurança",
+    "pais": "Colômbia",
+    "publicado_em": "2026-11-24T11:15:32.368469+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.pulzo.com/nacion/ataque-con-explosivos-en-gobernacion-de-meta-21-heridos-en-villavicencio-colombia-PP5362739A",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/American_Eagle_CC_Viva_Villavicencio_Great_Jeans.jpg/1280px-American_Eagle_CC_Viva_Villavicencio_Great_Jeans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC0",
+      "licenca_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "lugar",
+      "autor": "Orchid Kid",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:American_Eagle_CC_Viva_Villavicencio_Great_Jeans.jpg",
+      "entidade": "Centro de Villavicencio",
+      "verificada_em": "2026-11-24",
+      "photographer": "Orchid Kid",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:American_Eagle_CC_Viva_Villavicencio_Great_Jeans.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:American_Eagle_CC_Viva_Villavicencio_Great_Jeans.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:American_Eagle_CC_Viva_Villavicencio_Great_Jeans.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Gobernación del Meta (edifício)",
+        "Polícia Nacional da Colômbia"
+      ],
+      "lugares": [
+        "Gobernación del Meta, Villavicencio",
+        "Centro de Villavicencio"
+      ],
+      "palavras_chave": [
+        "Gobernación del Meta Villavicencio explosion",
+        "Villavicencio Colombia building damage",
+        "Colombia emergency response"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Explosión en la Gobernación de Meta deja 21 heridos",
+        "lead": "Una explosión alcanzó la sede de la Gobernación del Meta, en Villavicencio, dejando 21 personas heridas y provocando pánico en la capital del departamento colombiano de la región."
+      },
+      "en": {
+        "titulo": "Explosion at Meta Governor's Office Leaves 21 Injured",
+        "lead": "An explosion hit the seat of the Gobernación del Meta in Villavicencio, leaving 21 people injured and causing panic in the department's capital in the region."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "76cda269-7126-4e35-8505-de89c4928697",
     "titulo": "Caixa paga 19 milhões de famílias com NIS 3‑0",
     "lead": "A Caixa Econômica Federal liberou nesta quarta‑feira a parcela de outubro do Bolsa Família para 19,07 milhões de famílias cujo NIS termina de 3 a 0, totalizando gasto de R$ 14,88 bilhões.",
