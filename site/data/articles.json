@@ -1,5 +1,62 @@
 [
   {
+    "id": "0c480c9f-76ea-49d8-9481-de4b323d8804",
+    "titulo": "EUA bloqueiam pedido do Brasil para painel na OMC contra tarifas",
+    "lead": "O Brasil tentou abrir um painel na Organização Mundial do Comércio para contestar tarifas impostas pelos EUA, mas a proposta foi rejeitada pelos americanos.",
+    "categoria": "Mundo",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-24T21:27:34.454737+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.correiodopovo.com.br/not%C3%ADcias/mundo/eua-barram-pedido-do-brasil-para-abertura-de-painel-na-omc-contra-tarifas-1.1767342",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/CAE_-_Comiss%C3%A3o_de_Assuntos_Econ%C3%B4micos_%2830000035652%29.jpg/1280px-CAE_-_Comiss%C3%A3o_de_Assuntos_Econ%C3%B4micos_%2830000035652%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC BY 2.0",
+      "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+      "nivel_licenca": "cc_by",
+      "tipo_busca": "entidade",
+      "autor": "Senado Federal",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:CAE_-_Comiss%C3%A3o_de_Assuntos_Econ%C3%B4micos_(30000035652).jpg",
+      "entidade": "Banco Central do Brasil",
+      "verificada_em": "2026-11-24",
+      "photographer": "Senado Federal",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:CAE_-_Comiss%C3%A3o_de_Assuntos_Econ%C3%B4micos_(30000035652).jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:CAE_-_Comiss%C3%A3o_de_Assuntos_Econ%C3%B4micos_(30000035652).jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:CAE_-_Comiss%C3%A3o_de_Assuntos_Econ%C3%B4micos_(30000035652).jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Brasil",
+        "Estados Unidos",
+        "OMC",
+        "Banco Central do Brasil"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Brazil trade dispute",
+        "US Brazil tariffs",
+        "World Trade Organization panel"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "EEUU bloquea solicitud de Brasil para panel en la OMC contra tarifas",
+        "lead": "Brasil intentó abrir un panel en la Organización Mundial del Comercio para impugnar tarifas impuestas por EEUU, pero la propuesta fue rechazada por los estadounidenses."
+      },
+      "en": {
+        "titulo": "US blocks Brazil's request for WTO panel on tariffs",
+        "lead": "Brazil sought to open a World Trade Organization panel to challenge tariffs imposed by the US, but the proposal was rejected by the Americans."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "ec0d3aa0-c0a5-49fb-ab3a-44c9a7daf95b",
     "titulo": "Explosão na Governadoria de Meta deixa 21 feridos",
     "lead": "Uma explosão atingiu a sede da Gobernación del Meta, em Villavicencio, deixando 21 pessoas feridas e provocando pânico na capital do departamento colombiano da região.",
