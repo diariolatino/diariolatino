@@ -1,5 +1,66 @@
 [
   {
+    "id": "a1ca70bc-f370-4d99-9a56-7772026cdd1e",
+    "titulo": "Inventário reúne 150 projetos de hidrógeno verde no Cono Sur",
+    "lead": "Um levantamento recém‑lançado lista 150 iniciativas de hidrógeno verde em Argentina, Chile, Uruguai, Paraguai e Bolívia, sinalizando impulso à energia limpa e à competitividade da região.",
+    "categoria": "Ciência & Ambiente",
+    "pais": "América Latina",
+    "publicado_em": "2026-11-25T04:27:49.906403+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.parlamentario.com/2026/11/24/presentan-un-inventario-que-releva-150-proyectos-de-hidrogeno-verde-en-el-cono-sur/",
+    "imagem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Argentina_se_incorpora_a_la_Agencia_de_Energ%C3%ADa_Nuclear_y_el_Banco_de_Datos_del_Consejo_de_la_OCDE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC BY 2.0",
+      "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+      "nivel_licenca": "cc_by",
+      "tipo_busca": "entidade",
+      "autor": "Cancillería Argentina - Eduardo Soteras Jalil",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Argentina_se_incorpora_a_la_Agencia_de_Energ%C3%ADa_Nuclear_y_el_Banco_de_Datos_del_Consejo_de_la_OCDE.jpg",
+      "entidade": "Ministerio de Energía de Argentina",
+      "verificada_em": "2026-11-25",
+      "photographer": "Cancillería Argentina - Eduardo Soteras Jalil",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Argentina_se_incorpora_a_la_Agencia_de_Energ%C3%ADa_Nuclear_y_el_Banco_de_Datos_del_Consejo_de_la_OCDE.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Argentina_se_incorpora_a_la_Agencia_de_Energ%C3%ADa_Nuclear_y_el_Banco_de_Datos_del_Consejo_de_la_OCDE.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Argentina_se_incorpora_a_la_Agencia_de_Energ%C3%ADa_Nuclear_y_el_Banco_de_Datos_del_Consejo_de_la_OCDE.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Ministerio de Energía de Chile",
+        "Ministerio de Energía de Argentina",
+        "Banco Central de Argentina"
+      ],
+      "lugares": [
+        "Santiago",
+        "Buenos Aires",
+        "Montevideo"
+      ],
+      "palavras_chave": [
+        "hidrógeno verde",
+        "projetos de hidrógeno",
+        "Cono Sur",
+        "energia renovável"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Inventario reúne 150 proyectos de hidrógeno verde en el Cono Sur",
+        "lead": "Un nuevo levantamiento lista 150 iniciativas de hidrógeno verde en Argentina, Chile, Uruguay, Paraguay y Bolivia, señalando impulso a la energía limpia y la competitividad de la región."
+      },
+      "en": {
+        "titulo": "Inventory lists 150 green hydrogen projects in the Southern Cone",
+        "lead": "A new survey catalogs 150 green hydrogen initiatives across Argentina, Chile, Uruguay, Paraguay, and Bolivia, signaling a push for clean energy and regional competitiveness."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "0c480c9f-76ea-49d8-9481-de4b323d8804",
     "titulo": "EUA bloqueiam pedido do Brasil para painel na OMC contra tarifas",
     "lead": "O Brasil tentou abrir um painel na Organização Mundial do Comércio para contestar tarifas impostas pelos EUA, mas a proposta foi rejeitada pelos americanos.",
