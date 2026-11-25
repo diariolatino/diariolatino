@@ -1,5 +1,64 @@
 [
   {
+    "id": "79f8a2e2-25c5-41ec-9175-977adf79ecbd",
+    "titulo": "Brasil rejeita novo tarifaço dos EUA sobre aviões e açúcar",
+    "lead": "Os Estados Unidos anunciaram, nesta quarta (25), a proposta de tarifas de 10% sobre aviões prontos e sobre açúcar brasileiro; o governo de Lula classificou a medida como pressão e garantiu que não cederá.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-25T23:27:33.389051+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brasil-critica-possivel-novo-tarifaco-dos-eua-e-diz-que-nao-cedera",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/U.S._Department_of_Agriculture_%28USDA%29_Secretary_Sonny_Perdue_meets_with_U.S._Trade_Representative_%28USTR%29_Robert_E._Lighthizer%2C_in_Washington%2C_D.C.%2C_on_Dec_17%2C_2018.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "U.S. Department of Agriculture",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:U.S._Department_of_Agriculture_(USDA)_Secretary_Sonny_Perdue_meets_with_U.S._Trade_Representative_(USTR)_Robert_E._Lighthizer,_in_Washington,_D.C.,_on_Dec_17,_2018.jpg",
+      "entidade": "Jamieson Greer",
+      "verificada_em": "2026-11-25",
+      "photographer": "U.S. Department of Agriculture",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:U.S._Department_of_Agriculture_(USDA)_Secretary_Sonny_Perdue_meets_with_U.S._Trade_Representative_(USTR)_Robert_E._Lighthizer,_in_Washington,_D.C.,_on_Dec_17,_2018.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:U.S._Department_of_Agriculture_(USDA)_Secretary_Sonny_Perdue_meets_with_U.S._Trade_Representative_(USTR)_Robert_E._Lighthizer,_in_Washington,_D.C.,_on_Dec_17,_2018.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:U.S._Department_of_Agriculture_(USDA)_Secretary_Sonny_Perdue_meets_with_U.S._Trade_Representative_(USTR)_Robert_E._Lighthizer,_in_Washington,_D.C.,_on_Dec_17,_2018.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Jamieson Greer",
+        "Presidência da República (Palácio do Planalto)",
+        "Ministério das Relações Exteriores (Itamaraty)"
+      ],
+      "lugares": [
+        "Palácio do Planalto, Brasília",
+        "Itamaraty, Brasília"
+      ],
+      "palavras_chave": [
+        "Brazil aircraft factory tariff",
+        "Jamieson Greer US Trade Representative meeting Brazil",
+        "Brazil President Lula trade negotiation with US"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Brasil rechaza nuevo tarifazo de EE.UU. sobre aviones y azúcar",
+        "lead": "Estados Unidos propuso, este miércoles 25, tarifas del 10% a aviones listos y al azúcar brasileño; el gobierno de Lula calificó la medida como presión y aseguró que no cederá."
+      },
+      "en": {
+        "titulo": "Brazil Rejects New US Tariff on Aircraft and Sugar",
+        "lead": "The United States announced on Wednesday (Nov 25) a proposal to impose 10% tariffs on ready‑made aircraft and Brazilian sugar; Lula’s government called the move pressure and vowed not to yield."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "0ab55a4c-65f1-435d-bf30-b69f9725532b",
     "titulo": "Milei nombra nuevo funcionario en Capital Humano",
     "lead": "El presidente argentino designó a un nuevo encargado del Ministerio de Capital Humano, reforzando su agenda de reformas en el sector público.",
