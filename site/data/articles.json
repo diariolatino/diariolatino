@@ -1,5 +1,61 @@
 [
   {
+    "id": "0ab55a4c-65f1-435d-bf30-b69f9725532b",
+    "titulo": "Milei nombra nuevo funcionario en Capital Humano",
+    "lead": "El presidente argentino designó a un nuevo encargado del Ministerio de Capital Humano, reforzando su agenda de reformas en el sector público.",
+    "categoria": "Política",
+    "pais": "Argentina",
+    "publicado_em": "2026-11-25T14:46:40.351654+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "http://diariojornada.com.ar/427671/politica/milei_designo_a_un_nuevo_funcionario_en_capital_humano",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Junaid_Abdur_Rahim_Saki_at_Human_Capital_4.0_event%2C_Bangladesh_Innovation_Fair%2C_Dhaka%2C_2026-09-14.jpg/1280px-Junaid_Abdur_Rahim_Saki_at_Human_Capital_4.0_event%2C_Bangladesh_Innovation_Fair%2C_Dhaka%2C_2026-09-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "Press Information Department",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Junaid_Abdur_Rahim_Saki_at_Human_Capital_4.0_event,_Bangladesh_Innovation_Fair,_Dhaka,_2026-09-14.jpg",
+      "entidade": "Ministry of Human Capital",
+      "verificada_em": "2026-11-25",
+      "photographer": "Press Information Department",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Junaid_Abdur_Rahim_Saki_at_Human_Capital_4.0_event,_Bangladesh_Innovation_Fair,_Dhaka,_2026-09-14.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Junaid_Abdur_Rahim_Saki_at_Human_Capital_4.0_event,_Bangladesh_Innovation_Fair,_Dhaka,_2026-09-14.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Junaid_Abdur_Rahim_Saki_at_Human_Capital_4.0_event,_Bangladesh_Innovation_Fair,_Dhaka,_2026-09-14.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "President Javier Milei",
+        "Ministry of Human Capital",
+        "Parliament of Argentina"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Milei",
+        "Capital Humano",
+        "Argentina"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Milei nombra nuevo funcionario en Capital Humano",
+        "lead": "El presidente argentino designó a un nuevo encargado del Ministerio de Capital Humano, reforzando su agenda de reformas en el sector público."
+      },
+      "en": {
+        "titulo": "Milei Appoints New Official in Human Capital Ministry",
+        "lead": "Argentine President Javier Milei has appointed a new head for the Human Capital Ministry, bolstering his public sector reform agenda."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "a1ca70bc-f370-4d99-9a56-7772026cdd1e",
     "titulo": "Inventário reúne 150 projetos de hidrógeno verde no Cono Sur",
     "lead": "Um levantamento recém‑lançado lista 150 iniciativas de hidrógeno verde em Argentina, Chile, Uruguai, Paraguai e Bolívia, sinalizando impulso à energia limpa e à competitividade da região.",
