@@ -1,5 +1,57 @@
 [
   {
+    "id": "c672ee9a-aaac-4088-9959-2f98fd066c64",
+    "titulo": "Paraguai acusa Santiago Peña de lavagem e cohecho",
+    "lead": "Autoridades paraguaias formalizaram denúncia contra Santiago Peña, apontando suspeita de lavagem de dinheiro e pagamento de suborno, gerando turbulência política ao envolver o presidente eleito em grave escândalo.",
+    "categoria": "Política",
+    "pais": "Paraguai",
+    "publicado_em": "2026-11-26T05:16:48.735924+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.lostiempos.com/actualidad/mundo/20261124/paraguay-acusan-santiago-pena-lavado-activos-cohecho",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Foro_Madrid_Asunci%C3%B3n_2025_-_54593067178.jpg/1280px-Foro_Madrid_Asunci%C3%B3n_2025_-_54593067178.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC0",
+      "licenca_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "Vox España",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Foro_Madrid_Asunci%C3%B3n_2025_-_54593067178.jpg",
+      "entidade": "Santiago Peña",
+      "verificada_em": "2026-11-26",
+      "photographer": "Vox España",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Foro_Madrid_Asunci%C3%B3n_2025_-_54593067178.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Foro_Madrid_Asunci%C3%B3n_2025_-_54593067178.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Foro_Madrid_Asunci%C3%B3n_2025_-_54593067178.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Santiago Peña",
+        "Tribunal Supremo de Justicia del Paraguay",
+        "Palacio de los López"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Santiago Peña Paraguay court",
+        "Paraguay political scandal",
+        "Paraguay justice building"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Paraguay acusa a Santiago Peña de lavado y cohecho",
+        "lead": "Autoridades paraguayas presentaron una denuncia contra Santiago Peña, señalando sospechas de lavado de dinero y pago de soborno, generando turbulencia política al involucrar al presidente electo en un grave escándalo."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "79f8a2e2-25c5-41ec-9175-977adf79ecbd",
     "titulo": "Brasil rejeita novo tarifaço dos EUA sobre aviões e açúcar",
     "lead": "Os Estados Unidos anunciaram, nesta quarta (25), a proposta de tarifas de 10% sobre aviões prontos e sobre açúcar brasileiro; o governo de Lula classificou a medida como pressão e garantiu que não cederá.",

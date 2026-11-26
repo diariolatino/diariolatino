@@ -1,0 +1,54 @@
+{
+  "id": "c672ee9a-aaac-4088-9959-2f98fd066c64",
+  "titulo": "Paraguai acusa Santiago Peña de lavagem e cohecho",
+  "lead": "Autoridades paraguaias formalizaram denúncia contra Santiago Peña, apontando suspeita de lavagem de dinheiro e pagamento de suborno, gerando turbulência política ao envolver o presidente eleito em grave escândalo.",
+  "corpo": "A acusação de lavagem de ativos e cohecho contra Santiago Peña sacudiu o cenário político paraguaio, colocando em xeque a integridade do futuro presidente do país. A denúncia foi apresentada por procuradores nacionais, que alegam que o político teria participado de esquemas de movimentação ilícita de recursos e oferecido subornos a agentes públicos. \n\nSegundo o Ministério Público, as investigações identificaram indícios de que fundos provenientes de empresas ligadas ao setor privado foram canalizados por intermédio de contas offshore, configurando prática de lavagem de dinheiro. Paralelamente, documentos apreendidos apontariam pagamentos irregulares a funcionários do governo em troca de favores. \n\nA defesa de Peña ainda não se manifestou oficialmente, mas o caso já mobiliza partidos e organizações da sociedade civil, que cobram transparência e rapidez no julgamento. Analistas políticos alertam que o processo pode influenciar a agenda legislativa e a confiança nas instituições, sobretudo em um período de transição de governo. \n\nCaso as acusações se confirmem, Peña poderá enfrentar penas de prisão e a perda de direitos políticos, além de possíveis sanções ao seu partido. O judiciário paraguaio deve analisar a denúncia nas próximas semanas, definindo se há mérito suficiente para levar o caso a tribunal. Enquanto isso, a população acompanha o desenrolar do escândalo, que pode redefinir o panorama da política nacional.",
+  "categoria": "Política",
+  "pais": "Paraguai",
+  "publicado_em": "2026-11-26T05:16:48.735924+00:00",
+  "fontes": [
+    "GDELT"
+  ],
+  "url_fonte_original": "https://www.lostiempos.com/actualidad/mundo/20261124/paraguay-acusan-santiago-pena-lavado-activos-cohecho",
+  "imagem": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Foro_Madrid_Asunci%C3%B3n_2025_-_54593067178.jpg/1280px-Foro_Madrid_Asunci%C3%B3n_2025_-_54593067178.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "fonte": "Wikimedia Commons",
+    "licenca": "CC0",
+    "licenca_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "nivel_licenca": "sem_restricoes",
+    "tipo_busca": "entidade",
+    "autor": "Vox España",
+    "url_pagina": "https://commons.wikimedia.org/wiki/File:Foro_Madrid_Asunci%C3%B3n_2025_-_54593067178.jpg",
+    "entidade": "Santiago Peña",
+    "verificada_em": "2026-11-26",
+    "photographer": "Vox España",
+    "photographer_url": "https://commons.wikimedia.org/wiki/File:Foro_Madrid_Asunci%C3%B3n_2025_-_54593067178.jpg",
+    "pexels_url": "https://commons.wikimedia.org/wiki/File:Foro_Madrid_Asunci%C3%B3n_2025_-_54593067178.jpg",
+    "fonte_nome": "Wikimedia Commons",
+    "fonte_url": "https://commons.wikimedia.org/wiki/File:Foro_Madrid_Asunci%C3%B3n_2025_-_54593067178.jpg"
+  },
+  "imagem_busca": {
+    "entidades": [
+      "Santiago Peña",
+      "Tribunal Supremo de Justicia del Paraguay",
+      "Palacio de los López"
+    ],
+    "lugares": [],
+    "palavras_chave": [
+      "Santiago Peña Paraguay court",
+      "Paraguay political scandal",
+      "Paraguay justice building"
+    ]
+  },
+  "imagem_tentativas": 0,
+  "imagem_ultima_tentativa_em": null,
+  "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+  "traducoes": {
+    "es": {
+      "titulo": "Paraguay acusa a Santiago Peña de lavado y cohecho",
+      "lead": "Autoridades paraguayas presentaron una denuncia contra Santiago Peña, señalando sospechas de lavado de dinero y pago de soborno, generando turbulencia política al involucrar al presidente electo en un grave escándalo.",
+      "corpo": "La acusación de lavado de activos y cohecho contra Santiago Peña sacudió el escenario político paraguayo, poniendo en entredicho la integridad del futuro presidente del país. La denuncia fue presentada por fiscales nacionales, que alegan que el político habría participado en esquemas de movimiento ilícito de recursos y ofrecido sobornos a funcionarios públicos.\n\nSegún el Ministerio Público, las investigaciones identificaron indicios de que fondos provenientes de empresas vinculadas al sector privado fueron canalizados a través de cuentas offshore, configurando una práctica de lavado de dinero. Paralelamente, documentos incautados señalarían pagos irregulares a funcionarios del gobierno a cambio de favores.\n\nLa defensa de Peña aún no se ha pronunciado oficialmente, pero el caso ya moviliza a partidos y organizaciones de la sociedad civil, que exigen transparencia y celeridad en el juicio. Analistas políticos advierten que el proceso podría influir en la agenda legislativa y la confianza en las instituciones, sobre todo en un período de transición gubernamental.\n\nDe confirmarse las acusaciones, Peña podría enfrentar penas de prisión y la pérdida de derechos políticos, además de posibles sanciones a su partido. El poder judicial paraguayo deberá analizar la denuncia en las próximas semanas, definiendo si hay mérito suficiente para llevar el caso a tribunal. Mientras tanto, la población sigue de cerca el desarrollo del escándalo, que podría redefinir el panorama político nacional."
+    }
+  },
+  "atualizacao_de": null
+}
