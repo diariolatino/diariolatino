@@ -1,5 +1,50 @@
 [
   {
+    "id": "97f7c3f5-f279-4707-9342-7ca72fd702c4",
+    "titulo": "Polícia confirma 76 reféns em supermercado de Cartagena",
+    "lead": "A polícia colombiana confirmou que 76 pessoas foram mantidas como reféns durante a ocupação de um supermercado em Cartagena, gerando alerta de segurança e mobilizando forças de resposta.",
+    "categoria": "Segurança",
+    "pais": "Colômbia",
+    "publicado_em": "2026-11-26T15:33:21.713049+00:00",
+    "fontes": [
+      "GDELT"
+    ],
+    "url_fonte_original": "https://www.teletica.com/internacional/policia-de-colombia-revela-que-hubo-76-rehenes-en-la-toma-de-un-supermercado-en-cartagena_421885",
+    "imagem": {
+      "url": "https://images.pexels.com/photos/27825955/pexels-photo-27825955.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+      "photographer": "pierre matile",
+      "photographer_url": "https://www.pexels.com/@open-borders",
+      "fonte_nome": "Pexels",
+      "fonte_url": "https://www.pexels.com/photo/city-view-27825955/"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Supermercado en Cartagena",
+        "Policía Nacional de Colombia"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Cartagena supermarket hostage situation",
+        "Colombia police hostage incident",
+        "Cartagena supermarket"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Policía confirma 76 rehenes en supermercado de Cartagena",
+        "lead": "La policía colombiana confirmó que 76 personas fueron retenidas como rehenes durante la ocupación de un supermercado en Cartagena, generando alerta de seguridad y movilizando fuerzas de respuesta."
+      },
+      "en": {
+        "titulo": "Police confirm 76 hostages in Cartagena supermarket",
+        "lead": "Colombian police confirmed that 76 people were held as hostages during the takeover of a supermarket in Cartagena, triggering a security alert and mobilising response forces."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "c672ee9a-aaac-4088-9959-2f98fd066c64",
     "titulo": "Paraguai acusa Santiago Peña de lavagem e cohecho",
     "lead": "Autoridades paraguaias formalizaram denúncia contra Santiago Peña, apontando suspeita de lavagem de dinheiro e pagamento de suborno, gerando turbulência política ao envolver o presidente eleito em grave escândalo.",
