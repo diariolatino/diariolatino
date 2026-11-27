@@ -1,5 +1,64 @@
 [
   {
+    "id": "23b35c94-f7d5-4e54-b5cd-8421ab7f5029",
+    "titulo": "COP31 encerra sem acordo, primeiro impasse desde 2009",
+    "lead": "A Conferência das Nações Unidas sobre Mudança do Clima, realizada em Antalya, Turquia, terminou sem documento final, revivendo o impasse de 2009 e gerando críticas de ambientalistas e da UE.",
+    "categoria": "Ciência & Ambiente",
+    "pais": "América Latina",
+    "publicado_em": "2026-11-27T00:01:23.175331+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/cop-nao-terminava-sem-acordo-desde-2009",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_%2833736285084%29.jpg/1280px-CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_%2833736285084%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC BY 2.0",
+      "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+      "nivel_licenca": "cc_by",
+      "tipo_busca": "entidade",
+      "autor": "Senado Federal",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_(33736285084).jpg",
+      "entidade": "Greenpeace Brasil",
+      "verificada_em": "2026-11-27",
+      "photographer": "Senado Federal",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_(33736285084).jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_(33736285084).jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_(33736285084).jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Centro de Convenções de Antalya",
+        "Organização das Nações Unidas (ONU)",
+        "Greenpeace Brasil"
+      ],
+      "lugares": [
+        "Centro de Convenções de Antalya",
+        "Antalya, Turquia"
+      ],
+      "palavras_chave": [
+        "COP31 Antalya Turkey climate conference",
+        "Antalya climate summit 2026",
+        "United Nations climate conference 2026"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "COP31 cierra sin acuerdo, primer estancamiento desde 2009",
+        "lead": "La Conferencia de las Naciones Unidas sobre Cambio Climático, celebrada en Antalya, Turquía, concluyó sin documento final, reviviendo el estancamiento de 2009 y generando críticas de ambientalistas y la UE."
+      },
+      "en": {
+        "titulo": "COP31 ends without agreement, first deadlock since 2009",
+        "lead": "The United Nations Climate Change Conference held in Antalya, Turkey, concluded without a final document, reviving the 2009 deadlock and drawing criticism from environmental groups and the EU."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "97f7c3f5-f279-4707-9342-7ca72fd702c4",
     "titulo": "Polícia confirma 76 reféns em supermercado de Cartagena",
     "lead": "A polícia colombiana confirmou que 76 pessoas foram mantidas como reféns durante a ocupação de um supermercado em Cartagena, gerando alerta de segurança e mobilizando forças de resposta.",
