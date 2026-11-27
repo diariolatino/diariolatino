@@ -1,5 +1,61 @@
 [
   {
+    "id": "ab6d5097-f8a4-4527-97ad-12fd58efe0d1",
+    "titulo": "Noboa busca consolidar poder em eleições com oposição silenciada",
+    "lead": "Neste domingo, 13,8 milhões de equatorianos vão às urnas em uma votação regional que pode reforçar o presidente Daniel Noboa, enquanto a principal força oposicionista permanece impedida de concorrer.",
+    "categoria": "Política",
+    "pais": "Equador",
+    "publicado_em": "2026-11-27T16:12:52.286377+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/equador-noboa-tenta-se-consolidar-em-eleicao-com-oposicao-reduzida",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/REUNI%C3%93N_CON_STEVEN_MACKINNON%2C_MINISTRO_DE_ASUNTOS_PARLAMENTARIOS%2C_05_DE_MARZO_DE_2024.jpg/1280px-REUNI%C3%93N_CON_STEVEN_MACKINNON%2C_MINISTRO_DE_ASUNTOS_PARLAMENTARIOS%2C_05_DE_MARZO_DE_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "Public domain",
+      "licenca_url": "",
+      "nivel_licenca": "sem_restricoes",
+      "tipo_busca": "entidade",
+      "autor": "Presidencia de la República del Ecuador",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:REUNI%C3%93N_CON_STEVEN_MACKINNON,_MINISTRO_DE_ASUNTOS_PARLAMENTARIOS,_05_DE_MARZO_DE_2024.jpg",
+      "entidade": "Daniel Noboa",
+      "verificada_em": "2026-11-27",
+      "photographer": "Presidencia de la República del Ecuador",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:REUNI%C3%93N_CON_STEVEN_MACKINNON,_MINISTRO_DE_ASUNTOS_PARLAMENTARIOS,_05_DE_MARZO_DE_2024.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:REUNI%C3%93N_CON_STEVEN_MACKINNON,_MINISTRO_DE_ASUNTOS_PARLAMENTARIOS,_05_DE_MARZO_DE_2024.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:REUNI%C3%93N_CON_STEVEN_MACKINNON,_MINISTRO_DE_ASUNTOS_PARLAMENTARIOS,_05_DE_MARZO_DE_2024.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Daniel Noboa",
+        "Rafael Correa",
+        "Conselho Nacional Eleitoral"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Ecuador election Daniel Noboa November 2026",
+        "Ecuador voting stations Quito",
+        "Ecuador political protest 2026"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Noboa busca consolidar poder en elecciones con oposición silenciada",
+        "lead": "Este domingo, 13,8 millones de ecuatorianos acudirán a las urnas en una votación regional que podría reforzar al presidente Daniel Noboa, mientras la principal fuerza oposicionista permanece impedida de competir."
+      },
+      "en": {
+        "titulo": "Noboa seeks to consolidate power in elections with silenced opposition",
+        "lead": "This Sunday, 13.8 million Ecuadorians will head to the polls in a regional vote that could strengthen President Daniel Noboa, while the main opposition force remains barred from running."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "37081240-a0cf-4832-ad17-b70c1c064b91",
     "titulo": "Trabuco aceita cargo de Fazenda; mercado vibra",
     "lead": "Lula nomeou o banqueiro Luiz Carlos Trabuco Cappi, de 75 anos, para liderar o Ministério da Fazenda a partir de 2027, gerando elogios de políticos e alta de 6% na bolsa brasileira.",
