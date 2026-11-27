@@ -1,5 +1,61 @@
 [
   {
+    "id": "37081240-a0cf-4832-ad17-b70c1c064b91",
+    "titulo": "Trabuco aceita cargo de Fazenda; mercado vibra",
+    "lead": "Lula nomeou o banqueiro Luiz Carlos Trabuco Cappi, de 75 anos, para liderar o Ministério da Fazenda a partir de 2027, gerando elogios de políticos e alta de 6% na bolsa brasileira.",
+    "categoria": "Economia",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-27T06:03:53.113772+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/veja-repercussao-da-escolha-de-trabuco-para-o-ministerio-da-fazenda",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Planalto_panorama.jpg/1280px-Planalto_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC BY 2.0",
+      "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+      "nivel_licenca": "cc_by",
+      "tipo_busca": "entidade",
+      "autor": "Michel Temer",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:Planalto_panorama.jpg",
+      "entidade": "Palácio do Planalto",
+      "verificada_em": "2026-11-27",
+      "photographer": "Michel Temer",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:Planalto_panorama.jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:Planalto_panorama.jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:Planalto_panorama.jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Luiz Carlos Trabuco Cappi",
+        "Palácio do Planalto",
+        "Banco Central do Brasil"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Luiz Carlos Trabuco Cappi Brazil finance minister appointment",
+        "Brazil Ministry of Finance building",
+        "Brazil financial market rally"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Trabuco asume la Fazenda; mercado reacciona",
+        "lead": "Lula nombró al banquero Luiz Carlos Trabuco Cappi, de 75 años, para dirigir el Ministerio de Hacienda a partir de 2027, generando elogios de políticos y una alza del 6% en la bolsa brasileña."
+      },
+      "en": {
+        "titulo": "Trabuco Takes Finance Ministry; Market Reacts",
+        "lead": "Lula appointed banker Luiz Carlos Trabuco Cappi, 75, to lead the Ministry of Finance from 2027, prompting political praise and a 6% surge in Brazil's stock market."
+      }
+    },
+    "atualizacao_de": null
+  },
+  {
     "id": "23b35c94-f7d5-4e54-b5cd-8421ab7f5029",
     "titulo": "COP31 encerra sem acordo, primeiro impasse desde 2009",
     "lead": "A Conferência das Nações Unidas sobre Mudança do Clima, realizada em Antalya, Turquia, terminou sem documento final, revivendo o impasse de 2009 e gerando críticas de ambientalistas e da UE.",
