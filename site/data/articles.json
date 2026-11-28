@@ -1,5 +1,63 @@
 [
   {
+    "id": "051acc86-b670-490e-886f-3de7afe23d61",
+    "titulo": "Senado tipifica fraude contábil após escândalo das Americanas",
+    "lead": "A Comissão de Constituição e Justiça do Senado aprovou, nesta quarta (25), projeto que cria crime de fraude contábil com pena de até seis anos, visando coibir fraudes como a que abalou as Lojas Americanas.",
+    "categoria": "Política",
+    "pais": "Brasil",
+    "publicado_em": "2026-11-28T08:14:48.339965+00:00",
+    "fontes": [
+      "Agência Brasil"
+    ],
+    "url_fonte_original": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/efeito-americanas-ccj-do-senado-tipifica-crime-de-fraude-contabil",
+    "imagem": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_%2852735247533%29.jpg/1280px-CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_%2852735247533%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fonte": "Wikimedia Commons",
+      "licenca": "CC BY 2.0",
+      "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+      "nivel_licenca": "cc_by",
+      "tipo_busca": "entidade",
+      "autor": "Agência Senado from Brasilia, Brazil",
+      "url_pagina": "https://commons.wikimedia.org/wiki/File:CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_(52735247533).jpg",
+      "entidade": "Senadora Augusta Brito",
+      "verificada_em": "2026-11-28",
+      "photographer": "Agência Senado from Brasilia, Brazil",
+      "photographer_url": "https://commons.wikimedia.org/wiki/File:CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_(52735247533).jpg",
+      "pexels_url": "https://commons.wikimedia.org/wiki/File:CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_(52735247533).jpg",
+      "fonte_nome": "Wikimedia Commons",
+      "fonte_url": "https://commons.wikimedia.org/wiki/File:CDH_-_Comiss%C3%A3o_de_Direitos_Humanos_e_Legisla%C3%A7%C3%A3o_Participativa_(52735247533).jpg"
+    },
+    "imagem_busca": {
+      "entidades": [
+        "Senadora Augusta Brito",
+        "Comissão de Constituição e Justiça do Senado",
+        "Senado Federal do Brasil"
+      ],
+      "lugares": [],
+      "palavras_chave": [
+        "Brazil Senate CCJ meeting",
+        "Senator Augusta Brito Brazil",
+        "Brazil Senate chamber"
+      ]
+    },
+    "imagem_tentativas": 0,
+    "imagem_ultima_tentativa_em": null,
+    "selo_ia": "Conteúdo redigido com auxílio de inteligência artificial, a partir de fontes verificadas",
+    "traducoes": {
+      "es": {
+        "titulo": "Senado tipifica fraude contable tras escándalo de Americanas",
+        "lead": "La Comisión de Constitución y Justicia del Senado aprobó este miércoles (25) un proyecto que crea el delito de fraude contable con pena de hasta seis años, para frenar fraudes como el que sacudió a las Lojas Americanas.",
+        "cuerpo": "Prisión de dos a seis años, más multa, ahora está prevista para quien falsifique la contabilidad o presente documentos falsos a auditorías independientes de empresas cotizadas en bolsa. El texto, presentado por la senadora Augusta Brito (PT-CE), también permite que el juez aumente la pena hasta el doble, considerando el tamaño de los perjuicios, la ventaja ilícita obtenida y el número de víctimas.\n\nLa medida fue aprobada por la Comisión de Constitución y Justicia (CCJ) del Senado en carácter terminativo, lo que elimina la necesidad de votación en el pleno y envía el proyecto directamente a la Cámara de Diputados, salvo posible recurso de senadores. El relator, senador Oriovisto Guimarães (PSDB-PR), subrayó la urgencia de cubrir lagunas penales que dejaron a inversores y trabajadores desprotegidos durante el escándalo de Lojas Americanas.\n\nEl caso, investigado por la Policía Federal, señaló fraudes contables estimados en 54 mil millones de reales, que ocultaron la verdadera situación financiera de la empresa y provocaron una caída abrupta de sus acciones. Augusta Brito argumentó que la ausencia de tipos penales específicos para delitos cometidos en los mercados de capitales dificultó el castigo de conductas preliminares que culminaron en graves daños sociales.\n\nCon la aprobación del PL 2.091, el legislativo brasileño busca reforzar la confianza en el mercado financiero y evitar nuevas manipulaciones que puedan perjudicar a miles de inversores y trabajadores en todo el país."
+      },
+      "en": {
+        "title": "Senate criminalizes accounting fraud after Americanas scandal",
+        "lead": "The Senate's Constitution and Justice Committee approved on Wednesday (Nov 25) a bill creating the crime of accounting fraud with up to six years in prison, aiming to curb schemes like the one that hit Lojas Americanas.",
+        "body": "A prison term of two to six years, plus a fine, is now prescribed for anyone who falsifies accounting records or submits false documents to independent auditors of listed companies. The text, introduced by Senator Augusta Brito (PT‑CE), also allows a judge to double the penalty based on the magnitude of losses, illicit gains and the number of victims.\n\nThe measure was passed by the Senate's Constitution and Justice Committee (CCJ) in a terminative manner, bypassing a full‑chamber vote and sending the proposal straight to the Chamber of Deputies unless senators file an appeal. Reporter Senator Oriovisto Guimarães (PSDB‑PR) stressed the urgency of filling legal gaps that left investors and workers unprotected during the Lojas Americanas scandal.\n\nThe case, investigated by the Federal Police, uncovered accounting fraud estimated at R$ 54 billion, which masked the company's true financial health and triggered a sharp plunge in its stock price. Brito argued that the lack of specific penal provisions for market‑related crimes hampered punishment of preliminary actions that caused severe social damage.\n\nWith the approval of PL 2.091, Brazil's legislature seeks to bolster confidence in the financial market and prevent future manipulations that could harm thousands of investors and employees nationwide."
+      }
+    },
+    "atualizacao_de": "9126e96f-95c5-4a6a-8d27-a7d9dfc13e93"
+  },
+  {
     "id": "ef9a29a3-57ee-42fd-9bd7-571e47295de3",
     "titulo": "Brasil busca levar Mercosul ao Caribe e América Central",
     "lead": "Na cúpula de Montevidéu, o governo brasileiro anunciou que pretende ampliar o bloco para os mercados do Caribe e da América Central, destacando acordos com Guiana e Suriname, as economias que mais crescem no mundo.",
